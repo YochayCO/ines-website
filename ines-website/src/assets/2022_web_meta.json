@@ -1,13 +1,13 @@
 {
-    "ID": "B",
-    "Demography": {
+    "id": "B",
+    "demography": {
         "Age Group": "H",
         "Sex": "I",
         "Education": "J",
         "Religiousness": "K",
-        "sector": "ED"
+        "Sector": "ED"
     },
-    "Weights": {
+    "weights": {
         "all": {
             "pre": "w_panel1",
             "post": "w_panel2"
@@ -21,7 +21,7 @@
             "post": "w_arabs_panel2"
         }
     },
-    "Questions": {
+    "questions": {
         "V52A": {
             "column": "BH",
             "description": "What is your attitude toward each of the following people? / Benjamin Netanyahu",
