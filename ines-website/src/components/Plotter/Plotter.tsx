@@ -1,21 +1,36 @@
-import { useState } from 'react'
-import QuestionSelect from '../QuestionSelect/QuestionSelect'
+import { useEffect, useState } from 'react'
 import map from 'lodash/map'
+import QuestionSelect from '../QuestionSelect/QuestionSelect'
 
 import { QuestionItem, SurveyMetadata } from '../../assets/2022_web_meta'
-import ExampleSurveyMeta from '../../assets/2022_web_meta.json'
+import EXAMPLE_SURVEY_META from '../../assets/2022_web_meta.json'
+import SURVEY_PEOPLE_DATA_EXAMPLE from '../../assets/2022_web_people.json'
+import { PersonData } from '../../assets/2022_web_people'
 
 import './Plotter.css'
 
-// TODO: replace ExampleSurveyMeta with a more robust "survey selector"
-const SurveyMeta = ExampleSurveyMeta as SurveyMetadata
+// TODO: replace examples with actual fetch actions
+const surveyMeta = EXAMPLE_SURVEY_META as SurveyMetadata
+const surveyPeople = SURVEY_PEOPLE_DATA_EXAMPLE as PersonData[]
 
 function Plotter() {
   // x & y are the column letters of the selected questions
   const [x, setX] = useState('')
   const [y, setY] = useState('')
+  const [peopleData, setPeopleData] = useState<PersonData[]>([])
 
-  const allQuestionItems: QuestionItem[] = map(SurveyMeta.questions, (qi) => qi)
+  useEffect(() => {
+    // If one of the columns is unselected, remove the current graph
+    if (!x || !y) {
+      !!peopleData && setPeopleData([])
+      return
+    }
+
+    // TODO: fetch real data
+    setPeopleData(surveyPeople)
+  }, [x,y])
+
+  const allQuestionItems: QuestionItem[] = map(surveyMeta.questions, (qi) => qi)
   const quantityQuestionItems: QuestionItem[] = allQuestionItems.filter((qi) => qi.type == 'quantity')
   
   return (
@@ -34,8 +49,7 @@ function Plotter() {
         questionItems={quantityQuestionItems}
       />
       {/* TODO: Graph will appear here */}
-      X column: {x}
-      Y column: {y}
+      People Data: {peopleData?.length}
     </>
   )
 }
