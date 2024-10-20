@@ -11,7 +11,7 @@ import './Plotter.css'
 const SurveyMeta = ExampleSurveyMeta as SurveyMetadata
 
 function Plotter() {
-  // x & y are the column letters of the selected questions
+  // x & y are the column titles of the selected questions
   const [x, setX] = useState('')
   const [y, setY] = useState('')
 

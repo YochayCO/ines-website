@@ -1,5 +1,5 @@
 export interface QuestionItemBase {
-    column: string;
+    column: string; // TODO: column title or name, as written in survey table
     description: string;
     type: "quantity" | "category";
 }

@@ -1,11 +1,11 @@
 {
     "id": "B",
     "demography": {
-        "Age Group": "H",
-        "Sex": "I",
-        "Education": "J",
-        "Religiousness": "K",
-        "Sector": "ED"
+        "Age Group": "age_group",
+        "Sex": "sex",
+        "Education": "educ",
+        "Religiousness": "v144",
+        "Sector": "v143_code"
     },
     "weights": {
         "all": {
@@ -23,7 +23,7 @@
     },
     "questions": {
         "V52A": {
-            "column": "BH",
+            "column": "v52a",
             "description": "What is your attitude toward each of the following people? / Benjamin Netanyahu",
             "type": "quantity",
             "range": {
@@ -32,7 +32,7 @@
             }
         },
         "V111": {
-            "column": "CJ",
+            "column": "v111",
             "description": "Where would you rank yourself along a left-right continuum, where 1 is the right end and 7 is the left end?",
             "type": "quantity",
             "range": {
@@ -41,7 +41,7 @@
             }
         },
         "V706": {
-            "column": "CI",
+            "column": "v706",
             "description": "What party list did you vote for in the last Knesset election, held a year ago, in March 2021?",
             "type": "category",
             "values": {

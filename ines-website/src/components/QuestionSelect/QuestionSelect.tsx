@@ -15,8 +15,8 @@ interface QuestionSelectProps {
 }
 
 // A Select component for selecting a single question from a bunch of questions
-function QuestionSelect({ inputLabel, value, onChange, questionItems: questions }: QuestionSelectProps) {
-  const questionItems = map(questions, ({ column, description }) => {
+function QuestionSelect({ inputLabel, value, onChange, questionItems }: QuestionSelectProps) {
+  const questionMenuItems = map(questionItems, ({ column, description }: QuestionItem) => {
     return <MenuItem value={column} key={column}>{description}</MenuItem>
   })
   const handleChange = (event: SelectChangeEvent) => onChange(event.target.value as string)
@@ -27,7 +27,7 @@ function QuestionSelect({ inputLabel, value, onChange, questionItems: questions 
         <InputLabel>{inputLabel}</InputLabel>
         <Select value={value} onChange={handleChange}>
           <MenuItem value=''><em>{inputLabel}</em></MenuItem>
-          {questionItems}
+          {questionMenuItems}
         </Select>
       </FormControl>
     </>
