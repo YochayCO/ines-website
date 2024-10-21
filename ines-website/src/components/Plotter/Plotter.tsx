@@ -38,6 +38,9 @@ function Plotter() {
   // Temporary. TODO remove
   const xExampleQuestionItems = allQuestionItems.filter(qi => qi.column === 'v52a')
   const yExampleQuestionItems = quantityQuestionItems.filter(qi => qi.column === 'v111')
+
+  const xQuestionItem = allQuestionItems.find(qi => qi.column === x)
+  const yQuestionItem = quantityQuestionItems.find(qi => qi.column === y)
   
   return (
     <>
@@ -55,10 +58,8 @@ function Plotter() {
         questionItems={yExampleQuestionItems}
       />
       {graphData && <BoxChart
-        // x={x}
-        // y={y}
-        width={800} 
-        height={400}
+        xTitle={xQuestionItem?.description || x}
+        yTitle={yQuestionItem?.description || y}
         data={graphData}
         chartType='quantity'
       />}

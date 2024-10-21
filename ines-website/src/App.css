@@ -13,3 +13,9 @@
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
+.recharts-label {
+  font-size: 18px;
+  font-weight: bold;
+  fill: rgb(136, 132, 216);
+}
