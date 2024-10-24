@@ -1,0 +1,47 @@
+Key,Value
+Demography.Age Group,H
+Demography.Sex,I
+Demography.Education,J
+Demography.Religiousness,K
+Demography.sector,ED
+Weights.all.pre,w_panel1
+Weights.all.post,w_panel2
+Weights.jews.pre,w_jews_panel1
+Weights.jews.post,w_jews_panel2
+Weights.arabs.pre,w_arabs_panel1
+Weights.arabs.post,w_arabs_panel2
+Questions.V52A.column,BH
+Questions.V52A.description,What is your attitude toward each of the following people? / Benjamin Netanyahu
+Questions.V52A.type,quantity
+Questions.V52A.range.0,rejection/hatred
+Questions.V52A.range.10,support/sympathy
+Questions.V111.column,CJ
+Questions.V111.description,"There is much talk about left and right in politics. Where would you rank yourself along a left-right continuum, where 1 is the right end and 7 is the left end?"
+Questions.V111.type,quantity
+Questions.V111.range.1,Right
+Questions.V111.range.7,Left
+Questions.V706.column,CI
+Questions.V706.description,"What party list did you vote for in the last Knesset election, held a year ago, in March 2021?"
+Questions.V706.type,category
+Questions.V706.values.1,Likud (Benjamin Netanyahu)
+Questions.V706.values.2,Kahol-Lavan (Benny Gantz)
+Questions.V706.values.3,Yesh Atid (Yair Lapid)
+Questions.V706.values.4,Tikva Hadasha (Gideon Sa’ar)
+Questions.V706.values.5,HaAvoda (Merav Michaeli)
+Questions.V706.values.6,Meretz (Nitzan Horowitz)
+Questions.V706.values.7,Yamina (Naftali Bennett)
+Questions.V706.values.8,Hatzionut Hadatit (Bezalel Smotrich & Itamar Ben-Gvir)
+Questions.V706.values.9,Shas (Aryeh Deri)
+Questions.V706.values.10,Yisrael Beitenu (Avigdor Lieberman)
+Questions.V706.values.11,Yahadut HaTorah (Agudat Israel Degel HaTorah) (Yakov Litzman)
+Questions.V706.values.12,HaReshima HaMeshutefet (Joint List) (Hadash-Ta’al-Ra’am-Balad) (Ayman Odeh)
+Questions.V706.values.13,Ra’am (Mansour Abbas)
+Questions.V706.values.14,Other (specify): ___________
+Questions.V706.values.15,Didn’t vote despite being eligible
+Questions.V706.values.16,Didn’t vote because I wasn’t eligible
+Questions.V706.values.17,Bank Ballot
+Questions.V706.values.18,No response / Doesn’t know / Not remember
+Questions.V706.values.19,Refuses to answer
+Questions.V706.special_responses.Other,[14]
+Questions.V706.special_responses.No vote,"[15, 16, 17]"
+Questions.V706.special_responses.No Response,"[18, 19]"
