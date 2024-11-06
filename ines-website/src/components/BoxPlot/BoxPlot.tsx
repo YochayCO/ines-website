@@ -1,72 +1,111 @@
-import {
-    ResponsiveContainer,
-    ComposedChart,
-    Bar,
-    XAxis,
-    YAxis,
-    CartesianGrid,
-} from "recharts";
-import HorizonBar from "./HorizonBar";
-import DotBar from "./DotBar";
-import { GroupBoxProps } from "../../utils/boxplot";
+import { ResponsiveBoxPlot } from '@nivo/boxplot' 
+import { LegendProps } from '@nivo/legends';
 
-
-// Used in stacked bar graph
-type BoxPlotData = {
-    group: string;
-    min: number;
-    bottomWhisker: number;
-    bottomBox: number;
-    topBox: number;
-    topWhisker: number;
-    average?: number;
-    size: number; // for average group size
-};
-
-const useBoxPlot = (boxes: GroupBoxProps[]): BoxPlotData[] => {
-    return boxes.map((v) => {
-        return {
-            group: v.group,
-            min: v.min,
-            bottomWhisker: v.q1 - v.min,
-            bottomBox: v.median - v.q1,
-            topBox: v.q3 - v.median,
-            topWhisker: v.max - v.q3,
-            average: v.average,
-            size: v.size,
-        }
-    })
-}
+import './BoxPlot.css'
 
 interface BoxPlotProps { 
-    boxes: GroupBoxProps[];
-    onBoxClick: (group: string) => void;
+    data: { group: string; value: number }[];
+    groups: string[];
+    chartType: 'quantity' | 'category';
+    onBoxClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BoxPlot({ boxes, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
-    const boxPlotsData = useBoxPlot(boxes);
-    const handleBoxClick = (data: BoxPlotData) => {
-        onBoxClick(data.group)
+export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
+    const handleBoxClick = (box: { group: string }) => {
+        onBoxClick?.(box.group)
     }
-    
+
+    // TODO: If there are multiple groups - make more legends. If not - remove
+    const legends: LegendProps[] = [
+        {
+            anchor: 'right' as const,
+            direction: 'column' as const,
+            justify: false,
+            translateX: 100,
+            translateY: 0,
+            itemWidth: 60,
+            itemHeight: 20,
+            itemsSpacing: 3,
+            itemTextColor: '#999',
+            itemDirection: 'left-to-right' as const,
+            symbolSize: 20,
+            symbolShape: 'square' as const,
+            effects: [
+                {
+                    on: 'hover' as const,
+                    style: {
+                        itemTextColor: '#000'
+                    }
+                }
+            ]
+        }
+    ];
+
     return (
-        <ResponsiveContainer>
-            <ComposedChart data={boxPlotsData} margin={{ bottom: 20, left: 20 }}>
-                <CartesianGrid strokeDasharray="3 3" />
-                <Bar stackId={"a"} dataKey={"min"} fill={"none"} />
-                <Bar stackId={"a"} dataKey={"bar"} shape={<HorizonBar />} />
-                <Bar stackId={"a"} dataKey={"bottomWhisker"} shape={<DotBar />} />
-                <Bar stackId={"a"} dataKey={"bottomBox"} fill="#8884d8" onClick={handleBoxClick} />
-                <Bar stackId={"a"} dataKey={"bar"} shape={<HorizonBar />} />
-                <Bar stackId={"a"} dataKey={"topBox"} fill="#8884d8" onClick={handleBoxClick} />
-                <Bar stackId={"a"} dataKey={"topWhisker"} shape={<DotBar />} />
-                <Bar stackId={"a"} dataKey={"bar"} shape={<HorizonBar />} />
-                
-                <XAxis dataKey='group' label={{ value: xTitle, position: 'insideBottom', offset: -10 }} />
-                <YAxis label={{ value: yTitle, position: 'insideBottomLeft', angle: -90 }} />
-            </ComposedChart>
-        </ResponsiveContainer>
+        <div className='boxplot-container'>
+            <ResponsiveBoxPlot
+                data={data}
+                onClick={handleBoxClick}
+                margin={{ top: 60, right: 140, bottom: 60, left: 60 }}
+                minValue={0}
+                maxValue={10}
+                padding={0.12}
+                enableGridX={true}
+                axisBottom={{
+                    tickSize: 5,
+                    tickPadding: 5,
+                    tickRotation: 0,
+                    legend: xTitle,
+                    legendPosition: 'middle',
+                    legendOffset: 32,
+                    truncateTickAt: 0,
+                }}
+                groups={groups}
+                axisLeft={{
+                    tickSize: 5,
+                    tickPadding: 5,
+                    tickRotation: 0,
+                    legend: yTitle,
+                    legendPosition: 'middle',
+                    legendOffset: -40,
+                    truncateTickAt: 0
+                }}
+                colors={{ scheme: 'nivo' }}
+                borderWidth={2}
+                borderColor={{
+                    from: 'color',
+                    modifiers: [
+                        [
+                            'darker',
+                            0.3
+                        ]
+                    ]
+                }}
+                medianWidth={2}
+                medianColor={{
+                    from: 'color',
+                    modifiers: [
+                        [
+                            'darker',
+                            0.3
+                        ]
+                    ]
+                }}
+                whiskerEndSize={0.6}
+                whiskerColor={{
+                    from: 'color',
+                    modifiers: [
+                        [
+                            'darker',
+                            0.3
+                        ]
+                    ]
+                }}
+                motionConfig="stiff"
+                legends={legends}
+            />
+        </div>
     );
 }

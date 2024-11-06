@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { getGroupBoxProps } from '../../utils/boxplot';
 
 import './BoxChart.css'
 import BoxPlot from '../BoxPlot/BoxPlot';
@@ -38,17 +37,11 @@ export default function BoxChart ({ xTitle, yTitle, data, chartType = 'category'
         }
     }
     
-    // 
-    const groupBoxes = visibleGroups
-        .map(group => {
-            const groupData = visibleData.filter((d) => d.x === group).map((d) => d.y);
-            return getGroupBoxProps(groupData, group);
-        })
-        .filter(group => !!group)
-    
     return (
         <BoxPlot
-            boxes={groupBoxes}
+            data={visibleData.map(({ x, y }) => ({ group: x, value: y }))}
+            groups={visibleGroups}
+            chartType={chartType}
             onBoxClick={toggleVerticalBox}
             xTitle={xTitle}
             yTitle={yTitle}
