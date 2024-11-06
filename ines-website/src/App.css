@@ -1,7 +1,9 @@
 #root {
-  max-width: 1280px;
   margin: 0 0;
   padding: 2rem;
+  background-color: rgb(206, 226, 233);
+  width: 100dvw;
+  height: 100dvh;
 }
 
 .logo {
@@ -18,4 +20,16 @@
   font-size: 18px;
   font-weight: bold;
   fill: rgb(136, 132, 216);
+}
+
+.fullscreen-button {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: blueviolet;
+  height: 60px;
+  width: 90px;
+  text-align: center;
+  align-content: center;
+  cursor: pointer;
 }
