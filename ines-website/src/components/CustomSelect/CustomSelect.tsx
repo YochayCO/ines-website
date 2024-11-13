@@ -22,7 +22,7 @@ function CustomSelect({ inputLabel, value, onChange, items }: CustomSelectProps)
 
   return (
     <>
-      <FormControl sx={{ m: 1, width: '100%' }}>
+      <FormControl sx={{ m: 1, width: 1 }}>
         <InputLabel>{inputLabel}</InputLabel>
         <Select value={value} onChange={handleChange}>
           <MenuItem value=''><em>{inputLabel}</em></MenuItem>

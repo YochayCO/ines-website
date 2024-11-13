@@ -21,7 +21,7 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
             <ResponsiveBoxPlot
                 data={data}
                 onClick={handleBoxClick}
-                margin={{ top: 60, right: 140, bottom: 60, left: 60 }}
+                margin={{ top: 60, right: 60, bottom: 60, left: 60 }}
                 minValue={0}
                 maxValue={10}
                 padding={0.12}
