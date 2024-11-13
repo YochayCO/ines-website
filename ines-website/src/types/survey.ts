@@ -23,7 +23,7 @@ export interface QuantityQuestionItem extends QuestionItemBase {
 
 export type QuestionItem = CategoryQuestionItem | QuantityQuestionItem;
 
-export interface SurveyMetadata {
+export interface SurveyMeta {
     id: string;
     demography: {
         "Age Group": string;
@@ -49,4 +49,21 @@ export interface SurveyMetadata {
     questions: {
         [key: number | string]: QuestionItem;
     }
+}
+
+export interface SurveyRow {
+    [columnTitle: string]: string;
+}
+
+export type SurveyRows = SurveyRow[];
+
+export type Survey = {
+    data: SurveyRows;
+    meta: SurveyMeta;
+}
+
+// Option for survey select element
+export type SurveyOption = {
+    id: string;
+    name: string;
 }

@@ -16,7 +16,7 @@ function App() {
   }
 
   return (
-    <div className='root'>
+    <div className='app'>
       <h1>INES Data Sandbox</h1>
         <Plotter />
       <div className='fullscreen-button' onClick={toggleFullscreen}>

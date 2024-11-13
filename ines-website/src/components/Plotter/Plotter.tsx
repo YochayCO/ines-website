@@ -1,61 +1,70 @@
 import { useEffect, useState } from 'react'
 import map from 'lodash/map'
-import BoxChart from '../BoxChart/BoxChart'
-import QuestionSelect from '../QuestionSelect/QuestionSelect'
 
+import SurveyOptions from '../../assets/surveyOptions.json'
+import { QuestionItem, Survey, SurveyRow } from '../../types/survey'
 import { GraphData } from '../../utils/graph'
-import { QuestionItem, SurveyMetadata } from '../../assets/2022_web_meta'
-import EXAMPLE_SURVEY_META from '../../assets/2022_web_meta.json'
-import SURVEY_PEOPLE_DATA_EXAMPLE from '../../assets/2022_web_people.json'
-import { RawData } from '../../assets/2022_web_people'
+import { fetchSurvey } from '../../utils/survey'
+import BoxChart from '../BoxChart/BoxChart'
+import CustomSelect from '../CustomSelect/CustomSelect'
+import QuestionSelect from '../QuestionSelect/QuestionSelect'
 
 import './Plotter.css'
 
-// TODO: replace examples with actual fetch actions
-const surveyMeta = EXAMPLE_SURVEY_META as SurveyMetadata
-const surveyRawData = SURVEY_PEOPLE_DATA_EXAMPLE as RawData
+function getGraphData(rows: SurveyRow[] | undefined, x: string, y: string): GraphData | undefined {
+  if (!x || !y || !rows) return undefined
 
-function getGraphData(data: RawData, x: string, y: string) {
-  return data.map(p => ({ x: p[x].toString(), y: p[y] }))
+  return rows.map(row => ({ x: row[x].split('.')[0], y: Number(row[y].split('.')[0]) }))
 }
 
 function Plotter() {
   // x & y are the column letters of the selected questions
+  const [surveyId, setSurveyId] = useState<string>('')
+  const [survey, setSurvey] = useState<Survey | null>(null)
   const [x, setX] = useState('')
   const [y, setY] = useState('')
-  const [graphData, setGraphData] = useState<GraphData | null>(null)
+  
+  async function updateSurvey (surveyId: string) {
+    if (!surveyId) return setSurvey(null)
 
-  // If one of the columns is unselected, remove the current graph
+    const survey = await fetchSurvey(surveyId)
+    setSurvey(survey)
+  }
+
   useEffect(() => {
-    // TODO: fetch real data
-    setGraphData((!x || !y) ? null : getGraphData(surveyRawData, x, y))
-  }, [x,y])
+    updateSurvey(surveyId)
+  }, [surveyId])
 
+  const surveyOptions = SurveyOptions.map(({ id, name }) => ({ value: id, label: name }))
 
-  const allQuestionItems: QuestionItem[] = map(surveyMeta.questions, (qi) => qi)
+  const allQuestionItems: QuestionItem[] = map(survey?.meta.questions, (qi) => qi)
   const quantityQuestionItems: QuestionItem[] = allQuestionItems.filter((qi) => qi.type == 'quantity')
-
-  // Temporary. TODO remove
-  const xExampleQuestionItems = allQuestionItems.filter(qi => qi.column === 'v52a')
-  const yExampleQuestionItems = quantityQuestionItems.filter(qi => qi.column === 'v111')
 
   const xQuestionItem = allQuestionItems.find(qi => qi.column === x)
   const yQuestionItem = quantityQuestionItems.find(qi => qi.column === y)
+
+  const graphData = getGraphData(survey?.data, x, y)
   
   return (
     <>
       <h2>Plot away!</h2>
+      <CustomSelect 
+        inputLabel='Select survey'
+        value={surveyId}
+        onChange={setSurveyId}
+        items={surveyOptions}
+      />
       <QuestionSelect 
         inputLabel='Select question for X Axis' 
         value={x} 
         onChange={setX}
-        questionItems={xExampleQuestionItems}
+        questionItems={allQuestionItems}
       />
       <QuestionSelect 
         inputLabel='Select question for Y Axis' 
         value={y}
         onChange={setY}
-        questionItems={yExampleQuestionItems}
+        questionItems={quantityQuestionItems}
       />
       {graphData && <BoxChart
         xTitle={xQuestionItem?.description || x}

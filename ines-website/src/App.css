@@ -1,9 +1,6 @@
-#root {
+.app {
   margin: 0 0;
   padding: 2rem;
-  background-color: rgb(206, 226, 233);
-  width: 100dvw;
-  height: 100dvh;
 }
 
 .logo {

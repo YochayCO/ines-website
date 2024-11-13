@@ -1,5 +1,4 @@
 import { ResponsiveBoxPlot } from '@nivo/boxplot' 
-import { LegendProps } from '@nivo/legends';
 
 import './BoxPlot.css'
 
@@ -17,32 +16,6 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
         onBoxClick?.(box.group)
     }
 
-    // TODO: If there are multiple groups - make more legends. If not - remove
-    const legends: LegendProps[] = [
-        {
-            anchor: 'right' as const,
-            direction: 'column' as const,
-            justify: false,
-            translateX: 100,
-            translateY: 0,
-            itemWidth: 60,
-            itemHeight: 20,
-            itemsSpacing: 3,
-            itemTextColor: '#999',
-            itemDirection: 'left-to-right' as const,
-            symbolSize: 20,
-            symbolShape: 'square' as const,
-            effects: [
-                {
-                    on: 'hover' as const,
-                    style: {
-                        itemTextColor: '#000'
-                    }
-                }
-            ]
-        }
-    ];
-
     return (
         <div className='boxplot-container'>
             <ResponsiveBoxPlot
@@ -57,8 +30,8 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 0,
-                    legend: xTitle,
-                    legendPosition: 'middle',
+                    legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
+                    legendPosition: 'start',
                     legendOffset: 32,
                     truncateTickAt: 0,
                 }}
@@ -67,10 +40,10 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 0,
-                    legend: yTitle,
-                    legendPosition: 'middle',
+                    legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
+                    legendPosition: 'start',
                     legendOffset: -40,
-                    truncateTickAt: 0
+                    truncateTickAt: 0,
                 }}
                 colors={{ scheme: 'nivo' }}
                 borderWidth={2}
@@ -104,7 +77,6 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
                     ]
                 }}
                 motionConfig="stiff"
-                legends={legends}
             />
         </div>
     );
