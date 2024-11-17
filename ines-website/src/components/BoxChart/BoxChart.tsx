@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 
 import './BoxChart.css'
 import BoxPlot from '../BoxPlot/BoxPlot';
@@ -12,17 +12,20 @@ type BoxChartProps = {
 
 // A smart component that wraps BoxPlot
 export default function BoxChart ({ xTitle, yTitle, data, chartType = 'category' }: BoxChartProps) {
-    const sortedGroups = [...new Set(data.map((d) => d.x))].sort((a, b) => {
-        if (chartType === 'quantity') {
-            return Number(a) - Number(b)
-        } else {
-            // If categorial - groups are ordered alphabetically
-            return a.localeCompare(b)
-        }
-    })
-    // TODO: If there is a 'hidden' property in the graph library - we should use visibleGroups to indicate if a group is hidden.
-    // Or add 'hidden' as a prop
-    const [visibleGroups, setVisibleGroups] = useState(sortedGroups)
+    const [visibleGroups, setVisibleGroups] = useState<string[]>([])
+
+    const sortedGroups = useMemo(() => {
+        return [...new Set(data.map((d) => d.x))].sort((a, b) => {
+            if (chartType === 'quantity') {
+                return Number(a) - Number(b)
+            } else {
+                // If categorial - groups are ordered alphabetically
+                return a.localeCompare(b)
+            }
+        })
+    }, [data, chartType])
+
+    useEffect(() => setVisibleGroups(sortedGroups), [sortedGroups])
     
     // TODO: Handle 98 and other special values
     const visibleData = data.filter(d => visibleGroups.includes(d.x) && d.y !== 98)

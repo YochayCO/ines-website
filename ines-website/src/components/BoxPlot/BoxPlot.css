@@ -5,3 +5,7 @@
 text:has(> tspan.axis-legend), .axis-legend {
     font: 15px sans-serif;
 }
+
+g[data-key^="boxplot"] > rect {
+    cursor: pointer;
+}
