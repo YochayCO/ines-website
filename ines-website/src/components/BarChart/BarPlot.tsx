@@ -1,28 +1,33 @@
-import { ResponsiveBoxPlot } from '@nivo/boxplot' 
-import { GraphData } from '../../types/graph';
+import { ComputedDatum, ResponsiveBar } from '@nivo/bar' 
+import { BarGraphDatum } from '../../types/graph';
 import { QuestionType } from '../../types/survey';
 
-import './BoxPlot.css'
+import './BarPlot.css'
 
-interface BoxPlotProps { 
-    data: GraphData;
-    groups: string[];
+interface BarPlotProps { 
+    data: BarGraphDatum[];
     chartType: QuestionType;
-    onBoxClick?: (group: string) => void;
+    onBarClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BoxPlot({ data, groups, chartType, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
-    const handleBoxClick = (box: { group: string }) => {
-        onBoxClick?.(box.group)
+export default function BarPlot({ data, chartType, onBarClick, xTitle, yTitle }: BarPlotProps) {
+    const handleBarClick = (bar: ComputedDatum<BarGraphDatum>) => {
+        onBarClick?.(bar.indexValue as string)
+    }
+
+    const formattedLabel = (datum: ComputedDatum<BarGraphDatum>): string => {
+        return `${datum.formattedValue}%`
     }
 
     return (
-        <div className='boxplot-container'>
-            <ResponsiveBoxPlot
+        <div className='barplot-container'>
+            <ResponsiveBar
                 data={data}
-                onClick={handleBoxClick}
+                indexBy='group'
+                label={formattedLabel}
+                onClick={handleBarClick}
                 margin={{ top: 60, right: 160, bottom: chartType === 'category' ? 200 : 60, left: 60 }}
                 padding={0.12}
                 enableGridX
@@ -35,39 +40,18 @@ export default function BoxPlot({ data, groups, chartType, onBoxClick, xTitle, y
                     legendOffset: chartType === 'category' ? 180 : 40,
                     truncateTickAt: 0,
                 }}
-                groups={groups}
                 axisLeft={{
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 0,
                     legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
-                    legendPosition: 'end',
-                    legendOffset: -40,
+                    legendPosition: 'middle',
+                    legendOffset: -50,
                     truncateTickAt: 0,
                 }}
                 colors={{ scheme: 'nivo' }}
                 borderWidth={2}
                 borderColor={{
-                    from: 'color',
-                    modifiers: [
-                        [
-                            'darker',
-                            0.3
-                        ]
-                    ]
-                }}
-                medianWidth={2}
-                medianColor={{
-                    from: 'color',
-                    modifiers: [
-                        [
-                            'darker',
-                            0.3
-                        ]
-                    ]
-                }}
-                whiskerEndSize={0.6}
-                whiskerColor={{
                     from: 'color',
                     modifiers: [
                         [

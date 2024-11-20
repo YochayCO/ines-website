@@ -2,6 +2,7 @@ import { useState } from 'react'
 import map from 'lodash/map'
 
 import { QuestionItem, Survey } from '../../types/survey';
+import BarChart from '../BarChart/BarChart';
 import BoxChart from '../BoxChart/BoxChart'
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
 
@@ -36,6 +37,10 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
         survey={survey}
         x={xQuestionItem}
         y={yQuestionItem}
+      />}
+      {(!!xQuestionItem && !yQuestionItem) && <BarChart
+        survey={survey}
+        x={xQuestionItem}
       />}
     </>
   )
