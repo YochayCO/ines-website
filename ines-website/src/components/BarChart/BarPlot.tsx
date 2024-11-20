@@ -26,7 +26,10 @@ export default function BarPlot({ data, chartType, onBarClick, xTitle, yTitle }:
             <ResponsiveBar
                 data={data}
                 indexBy='group'
+                colorBy='indexValue'
                 label={formattedLabel}
+                labelPosition='end'
+                labelOffset={10}
                 onClick={handleBarClick}
                 margin={{ top: 60, right: 160, bottom: chartType === 'category' ? 200 : 60, left: 60 }}
                 padding={0.12}
@@ -49,7 +52,7 @@ export default function BarPlot({ data, chartType, onBarClick, xTitle, yTitle }:
                     legendOffset: -50,
                     truncateTickAt: 0,
                 }}
-                colors={{ scheme: 'nivo' }}
+                colors={{ scheme: chartType === 'category' ? 'category10' : 'spectral' }}
                 borderWidth={2}
                 borderColor={{
                     from: 'color',
