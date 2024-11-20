@@ -2,14 +2,13 @@ import { useState } from 'react'
 import map from 'lodash/map'
 
 import { QuestionItem, Survey } from '../../types/survey';
-import BarChart from '../BarChart/BarChart';
-import BoxChart from '../BoxChart/BoxChart'
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
+import SmartChart from '../SmartChart/SmartChart';
 
 import './Plotter.css'
 
 export default function InnerPlotter({ survey }: { survey: Survey }) {
-  // x & y are the column letters of the selected questions
+  // x & y are the column titles of the selected questions
   const [x, setX] = useState('')
   const [y, setY] = useState('')
 
@@ -33,14 +32,10 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
         onChange={setY}
         questionItems={quantityQuestionItems}
       />
-      {(!!xQuestionItem && !!yQuestionItem) && <BoxChart
+      {!!xQuestionItem && <SmartChart
         survey={survey}
         x={xQuestionItem}
         y={yQuestionItem}
-      />}
-      {(!!xQuestionItem && !yQuestionItem) && <BarChart
-        survey={survey}
-        x={xQuestionItem}
       />}
     </>
   )

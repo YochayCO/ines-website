@@ -1,15 +1,17 @@
 import { useEffect, useMemo, useState } from 'react';
-import { SmartBarGraphProps } from '../../types/graph';
-import { getBarGraphData } from '../../utils/graph';
-import BarPlot from './BarPlot';
+import { SmartGraphProps } from '../../types/graph';
+import { getBarGraphData, getGraphData } from '../../utils/graph';
+import BarPlot from '../BarPlot/BarPlot';
+import BoxPlot from '../BoxPlot/BoxPlot';
 
 // A smart component that wraps BoxPlot
-export default function BarChart ({ survey, x }: SmartBarGraphProps) {
+export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const [visibleGroups, setVisibleGroups] = useState<string[]>([])
 
     const graphData = useMemo(() => {
+        if (y) return getGraphData({ survey, x, y })
         return getBarGraphData({ survey, x })
-    }, [survey, x])
+    }, [survey, x, y])
 
     const sortedGroups = useMemo(() => {
         const groups = [...new Set(graphData.map((d) => d.group))]
@@ -26,7 +28,7 @@ export default function BarChart ({ survey, x }: SmartBarGraphProps) {
 
     useEffect(() => setVisibleGroups(sortedGroups), [sortedGroups])
     
-    const toggleBar = (group: string) => {
+    const toggleItem = (group: string) => {
         if (visibleGroups.includes(group)) {
             setVisibleGroups(visibleGroups.filter(g => g !== group))
         } else {
@@ -38,11 +40,20 @@ export default function BarChart ({ survey, x }: SmartBarGraphProps) {
     // TODO: Handle 98 and other special values
     const visibleData = graphData.filter(d => visibleGroups.includes(d.group))
     
-    return (
+    return y ? (
+        <BoxPlot
+            data={visibleData}
+            groups={visibleGroups}
+            chartType={x.type}
+            onBoxClick={toggleItem}
+            xTitle={x.description}
+            yTitle={y.description}
+        />
+    ) : (
         <BarPlot
             data={visibleData}
             chartType={x.type}
-            onBarClick={toggleBar}
+            onBarClick={toggleItem}
             xTitle={x.description}
             yTitle='Percentage of voters'
         />

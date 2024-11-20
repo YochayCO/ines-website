@@ -10,10 +10,7 @@ export type BarGraphDatum = BarDatum & { group: string; }
 export interface SmartGraphProps {
     survey: Survey;
     x: QuestionItem;
-    y: QuestionItem; 
+    y?: QuestionItem; 
 }
 
-export type SmartBarGraphProps = {
-    survey: Survey;
-    x: QuestionItem;
-}
+export type SmartBoxPlotProps = SmartGraphProps & { y: QuestionItem; }

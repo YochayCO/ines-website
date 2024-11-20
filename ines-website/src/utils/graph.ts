@@ -1,10 +1,10 @@
 import map from 'lodash/map'
-import { BarGraphDatum, GraphData, SmartBarGraphProps, SmartGraphProps } from '../types/graph'
+import { BarGraphDatum, GraphData, SmartBoxPlotProps, SmartGraphProps } from '../types/graph'
 
 function getLabel (ans: string): string { return ans.split('. ')[1] }
 function getRate (ans: string): string { return ans.split('. ')[0] }
 
-export function getGraphData({ survey, x, y }: SmartGraphProps): GraphData {
+export function getGraphData({ survey, x, y }: SmartBoxPlotProps): GraphData {
   const data = survey.data.map(row => {
     const rawGroup = row[x.column]
     const group = (x.type === 'category') ? getLabel(rawGroup) : getRate(rawGroup)
@@ -18,7 +18,7 @@ export function getGraphData({ survey, x, y }: SmartGraphProps): GraphData {
   return validData
 }
 
-export function getBarGraphData({ survey, x }: SmartBarGraphProps): BarGraphDatum[] {
+export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
   const bars = survey.data.map(row => {
     const rawGroup = row[x.column]
     const group = (x.type === 'category') ? getLabel(rawGroup) : getRate(rawGroup)
