@@ -44,7 +44,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         <BoxPlot
             data={visibleData}
             groups={visibleGroups}
-            chartType={x.type}
+            questionType={x.type}
             onBoxClick={toggleItem}
             xTitle={x.description}
             yTitle={y.description}
@@ -52,7 +52,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     ) : (
         <BarPlot
             data={visibleData}
-            chartType={x.type}
+            questionType={x.type}
             onBarClick={toggleItem}
             xTitle={x.description}
             yTitle='Percentage of voters'

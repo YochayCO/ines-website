@@ -7,13 +7,13 @@ import './BoxPlot.css'
 interface BoxPlotProps { 
     data: GraphData;
     groups: string[];
-    chartType: QuestionType;
+    questionType: QuestionType;
     onBoxClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BoxPlot({ data, groups, chartType, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
+export default function BoxPlot({ data, groups, questionType, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
     const handleBoxClick = (box: { group: string }) => {
         onBoxClick?.(box.group)
     }
@@ -23,16 +23,16 @@ export default function BoxPlot({ data, groups, chartType, onBoxClick, xTitle, y
             <ResponsiveBoxPlot
                 data={data}
                 onClick={handleBoxClick}
-                margin={{ top: 60, right: 160, bottom: chartType === 'category' ? 200 : 60, left: 60 }}
+                margin={{ top: 60, right: 160, bottom: questionType === 'category' ? 200 : 60, left: 60 }}
                 padding={0.12}
                 enableGridX
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
-                    tickRotation: chartType === 'category' ? 20 : 0,
+                    tickRotation: questionType === 'category' ? 20 : 0,
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: chartType === 'category' ? 180 : 40,
+                    legendOffset: questionType === 'category' ? 180 : 40,
                     truncateTickAt: 0,
                 }}
                 groups={groups}
