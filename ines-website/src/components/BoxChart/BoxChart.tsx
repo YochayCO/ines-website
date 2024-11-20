@@ -3,8 +3,6 @@ import { SmartGraphProps } from '../../types/graph';
 import { getGraphData } from '../../utils/graph';
 import BoxPlot from '../BoxPlot/BoxPlot';
 
-import './BoxChart.css'
-
 // A smart component that wraps BoxPlot
 export default function BoxChart ({ survey, x, y }: SmartGraphProps) {
     const [visibleGroups, setVisibleGroups] = useState<string[]>([])
