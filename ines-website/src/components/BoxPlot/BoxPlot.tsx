@@ -1,17 +1,19 @@
 import { ResponsiveBoxPlot } from '@nivo/boxplot' 
+import { GraphData } from '../../types/graph';
+import { QuestionType } from '../../types/survey';
 
 import './BoxPlot.css'
 
 interface BoxPlotProps { 
-    data: { group: string; value: number }[];
+    data: GraphData;
     groups: string[];
-    chartType: 'quantity' | 'category';
+    chartType: QuestionType;
     onBoxClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
+export default function BoxPlot({ data, groups, chartType, onBoxClick, xTitle, yTitle }: BoxPlotProps) {
     const handleBoxClick = (box: { group: string }) => {
         onBoxClick?.(box.group)
     }
@@ -21,18 +23,16 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
             <ResponsiveBoxPlot
                 data={data}
                 onClick={handleBoxClick}
-                margin={{ top: 60, right: 60, bottom: 60, left: 60 }}
-                minValue={0}
-                maxValue={10}
+                margin={{ top: 60, right: 160, bottom: 200, left: 60 }}
                 padding={0.12}
-                enableGridX={true}
+                enableGridX
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
-                    tickRotation: 0,
+                    tickRotation: chartType === 'category' ? 20 : 0,
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: 32,
+                    legendOffset: 180,
                     truncateTickAt: 0,
                 }}
                 groups={groups}
@@ -41,7 +41,7 @@ export default function BoxPlot({ data, groups, onBoxClick, xTitle, yTitle }: Bo
                     tickPadding: 5,
                     tickRotation: 0,
                     legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
-                    legendPosition: 'start',
+                    legendPosition: 'end',
                     legendOffset: -40,
                     truncateTickAt: 0,
                 }}

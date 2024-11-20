@@ -1,7 +1,9 @@
+export type QuestionType = "quantity" | "category";
+
 export interface QuestionItemBase {
     column: string;
     description: string;
-    type: "quantity" | "category";
+    type: QuestionType;
 }
 
 export interface CategoryQuestionItem extends QuestionItemBase {

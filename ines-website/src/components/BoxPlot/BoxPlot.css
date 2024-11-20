@@ -1,5 +1,5 @@
 .boxplot-container {
-    height: 50dvh;
+    height: 90dvh;
 }
 
 text:has(> tspan.axis-legend), .axis-legend {

@@ -1,53 +1,53 @@
 import { useEffect, useMemo, useState } from 'react';
-
-import './BoxChart.css'
+import { SmartGraphProps } from '../../types/graph';
+import { getGraphData } from '../../utils/graph';
 import BoxPlot from '../BoxPlot/BoxPlot';
 
-type BoxChartProps = {
-    xTitle: string; // parameter title
-    yTitle: string; // parameter title
-    data: { x: string; y: number }[];
-    chartType?: 'category' | 'quantity';
-};
+import './BoxChart.css'
 
 // A smart component that wraps BoxPlot
-export default function BoxChart ({ xTitle, yTitle, data, chartType = 'category' }: BoxChartProps) {
+export default function BoxChart ({ survey, x, y }: SmartGraphProps) {
     const [visibleGroups, setVisibleGroups] = useState<string[]>([])
 
+    const graphData = useMemo(() => {
+        return getGraphData({ survey, x, y })
+    }, [survey, x, y])
+
     const sortedGroups = useMemo(() => {
-        return [...new Set(data.map((d) => d.x))].sort((a, b) => {
-            if (chartType === 'quantity') {
+        const groups = [...new Set(graphData.map((d) => d.group))]
+        
+        return groups.sort((a, b) => {
+            if (x.type === 'quantity') {
                 return Number(a) - Number(b)
             } else {
                 // If categorial - groups are ordered alphabetically
                 return a.localeCompare(b)
             }
         })
-    }, [data, chartType])
+    }, [graphData, x.type])
 
     useEffect(() => setVisibleGroups(sortedGroups), [sortedGroups])
     
-    // TODO: Handle 98 and other special values
-    const visibleData = data.filter(d => visibleGroups.includes(d.x) && d.y !== 98)
-    
-    // TODO: show hidden boxes and enable user to re-add them. Not important.
     const toggleVerticalBox = (group: string) => {
         if (visibleGroups.includes(group)) {
             setVisibleGroups(visibleGroups.filter(g => g !== group))
         } else {
-            // Not concating in order to keep the original order
+            // No concat: Maintain the sorted order
             setVisibleGroups(sortedGroups.filter(g => g === group || visibleGroups.includes(g)))
         }
     }
     
+    // TODO: Handle 98 and other special values
+    const visibleData = graphData.filter(d => visibleGroups.includes(d.group))
+    
     return (
         <BoxPlot
-            data={visibleData.map(({ x, y }) => ({ group: x, value: y }))}
+            data={visibleData}
             groups={visibleGroups}
-            chartType={chartType}
+            chartType={x.type}
             onBoxClick={toggleVerticalBox}
-            xTitle={xTitle}
-            yTitle={yTitle}
+            xTitle={x.description}
+            yTitle={y.description}
         />
     );
 };

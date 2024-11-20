@@ -1,8 +1,18 @@
-import { GraphData } from '../types/graph'
-import { SurveyRow } from '../types/survey'
+import { GraphData, SmartGraphProps } from '../types/graph'
 
-export function getGraphData(rows: SurveyRow[] | undefined, x: string, y: string): GraphData | undefined {
-  if (!x || !y || !rows) return undefined
+function getLabel (ans: string): string { return ans.split('. ')[1] }
+function getRate (ans: string): string { return ans.split('. ')[0] }
 
-  return rows.map(row => ({ x: row[x].split('.')[0], y: Number(row[y].split('.')[0]) }))
+export function getGraphData({ survey, x, y }: SmartGraphProps): GraphData {
+  const data = survey.data.map(row => {
+    const rawGroup = row[x.column]
+    const group = (x.type === 'category') ? getLabel(rawGroup) : getRate(rawGroup)
+
+    return ({ group, value: Number(getRate(row[y.column])) })
+  })
+  
+  const validData = data.filter(({ group, value }) => ![undefined, 98].includes(value) && typeof group === 'string')
+  // TODO: use weights here
+
+  return validData
 }
