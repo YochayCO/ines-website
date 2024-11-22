@@ -16,6 +16,7 @@
     "@nivo/bar": "^0.88.0",
     "@nivo/boxplot": "^0.87.0",
     "@nivo/core": "^0.87.0",
+    "@nivo/heatmap": "^0.88.0",
     "d3": "^7.9.0",
     "lodash": "^4.17.21",
     "papaparse": "^5.4.1",

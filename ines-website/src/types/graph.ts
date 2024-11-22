@@ -6,6 +6,7 @@ export type GraphDatum = BoxPlotDatum & { group: string; } // Striter than gener
 export type GraphData = GraphDatum[]
 
 export type BarGraphDatum = BarDatum & { group: string; }
+export type HeatMapDatum = { id: string; data: { x: string; y: number; }[] }
 
 export interface SmartGraphProps {
     survey: Survey;

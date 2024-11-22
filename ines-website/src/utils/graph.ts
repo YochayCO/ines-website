@@ -1,24 +1,50 @@
 import map from 'lodash/map'
-import { BarGraphDatum, GraphData, SmartBoxPlotProps, SmartGraphProps } from '../types/graph'
+import difference from 'lodash/difference'
+import { BarGraphDatum, HeatMapDatum, SmartBoxPlotProps, SmartGraphProps } from '../types/graph'
+import { sort, sortBy } from './math'
 
 function getLabel (ans: string): string { return ans.split('. ')[1] }
 function getRate (ans: string): string { return ans.split('. ')[0] }
+export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 
-export function getGraphData({ survey, x, y }: SmartBoxPlotProps): GraphData {
-  const data = survey.data.map(row => {
-    const rawGroup = row[x.column]
-    const group = (x.type === 'category') ? getLabel(rawGroup) : getRate(rawGroup)
+// TODO: better code
+export function getBubbleGraphData({ survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps): [HeatMapDatum[]] {
+  const data = survey.data.reduce((acc: HeatMapDatum[], row) => {
+    const serie = getRate(row[yQuestionItem.column])
+    const xValue = (xQuestionItem.type === 'category') ? getLabel(row[xQuestionItem.column]) : getRate(row[xQuestionItem.column])
 
-    return ({ group, value: Number(getRate(row[y.column])) })
+    // Do not include invalid data
+    if ([undefined, '98'].includes(serie) || typeof xValue !== 'string') return acc
+
+    const currSerie = acc.find((ser) => ser.id === serie)
+    if (!currSerie) {
+      return acc.concat([{ id: serie, data: [{ x: xValue, y: 1 }] }])
+    }
+
+    const currX = currSerie.data.find(({ x }) => x === xValue)
+    if (!currX) {
+      currSerie.data = currSerie.data.concat([{ x: xValue, y: 1 }])
+      return acc
+    }
+
+    currX.y++
+    return acc
+  }, [])
+
+  const xList = Array.from(new Set(data.map((d) => d.data.map(xy => xy.x)).flat(2)))
+  data.forEach(d => {
+    const xs = d.data.map(xy => xy.x)
+    const newXs = difference(xList, xs)
+    const newXYs = newXs.map(x => ({ x, y: 0 }))
+    d.data = sortBy(d.data.concat(newXYs), 'x', xQuestionItem.type === 'quantity') as { x: string; y: number; }[]
   })
   
-  const validData = data.filter(({ group, value }) => ![undefined, 98].includes(value) && typeof group === 'string')
   // TODO: use weights here
 
-  return validData
+  return [sortBy(data, 'id', yQuestionItem.type === 'quantity') as HeatMapDatum[]]
 }
 
-export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
+export function getBarGraphData({ survey, x }: SmartGraphProps): [BarGraphDatum[], string[]] {
   const bars = survey.data.map(row => {
     const rawGroup = row[x.column]
     const group = (x.type === 'category') ? getLabel(rawGroup) : getRate(rawGroup)
@@ -37,7 +63,12 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[]
     voterCountByGroup, 
     (numOfVoters, group) => ({ group, value: (numOfVoters / survey.data.length * 100).toFixed(2)})
   )
+
+  const groups = barGraphData.map((d) => getGraphGroup(d))
+  const uniqueGroups: string[] = [...new Set(groups)]
+  const sortedGroups = sort(uniqueGroups, x.type === 'quantity') 
+
   // TODO: use weights here
 
-  return barGraphData
+  return [barGraphData, sortedGroups]
 }
