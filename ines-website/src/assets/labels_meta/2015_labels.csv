@@ -1,0 +1,215 @@
+id,description
+ID,ID
+date,Start Date
+midgam,
+version,1.  2015 Version
+age,2. How old are you?
+agegroup,3. What age group do you belong to?
+sex,4. Sex
+v5,5. Are you an Israeli citizen?
+v6,"6. In your opinion, what is Israel's general situation?"
+v7,7. What do you think about the way the government is handling the problems that
+v8,"8.  In your opinion, what is the most important problem that the government has"
+v9,"9.  In your opinion, in the past 2 years, has the economic situation of Israel i"
+v10,10.  And what about your personal economic situation:  Would you say that in the
+v11,"11.  In your opinion, is it possible to reach a peace agreement with the Palesti"
+v12,"12.  In your opinion, what are the final aspirations of the Arabs?"
+v13,13.  What do you think Israel should emphasize in order to prevent war between i
+v14,14. Do you believe Israel should continue to hold Judea and Samaria?
+v15,15.  To what degree are you worried or not worried that you or one of your famil
+v16,16.  To what extent are you worried or not worried that you or one of your famil
+v17,"17.  There are four values that conflict with each other to some extent, and are"
+v18,18.  Second most important?
+v19,19.  Third most important?
+v20,20.  Fourth most important?
+v21,21.  There are situations in which there is a contradiction between democracy an
+v22,22.  Some think it is the government's responsibility to take care that everyone
+v23,23.  There are situations in which there is a contradiction between preserving t
+v24,"24.  In your opinion, should Israel agree or disagree to the establishment of a"
+v25,25. Should Israel be prepared to return or should it continue to keep the Arab n
+v26,"26. In your opinion, was Operation Protective Edge (Mivtza Tzuk Eitan) successfu"
+v27,27.To what extent do you believe each of the following situations is dangerous?
+v28,28.To what extent do you believe each of the following situations is dangerous?
+v29,29.To what extent do you believe each of the following situations is dangerous?
+v30,30.To what extent do you believe each of the following situations is dangerous?
+v31,"31. In your opinion, should the government of Israel make sure that public life"
+v32,"32. About the structure of economic life in the country, do you support more a c"
+v33,33.To what extent do you agree or disagree with each of the following statements
+v34,34.To what extent do you agree or disagree with each of the following statements
+v35,35.To what extent do you agree or disagree with each of the following statements
+v36,36.To what extent do you agree or disagree with each of the following statements
+v37,37.To what extent do you agree or disagree with each of the following statements
+v38,38.To what extent do you agree or disagree with each of the following statements
+v39,39.To what extent do you agree or disagree with each of the following statements
+v40,40.To what extent do you agree or disagree with each of the following statements
+v41,41.To what extent do you agree or disagree with each of the following statements
+v42,42.To what extent do you agree or disagree with each of the following statements
+v43,43.To what extent do you agree or disagree with each of the following statements
+v44,44.To what extent do you agree or disagree with each of the following statements
+v45,45.To what extent do you agree or disagree with each of the following statements
+v46,46.To what extent do you agree or disagree with each of the following statements
+v47,47.To what extent do you agree or disagree with each of the following statements
+v48,48.To what extent do you agree or disagree with each of the following statements
+v49,49.  To what extent do you tend to talk with your friends and family about polit
+v50,50.  To what extent can you and your friends influence the policies of the gover
+v51A,51A. What is your attitude toward each of the following political parties: The L
+v51B,51B. What is your attitude toward each of the following political parties: The Z
+v51C,51C. What is your attitude toward each of the following political parties: HaBay
+v51D,51D. What is your attitude toward each of the following political parties: Kulan
+v51E,51E. What is your attitude toward each of the following political parties: Shas
+v51F,51F. What is your attitude toward each of the following political parties: Yesh
+v51G,51G. What is your attitude toward each of the following political parties: Meret
+v51H,51H. What is your attitude toward each of the following political parties: Israe
+v51I,51I. What is your attitude toward each of the following political parties: Yacha
+v51J,51J. What is your attitude toward each of the following political parties: The J
+v51K,51K. What is your attitude toward each of the following political parties: Hadas
+v51L," 51L. What is your attitude toward each of the following political parties: Ta""a"
+v51M,51M. What is your attitude toward each of the following political parties: The I
+v51N,51N. What is your attitude toward each of the following political parties: Balad
+v56A,56A. And what is your attitude toward each of the following people: Benjamin Net
+v56B,56B. And what is your attitude toward each of the following people: Yitzhak Herz
+v56Z,56Z. And what is your attitude toward each of the following people: Tzippi Livni
+v56C,56C. And what is your attitude toward each of the following people: Naphtali Ben
+v56D,56D. And what is your attitude toward each of the following people: Moshe Kachlo
+v56E,56E. And what is your attitude toward each of the following people: Aryeh Deri
+v56F,56F. And what is your attitude toward each of the following people: Yair Lapid
+v56G,56G. And what is your attitude toward each of the following people: Zahava Galon
+v56H,56H. And what is your attitude toward each of the following people: Avigdor Lieb
+v56I,56I. And what is your attitude toward each of the following people: Eli Yishai
+v56J,56J. And what is your attitude toward each of the following people: Ayman Odeh
+v56L,56L. And what is your attitude toward each of the following people: Ahmad Tibi
+v56M,56M. And what is your attitude toward each of the following people: Masud Ghnaim
+v56N,56N. And what is your attitude toward each of the following people: Jamal Zachal
+v56O,56O. And what is your attitude toward each of the following people: Haneen Zoabi
+v56P,56P. And what is your attitude toward each of the following people: Aida Touma-S
+v57,57.  Who in your opinion will deal with Israel's economic and social problems be
+v58,58.  Who in your opinion will deal with Israel's foreign affairs and security is
+v59,"59. In your opinion, are there or arent there differences between the major par"
+v60,"60. In your opinion, are there or arent there differences between the major par"
+v61,"61. In your opinion, are there or arent there differences between the major par"
+v62,"62. In your opinion, are there or arent there differences between the major par"
+v63,"63. In your opinion, are there or arent there differences between the major par"
+v64,64. There are different factors that influence people's decision to vote for a s
+v65,65. To what extent will the following issues influence or not influence your vot
+v66,66. To what extent will the following issues influence or not influence your vot
+v67,67. To what extent will the following issues influence or not influence your vot
+v68,68. To what extent will the following issues influence or not influence your vot
+v69,69. To what extent will the following issues influence or not influence your vot
+v70,70. To what extent will the following issues influence or not influence your vot
+v71,71. With what political tendency do you identify?
+v72,"72. Would you be prepared or not prepared to have taxes in the country raised, m"
+v73,"73.  Do you think the government should spend more, less, or the current amount"
+v74,"74.  Do you think the government should spend more, less, or the current amount"
+v75,"75.  Do you think the government should spend more, less, or the current amount"
+v76,"76.  Do you think the government should spend more, less, or the current amount"
+v77,"77.  Do you think the government should spend more, less, or the current amount"
+v78,"78.  Do you think the government should spend more, less, or the current amount"
+v79,"79.  Do you think the government should spend more, less, or the current amount"
+v80,"80.  Do you think the government should spend more, less, or the current amount"
+v81,81. Do you agree or disagree that funds should be transferred from the security
+v82,"82. Here is a list of characteristics of leaders, in regards to each please tell"
+v83,"83. Here is a list of characteristics of leaders, in regards to each please tell"
+v84,"84. Here is a list of characteristics of leaders, in regards to each please tell"
+v85,"85. How often do you usually get updated on the news from the newspaper, televis"
+v86,"86. To the best of your knowledge, what is the minimum threshold for representat"
+v88,88.  Which of the following activities have you done on the internet in the past
+v89,"89.  Do you support any specific party, are you a member, or do you have a job i"
+v90,90.  Did you support or participate in the social protest of the summer of 2011?
+v91,91.  There are people who do not vote in elections for one reason or another.  D
+v92,"92. If the elections were held today, which list would you vote for?"
+v93,93. And if the surveys released during the last days of the campaign indicate th
+v94,94. Who would you vote for?
+v95,"95. Prior to these elections the electoral threshold was raised, such that only"
+v96,96. If not (response 1 in question 95) why will this not make you change your vo
+v97,97. (If would change his/her vote (response 2 in question 95)) Who would you vot
+v98,98. Lately there have been many reports on the media regarding investigations of
+v99,"99. In your opinion, after the elections will the coalition government be based"
+v100,100. And which of these coalition governments would you prefer?
+v101,101. Which list did you vote for in the 2013 Knesset elections?
+v102,102. If Likud and Israel Beiteinu had run separately in the previous election in
+v103,103.  There is much talk about left and right in politics. Where would you rank
+v104,"104.  Assuming there are two candidates, one male and one female, both equally q"
+v105,"105.  And assuming there are two candidates, one Ashkenazi (Jew of European orig"
+v106,106.  To what extent do you define yourself as a feminist?
+v107,107.  Sometimes people ask themselves what the goals of the country should be fo
+v108,108.  What in your opinion is the second most important goal?
+v109,"109.  To the best of your knowledge, what portion of the overall government budg"
+v110,"110.  To the best of your knowledge, who is the current Speaker of Knesset?"
+v111,111.  What is your family status?
+v112,112.  Do you have children?
+v112_a,"112a.  If you have children, how many?"
+v113,113.  Do your children live at home with you?
+v114,114.  To what extent do you observe religious tradition?
+v115,115. In what country were you born?
+v116,116. In what country was your father born?
+v117,117.  Country of origin:
+v118,118.  When did you immigrate to Israel?
+v119,119.  If immigrated from the Former Soviet Union from 1989 and onwards
+v120,120. How would you define yourself?
+v121,121. And how important to you is your ethnic origin?
+v122,122.  And how important is it to you that you are [male/female]?
+v123,123.  To what extent does each of these issues influence or does not influence y
+v124,124.  To what extent does each of these issues influence or does not influence y
+v125,125.  To what extent does each of these issues influence or does not influence y
+v126,126.  To what extent does each of these issues influence or does not influence y
+v127,127.  How many years have you studied in a formal framework (not including cours
+v128,128.  Highest level of education:
+v129,129.  Did you attend high school or post high school studies in a religious stat
+v130,130.  What is your employment status?
+v131,131.  Do you work in a
+v132,"132. Describe in detail your profession or your main job (if not working, refer"
+v133,133.  In what sector do you work or did you work?
+v134,"134. The average monthly household expenditure in Israel is approximately 14,000"
+v135,135.  How many rooms do you have in your house?
+v136,136.  How many people live in your household (including soldiers)?
+v137,137. What is your social status?
+v138,138.  What is your religion?
+v139,139.  Do you define yourself as:
+v140,140.  Please indicate to what extent each of the following statements is true or
+v141,141.  Please indicate to what extent each of the following statements is true or
+v142,142.  Please indicate to what extent each of the following statements is true or
+v143,143.  Please indicate to what extent each of the following statements is true or
+v144,144.  Please indicate to what extent each of the following statements is true or
+v145,145.  Please indicate to what extent each of the following statements is true or
+v146,146. Place of Residence:
+v147,147.  Language of Interview:
+v148,148.  Sector:
+after_date,Start Date
+after_version,version
+after_v1,1. Did you vote in the last elections?
+after_v2,2. Who did you vote for in the last elections? [do not read answers]
+after_v3,3. When did you make your final decision to vote for [the party he/she voted for
+after_v4a_1,A4 And what ultimately made you vote as you did?
+after_v4a_2,A4 And what ultimately made you vote as you did?
+after_v4a_3,A4 And what ultimately made you vote as you did?
+after_v4b,B4 Why did you decide not to vote/ to put a blank ballot?
+after_v5,"5. To what extent, on Election Day, was it important to you personally that the"
+after_v6,6. To what extent were the surveys released a few days before the election a fac
+after_v7a,7A. To what extent do you agree or disagree with: The election indicates that th
+after_v7b,7B. To what extent do you agree or disagree with:  The election indicates that t
+after_v7c,7C. To what extent do you agree or disagree with:  The election indicates that t
+after_v7d,7D. To what extent do you agree or disagree with:  The election indicates that t
+after_v7e,7E. To what extent do you agree or disagree with:  The election was mainly about
+after_v7f,7F. To what extent do you agree or disagree with:  The election was mainly about
+after_v7g,7G. To what extent do you agree or disagree with:  The election was mainly about
+after_v7h,7H. To what extent do you agree or disagree with:  The election was mainly about
+after_v7i,7I. To what extent do you agree or disagree with:  The election indicates that t
+after_v7j,7J. To what extent do you agree or disagree with:  The election indicates that t
+after_v7k,7K. To what extent do you agree or disagree with:  The election indicates that t
+after_v8,"8. All in all, in your opinion what were the elections primarily about? Was it:"
+after_v9,9.  And now in light of the election results - which coalition would you prefer?
+after_v10,"10. In general, do you view yourself as close to a certain party?"
+after_v11,11. What party do you feel closest to?
+after_v12,"12. Do you feel very close to [name of party indicated in question 11], quite cl"
+after_v13a_1,13A. In these elections there was much talk about right and left in politics. In
+after_v13a_2,13A. In these elections there was much talk about right and left in politics. In
+after_v13a_3,13A. In these elections there was much talk about right and left in politics. In
+after_v13b_1_1,13B_1. In these elections there was much talk about right and left in politics.
+after_v13b_1_2,13B_1. In these elections there was much talk about right and left in politics.
+after_v13b_1_3,13B_1. In these elections there was much talk about right and left in politics.
+after_v13b_2_1,13B_2. In these elections there was much talk about right and left in politics.
+after_v13b_2_2,13B_2. In these elections there was much talk about right and left in politics.
+after_v13b_2_3,13B_2. In these elections there was much talk about right and left in politics.
+after_v14a,14A. A recent international study has shown that the average period between elec
+after_v14b,14B A recent international study indicates that in recent decades there is polit
+after_v15,"15. In general, to what extent are you satisfied or dissatisfied with democracy"
