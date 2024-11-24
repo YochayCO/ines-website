@@ -1,5 +1,6 @@
 .bubbleplot-container {
     height: 90dvh;
+    font-weight: 600;
 }
 
 text:has(> tspan.axis-legend), .axis-legend {

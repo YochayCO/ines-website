@@ -11,7 +11,7 @@ function App() {
     if (document.fullscreenElement) {
       document.exitFullscreen()
     } else {
-      document.body.requestFullscreen()
+      document.documentElement.requestFullscreen()
     }
   }
 

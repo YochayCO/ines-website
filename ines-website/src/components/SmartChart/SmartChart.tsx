@@ -18,6 +18,8 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const removeItem = (group: string) => {
         setVisibleGroups(visibleGroups.filter(g => g !== group))
     }
+
+    const isCategorial = x.type === 'category'
     
     // TODO: Handle 98 and other special values
     
@@ -26,7 +28,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         return (
             <BubblePlot
                 data={visibleData}
-                questionType={x.type}
+                isCategorial={isCategorial}
                 xTitle={x.description}
                 yTitle={y.description}
             />
@@ -36,7 +38,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         return (
             <BarPlot
                 data={visibleData}
-                questionType={x.type}
+                isCategorial={isCategorial}
                 onBarClick={removeItem}
                 xTitle={x.description}
                 yTitle='Percentage of voters'

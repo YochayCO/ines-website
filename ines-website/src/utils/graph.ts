@@ -1,7 +1,7 @@
 import map from 'lodash/map'
 import difference from 'lodash/difference'
 import { BarGraphDatum, HeatMapDatum, SmartBoxPlotProps, SmartGraphProps } from '../types/graph'
-import { sort, sortBy } from './math'
+import { sortSurveyColumn, sortSurveyRowsByColumn } from "./survey"
 
 function getLabel (ans: string): string { return ans.split('. ')[1] }
 function getRate (ans: string): string { return ans.split('. ')[0] }
@@ -36,12 +36,14 @@ export function getBubbleGraphData({ survey, x: xQuestionItem, y: yQuestionItem 
     const xs = d.data.map(xy => xy.x)
     const newXs = difference(xList, xs)
     const newXYs = newXs.map(x => ({ x, y: 0 }))
-    d.data = sortBy(d.data.concat(newXYs), 'x', xQuestionItem.type === 'quantity') as { x: string; y: number; }[]
+    d.data = sortSurveyRowsByColumn(d.data.concat(newXYs), 'x', xQuestionItem.type === 'quantity')
   })
+
+  const sortedData = sortSurveyRowsByColumn(data, 'id', yQuestionItem.type === 'quantity').reverse()
   
   // TODO: use weights here
 
-  return [sortBy(data, 'id', yQuestionItem.type === 'quantity') as HeatMapDatum[]]
+  return [sortedData]
 }
 
 export function getBarGraphData({ survey, x }: SmartGraphProps): [BarGraphDatum[], string[]] {
@@ -66,7 +68,7 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): [BarGraphDatum[
 
   const groups = barGraphData.map((d) => getGraphGroup(d))
   const uniqueGroups: string[] = [...new Set(groups)]
-  const sortedGroups = sort(uniqueGroups, x.type === 'quantity') 
+  const sortedGroups = sortSurveyColumn(uniqueGroups, x.type === 'quantity') 
 
   // TODO: use weights here
 

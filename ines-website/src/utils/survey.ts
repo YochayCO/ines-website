@@ -57,3 +57,28 @@ export function cleanSurvey (data: SurveyRows, errors: ParseError[]) {
 
     return data
 }
+export function sortSurveyColumn(arr: string[], isQuantitative: boolean): string[] {
+    return arr.sort((a, b) => {
+        if (isQuantitative) {
+            const [numA, numB] = [Number(a), Number(b)]
+            return Number(numA) - Number(numB)
+        } else {
+            return a.localeCompare(b)
+        }
+    })
+}
+
+export function sortSurveyRowsByColumn<T extends Record<string, unknown>>(
+    rows: T[],
+    column: keyof T,
+    isQuantitative: boolean
+): T[] {
+    return rows.sort((a, b) => {
+        if (isQuantitative) {
+            const [numA, numB] = [Number(a[column]), Number(b[column])]
+            return Number(numA) - Number(numB)
+        } else {
+            return (a[column] as string).localeCompare(b[column] as string)
+        }
+    })
+}

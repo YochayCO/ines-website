@@ -1,18 +1,17 @@
 import { ComputedDatum, ResponsiveBar } from '@nivo/bar' 
 import { BarGraphDatum } from '../../types/graph';
-import { QuestionType } from '../../types/survey';
 
 import './BarPlot.css'
 
 interface BarPlotProps { 
     data: BarGraphDatum[];
-    questionType: QuestionType;
+    isCategorial: boolean;
     onBarClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BarPlot({ data, questionType, onBarClick, xTitle, yTitle }: BarPlotProps) {
+export default function BarPlot({ data, isCategorial, onBarClick, xTitle, yTitle }: BarPlotProps) {
     const handleBarClick = (bar: ComputedDatum<BarGraphDatum>) => {
         onBarClick?.(bar.indexValue as string)
     }
@@ -26,21 +25,22 @@ export default function BarPlot({ data, questionType, onBarClick, xTitle, yTitle
             <ResponsiveBar
                 data={data}
                 indexBy='group'
+                maxValue={100}
                 colorBy='indexValue'
                 label={formattedLabel}
                 labelPosition='end'
                 labelOffset={10}
                 onClick={handleBarClick}
-                margin={{ top: 60, right: 160, bottom: questionType === 'category' ? 200 : 60, left: 60 }}
+                margin={{ top: 60, right: 160, bottom: isCategorial ? 200 : 60, left: 60 }}
                 padding={0.12}
                 enableGridX
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
-                    tickRotation: questionType === 'category' ? 20 : 0,
+                    tickRotation: isCategorial ? 20 : 0,
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: questionType === 'category' ? 180 : 40,
+                    legendOffset: isCategorial ? 180 : 40,
                     truncateTickAt: 0,
                 }}
                 axisLeft={{
@@ -52,7 +52,7 @@ export default function BarPlot({ data, questionType, onBarClick, xTitle, yTitle
                     legendOffset: -50,
                     truncateTickAt: 0,
                 }}
-                colors={{ scheme: questionType === 'category' ? 'category10' : 'spectral' }}
+                colors={{ scheme: isCategorial ? 'category10' : 'spectral' }}
                 borderWidth={2}
                 borderColor={{
                     from: 'color',
