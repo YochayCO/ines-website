@@ -73,12 +73,14 @@ export function sortSurveyRowsByColumn<T extends Record<string, unknown>>(
     column: keyof T,
     isQuantitative: boolean
 ): T[] {
-    return rows.sort((a, b) => {
-        if (isQuantitative) {
-            const [numA, numB] = [Number(a[column]), Number(b[column])]
-            return Number(numA) - Number(numB)
-        } else {
-            return (a[column] as string).localeCompare(b[column] as string)
-        }
-    })
+    return rows.sort((a,b) => smartSort(a[column],b[column], isQuantitative))
+}
+
+export function smartSort(a: unknown, b: unknown, isQuantitative: boolean) {
+    if (isQuantitative) {
+        const [numA, numB] = [Number(a), Number(b)]
+        return Number(numA) - Number(numB)
+    } else {
+        return (a as string).localeCompare(b as string)
+    }
 }

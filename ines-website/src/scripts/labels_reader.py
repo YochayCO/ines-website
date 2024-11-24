@@ -7,7 +7,7 @@ survey_ids = [
     '2023/06/March_2021_data_website_STATA',
     '2023/06/March_2020_data',
     '2023/06/Apr-Sep_2019_update_STATA',
-    '2023/06/2015'
+    '2023/06/2015',
 ]
 
 def download_file(url: str, output_folder: str) -> str:

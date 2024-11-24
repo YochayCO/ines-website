@@ -1,14 +1,16 @@
 import map from 'lodash/map'
+import sum from 'lodash/sum'
 import difference from 'lodash/difference'
 import { BarGraphDatum, HeatMapDatum, SmartBoxPlotProps, SmartGraphProps } from '../types/graph'
-import { sortSurveyColumn, sortSurveyRowsByColumn } from "./survey"
+import { smartSort, sortSurveyRowsByColumn } from './survey'
+import SurveyDesign from './SurveyDesign'
 
-function getLabel (ans: string): string { return ans.split('. ')[1] }
-function getRate (ans: string): string { return ans.split('. ')[0] }
+export function getLabel (ans: string): string { return ans.split('. ')[1] || ans.split('. ')[0] }
+export function getRate (ans: string): string { return ans.split('. ')[0] }
 export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 
 // TODO: better code
-export function getBubbleGraphData({ survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps): [HeatMapDatum[]] {
+export function getBubbleGraphData({ survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps): HeatMapDatum[] {
   const data = survey.data.reduce((acc: HeatMapDatum[], row) => {
     const serie = getRate(row[yQuestionItem.column])
     const xValue = (xQuestionItem.type === 'category') ? getLabel(row[xQuestionItem.column]) : getRate(row[xQuestionItem.column])
@@ -43,34 +45,23 @@ export function getBubbleGraphData({ survey, x: xQuestionItem, y: yQuestionItem 
   
   // TODO: use weights here
 
-  return [sortedData]
+  return sortedData
 }
 
-export function getBarGraphData({ survey, x }: SmartGraphProps): [BarGraphDatum[], string[]] {
-  const bars = survey.data.map(row => {
-    const rawGroup = row[x.column]
-    const group = (x.type === 'category') ? getLabel(rawGroup) : getRate(rawGroup)
-
-    return group
-  })
+export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
+  const surveyDesign = new SurveyDesign(survey.data, 'w_panel1')
+  const weightedXs = surveyDesign.svytable(x.column)
+  const totalXWeight = sum(Object.values(weightedXs))
   
-  const voterCountByGroup = bars.reduce((counts: { [group: string]: number; }, group) => {
-    if (!group) return counts
-    
-    counts[group] = (counts[group] || 0) + 1
-    return counts
-  }, {})
-
-  const barGraphData = map(
-    voterCountByGroup, 
-    (numOfVoters, group) => ({ group, value: (numOfVoters / survey.data.length * 100).toFixed(2)})
+  const barGraphData = map(weightedXs, (answerWeightedCount, ans) => {
+    return { 
+      group: x.type === 'category' ? getLabel(ans) : getRate(ans), 
+      value: (answerWeightedCount / totalXWeight * 100).toFixed(2),
+    }
+  })
+  const sortedData = barGraphData.sort(
+    (a, b) => smartSort(a.group, b.group, x.type === 'quantity')
   )
 
-  const groups = barGraphData.map((d) => getGraphGroup(d))
-  const uniqueGroups: string[] = [...new Set(groups)]
-  const sortedGroups = sortSurveyColumn(uniqueGroups, x.type === 'quantity') 
-
-  // TODO: use weights here
-
-  return [barGraphData, sortedGroups]
+  return sortedData
 }
