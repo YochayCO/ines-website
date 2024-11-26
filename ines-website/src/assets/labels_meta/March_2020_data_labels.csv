@@ -15,15 +15,15 @@ v12,"12. In your opinion, is it possible to reach a peace agreement with the Pal
 v13,13. What do you think Israel should focus on in order to prevent war with its ne
 v15,"15. Of the following four values, which is the most important to you?"
 v16,16. Which is second most important?
-v19,"19. In your opinion, should Israel agree or not agree to the establishment of a "
+v19,"19. In your opinion, should Israel agree or not agree to the establishment of a"
 v20,"20. About the structure of economic life in the country, which do you support mo"
-v21,"21. In your opinion, should the government of Israel see to it that public life "
+v21,"21. In your opinion, should the government of Israel see to it that public life"
 v503A,"503A. Following the indictment against the Prime Minister, do you think Netanyah"
 v25,"25. We should allow a political leader, who is successful in his job, to continu"
 v22,22. There are claims that the indictment against the Prime Minister is part of a
 v26,26. There are those who argue that a Palestinian state alongside the state of Is
 v27,27. The main aspiration of Arab citizens in Israel is to have full equality as c
-v28,28. Civic equality for Arab citizens can be achieved mainly through a political 
+v28,28. Civic equality for Arab citizens can be achieved mainly through a political
 v29,29. The Arab political parties are doing everything in their power to advance th
 v30,30. Participating in Knesset elections harms the struggle for Palestinian nation
 v502,502. HaReshima HaMeshutefet (Joint List) should act to enter into a coalition wi
@@ -62,10 +62,10 @@ v104E,"E104. If the Knesset election were to take place today, which party list 
 v106,"106. In your opinion, after the election, will the government be based on:"
 v107,107. And which of the following governments would you prefer?
 v507,507. What party list did you vote for in the last Knesset election held in Septe
-v508,508. And what party list did you vote for in the Knesset election held in April 
+v508,508. And what party list did you vote for in the Knesset election held in April
 v509,509. What party list did you vote for in the 2015 Knesset election?
 v111,111. There is much talk about left and right in politics. Where would you rank y
-v510,"510. To the best of your knowledge, who is the current President of the Supreme "
+v510,"510. To the best of your knowledge, who is the current President of the Supreme"
 v511,"511. To the best of your knowledge, which Ministry, other than the Ministry of D"
 v115,115. How democratically is Israel being governed today?
 v116,116. How satisfied are you with how the political system is functioning in Israe
@@ -86,7 +86,7 @@ date_after,Start Date
 agree_after,(Agree) Will you agree to participate in the research?
 E1_after,E1. Did you vote in the last Knesset election?
 E2_after,E2. What party list did you vote for in the last Knesset election?
-E4_after,"E4. On election day, to what extent was it important to you personally that the "
+E4_after,"E4. On election day, to what extent was it important to you personally that the"
 E7_after,"E7 . And when you think about the election that just took place, what was it mai"
 E8A_after_code1,E8A. What is Right as you understand it? (code 1)
 E8A_after_code2,E8A. What is Right as you understand it? (code 2)

@@ -66,10 +66,10 @@ v504,To what extent the consideration of preventing another election in the near
 v609,To what extent the consideration of whether the party will or will not sit under
 v106,"In your opinion, after the election, will the government be based on:"
 v107,And which of the following governments would you prefer?
-v610,"What party list did you vote for in the last Knesset election, held a year ago, "
+v610,"What party list did you vote for in the last Knesset election, held a year ago,"
 v111,There is much talk about left and right in politics. Where would you rank yourse
 v611,"In the last week, how many times did you catch up on political information and n"
-v506,"In the last week, how many times did you read political information and news on "
+v506,"In the last week, how many times did you read political information and news on"
 v612,"In the last week, which of the following actions did you take on the internet?"
 v73,"To the best of your knowledge, what is the threshold of representation in the Kn"
 v510,"To the best of your knowledge, who is the current President of the Supreme Court"
@@ -108,7 +108,7 @@ v143_code,What is your religion?
 v139,"The average monthly household expenditure in Israel is approximately 16,500 NIS."
 v140,How many rooms do you have in your home?
 v141,How many people live in your household (including soldiers)?
-v147,Thank you for your time. It will be very important to us to return to you after 
+v147,Thank you for your time. It will be very important to us to return to you after
 sector,
 lang,
 data_collection_mode,
@@ -125,9 +125,9 @@ N1,"And what about cooperation with the Arab parties in the government formation
 F9,"And now given the election results, which coalition would you prefer most?"
 N2,"And of the two following options, which do you prefer?"
 F10,To what extent are you satisfied or dissatisfied with the democracy in Israel?
-F49S_1,what is your attitude toward each of the following political parties? Hatzionut 
+F49S_1,what is your attitude toward each of the following political parties? Hatzionut
 F49D_1,what is your attitude toward each of the following political parties? Yamina
-F49J_1,what is your attitude toward each of the following political parties? HaReshima 
+F49J_1,what is your attitude toward each of the following political parties? HaReshima
 F49Y_1,what is your attitude toward each of the following political parties? Ra’am (hea
 F49K_1,what is your attitude toward each of the following political parties? Yahadut Ha
 weights_panel_1,

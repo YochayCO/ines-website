@@ -8,7 +8,7 @@ gender,4. Sex
 educ,136. What is your highest level of education:
 v5,5. Are you an Israeli citizen?
 v6,"6. In your opinion, what is Israel's general situation?"
-v7,7. What do you think about the way the government is handling the problems that 
+v7,7. What do you think about the way the government is handling the problems that
 v8,"In your opinion, what is the most important problem that the government has to d"
 v8_code_1,"In your opinion, what is the most important problem that the government has to d"
 v8_code_2,"In your opinion, what is the most important problem that the government has to d"
@@ -18,7 +18,7 @@ v11,"11. And what about the country’s security situation – In your opinion, 
 v12,"12.  In your opinion, is it possible to reach a peace agreement with the Palesti"
 v13,13.  What do you think Israel should focus on in order to prevent war with its n
 v14,14.  To what extent are you worried or not worried that you or one of your famil
-v15,15. When thinking about possible directions for the development of the state of 
+v15,15. When thinking about possible directions for the development of the state of
 v16,16. Which is second most important?
 v17,17. Third most important?
 v18,18.  Fourth?
@@ -100,8 +100,8 @@ v72,72.  Integrity and decency:
 v73,"73. To the best of your knowledge, what is the threshold of representation in th"
 v75,75. To which party do you feel closest?
 v76,76. To what extent is your identity as a supporter of [party mentioned by interv
-v77,77. When someone criticizes supporters of [the party mentioned] it feels like a 
-v78,78. When you meet another supporter of [the party mentioned] you feel connected 
+v77,77. When someone criticizes supporters of [the party mentioned] it feels like a
+v78,78. When you meet another supporter of [the party mentioned] you feel connected
 v79,79. When people say positive things about supporters of [the party mentioned] it
 v80,80. Members of the government come from all sectors of society
 v81,81. The government in Israel tailors its policy to the public’s viewpoints
@@ -120,7 +120,7 @@ v93,93. News websites or newspapers
 v94,94. News on one of the television channels
 v95,95. News on the radio
 v96,"96. Social media such as Whatsapp, Facebook, Twitter, Instagram, Telegram, etc."
-v97,"97. In the last week, how many times did content from politicians and political "
+v97,"97. In the last week, how many times did content from politicians and political"
 v98,98. Write on the Facebook page or Twitter account of a politician or party
 v99,99. Respond to content that a politician or political party posted
 v100,100. Share content from a politician or political party
@@ -128,15 +128,15 @@ v101,101. Read content from a politician or political party that appeared on you
 v102,"102. “Follow” the page of a politician or political party on social media, or jo"
 v103,"103. Write your opinion on a political topic on social media, or shared politica"
 v104,"104 If the Knesset elections were to take place today, which party list would yo"
-v105,"105. In these elections, the electoral threshold is such that only a party that "
+v105,"105. In these elections, the electoral threshold is such that only a party that"
 v105A,105A: which party
 v106,"106. In your opinion, after the elections, the government will be based on:"
 v107,107. And which of the following governments would you prefer?
 v108,108. Which of the following lists did you vote for in the 2015 Knesset elections
 v109,"109. In general, to what extent do you feel there is a political party or politi"
-v110,"110. And in general, to what extent do you believe the Israeli political system "
-v111,111.  There is much talk about left and right in politics. Where would you rank 
-v112,"112.  To the best of your knowledge, who is the current Speaker of the Knesset? "
+v110,"110. And in general, to what extent do you believe the Israeli political system"
+v111,111.  There is much talk about left and right in politics. Where would you rank
+v112,"112.  To the best of your knowledge, who is the current Speaker of the Knesset?"
 v113,"113. To the best of your knowledge, with which state did Israel recently renew d"
 v114,114. How important is it for you to live in a country that is governed democrati
 v115,115. How democratically is Israel being governed today?
@@ -177,11 +177,11 @@ date_after,
 v1_after,1. Did you vote in the last elections?
 v2_after,2. What party did you vote for in the last elections?
 v3_after,3. When did you make your final decision [to vote for the party he/she voted for
-v4_after,"4. To what extent, on Election Day, was it important to you personally that the "
+v4_after,"4. To what extent, on Election Day, was it important to you personally that the"
 v5_after,5. To what extent were the surveys released a few days before the elections a fa
 v6A_after,6A. The elections were a referendum on Netanyahu as Prime Minister.
 v6B_after,6B. The elections were mainly about the future of democracy in Israel
-v6C_after,6C. The elections indicate that the people have had enough with the media being 
+v6C_after,6C. The elections indicate that the people have had enough with the media being
 v6D_after,6D. The elections were mainly about how to deal with the security threats around
 v6E_after,6E. The elections indicated that ghe people are satisfied with the socio-economi
 v6F_after,6F. The elections were about the status of Arab citizens of Israel given the “Ba
@@ -204,8 +204,8 @@ v12A_code,12A. When you think about the history of the State of Israel and of th
 v12B_code,12B. When you think about the history of the state of Israel and the Arab-Israel
 v13A_code,13A. When you think about the future of the state of Israel and the people of Is
 v13B_code,13B. When you think about the future of the state of Israel and the Arab-Israeli
-v14A_code,"14A. Who, in your opinion, is the most influential figure in the history of the "
-v14B_code,"14B. Who, in your opinion, is the most influential figure in the history of the "
+v14A_code,"14A. Who, in your opinion, is the most influential figure in the history of the"
+v14B_code,"14B. Who, in your opinion, is the most influential figure in the history of the"
 v17_after,17. Interview language
 v18_after,18. Sector
 w1_arabs_relig,
@@ -225,9 +225,9 @@ c306,C306. Anger
 c307,C307. Disgust
 c308,C308. Hope
 c309,C309. Despair
-c104,"C104. If the Knesset elections were held today, which party list would you vote "
-c8_Code1,"C8. In your opinion, what is the most important problem that the government has "
-c8_Code2,"C8. In your opinion, what is the most important problem that the government has "
+c104,"C104. If the Knesset elections were held today, which party list would you vote"
+c8_Code1,"C8. In your opinion, what is the most important problem that the government has"
+c8_Code2,"C8. In your opinion, what is the most important problem that the government has"
 c19,"C19. In your opinion, should Israel agree, or not agree, to the establishment of"
 c20,"C20. About the structure of economic life in the country, which do you support m"
 c21,"C21. In your opinion, should the government of Israel see to it that public life"
@@ -258,12 +258,12 @@ c86,C86. Politicians make promises during the campaign that they have no intenti
 c87,C87. Most politicians in Israel are not corrupt
 c88,"C88. There is too much interference in the  elections, such that the results don"
 c89,C89. The electoral system in Israel distorts the voters’ will
-c90,"C90. Of the following, what do you think is the biggest threat to the political "
+c90,"C90. Of the following, what do you think is the biggest threat to the political"
 c106,"C106. In your opinion, will the government after the election be based on:"
 c107,C107. And which of the following governments would you prefer?
 c109,"C109. In general, to what extent do you feel there is a political party and/or p"
 c110,"C110. And in general, to what extent do you feel that the Israeli political syst"
-c111,C111. There is much talk about left and right in politics. Where would you rank 
+c111,C111. There is much talk about left and right in politics. Where would you rank
 c119,"C119. You feel committed to the democratic regime in Israel, even if there are t"
 c120,"C120. In order to take care of Israel’s unique problems, there is a need for a s"
 c124,C124. People who compromise in politics are actually selling out their principle
@@ -283,8 +283,8 @@ d_resp_id_after,
 d_date_after,
 D1,D1. Did you vote in the last Knesset election?
 D2,D2. Which list did you vote for in the last Knesset election?
-D4,"D4. On election day, to what extent was it important to you personally that the "
-D7,"D7. And when you think about the elections that just took place, what were they "
+D4,"D4. On election day, to what extent was it important to you personally that the"
+D7,"D7. And when you think about the elections that just took place, what were they"
 D9,D9. And now given the election results - which coalition would you prefer?
 D17,D17. Interview language
 D18,D18. Sector

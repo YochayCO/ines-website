@@ -1,6 +1,8 @@
 import os
 import requests
 import pandas as pd
+import pyreadstat
+
 
 survey_ids = [
     '2023/06/2022_STATA',
@@ -43,11 +45,15 @@ def export_stata_labels(stata_filename: str, labels_meta_filename: str):
         stata_filename (str): The path for the input Stata (.dta) file.
         labels_meta_filename (str): The path where the labels CSV file will be saved.
     """
-    itr = pd.read_stata(stata_filename, iterator=True)
-    labels = itr.variable_labels()
-    
-    df = pd.DataFrame(list(labels.items()), columns=["id", "description"])
-    df.to_csv(labels_meta_filename, index=False)
+    df, meta = pyreadstat.read_dta(stata_filename)
+
+    labels_list = []
+
+    for var_name, label in meta.column_names_to_labels.items():
+        labels_list.append({"id": var_name, "description": label})
+        
+    labels_meta_df = pd.DataFrame(labels_list)
+    labels_meta_df.to_csv(labels_meta_filename, index=False) 
 
 if __name__ == "__main__":
     stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4"
