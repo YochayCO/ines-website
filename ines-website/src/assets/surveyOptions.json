@@ -1,4 +1,7 @@
-[{
-    "id": "2022",
-    "name": "2022 Survey (pre + post elections)"
-}]
+[
+    { "id": "2022", "websiteId": "2023/06/2022_STATA", "title": "2022 Survey" },
+    { "id": "2021", "websiteId": "2023/06/March_2021_data_website_STATA", "title": "2021 Survey" },
+    { "id": "2020", "websiteId": "2023/06/March_2020_data", "title": "2020 Survey" },
+    { "id": "Sep-19", "websiteId": "2023/06/Apr-Sep_2019_update_STATA", "title": "Sep-19 Survey" },
+    { "id": "Apr-19", "websiteId": "2023/06/2015", "title": "Apr-19 Survey" }
+]

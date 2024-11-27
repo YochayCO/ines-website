@@ -27,7 +27,7 @@ function Plotter() {
     updateSurvey(surveyId)
   }, [surveyId])
 
-  const surveyOptions = SurveyOptions.map(({ id, name }) => ({ value: id, label: name }))
+  const surveyOptions = SurveyOptions.map(({ id, title }) => ({ value: id, label: title }))
   
   return (
     <>

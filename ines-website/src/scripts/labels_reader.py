@@ -1,16 +1,17 @@
+import json
 import os
 import requests
 import pandas as pd
 import pyreadstat
 
+survey_options_filename = '/home/yochayc/INES/ines-website/src/assets/surveyOptions.json'
 
-survey_ids = [
-    '2023/06/2022_STATA',
-    '2023/06/March_2021_data_website_STATA',
-    '2023/06/March_2020_data',
-    '2023/06/Apr-Sep_2019_update_STATA',
-    '2023/06/2015',
-]
+with open(survey_options_filename, "r") as file:
+    survey_options = json.load(file)  # Parse the JSON file into a Python object
+
+survey_ids = [entry["websiteId"] for entry in survey_options if "websiteId" in entry]
+
+print(survey_ids)
 
 def download_file(url: str, output_folder: str) -> str:
     """
