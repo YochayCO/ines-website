@@ -6,3 +6,9 @@
 text:has(> tspan.axis-legend), .axis-legend {
     font: 15px sans-serif;
 }
+
+.tooltip {
+    background-color: white;
+    border: solid 1px gray;
+    padding: 0 15px;
+}

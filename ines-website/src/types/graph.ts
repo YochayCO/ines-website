@@ -8,7 +8,7 @@ export type GraphData = GraphDatum[]
 
 export type BarGraphDatum = BarDatum & { group: string; }
 
-export interface BubbleGraphDatumData { x: string; y: number; origX: string }
+export interface BubbleGraphDatumData { x: string; y: number; origX: string, origId: string }
 export type BubbleGraphDatum = HeatMapDatum & BubbleGraphDatumData
 export type BubbleGraphExtras = { origId: string; data: BubbleGraphDatumData[] }
 export type BubbleGraphSerie = HeatMapSerie<HeatMapDatum, BubbleGraphExtras>

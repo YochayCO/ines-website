@@ -16,8 +16,7 @@ export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
                 data={data}
                 sizeVariation={{ sizes: [0.5, 1]}}
                 cellComponent='circle'
-                margin={{ top: 60, right: 160, bottom: 200, left: 400 }}
-                enableGridX
+                margin={{ top: 60, right: 160, bottom: 200, left: 90 }}
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
@@ -33,9 +32,16 @@ export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
                     tickRotation: 0,
                     legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: -390,
+                    legendOffset: -80,
                     truncateTickAt: 0,
                 }}
+                tooltip={({ cell }) => (
+                    <div className='tooltip'>
+                        <h3><b>Value</b>: {cell.formattedValue}</h3>
+                        <h4><b>Row / Y</b>: {cell.data.origId}</h4>
+                        <h4><b>Column / X</b>: {cell.data.origX}</h4>
+                    </div>
+                )}
                 axisTop={null}
                 colors={{ type: 'diverging', scheme: 'blues' }}
                 labelTextColor={'black'}

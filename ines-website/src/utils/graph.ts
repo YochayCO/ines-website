@@ -21,21 +21,21 @@ export function getBubbleGraphData(
     // Do not include invalid data (null values and such)
     if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
 
-    const serieId = getLabel(yAns)
+    const serieId = getRate(yAns)
     const xValue = getLabel(xAns)
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)
     if (!currSerie) {
       // TODO: weight
-      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: 1, origX: xAns }] }]
+      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: 1, origX: xAns, origId: yAns }] }]
       return series.concat(serie)
     }
 
     // If x does not exist for series - create it and go to next.
     const currX = currSerie.data.find(({ x }) => x === xValue)
     if (!currX?.y) {
-      currSerie.data = currSerie.data.concat([{ x: xValue, y: 1, origX: xAns }])
+      currSerie.data = currSerie.data.concat([{ x: xValue, y: 1, origX: xAns, origId: yAns }])
       return series
     }
 
@@ -57,7 +57,7 @@ export function getBubbleGraphData(
   graphData.forEach(serie => {
     const existingXValues = serie.data.map((xy: BubbleGraphDatumData) => xy.origX)
     const newXs = difference(allOrigXs, existingXValues)
-    const newXYs: BubbleGraphDatumData[] = newXs.map(origX => ({ x: getLabel(origX), y: 0, origX }))
+    const newXYs: BubbleGraphDatumData[] = newXs.map(origX => ({ x: getLabel(origX), y: 0, origX, origId: serie.origId }))
     const data: BubbleGraphDatumData[] = concat(serie.data,newXYs)
     serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
   })
