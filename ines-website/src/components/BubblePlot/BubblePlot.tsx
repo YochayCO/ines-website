@@ -1,10 +1,10 @@
 import { ResponsiveHeatMap } from '@nivo/heatmap' 
-import { HeatMapDatum } from '../../types/graph';
+import { BubbleGraphSerie } from '../../types/graph';
 
 import './BubblePlot.css'
 
 interface BubblePlotProps { 
-    data: HeatMapDatum[];
+    data: BubbleGraphSerie[];
     isCategorial: boolean;
     onBarClick?: (group: string) => void;
     xTitle: string;

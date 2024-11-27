@@ -1,51 +1,72 @@
 import map from 'lodash/map'
 import sum from 'lodash/sum'
+import concat from 'lodash/concat'
 import difference from 'lodash/difference'
-import { BarGraphDatum, HeatMapDatum, SmartBoxPlotProps, SmartGraphProps } from '../types/graph'
-import { smartSort, sortSurveyRowsByColumn } from './survey'
+import { BarGraphDatum, BubbleGraphSerie, SmartBoxPlotProps, SmartGraphProps, BubbleGraphDatumData, BubbleGraphDatum } from '../types/graph'
 import SurveyDesign from './SurveyDesign'
+import { sortByRate } from './survey'
 
 export function getLabel (ans: string): string { return ans.split('. ')[1] || ans.split('. ')[0] }
 export function getRate (ans: string): string { return ans.split('. ')[0] }
 export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 
-// TODO: better code
-export function getBubbleGraphData({ survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps): HeatMapDatum[] {
-  const data = survey.data.reduce((acc: HeatMapDatum[], row) => {
-    const serie = getRate(row[yQuestionItem.column])
-    const xValue = (xQuestionItem.type === 'category') ? getLabel(row[xQuestionItem.column]) : getRate(row[xQuestionItem.column])
+export function getBubbleGraphData(
+  { survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps
+): BubbleGraphSerie[] {
 
-    // Do not include invalid data
-    if ([undefined, '98'].includes(serie) || typeof xValue !== 'string') return acc
+  const graphData = survey.data.reduce((series: BubbleGraphSerie[], row) => {
+    const yAns = row[yQuestionItem.column]
+    const xAns = row[xQuestionItem.column]
+    
+    // Do not include invalid data (null values and such)
+    if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
 
-    const currSerie = acc.find((ser) => ser.id === serie)
+    const serieId = getRate(yAns)
+    const xValue = getLabel(xAns)
+
+    // If series does not exist - create it and go to next.
+    const currSerie = series.find((ser) => ser.id === serieId)
     if (!currSerie) {
-      return acc.concat([{ id: serie, data: [{ x: xValue, y: 1 }] }])
+      // TODO: weight
+      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: 1, origX: xAns }] }]
+      return series.concat(serie)
     }
 
+    // If x does not exist for series - create it and go to next.
     const currX = currSerie.data.find(({ x }) => x === xValue)
-    if (!currX) {
-      currSerie.data = currSerie.data.concat([{ x: xValue, y: 1 }])
-      return acc
+    if (!currX?.y) {
+      currSerie.data = currSerie.data.concat([{ x: xValue, y: 1, origX: xAns }])
+      return series
     }
 
+    // If x-serie pair exist - increment voteCount and go to next.
     currX.y++
-    return acc
+    return series
   }, [])
 
-  const xList = Array.from(new Set(data.map((d) => d.data.map(xy => xy.x)).flat(2)))
-  data.forEach(d => {
-    const xs = d.data.map(xy => xy.x)
-    const newXs = difference(xList, xs)
-    const newXYs = newXs.map(x => ({ x, y: 0 }))
-    d.data = sortSurveyRowsByColumn(d.data.concat(newXYs), 'x', xQuestionItem.type === 'quantity')
+  //
+  // Fill empty cells section:
+  //
+
+  // Create a unique list of all x original values
+  const dupOrigXs = graphData.map(
+    (d) => d.data.map((xy: BubbleGraphDatum) => xy.origX)
+  ).flat(2)
+  const allOrigXs = Array.from(new Set(dupOrigXs))
+
+  graphData.forEach(serie => {
+    const existingXValues = serie.data.map((xy: BubbleGraphDatumData) => xy.origX)
+    const newXs = difference(allOrigXs, existingXValues)
+    const newXYs: BubbleGraphDatumData[] = newXs.map(origX => ({ x: getLabel(origX), y: 0, origX }))
+    const data: BubbleGraphDatumData[] = concat(serie.data,newXYs)
+    serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
   })
 
-  const sortedData = sortSurveyRowsByColumn(data, 'id', yQuestionItem.type === 'quantity').reverse()
+  const sortedGraphData = graphData.sort((a, b) => sortByRate(b.origId, a.origId))
   
   // TODO: use weights here
 
-  return sortedData
+  return sortedGraphData
 }
 
 export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
@@ -60,7 +81,7 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[]
     }
   })
   const sortedData = barGraphData.sort(
-    (a, b) => smartSort(a.group, b.group, x.type === 'quantity')
+    (a, b) => sortByRate(a.group, b.group)
   )
 
   return sortedData

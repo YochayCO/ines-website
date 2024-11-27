@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { BarGraphDatum, HeatMapDatum, SmartGraphProps } from '../../types/graph';
+import { BarGraphDatum, BubbleGraphSerie, SmartGraphProps } from '../../types/graph';
 import { getBarGraphData, getBubbleGraphData } from '../../utils/graph';
 import BarPlot from '../BarPlot/BarPlot';
 import BubblePlot from '../BubblePlot/BubblePlot';
@@ -15,7 +15,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const isCategorial = x.type === 'category'
     
     if (y) {
-        const visibleData = graphData as HeatMapDatum[]
+        const visibleData = graphData as BubbleGraphSerie[]
         return (
             <BubblePlot
                 data={visibleData}

@@ -13,10 +13,12 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
   const [y, setY] = useState('')
 
   const allQuestionItems: QuestionItem[] = map(survey.meta.questions, (qi) => qi)
-  const quantityQuestionItems: QuestionItem[] = allQuestionItems.filter((qi) => qi.type == 'quantity')
+  const nonDemographyQuestionItems: QuestionItem[] = allQuestionItems.filter((qi) => qi.type !== 'demography')
 
   const xQuestionItem = allQuestionItems.find(qi => qi.column === x)
-  const yQuestionItem = quantityQuestionItems.find(qi => qi.column === y)
+  const yQuestionItem = nonDemographyQuestionItems.find(qi => qi.column === y)
+
+  const isGraphVisible = !!xQuestionItem && xQuestionItem.type !== 'demography'
   
   return (
     <>
@@ -30,9 +32,9 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
         inputLabel='Select question for Y Axis' 
         value={y}
         onChange={setY}
-        questionItems={quantityQuestionItems}
+        questionItems={nonDemographyQuestionItems}
       />
-      {!!xQuestionItem && <SmartChart
+      {isGraphVisible && <SmartChart
         survey={survey}
         x={xQuestionItem}
         y={yQuestionItem}

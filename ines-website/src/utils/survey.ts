@@ -1,5 +1,6 @@
 import Papa, { ParseError } from 'papaparse'
 import { Survey, SurveyMeta, SurveyRows } from '../types/survey'
+import { getRate } from './graph'
 
 async function fetchSurveyDataById(id: string): Promise<SurveyRows> {
     return new Promise((resolve, reject) => {
@@ -57,30 +58,8 @@ export function cleanSurvey (data: SurveyRows, errors: ParseError[]) {
 
     return data
 }
-export function sortSurveyColumn(arr: string[], isQuantitative: boolean): string[] {
-    return arr.sort((a, b) => {
-        if (isQuantitative) {
-            const [numA, numB] = [Number(a), Number(b)]
-            return Number(numA) - Number(numB)
-        } else {
-            return a.localeCompare(b)
-        }
-    })
-}
 
-export function sortSurveyRowsByColumn<T extends Record<string, unknown>>(
-    rows: T[],
-    column: keyof T,
-    isQuantitative: boolean
-): T[] {
-    return rows.sort((a,b) => smartSort(a[column],b[column], isQuantitative))
-}
-
-export function smartSort(a: unknown, b: unknown, isQuantitative: boolean) {
-    if (isQuantitative) {
-        const [numA, numB] = [Number(a), Number(b)]
-        return Number(numA) - Number(numB)
-    } else {
-        return (a as string).localeCompare(b as string)
-    }
+export function sortByRate(a: string, b: string) {
+    const [rateA, rateB] = [Number(getRate(a)), Number(getRate(b))]
+    return rateA - rateB
 }

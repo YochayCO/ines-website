@@ -1,29 +1,10 @@
-export type QuestionType = "quantity" | "category";
+export type QuestionType = "demography" | "category";
 
-export interface QuestionItemBase {
+export interface QuestionItem {
     column: string;
     description: string;
     type: QuestionType;
 }
-
-export interface CategoryQuestionItem extends QuestionItemBase {
-    type: "category";
-    values: {
-        [key: number | string]: string;
-    };
-    special_responses: {
-        [key: number | string]: Array<number>
-    };
-}
-
-export interface QuantityQuestionItem extends QuestionItemBase {
-    type: "quantity";
-    range: {
-        [key: number | string]: string;
-    };
-}
-
-export type QuestionItem = CategoryQuestionItem | QuantityQuestionItem;
 
 export interface SurveyMeta {
     id: string;
