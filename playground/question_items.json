@@ -1,0 +1,3866 @@
+[
+    {
+        "questionHebrewDescription": "ID",
+        "id": "1. ID",
+        "questionSurveyId": "ID",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ID",
+        "id": "1. ID",
+        "questionSurveyId": "resp_id",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ID",
+        "id": "1. ID",
+        "questionSurveyId": "id",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ID",
+        "id": "1. ID",
+        "questionSurveyId": "c_resp_id_~e",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ID",
+        "id": "1. ID",
+        "questionSurveyId": "resp_id",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך",
+        "id": "2. תאריך",
+        "questionSurveyId": "date",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך",
+        "id": "2. תאריך",
+        "questionSurveyId": "date",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך",
+        "id": "2. תאריך",
+        "questionSurveyId": "date",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך",
+        "id": "2. תאריך",
+        "questionSurveyId": "c_date_before",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך",
+        "id": "2. תאריך",
+        "questionSurveyId": "date",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך פוסט בחירות",
+        "id": "3. תאריך פוסט בחירות",
+        "questionSurveyId": "date_after",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך פוסט בחירות",
+        "id": "3. תאריך פוסט בחירות",
+        "questionSurveyId": "date_after",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך פוסט בחירות",
+        "id": "3. תאריך פוסט בחירות",
+        "questionSurveyId": "date_after",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך פוסט בחירות",
+        "id": "3. תאריך פוסט בחירות",
+        "questionSurveyId": "d_date_after",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאריך פוסט בחירות",
+        "id": "3. תאריך פוסט בחירות",
+        "questionSurveyId": "date_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "סקטור",
+        "id": "5. סקטור",
+        "questionSurveyId": "sector",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "סקטור",
+        "id": "5. סקטור",
+        "questionSurveyId": "sector",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "סקטור",
+        "id": "5. סקטור",
+        "questionSurveyId": "c149",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "סקטור",
+        "id": "5. סקטור",
+        "questionSurveyId": "v149",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גרסה",
+        "id": "7. גרסה",
+        "questionSurveyId": "VERSION",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גרסה",
+        "id": "7. גרסה",
+        "questionSurveyId": "girsa_c",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גרסה",
+        "id": "7. גרסה",
+        "questionSurveyId": "version",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "שפה",
+        "id": "8. שפה",
+        "questionSurveyId": "LANGUAGE",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גיל",
+        "id": "9. גיל",
+        "questionSurveyId": "age",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גיל",
+        "id": "9. גיל",
+        "questionSurveyId": "age",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גיל",
+        "id": "9. גיל",
+        "questionSurveyId": "age",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "גיל",
+        "id": "9. גיל",
+        "questionSurveyId": "age",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "לאיזו קבוצת גיל אתה משתייך?",
+        "id": "11. לאיזו קבוצת גיל אתה משתייך?",
+        "questionSurveyId": "age_group",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "לאיזו קבוצת גיל אתה משתייך?",
+        "id": "11. לאיזו קבוצת גיל אתה משתייך?",
+        "questionSurveyId": "agegroup",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "לאיזו קבוצת גיל אתה משתייך?",
+        "id": "11. לאיזו קבוצת גיל אתה משתייך?",
+        "questionSurveyId": "agegroup",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "לאיזו קבוצת גיל אתה משתייך?",
+        "id": "11. לאיזו קבוצת גיל אתה משתייך?",
+        "questionSurveyId": "agegroup",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מגדר",
+        "id": "12. מגדר",
+        "questionSurveyId": "sex",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מגדר",
+        "id": "12. מגדר",
+        "questionSurveyId": "gender",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מגדר",
+        "id": "12. מגדר",
+        "questionSurveyId": "gender",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מגדר",
+        "id": "12. מגדר",
+        "questionSurveyId": "gender",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי השכלתך?",
+        "id": "13. מהי השכלתך?",
+        "questionSurveyId": "educ",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי השכלתך?",
+        "id": "13. מהי השכלתך?",
+        "questionSurveyId": "educ",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי השכלתך?",
+        "id": "13. מהי השכלתך?",
+        "questionSurveyId": "educ",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי השכלתך?",
+        "id": "13. מהי השכלתך?",
+        "questionSurveyId": "educ",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם אתה אזרח ישראלי?",
+        "id": "15. האם אתה אזרח ישראלי?",
+        "questionSurveyId": "CITIZEN",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם אתה אזרח ישראלי?",
+        "id": "15. האם אתה אזרח ישראלי?",
+        "questionSurveyId": "v5",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם אתה אזרח ישראלי?",
+        "id": "15. האם אתה אזרח ישראלי?",
+        "questionSurveyId": "v5",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionSurveyId": "v513",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionSurveyId": "v513",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionSurveyId": "v513",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionSurveyId": "v131",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "v134",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "v134",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "v134",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "v134",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך? (עדה)",
+        "id": "19. כיצד היית מגדיר את עצמך? (עדה)",
+        "questionSurveyId": "v131",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך? (עדה)",
+        "id": "19. כיצד היית מגדיר את עצמך? (עדה)",
+        "questionSurveyId": "v135",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך? (עדה)",
+        "id": "19. כיצד היית מגדיר את עצמך? (עדה)",
+        "questionSurveyId": "v135",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את זהותך?",
+        "id": "21. איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את זהותך?",
+        "questionSurveyId": "v707a",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "והשני?",
+        "id": "22. והשני?",
+        "questionSurveyId": "v707b",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "והשלישי?",
+        "id": "23. והשלישי?",
+        "questionSurveyId": "v707c",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "id": "25. האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "questionSurveyId": "v137",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "id": "25. האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "questionSurveyId": "v137",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "id": "25. האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "questionSurveyId": "v137",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "id": "25. האם למדת את לימודייך התיכוניים או העל-תיכוניים במסגרת דתית כלשהי?",
+        "questionSurveyId": "v137",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "id": "26. ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "questionSurveyId": "v139",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "id": "26. ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "questionSurveyId": "v139",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "id": "26. ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "questionSurveyId": "v139",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "id": "26. ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "questionSurveyId": "v139",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "v140",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "v140",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "v140",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "v140",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "v141",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "v141",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "v141",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "v141",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי דתך?",
+        "id": "31. מהי דתך?",
+        "questionSurveyId": "v143_code",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי דתך?",
+        "id": "31. מהי דתך?",
+        "questionSurveyId": "v143_code",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי דתך?",
+        "id": "31. מהי דתך?",
+        "questionSurveyId": "v143_code",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהי דתך?",
+        "id": "31. מהי דתך?",
+        "questionSurveyId": "v143_code",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "id": "32. כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "questionSurveyId": "v144",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "id": "32. כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "questionSurveyId": "v144",
+        "surveyId": "2021",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "id": "32. כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "questionSurveyId": "v144",
+        "surveyId": "2020",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "id": "32. כיצד היית מגדיר את עצמך מבחינה דתית?",
+        "questionSurveyId": "v144",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהו מצבך המשפחתי?",
+        "id": "33. מהו מצבך המשפחתי?",
+        "questionSurveyId": "v129",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "v130",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "v130",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "היכן נולד אביך?",
+        "id": "38. היכן נולד אביך?",
+        "questionSurveyId": "v132",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "היכן נולדה אמך?",
+        "id": "39. היכן נולדה אמך?",
+        "questionSurveyId": "v133",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "id": "46. תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionSurveyId": "v138_code",
+        "surveyId": "2022",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "id": "46. תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionSurveyId": "v138_code",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "לאיזה מעמד חברתי אתה משייך את עצמך?",
+        "id": "49. לאיזה מעמד חברתי אתה משייך את עצמך?",
+        "questionSurveyId": "v142",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "demography"
+    },
+    {
+        "questionHebrewDescription": "מהו לדעתך מצבה של ישראל באופן כללי?",
+        "id": "1. מהו לדעתך מצבה של ישראל באופן כללי?",
+        "questionSurveyId": "v6",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהו לדעתך מצבה של ישראל באופן כללי?",
+        "id": "1. מהו לדעתך מצבה של ישראל באופן כללי?",
+        "questionSurveyId": "v6",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהו לדעתך מצבה של ישראל באופן כללי?",
+        "id": "1. מהו לדעתך מצבה של ישראל באופן כללי?",
+        "questionSurveyId": "v6",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהו לדעתך מצבה של ישראל באופן כללי?",
+        "id": "1. מהו לדעתך מצבה של ישראל באופן כללי?",
+        "questionSurveyId": "v6",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה דעתך על הדרך שבה מטפלת הממשלה בבעיות שישנן כיום במדינה?",
+        "id": "2. מה דעתך על הדרך שבה מטפלת הממשלה בבעיות שישנן כיום במדינה?",
+        "questionSurveyId": "v7",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "v8_code1",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "v8c",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "v8_code",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "c8_code",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "v8_code",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
+        "id": "4. והבעיה השנייה הכי חשובה?",
+        "questionSurveyId": "v8_code2",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "והבעיה השלישית הכי חשובה?",
+        "id": "5. והבעיה השלישית הכי חשובה?",
+        "questionSurveyId": "v8_code3",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "id": "12. באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "questionSurveyId": "v116",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "id": "12. באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "questionSurveyId": "v116",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "id": "12. באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "questionSurveyId": "v116",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "id": "12. באיזו מידה אתה מרוצה מהאופן בו המערכת הפוליטית בישראל מתפקדת כיום?",
+        "questionSurveyId": "v116",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לפעמים הפוליטיקה נראית כ\"כ מסובכת שאדם כמוני לא יכול להבין באמת מה קורה",
+        "id": "16. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לפעמים הפוליטיקה נראית כ\"כ מסובכת שאדם כמוני לא יכול להבין באמת מה קורה",
+        "questionSurveyId": "v33",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה תומך או מתנגד לצירוף של שרים מטעם מפלגות ערביות לממשלה?",
+        "id": "24. באיזו מידה אתה תומך או מתנגד לצירוף של שרים מטעם מפלגות ערביות לממשלה?",
+        "questionSurveyId": "v704",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מודאג או לא מודאג מכך שאתה או בני משפחתך עלולים להיפגע מהקורונה?",
+        "id": "149. באיזו מידה אתה מודאג או לא מודאג מכך שאתה או בני משפחתך עלולים להיפגע מהקורונה?",
+        "questionSurveyId": "v603",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "v46",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "v46",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "v46",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "v46",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "id": "2. באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionSurveyId": "v45",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "id": "2. באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionSurveyId": "v45",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "id": "2. באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionSurveyId": "v45",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "id": "2. באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionSurveyId": "v45",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם השתתפת בהפגנה בשנה האחרונה?",
+        "id": "46. האם השתתפת בהפגנה בשנה האחרונה?",
+        "questionSurveyId": "v606",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך ימין?",
+        "id": "1. בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך ימין?",
+        "questionSurveyId": "E8A_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך ימין?",
+        "id": "1. בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך ימין?",
+        "questionSurveyId": "V8A_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך שמאל?",
+        "id": "2. בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך שמאל?",
+        "questionSurveyId": "E8B_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך שמאל?",
+        "id": "2. בבחירות האלה דיברו הרבה על ימין ועל שמאל בפוליטיקה, מה זה להבנתך שמאל?",
+        "questionSurveyId": "V8B_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עם איזה זרם פוליטי אתה מזדהה?",
+        "id": "3. עם איזה זרם פוליטי אתה מזדהה?",
+        "questionSurveyId": "v53",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עם איזה זרם פוליטי אתה מזדהה?",
+        "id": "3. עם איזה זרם פוליטי אתה מזדהה?",
+        "questionSurveyId": "v53",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "v111",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "v111",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "v111",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "c111",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "v111",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על \"שמאל\" ו-\"ימין\" בפוליטיקה. כיצד היית מדרג את עצמך על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע?",
+        "id": "7. הרבה מדברים על \"שמאל\" ו-\"ימין\" בפוליטיקה. כיצד היית מדרג את עצמך על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע?",
+        "questionSurveyId": "v620",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הרבה מדברים על \"שמאל\" ו-\"ימין\" בפוליטיקה. כיצד היית מדרג את עצמך על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע?",
+        "id": "7. הרבה מדברים על \"שמאל\" ו-\"ימין\" בפוליטיקה. כיצד היית מדרג את עצמך על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע?",
+        "questionSurveyId": "v621",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עד כמה חשובה לך הזהות שלך כ(ימני/שמאלני/תומך מרכז)?",
+        "id": "11. עד כמה חשובה לך הזהות שלך כ(ימני/שמאלני/תומך מרכז)?",
+        "questionSurveyId": "v54",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם כל אחת מן הטענות הבאות: כשמישהו מעביר ביקורת על (ימנים/שמאלנים/תומכים של המרכז) זה מרגיש לך כמו עלבון אישי",
+        "id": "12. באיזו מידה אתה מסכים או לא מסכים עם כל אחת מן הטענות הבאות: כשמישהו מעביר ביקורת על (ימנים/שמאלנים/תומכים של המרכז) זה מרגיש לך כמו עלבון אישי",
+        "questionSurveyId": "v55",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כשאתה פוגש תומך אחר של (הימין/שמאל/מרכז) אתה מרגיש קשור אליו",
+        "id": "13. כשאתה פוגש תומך אחר של (הימין/שמאל/מרכז) אתה מרגיש קשור אליו",
+        "questionSurveyId": "v56",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כשאנשים אומרים דברים טובים על (ימנים/שמאלנים/תומכים של המרכז) זה גורם לך הרגשה טובה",
+        "id": "14. כשאנשים אומרים דברים טובים על (ימנים/שמאלנים/תומכים של המרכז) זה גורם לך הרגשה טובה",
+        "questionSurveyId": "v57",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: מדיניות כלכלית-חברתית",
+        "id": "18. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: מדיניות כלכלית-חברתית",
+        "questionSurveyId": "v58",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: מדיניות כלכלית-חברתית",
+        "id": "18. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: מדיניות כלכלית-חברתית",
+        "questionSurveyId": "v58",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: דת ומדינה",
+        "id": "21. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: דת ומדינה",
+        "questionSurveyId": "v59",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: דת ומדינה",
+        "id": "21. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: דת ומדינה",
+        "questionSurveyId": "v59",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שלום ושטחים",
+        "id": "22. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שלום ושטחים",
+        "questionSurveyId": "v60",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שלום ושטחים",
+        "id": "22. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שלום ושטחים",
+        "questionSurveyId": "v60",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "id": "23. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "v61",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "id": "23. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "v61",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: ביחס שלהן לדמוקרטיה",
+        "id": "24. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: ביחס שלהן לדמוקרטיה",
+        "questionSurveyId": "v62",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: ביחס שלהן לדמוקרטיה",
+        "id": "24. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: ביחס שלהן לדמוקרטיה",
+        "questionSurveyId": "v62",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ליכוד",
+        "id": "29. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ליכוד",
+        "questionSurveyId": "v620a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ליכוד",
+        "id": "29. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ליכוד",
+        "questionSurveyId": "v620A",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: עבודה",
+        "id": "30. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: עבודה",
+        "questionSurveyId": "v620c",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: עבודה",
+        "id": "30. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: עבודה",
+        "questionSurveyId": "v620C",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ש\"ס",
+        "id": "32. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ש\"ס",
+        "questionSurveyId": "v620i",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ש\"ס",
+        "id": "32. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ש\"ס",
+        "questionSurveyId": "v620I",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הבית היהודי",
+        "id": "33. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הבית היהודי",
+        "questionSurveyId": "v620s",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הבית היהודי",
+        "id": "33. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הבית היהודי",
+        "questionSurveyId": "v620S",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ישראל ביתנו",
+        "id": "34. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ישראל ביתנו",
+        "questionSurveyId": "v620h",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ישראל ביתנו",
+        "id": "34. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ישראל ביתנו",
+        "questionSurveyId": "v620H",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: מרצ",
+        "id": "35. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: מרצ",
+        "questionSurveyId": "v620f",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: מרצ",
+        "id": "35. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: מרצ",
+        "questionSurveyId": "v620F",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: כחול-לבן",
+        "id": "36. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: כחול-לבן",
+        "questionSurveyId": "v620b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: כחול-לבן",
+        "id": "36. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: כחול-לבן",
+        "questionSurveyId": "v620B",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יש עתיד",
+        "id": "37. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יש עתיד",
+        "questionSurveyId": "v620z",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יש עתיד",
+        "id": "37. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יש עתיד",
+        "questionSurveyId": "v620Z",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: תקווה חדשה",
+        "id": "38. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: תקווה חדשה",
+        "questionSurveyId": "v620X",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ימינה",
+        "id": "39. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: ימינה",
+        "questionSurveyId": "v620D",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יהדות התורה",
+        "id": "40. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יהדות התורה",
+        "questionSurveyId": "v620k",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יהדות התורה",
+        "id": "40. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: יהדות התורה",
+        "questionSurveyId": "v620K",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הרשימה המשותפת",
+        "id": "41. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הרשימה המשותפת",
+        "questionSurveyId": "v620j",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הרשימה המשותפת",
+        "id": "41. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: הרשימה המשותפת",
+        "questionSurveyId": "v620J",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: רע\"מ",
+        "id": "42. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: רע\"מ",
+        "questionSurveyId": "v620y",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: רע\"מ",
+        "id": "42. היכן היית מדרג את המפלגות הבאות על פני רצף \"שמאל-ימין\" כאשר 0 משמעו שמאל, 10 משמעו ימין ו-5 משמעו אמצע: רע\"מ",
+        "questionSurveyId": "v620Y",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "v49a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "v49A",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "v49A",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "c49_a",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "v49A",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "id": "2. מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionSurveyId": "v49b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "id": "2. מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionSurveyId": "v49B",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "id": "2. מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionSurveyId": "v49B",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "id": "2. מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionSurveyId": "c49_b",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "id": "2. מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionSurveyId": "v49B",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? יש עתיד",
+        "id": "3. מה יחסך לכל אחת מן המפלגות הבאות? יש עתיד",
+        "questionSurveyId": "v49z",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? יש עתיד",
+        "id": "3. מה יחסך לכל אחת מן המפלגות הבאות? יש עתיד",
+        "questionSurveyId": "v49Z",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "id": "6. מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionSurveyId": "v49c",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "id": "6. מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionSurveyId": "v49C",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "id": "6. מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionSurveyId": "v49C",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "id": "6. מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionSurveyId": "v49_c",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "id": "6. מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionSurveyId": "v49C",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "id": "10. מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "questionSurveyId": "v49f",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "id": "10. מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "questionSurveyId": "v49F",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "id": "10. מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "questionSurveyId": "c49_f",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "id": "10. מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "questionSurveyId": "v49F",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "id": "11. מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "questionSurveyId": "v49D",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "id": "11. מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "questionSurveyId": "v49D",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "id": "11. מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "questionSurveyId": "c49_d",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "id": "11. מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "questionSurveyId": "v49D",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? תקווה חדשה",
+        "id": "12. מה יחסך לכל אחת מן המפלגות הבאות? תקווה חדשה",
+        "questionSurveyId": "v49X",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מהמפלגות הבאות? הבית היהודי/מפד\"ל",
+        "id": "13. מה יחסך לכל אחת מהמפלגות הבאות? הבית היהודי/מפד\"ל",
+        "questionSurveyId": "v49s",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מהמפלגות הבאות? הבית היהודי/מפד\"ל",
+        "id": "13. מה יחסך לכל אחת מהמפלגות הבאות? הבית היהודי/מפד\"ל",
+        "questionSurveyId": "v49S",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מהמפלגות הבאות? הבית היהודי/מפד\"ל",
+        "id": "13. מה יחסך לכל אחת מהמפלגות הבאות? הבית היהודי/מפד\"ל",
+        "questionSurveyId": "v49E",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "id": "14. מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionSurveyId": "v49h",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "id": "14. מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionSurveyId": "v49H",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "id": "14. מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionSurveyId": "v49H",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "id": "14. מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionSurveyId": "c49_h",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "id": "14. מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionSurveyId": "v49H",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "id": "15. מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "questionSurveyId": "v49i",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "id": "15. מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "questionSurveyId": "v49I",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "id": "15. מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "questionSurveyId": "v49I",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "id": "15. מה יחסך לכל אחת מן המפלגות הבאות? ש\"ס",
+        "questionSurveyId": "v49I",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? עוצמה יהודית",
+        "id": "17. מה יחסך לכל אחת מן המפלגות הבאות? עוצמה יהודית",
+        "questionSurveyId": "v49S",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? עוצמה יהודית",
+        "id": "17. מה יחסך לכל אחת מן המפלגות הבאות? עוצמה יהודית",
+        "questionSurveyId": "v49S",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? יהדות התורה",
+        "id": "18. מה יחסך לכל אחת מן המפלגות הבאות? יהדות התורה",
+        "questionSurveyId": "v49k",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? יהדות התורה",
+        "id": "18. מה יחסך לכל אחת מן המפלגות הבאות? יהדות התורה",
+        "questionSurveyId": "v49K",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? יהדות התורה",
+        "id": "18. מה יחסך לכל אחת מן המפלגות הבאות? יהדות התורה",
+        "questionSurveyId": "v49K",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כולנו",
+        "id": "19. מה יחסך לכל אחת מן המפלגות הבאות? כולנו",
+        "questionSurveyId": "v49G",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "id": "20. מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionSurveyId": "v49j",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "id": "20. מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionSurveyId": "v49J",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "id": "20. מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionSurveyId": "v49J",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "id": "20. מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionSurveyId": "c49_j",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "id": "20. מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionSurveyId": "v49J",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? רע\"מ-בל\"ד",
+        "id": "21. מה יחסך לכל אחת מן המפלגות הבאות? רע\"מ-בל\"ד",
+        "questionSurveyId": "v49R",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? רע\"מ",
+        "id": "25. מה יחסך לכל אחת מן המפלגות הבאות? רע\"מ",
+        "questionSurveyId": "v49y",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? רע\"מ",
+        "id": "25. מה יחסך לכל אחת מן המפלגות הבאות? רע\"מ",
+        "questionSurveyId": "v49Y",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? בל\"ד",
+        "id": "26. מה יחסך לכל אחת מן המפלגות הבאות? בל\"ד",
+        "questionSurveyId": "v49t",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: הציונות הדתית",
+        "id": "27. לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: הציונות הדתית",
+        "questionSurveyId": "F49S_1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: ימינה",
+        "id": "28. לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: ימינה",
+        "questionSurveyId": "F49D_1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: הרשימה המשותפת",
+        "id": "29. לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: הרשימה המשותפת",
+        "questionSurveyId": "F49J_1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: רע\"מ",
+        "id": "30. לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: רע\"מ",
+        "questionSurveyId": "F49Y_1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: יהדות התורה",
+        "id": "31. לאחר הבחירות, מה יחסך לכל אחת מן מפלגות הבאות: יהדות התורה",
+        "questionSurveyId": "F49K_1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "id": "32. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "questionSurveyId": "v50",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "id": "32. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "questionSurveyId": "v50",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "id": "32. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "questionSurveyId": "v50",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "id": "32. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לימנים?",
+        "questionSurveyId": "v50",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "id": "33. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "questionSurveyId": "v51",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "id": "33. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "questionSurveyId": "v51",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "id": "33. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "questionSurveyId": "v51",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "id": "33. על סולם שבו 0 משמעו דחייה ושנאה, 10 משמעו תמיכה ואהדה ו-5 משמעו אמצע, מה יחסך לשמאלנים?",
+        "questionSurveyId": "v51",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לערבים?",
+        "id": "34. מה יחסך לערבים?",
+        "questionSurveyId": "v623",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לערבים?",
+        "id": "34. מה יחסך לערבים?",
+        "questionSurveyId": "v623",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לחרדים?",
+        "id": "36. מה יחסך לחרדים?",
+        "questionSurveyId": "v622a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לחרדים?",
+        "id": "36. מה יחסך לחרדים?",
+        "questionSurveyId": "v622",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה יחסך לחילונים?",
+        "id": "37. מה יחסך לחילונים?",
+        "questionSurveyId": "v622b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionSurveyId": "v52a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionSurveyId": "v52A",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionSurveyId": "v52A",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionSurveyId": "c52_a",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionSurveyId": "v52A",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionSurveyId": "v52b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionSurveyId": "v52B",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionSurveyId": "v52B",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionSurveyId": "c52_b",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionSurveyId": "v52B",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "questionSurveyId": "v52I",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "questionSurveyId": "c52_i",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "questionSurveyId": "v52I",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "questionSurveyId": "v52c",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "questionSurveyId": "v52C",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "questionSurveyId": "v52C",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אבי גבאי",
+        "id": "63. ועל אותו סולם, מה יחסך לאישים הבאים? אבי גבאי",
+        "questionSurveyId": "v52D",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
+        "id": "64. ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
+        "questionSurveyId": "c52_d",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מרב מיכאלי",
+        "id": "65. ועל אותו סולם, מה יחסך לאישים הבאים? מרב מיכאלי",
+        "questionSurveyId": "v52D",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? גדעון סער",
+        "id": "66. ועל אותו סולם, מה יחסך לאישים הבאים? גדעון סער",
+        "questionSurveyId": "v52Z",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "id": "67. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "questionSurveyId": "v52E",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "id": "67. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "questionSurveyId": "v52E",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
+        "id": "68. ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
+        "questionSurveyId": "c52_e",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בצלאל סמוטריץ'",
+        "id": "70. ועל אותו סולם, מה יחסך לאישים הבאים? בצלאל סמוטריץ'",
+        "questionSurveyId": "v52F",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? תמר זנדברג",
+        "id": "74. ועל אותו סולם, מה יחסך לאישים הבאים? תמר זנדברג",
+        "questionSurveyId": "v52G",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "id": "75. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "questionSurveyId": "v52G",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "id": "75. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "questionSurveyId": "c52_g",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
+        "id": "76. ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
+        "questionSurveyId": "v52H",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
+        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
+        "questionSurveyId": "v52J",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "questionSurveyId": "v52K",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "questionSurveyId": "v52K",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "questionSurveyId": "c52_k",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "questionSurveyId": "v52K",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "questionSurveyId": "v52R",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "questionSurveyId": "v52R",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
+        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
+        "questionSurveyId": "v52S",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
+        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
+        "questionSurveyId": "v52S",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מטאנס שחאדה",
+        "id": "83. ועל אותו סולם, מה יחסך לאישים הבאים? מטאנס שחאדה",
+        "questionSurveyId": "v52T",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
+        "id": "84. ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
+        "questionSurveyId": "v52U",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאיזו מפלגה אתה מרגיש הכי קרוב?",
+        "id": "92. לאיזו מפלגה אתה מרגיש הכי קרוב?",
+        "questionSurveyId": "v75",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עד כמה חשובה לך הזהות שלך כתומך ב(המפלגה שציין המרואיין)?",
+        "id": "93. עד כמה חשובה לך הזהות שלך כתומך ב(המפלגה שציין המרואיין)?",
+        "questionSurveyId": "v76",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם כל אחת מן הטענות הבאות: כשמישהו מעביר ביקורת על תומכים של (המפלגה שציין) זה מרגיש לך כמו עלבון אישי",
+        "id": "94. באיזו מידה אתה מסכים או לא מסכים עם כל אחת מן הטענות הבאות: כשמישהו מעביר ביקורת על תומכים של (המפלגה שציין) זה מרגיש לך כמו עלבון אישי",
+        "questionSurveyId": "v77",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כשאתה פוגש מישהו שתומך ב(המפלגה שציין) אתה מרגיש קשור אליו",
+        "id": "95. כשאתה פוגש מישהו שתומך ב(המפלגה שציין) אתה מרגיש קשור אליו",
+        "questionSurveyId": "v78",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כשאנשים אומרים דברים טובים על תומכים של (המפלגה שציין) זה גורם לך להרגשה טובה",
+        "id": "96. כשאנשים אומרים דברים טובים על תומכים של (המפלגה שציין) זה גורם לך להרגשה טובה",
+        "questionSurveyId": "v79",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה את גאה להיות ישראלי?",
+        "id": "97. באיזו מידה את גאה להיות ישראלי?",
+        "questionSurveyId": "N11",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה את גאה להיות ישראלי?",
+        "id": "97. באיזו מידה את גאה להיות ישראלי?",
+        "questionSurveyId": "v11_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "נתחיל מהאירועים שהובילו לבחירות החוזרות ב-17 בספטמבר, לאחר שנתניהו לא הצליח להרכיב ממשלה. עד כמה לדעתך, כל אחד מהדברים הבאים, היה ראוי או לא ראוי בעינייך: שהכנסת החליטה לפזר עצמה ולקיים בחירות חדשות",
+        "id": "105. נתחיל מהאירועים שהובילו לבחירות החוזרות ב-17 בספטמבר, לאחר שנתניהו לא הצליח להרכיב ממשלה. עד כמה לדעתך, כל אחד מהדברים הבאים, היה ראוי או לא ראוי בעינייך: שהכנסת החליטה לפזר עצמה ולקיים בחירות חדשות",
+        "questionSurveyId": "c301",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "שנתניהו לא החזיר את המנדט לנשיא בתום התקופה שקיבל להרכיב קואליציה",
+        "id": "106. שנתניהו לא החזיר את המנדט לנשיא בתום התקופה שקיבל להרכיב קואליציה",
+        "questionSurveyId": "c302",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "שליברמן לא נכנס לקואליציה למרות שהתחייב לקואליציית ימין בראשות נתניהו",
+        "id": "107. שליברמן לא נכנס לקואליציה למרות שהתחייב לקואליציית ימין בראשות נתניהו",
+        "questionSurveyId": "c303",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "שמפלגות מהמרכז ומהשמאל פסלו ישיבה בממשלה בראשות נתניהו בשל כתבי האישום נגדו",
+        "id": "108. שמפלגות מהמרכז ומהשמאל פסלו ישיבה בממשלה בראשות נתניהו בשל כתבי האישום נגדו",
+        "questionSurveyId": "c304",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "שהמשא ומתן הקואליציוני התמקד בנושאים האישיים של נתניהו ולא בנושאי מדיניות",
+        "id": "109. שהמשא ומתן הקואליציוני התמקד בנושאים האישיים של נתניהו ולא בנושאי מדיניות",
+        "questionSurveyId": "c305",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: כעס",
+        "id": "110. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: כעס",
+        "questionSurveyId": "c306",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: גועל",
+        "id": "111. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: גועל",
+        "questionSurveyId": "c307",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: תקווה",
+        "id": "112. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: תקווה",
+        "questionSurveyId": "c308",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: ייאוש",
+        "id": "113. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: ייאוש",
+        "questionSurveyId": "c309",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות: מה יחסך לימנים?",
+        "id": "179. לאחר הבחירות: מה יחסך לימנים?",
+        "questionSurveyId": "N50",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות: מה יחסך לשמאלנים?",
+        "id": "180. לאחר הבחירות: מה יחסך לשמאלנים?",
+        "questionSurveyId": "N51",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות: מה יחסך לחרדים?",
+        "id": "181. לאחר הבחירות: מה יחסך לחרדים?",
+        "questionSurveyId": "N622a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות: מה יחסך לחילונים?",
+        "id": "182. לאחר הבחירות: מה יחסך לחילונים?",
+        "questionSurveyId": "N622b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאחר הבחירות: מה יחסך לערבים (לערבים: מה יחסך ליהודים)?",
+        "id": "183. לאחר הבחירות: מה יחסך לערבים (לערבים: מה יחסך ליהודים)?",
+        "questionSurveyId": "N623",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לפניך רשימה של תכונות של מנהיגים. לגבי כל אחת מהתכונות ציין למי היא מתאימה יותר? האם \"כושר מנהיגות\" מתאים יותר ל:",
+        "id": "42. לפניך רשימה של תכונות של מנהיגים. לגבי כל אחת מהתכונות ציין למי היא מתאימה יותר? האם \"כושר מנהיגות\" מתאים יותר ל:",
+        "questionSurveyId": "v70",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם \"אכפתיות מאנשים כמוך\" מתאימה יותר ל:",
+        "id": "44. האם \"אכפתיות מאנשים כמוך\" מתאימה יותר ל:",
+        "questionSurveyId": "v71",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם \"יושר והגינות\" מתאים יותר ל:",
+        "id": "45. האם \"יושר והגינות\" מתאים יותר ל:",
+        "questionSurveyId": "v72",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "v63",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "v63",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "v63",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "v63",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "id": "4. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "questionSurveyId": "v64",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "id": "4. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "questionSurveyId": "v64",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "id": "4. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "questionSurveyId": "v64",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "id": "4. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "questionSurveyId": "v64",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "id": "7. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "questionSurveyId": "v65",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "id": "7. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "questionSurveyId": "v65",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "id": "7. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "questionSurveyId": "v65",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "id": "7. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? דת ומדינה",
+        "questionSurveyId": "v65",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "id": "8. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionSurveyId": "v66",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "id": "8. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionSurveyId": "v66",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "id": "8. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionSurveyId": "v66",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "id": "8. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionSurveyId": "v66",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? בטחון וטרור",
+        "id": "9. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? בטחון וטרור",
+        "questionSurveyId": "v67",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? בטחון וטרור",
+        "id": "9. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? בטחון וטרור",
+        "questionSurveyId": "v67",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "id": "10. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "questionSurveyId": "v68",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "id": "10. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "questionSurveyId": "v68",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "id": "10. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "questionSurveyId": "v68",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "id": "10. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "questionSurveyId": "v68",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "id": "11. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "questionSurveyId": "v69",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "id": "11. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "questionSurveyId": "v69",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "id": "11. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "questionSurveyId": "v69",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "id": "11. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? היחס לדמוקרטיה",
+        "questionSurveyId": "v69",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? השיקול למנוע בחירות נוספות",
+        "id": "12. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? השיקול למנוע בחירות נוספות",
+        "questionSurveyId": "v504",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? השיקול למנוע בחירות נוספות",
+        "id": "12. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? השיקול למנוע בחירות נוספות",
+        "questionSurveyId": "v504",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? השיקול למנוע בחירות נוספות",
+        "id": "12. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? השיקול למנוע בחירות נוספות",
+        "questionSurveyId": "v504",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? משבר הקורונה",
+        "id": "18. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? משבר הקורונה",
+        "questionSurveyId": "v608",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "v104",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "v104",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "v104E",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "c104",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "v104",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "(עבור מי שהשיב 'לא החליט', 'לא יודע', 'מסרב להשיב') האם הנטייה שלך היא להצביע למפלגת:",
+        "id": "21. (עבור מי שהשיב 'לא החליט', 'לא יודע', 'מסרב להשיב') האם הנטייה שלך היא להצביע למפלגת:",
+        "questionSurveyId": "v104a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "v706",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "v610",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "v507",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "v108",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת במערכת הבחירות הלפני אחרונה? (שתי מערכות אחורה)",
+        "id": "26. עבור איזו רשימה הצבעת במערכת הבחירות הלפני אחרונה? (שתי מערכות אחורה)",
+        "questionSurveyId": "v508",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת במערכת הבחירות הלפני לפני אחרונה? (שלוש מערכות אחורה)",
+        "id": "27. עבור איזו רשימה הצבעת במערכת הבחירות הלפני לפני אחרונה? (שלוש מערכות אחורה)",
+        "questionSurveyId": "v509",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם הצבעת בבחירות האחרונות לכנסת?",
+        "id": "29. האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "F1",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם הצבעת בבחירות האחרונות לכנסת?",
+        "id": "29. האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "F1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם הצבעת בבחירות האחרונות לכנסת?",
+        "id": "29. האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "E1_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם הצבעת בבחירות האחרונות לכנסת?",
+        "id": "29. האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "D1",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם הצבעת בבחירות האחרונות לכנסת?",
+        "id": "29. האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "v1_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "F2",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "F2",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "E2_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "D2",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "v2_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בבחירות האלה אחוז החסימה מאפשר רק למפלגה שתקבל ארבעה מנדטים לפחות להכנס לכנסת. אם הסקרים שיפורסמו קרוב לבחירות יראו שלא בטוח שהמפלגה עבורה אתה מתכוון להצביע תעבור את אחוז החסימה, האם זה יגרום לך לשנות את הצבעתך?",
+        "id": "40. בבחירות האלה אחוז החסימה מאפשר רק למפלגה שתקבל ארבעה מנדטים לפחות להכנס לכנסת. אם הסקרים שיפורסמו קרוב לבחירות יראו שלא בטוח שהמפלגה עבורה אתה מתכוון להצביע תעבור את אחוז החסימה, האם זה יגרום לך לשנות את הצבעתך?",
+        "questionSurveyId": "v105",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאיזו מפלגה תעבור?",
+        "id": "41. לאיזו מפלגה תעבור?",
+        "questionSurveyId": "v105E",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "id": "43. מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionSurveyId": "F3",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "id": "43. מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionSurveyId": "F3",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "id": "43. מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionSurveyId": "v3_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "id": "46. באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "questionSurveyId": "F5",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "id": "46. באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "questionSurveyId": "F5",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "id": "46. באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "questionSurveyId": "v5_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה השיקול אם המפלגה תשב או לא תשב תחת נתניהו כראש ממשלה, ישפיע או לא ישפיע על ההצבעה שלך?",
+        "id": "195. באיזו מידה השיקול אם המפלגה תשב או לא תשב תחת נתניהו כראש ממשלה, ישפיע או לא ישפיע על ההצבעה שלך?",
+        "questionSurveyId": "v609",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה השיקול אם המפלגה תשב או לא תשב תחת נתניהו כראש ממשלה, ישפיע או לא ישפיע על ההצבעה שלך?",
+        "id": "195. באיזו מידה השיקול אם המפלגה תשב או לא תשב תחת נתניהו כראש ממשלה, ישפיע או לא ישפיע על ההצבעה שלך?",
+        "questionSurveyId": "v609",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionSurveyId": "v106",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionSurveyId": "v106",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionSurveyId": "v106",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionSurveyId": "c106",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionSurveyId": "v106",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionSurveyId": "v107",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionSurveyId": "v107",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionSurveyId": "v107",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionSurveyId": "c107",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionSurveyId": "v107",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "id": "55. באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "questionSurveyId": "F4",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "id": "55. באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "questionSurveyId": "E4_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "id": "55. באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "questionSurveyId": "D4",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "id": "55. באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "questionSurveyId": "v4_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionSurveyId": "F9",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionSurveyId": "F9",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionSurveyId": "E9_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionSurveyId": "D9",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionSurveyId": "v9_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מבין שתי האפשרויות הבאות, מה אתה מעדיף?",
+        "id": "58. מבין שתי האפשרויות הבאות, מה אתה מעדיף?",
+        "questionSurveyId": "N2",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionSurveyId": "F7",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionSurveyId": "F7",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionSurveyId": "E7_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionSurveyId": "D7",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionSurveyId": "v7_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש כל מיני דעות \"על מה\" היו הבחירות האחרונות. באיזו מידה אתה מסכים או לא מסכים עם כל אחד מהמשפטים הבאים: הבחירות האלה היו משאל עם על נתניהו",
+        "id": "2. יש כל מיני דעות \"על מה\" היו הבחירות האחרונות. באיזו מידה אתה מסכים או לא מסכים עם כל אחד מהמשפטים הבאים: הבחירות האלה היו משאל עם על נתניהו",
+        "questionSurveyId": "v6A_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות האלה היו בעיקר על עתיד הדמוקרטיה בישראל",
+        "id": "4. הבחירות האלה היו בעיקר על עתיד הדמוקרטיה בישראל",
+        "questionSurveyId": "v6B_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות מצביעות בעיקר על כך שלעם נמאס שהתקשורת נגד נתניהו",
+        "id": "5. הבחירות מצביעות בעיקר על כך שלעם נמאס שהתקשורת נגד נתניהו",
+        "questionSurveyId": "v6C_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות היו בעיקר על איך להתמודד עם האיומים הביטחוניים שמסביבנו",
+        "id": "6. הבחירות היו בעיקר על איך להתמודד עם האיומים הביטחוניים שמסביבנו",
+        "questionSurveyId": "v6D_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות הראו שהעם מרוצה מהמצב הכלכלי-חברתי",
+        "id": "7. הבחירות הראו שהעם מרוצה מהמצב הכלכלי-חברתי",
+        "questionSurveyId": "v6E_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות היו על מקומם של האזרחים הערבים בישראל לאור חוק הלאום",
+        "id": "8. הבחירות היו על מקומם של האזרחים הערבים בישראל לאור חוק הלאום",
+        "questionSurveyId": "v6F_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות מצביעות על כך שהעם רוצה מפלגות גדולות",
+        "id": "9. הבחירות מצביעות על כך שהעם רוצה מפלגות גדולות",
+        "questionSurveyId": "v6G_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות מצביעות על כך שהעם רוצה ימין",
+        "id": "10. הבחירות מצביעות על כך שהעם רוצה ימין",
+        "questionSurveyId": "v6H_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הבחירות היו בעיקר על פרשות השחיתות",
+        "id": "12. הבחירות היו בעיקר על פרשות השחיתות",
+        "questionSurveyId": "v6I_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישראל הולכת עכשיו בפעם השלישית לבחירות בתוך פחות משנה. מבין הדברים הבאים, מה הכי מפריע לך, אם בכלל, במצב שנוצר:",
+        "id": "64. ישראל הולכת עכשיו בפעם השלישית לבחירות בתוך פחות משנה. מבין הדברים הבאים, מה הכי מפריע לך, אם בכלל, במצב שנוצר:",
+        "questionSurveyId": "v501",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישראל הולכת לבחירות בפעם הרביעית בתוך פחות משנתיים. מבין הדברים הבאים, מהי לדעתך הסיבה המרכזית לכך?",
+        "id": "65. ישראל הולכת לבחירות בפעם הרביעית בתוך פחות משנתיים. מבין הדברים הבאים, מהי לדעתך הסיבה המרכזית לכך?",
+        "questionSurveyId": "v601",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ישראל הולכת לבחירות בפעם הרביעית בתוך פחות משנתיים. מבין הדברים הבאים, מהי לדעתך הסיבה המרכזית לכך?",
+        "id": "65. ישראל הולכת לבחירות בפעם הרביעית בתוך פחות משנתיים. מבין הדברים הבאים, מהי לדעתך הסיבה המרכזית לכך?",
+        "questionSurveyId": "v601",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה דעתך על הדרך שבה הממשלה מטפלת במשבר הקורונה?",
+        "id": "66. מה דעתך על הדרך שבה הממשלה מטפלת במשבר הקורונה?",
+        "questionSurveyId": "v604",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל יותר טוב במשבר הקורונה?",
+        "id": "67. מי לדעתך יטפל יותר טוב במשבר הקורונה?",
+        "questionSurveyId": "v607",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לגבי שיתוף פעולה עם מפלגות ערביות בהקמת הממשלה, האם אתה: ",
+        "id": "69. לגבי שיתוף פעולה עם מפלגות ערביות בהקמת הממשלה, האם אתה: ",
+        "questionSurveyId": "N1",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לגבי שיתוף פעולה עם מפלגות ערביות בהקמת הממשלה, האם אתה: ",
+        "id": "69. לגבי שיתוף פעולה עם מפלגות ערביות בהקמת הממשלה, האם אתה: ",
+        "questionSurveyId": "N1",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה דעתך על השתתפולה של רע\"מ בראשות מנסור עבאס בקואליציה האחרונה?",
+        "id": "70. מה דעתך על השתתפולה של רע\"מ בראשות מנסור עבאס בקואליציה האחרונה?",
+        "questionSurveyId": "v705",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "v20",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "v20",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "v20",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "c20",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "v20",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית הכלכלה והחברה של המדינה?",
+        "id": "4. מי לדעתך יטפל טוב יותר בבעיית הכלכלה והחברה של המדינה?",
+        "questionSurveyId": "v47",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית הכלכלה והחברה של המדינה?",
+        "id": "4. מי לדעתך יטפל טוב יותר בבעיית הכלכלה והחברה של המדינה?",
+        "questionSurveyId": "v47",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית הכלכלה והחברה של המדינה?",
+        "id": "4. מי לדעתך יטפל טוב יותר בבעיית הכלכלה והחברה של המדינה?",
+        "questionSurveyId": "v47",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך המצב הכלכלי במדינה ב-4 השנים האחרונות השתפר, לא השתנה או נעשה גרוע יותר?",
+        "id": "10. האם לדעתך המצב הכלכלי במדינה ב-4 השנים האחרונות השתפר, לא השתנה או נעשה גרוע יותר?",
+        "questionSurveyId": "v9",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך המצב הכלכלי במדינה ב-4 השנים האחרונות השתפר, לא השתנה או נעשה גרוע יותר?",
+        "id": "10. האם לדעתך המצב הכלכלי במדינה ב-4 השנים האחרונות השתפר, לא השתנה או נעשה גרוע יותר?",
+        "questionSurveyId": "v9",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה לגבי מצבך האישי; האם היית אומר שב-4 השנים האחרונות מצבך האישי:",
+        "id": "11. ומה לגבי מצבך האישי; האם היית אומר שב-4 השנים האחרונות מצבך האישי:",
+        "questionSurveyId": "v10",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה לגבי מצבך האישי; האם היית אומר שב-4 השנים האחרונות מצבך האישי:",
+        "id": "11. ומה לגבי מצבך האישי; האם היית אומר שב-4 השנים האחרונות מצבך האישי:",
+        "questionSurveyId": "v10",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אה מסכים או לא מסכים למשפטים הבאים? אנשים עם הכנסה גבוהה צריכים לשלם יותר מיסים ממה שהם משלמים היום",
+        "id": "12. באיזו מידה אה מסכים או לא מסכים למשפטים הבאים? אנשים עם הכנסה גבוהה צריכים לשלם יותר מיסים ממה שהם משלמים היום",
+        "questionSurveyId": "v23",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש החושבים כי על הממשלה לדאוג שלכל אדם תהיה עבודה ורמת חיים סבירה. אחרים חושבים שעל הממשלה לא להתערב ולתת לכל אדם להסתדר בעצמו. ומה דעתך?",
+        "id": "13. יש החושבים כי על הממשלה לדאוג שלכל אדם תהיה עבודה ורמת חיים סבירה. אחרים חושבים שעל הממשלה לא להתערב ולתת לכל אדם להסתדר בעצמו. ומה דעתך?",
+        "questionSurveyId": "v702",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בהשוואה למצבך הכלכלי לפני שנה, כלומר לפני שפרצה מגפת הקורונה, האם כיום מצבך הכלכלי האישי:",
+        "id": "117. בהשוואה למצבך הכלכלי לפני שנה, כלומר לפני שפרצה מגפת הקורונה, האם כיום מצבך הכלכלי האישי:",
+        "questionSurveyId": "v602",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בחברה שלנו, יש אנשים שנוטים להיות בצמרת החברה ויש אנשים שנוטים להיות בתחתית. לפניך סולם הנע מהצמרת לתחתית. היכן היית ממקם/ת את עצמך בסולם זה כיום?",
+        "id": "118. בחברה שלנו, יש אנשים שנוטים להיות בצמרת החברה ויש אנשים שנוטים להיות בתחתית. לפניך סולם הנע מהצמרת לתחתית. היכן היית ממקם/ת את עצמך בסולם זה כיום?",
+        "questionSurveyId": "v712",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "id": "1. אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "questionSurveyId": "v15a",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "id": "1. אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "questionSurveyId": "v15A",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "id": "1. אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "questionSurveyId": "v15",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "id": "1. אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "questionSurveyId": "v15",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזה שני בחשיבותו?",
+        "id": "2. ואיזה שני בחשיבותו?",
+        "questionSurveyId": "v15b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזה שני בחשיבותו?",
+        "id": "2. ואיזה שני בחשיבותו?",
+        "questionSurveyId": "v15B",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזה שני בחשיבותו?",
+        "id": "2. ואיזה שני בחשיבותו?",
+        "questionSurveyId": "v16",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ואיזה שני בחשיבותו?",
+        "id": "2. ואיזה שני בחשיבותו?",
+        "questionSurveyId": "v16",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה השלישי בחשיבותו?",
+        "id": "3. ומה השלישי בחשיבותו?",
+        "questionSurveyId": "v15c",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה השלישי בחשיבותו?",
+        "id": "3. ומה השלישי בחשיבותו?",
+        "questionSurveyId": "v17",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה הרביעי בחשיבותו?",
+        "id": "4. ומה הרביעי בחשיבותו?",
+        "questionSurveyId": "v18",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "v21",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "v21",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "v21",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "c21",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "v21",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עד כמה חשובה לך הזהות שלך כישראלי?",
+        "id": "6. עד כמה חשובה לך הזהות שלך כישראלי?",
+        "questionSurveyId": "v117",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ועד כמה חשובה לך הזהות שלך כיהודי (לערבים \"כפלשתיני\")?",
+        "id": "7. ועד כמה חשובה לך הזהות שלך כיהודי (לערבים \"כפלשתיני\")?",
+        "questionSurveyId": "v118",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש להנהיג נישואים אזרחיים בנוסף לנישואים דתיים בישראל",
+        "id": "9. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש להנהיג נישואים אזרחיים בנוסף לנישואים דתיים בישראל",
+        "questionSurveyId": "v36",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "id": "1. מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "questionSurveyId": "v48",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "id": "1. מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "questionSurveyId": "v48",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "id": "1. מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "questionSurveyId": "v48",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "id": "1. מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "questionSurveyId": "v48",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה לגבי המצב הביטחוני במדינה - האם לדעתך ב-4 השנים האחרונות הוא השתפר, לא השתנה או נעשה גרוע יותר?",
+        "id": "5. ומה לגבי המצב הביטחוני במדינה - האם לדעתך ב-4 השנים האחרונות הוא השתפר, לא השתנה או נעשה גרוע יותר?",
+        "questionSurveyId": "v11",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ומה לגבי המצב הביטחוני במדינה - האם לדעתך ב-4 השנים האחרונות הוא השתפר, לא השתנה או נעשה גרוע יותר?",
+        "id": "5. ומה לגבי המצב הביטחוני במדינה - האם לדעתך ב-4 השנים האחרונות הוא השתפר, לא השתנה או נעשה גרוע יותר?",
+        "questionSurveyId": "v11",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מודאג או לא מודאג מגך שאתה או בני משפחתך עלולים להיפגע בדי מחבלים בחיי היום יום שלכם?",
+        "id": "6. באיזו מידה אתה מודאג או לא מודאג מגך שאתה או בני משפחתך עלולים להיפגע בדי מחבלים בחיי היום יום שלכם?",
+        "questionSurveyId": "v14",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מודאג או לא מודאג מגך שאתה או בני משפחתך עלולים להיפגע בדי מחבלים בחיי היום יום שלכם?",
+        "id": "6. באיזו מידה אתה מודאג או לא מודאג מגך שאתה או בני משפחתך עלולים להיפגע בדי מחבלים בחיי היום יום שלכם?",
+        "questionSurveyId": "v14",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "id": "1. האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "questionSurveyId": "v12",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "id": "1. האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "questionSurveyId": "v12",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "id": "1. האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "questionSurveyId": "v12",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "id": "1. האם לדעתך ניתן להגיע להסכם שלום עם הפלסטינים?",
+        "questionSurveyId": "v12",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על מה אתה חושב שישראל צריכה לשים את הדגש כדי למנוע מלחמה בינה לבין שכנותיה?",
+        "id": "6. על מה אתה חושב שישראל צריכה לשים את הדגש כדי למנוע מלחמה בינה לבין שכנותיה?",
+        "questionSurveyId": "v13",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "על מה אתה חושב שישראל צריכה לשים את הדגש כדי למנוע מלחמה בינה לבין שכנותיה?",
+        "id": "6. על מה אתה חושב שישראל צריכה לשים את הדגש כדי למנוע מלחמה בינה לבין שכנותיה?",
+        "questionSurveyId": "v13",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "v19",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "v19",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "v19",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "c19",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "v19",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מהי לדעתך שאיפת הפלסטינים בסופו של דבר?",
+        "id": "8. מהי לדעתך שאיפת הפלסטינים בסופו של דבר?",
+        "questionSurveyId": "v700",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה דעתך על תכנית השלום של טראמפ, המכונה תכנית המאה, שכוללת החלת ריבונות ישראלית בבקעת הירדן ובישובים היהודים ביהודה ושומרון, ובהמשך מדינה פלסטינית בכ-70% משטח יהודה ושומרון. האם אתה תומך או מתנגד?",
+        "id": "32. מה דעתך על תכנית השלום של טראמפ, המכונה תכנית המאה, שכוללת החלת ריבונות ישראלית בבקעת הירדן ובישובים היהודים ביהודה ושומרון, ובהמשך מדינה פלסטינית בכ-70% משטח יהודה ושומרון. האם אתה תומך או מתנגד?",
+        "questionSurveyId": "v514",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מבין הפתרונות הבאים לסיום הסכסוך הישראלי-פלסטיני, איזה מועדף עליך ביותר?",
+        "id": "126. מבין הפתרונות הבאים לסיום הסכסוך הישראלי-פלסטיני, איזה מועדף עליך ביותר?",
+        "questionSurveyId": "v701",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "id": "1. באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "questionSurveyId": "v115",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "id": "1. באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "questionSurveyId": "v115",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "id": "1. באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "questionSurveyId": "v115",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "id": "1. באיזו מידה ישראל מתנהלת כיום בצורה דמוקרטית?",
+        "questionSurveyId": "v115",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: אתה מרגיש מחויב למשטר הדמוקרטי בישראל, גם אם יש תקופות שבהן ההחלטות לא מוצאות חן בעיניך?",
+        "id": "2. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: אתה מרגיש מחויב למשטר הדמוקרטי בישראל, גם אם יש תקופות שבהן ההחלטות לא מוצאות חן בעיניך?",
+        "questionSurveyId": "v119",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל יש צורך במנהיג חזק שלא יתחשב בכנסת ובבחירות",
+        "id": "3. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל יש צורך במנהיג חזק שלא יתחשב בכנסת ובבחירות",
+        "questionSurveyId": "v120",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: יש פעמים שנדמה שעדיף לחרוג מכללי המשחק הדמוקרטיים כדי להשיג שינוי משמעותי",
+        "id": "4. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: יש פעמים שנדמה שעדיף לחרוג מכללי המשחק הדמוקרטיים כדי להשיג שינוי משמעותי",
+        "questionSurveyId": "v121",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: המדינה צריכה להבטיח שוויון זכויות חברתי ופוליטי מלא לכל האזרחים ללא הבדל זת גזע ומין",
+        "id": "5. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: המדינה צריכה להבטיח שוויון זכויות חברתי ופוליטי מלא לכל האזרחים ללא הבדל זת גזע ומין",
+        "questionSurveyId": "v122",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: יש להבטיח חופש ביטוי גם לאנשים המתבטאים נגד המדינה",
+        "id": "6. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: יש להבטיח חופש ביטוי גם לאנשים המתבטאים נגד המדינה",
+        "questionSurveyId": "v123",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה מידת האמון שיש לך ב: ממשלה",
+        "id": "8. מה מידת האמון שיש לך ב: ממשלה",
+        "questionSurveyId": "v125",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה מידת האמון שיש לך ב: כנסת",
+        "id": "9. מה מידת האמון שיש לך ב: כנסת",
+        "questionSurveyId": "v126",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה מידת האמון שיש לך ב: בית המשפט העליון",
+        "id": "10. מה מידת האמון שיש לך ב: בית המשפט העליון",
+        "questionSurveyId": "v127",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "מה מידת האמון שיש לך ב: פוליטיקאים",
+        "id": "11. מה מידת האמון שיש לך ב: פוליטיקאים",
+        "questionSurveyId": "v128",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "אנשים שונים מייחסים משמעות שונה למונח \"דמוקרטיה\". במילה אחת או שתיים מהו לדעתך המאפיין החשוב והמהותי ביותר של המשטר הדמוקרטי?",
+        "id": "22. אנשים שונים מייחסים משמעות שונה למונח \"דמוקרטיה\". במילה אחת או שתיים מהו לדעתך המאפיין החשוב והמהותי ביותר של המשטר הדמוקרטי?",
+        "questionSurveyId": "v512_code",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "questionSurveyId": "F10",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "questionSurveyId": "F10",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "questionSurveyId": "E10_after",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "questionSurveyId": "v10_after",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה חשוב לך לחיות במדינה שמתנהלת באופן דמוקרטי?",
+        "id": "25. באיזו מידה חשוב לך לחיות במדינה שמתנהלת באופן דמוקרטי?",
+        "questionSurveyId": "v114",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
+        "id": "29. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
+        "questionSurveyId": "v703",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לעומת דמוקרטיות אחרות, האם להערכתך המערכת הפוליטית בישראל יציבה או לא יציבה?",
+        "id": "79. לעומת דמוקרטיות אחרות, האם להערכתך המערכת הפוליטית בישראל יציבה או לא יציבה?",
+        "questionSurveyId": "v616",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם להערכתך ממשלות בישראל שורדות בשלטון זמן קצר, משך זמן דומה, או זמן ארוך יותר לעומת דמוקרטיות אחרות?",
+        "id": "87. האם להערכתך ממשלות בישראל שורדות בשלטון זמן קצר, משך זמן דומה, או זמן ארוך יותר לעומת דמוקרטיות אחרות?",
+        "questionSurveyId": "v617",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לעומת דמקרטיות אחרות, האם להערכתך, ממשלות בישראל מצליחות או לא מצליחות להעביר את המדיניות שהן רוצות?",
+        "id": "88. לעומת דמקרטיות אחרות, האם להערכתך, ממשלות בישראל מצליחות או לא מצליחות להעביר את המדיניות שהן רוצות?",
+        "questionSurveyId": "v618",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל עדיף שמומחים, ולא נציגים נבחרים, יקבלו החלטות על הבסיס הבנתם מה טוב למדינה",
+        "id": "89. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל עדיף שמומחים, ולא נציגים נבחרים, יקבלו החלטות על הבסיס הבנתם מה טוב למדינה",
+        "questionSurveyId": "v619",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "עם איזו משתי הטענות הבאות לגבי מהות הדמוקרטיה את/ה מסכים/ה יותר: הטענה האומרת שכל משטר הפועל על פי עקרון הכרעת הרוב הוא משטר דמוקרטי, או עם הטענה שאומרת שכדי שמשטר יהיה דמוקרטי באמת הוא צריך לשמור גם על עוד עקרונות, כמו למשל זכויות אדם וחופש ביטוי?",
+        "id": "90. עם איזו משתי הטענות הבאות לגבי מהות הדמוקרטיה את/ה מסכים/ה יותר: הטענה האומרת שכל משטר הפועל על פי עקרון הכרעת הרוב הוא משטר דמוקרטי, או עם הטענה שאומרת שכדי שמשטר יהיה דמוקרטי באמת הוא צריך לשמור גם על עוד עקרונות, כמו למשל זכויות אדם וחופש ביטוי?",
+        "questionSurveyId": "v708",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו תדירות אתה נוהג להתעדכן בחדשות בעיתון יומי, בטלוויזיה, ברדיו או באינטרנט?",
+        "id": "1. באיזו תדירות אתה נוהג להתעדכן בחדשות בעיתון יומי, בטלוויזיה, ברדיו או באינטרנט?",
+        "questionSurveyId": "v601b",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו תדירות אתה נוהג להתעדכן בחדשות בעיתון יומי, בטלוויזיה, ברדיו או באינטרנט?",
+        "id": "1. באיזו תדירות אתה נוהג להתעדכן בחדשות בעיתון יומי, בטלוויזיה, ברדיו או באינטרנט?",
+        "questionSurveyId": "v611",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו תדירות אתה נוהג להתעדכן בחדשות בעיתון יומי, בטלוויזיה, ברדיו או באינטרנט?",
+        "id": "1. באיזו תדירות אתה נוהג להתעדכן בחדשות בעיתון יומי, בטלוויזיה, ברדיו או באינטרנט?",
+        "questionSurveyId": "v505",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כמה פעמים בשבוע האחרון קראת מידע פוליטי וחדשותי ברשתות החברתיות שאתה פעיל בהן (כמו פייסבוק, וואטספ, אינסטגרם וכד')",
+        "id": "2. כמה פעמים בשבוע האחרון קראת מידע פוליטי וחדשותי ברשתות החברתיות שאתה פעיל בהן (כמו פייסבוק, וואטספ, אינסטגרם וכד')",
+        "questionSurveyId": "v506",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כמה פעמים בשבוע האחרון קראת מידע פוליטי וחדשותי ברשתות החברתיות שאתה פעיל בהן (כמו פייסבוק, וואטספ, אינסטגרם וכד')",
+        "id": "2. כמה פעמים בשבוע האחרון קראת מידע פוליטי וחדשותי ברשתות החברתיות שאתה פעיל בהן (כמו פייסבוק, וואטספ, אינסטגרם וכד')",
+        "questionSurveyId": "v506",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "כמה פעמים בשבוע האחרון קראת מידע פוליטי וחדשותי ברשתות החברתיות שאתה פעיל בהן (כמו פייסבוק, וואטספ, אינסטגרם וכד')",
+        "id": "2. כמה פעמים בשבוע האחרון קראת מידע פוליטי וחדשותי ברשתות החברתיות שאתה פעיל בהן (כמו פייסבוק, וואטספ, אינסטגרם וכד')",
+        "questionSurveyId": "v506",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בדרך כלל, באיזו מידה אתה משתמש בכל אחד מאמצעי התקשרות הבאים לצריכת חדשות ומידע פוליטי: אתרי חדשות או עיתונים",
+        "id": "4. בדרך כלל, באיזו מידה אתה משתמש בכל אחד מאמצעי התקשרות הבאים לצריכת חדשות ומידע פוליטי: אתרי חדשות או עיתונים",
+        "questionSurveyId": "v93",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "האם אתה נוהג לצפות בחדשות בטלוויזיה?",
+        "id": "8. האם אתה נוהג לצפות בחדשות בטלוויזיה?",
+        "questionSurveyId": "v94",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "חדשות ברדיו",
+        "id": "10. חדשות ברדיו",
+        "questionSurveyId": "v95",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "אילו מהפעולות הבאות באינטרנט עשית בשבוע האחרון?",
+        "id": "19. אילו מהפעולות הבאות באינטרנט עשית בשבוע האחרון?",
+        "questionSurveyId": "v612",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "id": "1. למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "questionSurveyId": "v73",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "id": "1. למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "questionSurveyId": "v73",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "id": "1. למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "questionSurveyId": "v73",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "id": "1. למיטב ידיעתך, מהו אחוז החסימה בבחירות לכנסת?",
+        "questionSurveyId": "v73",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מי עומד בראש בית המשפט העליון כיום?",
+        "id": "2. למיטב ידיעתך, מי עומד בראש בית המשפט העליון כיום?",
+        "questionSurveyId": "v510",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מי עומד בראש בית המשפט העליון כיום?",
+        "id": "2. למיטב ידיעתך, מי עומד בראש בית המשפט העליון כיום?",
+        "questionSurveyId": "v510",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מי עומד בראש בית המשפט העליון כיום?",
+        "id": "2. למיטב ידיעתך, מי עומד בראש בית המשפט העליון כיום?",
+        "questionSurveyId": "v510",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, לאיזה משרד ממשלתי שאיננו משרד הביטחון יש את התקציב הגבוה ביותר?",
+        "id": "3. למיטב ידיעתך, לאיזה משרד ממשלתי שאיננו משרד הביטחון יש את התקציב הגבוה ביותר?",
+        "questionSurveyId": "v511",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, לאיזה משרד ממשלתי שאיננו משרד הביטחון יש את התקציב הגבוה ביותר?",
+        "id": "3. למיטב ידיעתך, לאיזה משרד ממשלתי שאיננו משרד הביטחון יש את התקציב הגבוה ביותר?",
+        "questionSurveyId": "v511",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, לאיזה משרד ממשלתי שאיננו משרד הביטחון יש את התקציב הגבוה ביותר?",
+        "id": "3. למיטב ידיעתך, לאיזה משרד ממשלתי שאיננו משרד הביטחון יש את התקציב הגבוה ביותר?",
+        "questionSurveyId": "v511",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, מיהו יושב ראש הכנסת היום?",
+        "id": "4. למיטב ידיעתך, מיהו יושב ראש הכנסת היום?",
+        "questionSurveyId": "v112",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "למיטב ידיעתך, עם איזו מדינה ישראל חידשה לאחרונה את היחסים הדיפלומטיים?",
+        "id": "5. למיטב ידיעתך, עם איזו מדינה ישראל חידשה לאחרונה את היחסים הדיפלומטיים?",
+        "questionSurveyId": "v113",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באופן כללי, באיזו מידה אתה מרגיש שיש בארץ מפלגה ו/או פוליטיקאי שמייצגים אותך?",
+        "id": "11. באופן כללי, באיזו מידה אתה מרגיש שיש בארץ מפלגה ו/או פוליטיקאי שמייצגים אותך?",
+        "questionSurveyId": "v109",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ובאופן כללי, באיזו מידה אתה מרגיש שהמערכת הפוליטית הישראלית מייצגת אותך?",
+        "id": "12. ובאופן כללי, באיזו מידה אתה מרגיש שהמערכת הפוליטית הישראלית מייצגת אותך?",
+        "questionSurveyId": "v110",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מרגיש שהמערכת הפוליטית מייצגת אותך?",
+        "id": "13. באיזו מידה אתה מרגיש שהמערכת הפוליטית מייצגת אותך?",
+        "questionSurveyId": "F110",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים למשפטים הבאים? פוליטיקאי אינו נוטה להתחשב בדעתו של האזרח ברחוב",
+        "id": "14. באיזו מידה אתה מסכים או לא מסכים למשפטים הבאים? פוליטיקאי אינו נוטה להתחשב בדעתו של האזרח ברחוב",
+        "questionSurveyId": "v24",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "לאיזו מפלגה אתה מרגיש הכי קרוב?",
+        "id": "15. לאיזו מפלגה אתה מרגיש הכי קרוב?",
+        "questionSurveyId": "v75",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לא חשוב עבור מי מצביעים, זה לא משנה את המצב",
+        "id": "23. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לא חשוב עבור מי מצביעים, זה לא משנה את המצב",
+        "questionSurveyId": "v35",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: פוליטיקאים מבטיחים במערכת הבחירות דברים שאין להם שום כוונה לקיים",
+        "id": "24. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: פוליטיקאים מבטיחים במערכת הבחירות דברים שאין להם שום כוונה לקיים",
+        "questionSurveyId": "v86",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: שיטת הבחירות מעוותת את רצון הבוחר",
+        "id": "27. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: שיטת הבחירות מעוותת את רצון הבוחר",
+        "questionSurveyId": "v89",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בעקבות כתב האישום נגד ראש הממשלה, האם לדעתך נתניהו יכול להמשיך ולכהן כראש ממשלה בזמן שמתנהל נגדו משפט?",
+        "id": "1. בעקבות כתב האישום נגד ראש הממשלה, האם לדעתך נתניהו יכול להמשיך ולכהן כראש ממשלה בזמן שמתנהל נגדו משפט?",
+        "questionSurveyId": "v503A",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "בעקבות כתב האישום נגד ראש הממשלה, האם לדעתך נתניהו יכול להמשיך ולכהן כראש ממשלה בזמן שמתנהל נגדו משפט?",
+        "id": "1. בעקבות כתב האישום נגד ראש הממשלה, האם לדעתך נתניהו יכול להמשיך ולכהן כראש ממשלה בזמן שמתנהל נגדו משפט?",
+        "questionSurveyId": "v503A",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionSurveyId": "v25",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionSurveyId": "v25",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionSurveyId": "v25",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionSurveyId": "c25",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionSurveyId": "v25",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "id": "3. יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "questionSurveyId": "v22",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "id": "3. יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "questionSurveyId": "v22",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "id": "3. יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "questionSurveyId": "v22",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "id": "3. יש טענות כי כתב האישום שהוגש נגד ראש הממשלה הוא חלק ממסע רדיפה שמנהלים נגדו מערכת המשפט, התקשורת והמשטרה, כדי להביא לסיום שלטונו. מנגד, נטען כי הגופים הללו פועלים כפי שנדרש מהם כאשר יש חשד לשחיתות ציבורית. מבין שתי הטענות, עם איזו מהטענות אתה נוטה להסכים?",
+        "questionSurveyId": "v22",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש הטוענים שמדינה פלסטינית לצד מדינת ישראל היא הדרך הטובה ביותר לפתרון הסכסוך הישראלי-פלסטיני. אחרים טוענים שמדינה אחת בין הים לירדן היא הדרך הטובה ביותר לפתרון הסכסוך. מבין שתי הטענות, לאיזו טענה אתה נוטה להסכים?",
+        "id": "1. יש הטוענים שמדינה פלסטינית לצד מדינת ישראל היא הדרך הטובה ביותר לפתרון הסכסוך הישראלי-פלסטיני. אחרים טוענים שמדינה אחת בין הים לירדן היא הדרך הטובה ביותר לפתרון הסכסוך. מבין שתי הטענות, לאיזו טענה אתה נוטה להסכים?",
+        "questionSurveyId": "v26",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש הטוענים שמדינה פלסטינית לצד מדינת ישראל היא הדרך הטובה ביותר לפתרון הסכסוך הישראלי-פלסטיני. אחרים טוענים שמדינה אחת בין הים לירדן היא הדרך הטובה ביותר לפתרון הסכסוך. מבין שתי הטענות, לאיזו טענה אתה נוטה להסכים?",
+        "id": "1. יש הטוענים שמדינה פלסטינית לצד מדינת ישראל היא הדרך הטובה ביותר לפתרון הסכסוך הישראלי-פלסטיני. אחרים טוענים שמדינה אחת בין הים לירדן היא הדרך הטובה ביותר לפתרון הסכסוך. מבין שתי הטענות, לאיזו טענה אתה נוטה להסכים?",
+        "questionSurveyId": "v26",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "יש הטוענים שמדינה פלסטינית לצד מדינת ישראל היא הדרך הטובה ביותר לפתרון הסכסוך הישראלי-פלסטיני. אחרים טוענים שמדינה אחת בין הים לירדן היא הדרך הטובה ביותר לפתרון הסכסוך. מבין שתי הטענות, לאיזו טענה אתה נוטה להסכים?",
+        "id": "1. יש הטוענים שמדינה פלסטינית לצד מדינת ישראל היא הדרך הטובה ביותר לפתרון הסכסוך הישראלי-פלסטיני. אחרים טוענים שמדינה אחת בין הים לירדן היא הדרך הטובה ביותר לפתרון הסכסוך. מבין שתי הטענות, לאיזו טענה אתה נוטה להסכים?",
+        "questionSurveyId": "v26",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "id": "3. באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "questionSurveyId": "v27",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "id": "3. באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "questionSurveyId": "v27",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "id": "3. באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "questionSurveyId": "v27",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "id": "3. באיזה מידה אתה מסכים או לא מסכים למשפטים הבאים: השאיפה העיקרית של האזרחים הערבים בישראל היא שוויון אזרחי מלא",
+        "questionSurveyId": "v27",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "id": "4. ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionSurveyId": "v28",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "id": "4. ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionSurveyId": "v28",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "id": "4. ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionSurveyId": "v28",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "id": "4. ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionSurveyId": "c28",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "id": "4. ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionSurveyId": "v28",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "id": "5. המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionSurveyId": "v29",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "id": "5. המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionSurveyId": "v29",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "id": "5. המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionSurveyId": "v29",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "id": "5. המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionSurveyId": "c29",
+        "surveyId": "2019-09-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "id": "5. המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionSurveyId": "v29",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "id": "6. השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "questionSurveyId": "v30",
+        "surveyId": "2022",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "id": "6. השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "questionSurveyId": "v30",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "id": "6. השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "questionSurveyId": "v30",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "id": "6. השתתפות בבחירות לכנסת פוגעת במאבק להשגת הזכויות הלאומיות הפלסטיניות",
+        "questionSurveyId": "v30",
+        "surveyId": "2019-04-01 00:00:00",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
+        "id": "7. המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
+        "questionSurveyId": "v502",
+        "surveyId": "2021",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
+        "id": "7. המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
+        "questionSurveyId": "v502",
+        "surveyId": "2020",
+        "type": "category"
+    },
+    {
+        "questionHebrewDescription": "הפיצול ברשימה המשותפת מזיק לאינטרסים של האוכלוסייה הערבית",
+        "id": "15. הפיצול ברשימה המשותפת מזיק לאינטרסים של האוכלוסייה הערבית",
+        "questionSurveyId": "v605",
+        "surveyId": "2021",
+        "type": "category"
+    }
+]

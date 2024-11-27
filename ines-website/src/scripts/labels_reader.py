@@ -11,8 +11,6 @@ with open(survey_options_filename, "r") as file:
 
 survey_ids = [entry["websiteId"] for entry in survey_options if "websiteId" in entry]
 
-print(survey_ids)
-
 def download_file(url: str, output_folder: str) -> str:
     """
     Downloads a file from a given URL and saves it in the specified output folder.
