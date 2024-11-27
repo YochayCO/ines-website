@@ -16,6 +16,7 @@ export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
                 data={data}
                 sizeVariation={{ sizes: [0.5, 1]}}
                 cellComponent='circle'
+                valueFormat={(num) => `${num}%`}
                 margin={{ top: 60, right: 160, bottom: 200, left: 90 }}
                 axisBottom={{
                     tickSize: 5,
@@ -37,9 +38,12 @@ export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
                 }}
                 tooltip={({ cell }) => (
                     <div className='tooltip'>
+                        <b>Row / Y</b>: {cell.data.origId}
+                        <br/>
+                        <b>Column / X</b>: {cell.data.origX}
                         <h3><b>Value</b>: {cell.formattedValue}</h3>
-                        <h4><b>Row / Y</b>: {cell.data.origId}</h4>
-                        <h4><b>Column / X</b>: {cell.data.origX}</h4>
+                        <h5><b>Rational to X param</b>: {cell.data.yByX}%</h5>
+                        <h5><b>Rational to Y param</b>: {cell.data.yBySerie}%</h5>
                     </div>
                 )}
                 axisTop={null}

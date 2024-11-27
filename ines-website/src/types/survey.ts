@@ -16,18 +16,9 @@ export interface SurveyMeta {
         "Sector": string;
     };
     weights: {
-        all: {
-            pre?: string;
-            post?: string;
-        } | string;
-        jews: {
-            pre: string;
-            post: string;
-        } | string;
-        arabs: {
-            pre: string;
-            post: string;
-        } | string;
+        all: string;
+        jews: string;
+        arabs: string;
     };
     questions: {
         [key: number | string]: QuestionItem;

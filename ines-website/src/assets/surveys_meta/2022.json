@@ -8,18 +8,9 @@
         "Sector": "v143_code"
     },
     "weights": {
-        "all": {
-            "pre": "w_panel1",
-            "post": "w_panel2"
-        },
-        "jews": {
-            "pre": "w_jews_panel1",
-            "post": "w_jews_panel2"
-        },
-        "arabs": {
-            "pre": "w_arabs_panel1",
-            "post": "w_arabs_panel2"
-        }
+        "all": "w_panel1",
+        "jews": "w_jews_panel1",
+        "arabs": "w_arabs_panel1"
     },
     "questions": {
         "V52A": {

@@ -2,7 +2,16 @@ import map from 'lodash/map'
 import sum from 'lodash/sum'
 import concat from 'lodash/concat'
 import difference from 'lodash/difference'
-import { BarGraphDatum, BubbleGraphSerie, SmartBoxPlotProps, SmartGraphProps, BubbleGraphDatumData, BubbleGraphDatum } from '../types/graph'
+import { 
+  BarGraphDatum,
+  BubbleGraphSerie,
+  SmartBoxPlotProps,
+  SmartGraphProps,
+  BubbleGraphDatum,
+  InitialBubbleGraphDatumData,
+  InitialBubbleGraphDatum,
+  InitialBubbleGraphSerie
+} from '../types/graph'
 import SurveyDesign from './SurveyDesign'
 import { sortByRate } from './survey'
 
@@ -13,34 +22,33 @@ export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 export function getBubbleGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps
 ): BubbleGraphSerie[] {
-
-  const graphData = survey.data.reduce((series: BubbleGraphSerie[], row) => {
+  const graphData = survey.data.reduce((series: InitialBubbleGraphSerie[], row) => {
     const yAns = row[yQuestionItem.column]
     const xAns = row[xQuestionItem.column]
     
     // Do not include invalid data (null values and such)
     if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
-
+    
     const serieId = getRate(yAns)
     const xValue = getLabel(xAns)
+    const weight = Number(row[survey.meta.weights.all])
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)
     if (!currSerie) {
-      // TODO: weight
-      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: 1, origX: xAns, origId: yAns }] }]
+      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: weight, origX: xAns, origId: yAns }] }]
       return series.concat(serie)
     }
 
     // If x does not exist for series - create it and go to next.
     const currX = currSerie.data.find(({ x }) => x === xValue)
     if (!currX?.y) {
-      currSerie.data = currSerie.data.concat([{ x: xValue, y: 1, origX: xAns, origId: yAns }])
+      currSerie.data = currSerie.data.concat([{ x: xValue, y: weight, origX: xAns, origId: yAns }])
       return series
     }
 
     // If x-serie pair exist - increment voteCount and go to next.
-    currX.y++
+    currX.y += weight
     return series
   }, [])
 
@@ -50,23 +58,54 @@ export function getBubbleGraphData(
 
   // Create a unique list of all x original values
   const dupOrigXs = graphData.map(
-    (d) => d.data.map((xy: BubbleGraphDatum) => xy.origX)
+    (d) => d.data.map((xy: InitialBubbleGraphDatum) => xy.origX)
   ).flat(2)
   const allOrigXs = Array.from(new Set(dupOrigXs))
 
   graphData.forEach(serie => {
-    const existingXValues = serie.data.map((xy: BubbleGraphDatumData) => xy.origX)
+    const existingXValues = serie.data.map((xy: InitialBubbleGraphDatumData) => xy.origX)
     const newXs = difference(allOrigXs, existingXValues)
-    const newXYs: BubbleGraphDatumData[] = newXs.map(origX => ({ x: getLabel(origX), y: 0, origX, origId: serie.origId }))
-    const data: BubbleGraphDatumData[] = concat(serie.data,newXYs)
+    const newXYs: InitialBubbleGraphDatumData[] = newXs.map(origX => 
+      ({ x: getLabel(origX), y: 0, origX, origId: serie.origId }))
+
+    const data: InitialBubbleGraphDatumData[] = concat(serie.data,newXYs)
     serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
   })
 
   const sortedGraphData = graphData.sort((a, b) => sortByRate(b.origId, a.origId))
-  
-  // TODO: use weights here
 
-  return sortedGraphData
+  //
+  // Add percentages to data
+  //
+  
+  // Sum up all the weights for each X and each serie (y param)
+  let weightSum = 0
+  const serieWeights = Array.from(sortedGraphData, () => 0)
+  const xWeights = Array.from(allOrigXs, () => 0)
+  
+  sortedGraphData.forEach((serie, serieIndex) => {
+    serie.data.forEach((datum: InitialBubbleGraphDatum, xIndex) => {
+      weightSum += datum.y
+      serieWeights[serieIndex] += datum.y
+      xWeights[xIndex] += datum.y
+    })
+  })
+
+  const finalGraphData: BubbleGraphSerie[] = sortedGraphData.map((serie, serieIndex) => {
+    return {
+      ...serie,
+      data: serie.data.map((datum: InitialBubbleGraphDatum, xIndex): BubbleGraphDatum => {
+        return {
+          ...datum,
+          y: Number((datum.y / weightSum * 100).toFixed(2)),
+          yByX: Number((datum.y / xWeights[xIndex] * 100).toFixed(2)),
+          yBySerie: Number((datum.y / serieWeights[serieIndex] * 100).toFixed(2)),
+        }
+      })
+    }
+  })
+
+  return finalGraphData
 }
 
 export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
