@@ -5,13 +5,12 @@ import './BarPlot.css'
 
 interface BarPlotProps { 
     data: BarGraphDatum[];
-    isCategorial: boolean;
     onBarClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BarPlot({ data, isCategorial, onBarClick, xTitle, yTitle }: BarPlotProps) {
+export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotProps) {
     const handleBarClick = (bar: ComputedDatum<BarGraphDatum>) => {
         onBarClick?.(bar.indexValue as string)
     }
@@ -31,16 +30,16 @@ export default function BarPlot({ data, isCategorial, onBarClick, xTitle, yTitle
                 labelPosition='end'
                 labelOffset={10}
                 onClick={handleBarClick}
-                margin={{ top: 60, right: 160, bottom: isCategorial ? 200 : 60, left: 60 }}
+                margin={{ top: 60, right: 160, bottom: 200, left: 60 }}
                 padding={0.12}
                 enableGridX
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
-                    tickRotation: isCategorial ? 20 : 0,
+                    tickRotation: 20,
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: isCategorial ? 180 : 40,
+                    legendOffset: 180,
                     truncateTickAt: 0,
                 }}
                 axisLeft={{
@@ -52,7 +51,7 @@ export default function BarPlot({ data, isCategorial, onBarClick, xTitle, yTitle
                     legendOffset: -50,
                     truncateTickAt: 0,
                 }}
-                colors={{ scheme: isCategorial ? 'category10' : 'spectral' }}
+                colors={{ scheme: 'category10' }}
                 borderWidth={2}
                 borderColor={{
                     from: 'color',

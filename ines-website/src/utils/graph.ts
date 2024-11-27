@@ -21,7 +21,7 @@ export function getBubbleGraphData(
     // Do not include invalid data (null values and such)
     if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
 
-    const serieId = getRate(yAns)
+    const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
 
     // If series does not exist - create it and go to next.

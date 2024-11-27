@@ -11,15 +11,12 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         if (y) return getBubbleGraphData({ survey, x, y })
         return getBarGraphData({ survey, x })
     }, [survey, x, y])
-
-    const isCategorial = x.type === 'category'
     
     if (y) {
         const visibleData = graphData as BubbleGraphSerie[]
         return (
             <BubblePlot
                 data={visibleData}
-                isCategorial={isCategorial}
                 xTitle={x.description}
                 yTitle={y.description}
             />
@@ -29,7 +26,6 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         return (
             <BarPlot
                 data={visibleData}
-                isCategorial={isCategorial}
                 xTitle={x.description}
                 yTitle='Percentage of voters'
             />

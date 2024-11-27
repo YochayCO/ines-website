@@ -5,28 +5,26 @@ import './BubblePlot.css'
 
 interface BubblePlotProps { 
     data: BubbleGraphSerie[];
-    isCategorial: boolean;
-    onBarClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
 }
 
-export default function BubblePlot({ data, isCategorial, xTitle, yTitle }: BubblePlotProps) {
+export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
     return (
         <div className='bubbleplot-container'>
             <ResponsiveHeatMap
                 data={data}
                 sizeVariation={{ sizes: [0.5, 1]}}
                 cellComponent='circle'
-                margin={{ top: 60, right: 160, bottom: isCategorial ? 200 : 60, left: 60 }}
+                margin={{ top: 60, right: 160, bottom: 200, left: 400 }}
                 enableGridX
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
-                    tickRotation: isCategorial ? 20 : 0,
+                    tickRotation: 20,
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: isCategorial ? 180 : 40,
+                    legendOffset: 180,
                     truncateTickAt: 0,
                 }}
                 axisLeft={{
@@ -35,7 +33,7 @@ export default function BubblePlot({ data, isCategorial, xTitle, yTitle }: Bubbl
                     tickRotation: 0,
                     legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: -50,
+                    legendOffset: -390,
                     truncateTickAt: 0,
                 }}
                 axisTop={null}
