@@ -27,7 +27,7 @@ function Plotter() {
     updateSurvey(surveyId)
   }, [surveyId])
 
-  const surveyOptions = SurveyOptions.map(({ id, title }) => ({ value: id, label: title }))
+  const surveyItems = SurveyOptions.map(({ websiteId, title }) => ({ value: websiteId, label: title }))
   
   return (
     <>
@@ -36,7 +36,7 @@ function Plotter() {
         inputLabel='Select survey'
         value={surveyId}
         onChange={setSurveyId}
-        items={surveyOptions}
+        items={surveyItems}
       />
       {!!survey && <InnerPlotter survey={survey} />}
     </>
