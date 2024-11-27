@@ -6,7 +6,7 @@ import { Survey, QuestionItem } from "./survey";
 export type GraphDatum = BoxPlotDatum & { group: string; } // Striter than general datum
 export type GraphData = GraphDatum[]
 
-export type BarGraphDatum = BarDatum & { group: string; }
+export type BarGraphDatum = BarDatum & { group: string; origGroup: string; }
 
 
 export interface InitialBubbleGraphDatumData { 

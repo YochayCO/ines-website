@@ -115,12 +115,13 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[]
   
   const barGraphData = map(weightedXs, (answerWeightedCount, ans) => {
     return { 
-      group: x.type === 'category' ? getLabel(ans) : getRate(ans), 
+      group: getLabel(ans), 
+      origGroup: ans,
       value: (answerWeightedCount / totalXWeight * 100).toFixed(2),
     }
   })
   const sortedData = barGraphData.sort(
-    (a, b) => sortByRate(a.group, b.group)
+    (a, b) => sortByRate(a.origGroup, b.origGroup)
   )
 
   return sortedData
