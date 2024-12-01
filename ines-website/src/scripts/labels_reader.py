@@ -4,13 +4,6 @@ import requests
 import pandas as pd
 import pyreadstat
 
-survey_options_filename = '/home/yochayc/INES/ines-website/src/assets/surveyOptions.json'
-
-with open(survey_options_filename, "r") as file:
-    survey_options = json.load(file)  # Parse the JSON file into a Python object
-
-survey_ids = [entry["websiteId"] for entry in survey_options if "websiteId" in entry]
-
 def download_file(url: str, output_folder: str) -> str:
     """
     Downloads a file from a given URL and saves it in the specified output folder.
@@ -55,6 +48,7 @@ def export_stata_labels(stata_filename: str, labels_meta_filename: str):
     labels_meta_df.to_csv(labels_meta_filename, index=False) 
 
 if __name__ == "__main__":
+    survey_options_filename = '/home/yochayc/INES/ines-website/src/assets/surveyOptions.json'
     stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4"
     statas_folder = "/home/yochayc/INES/ines-website/src/assets/statas"
     labels_meta_folder = "/home/yochayc/INES/ines-website/src/assets/labels_meta"
@@ -62,13 +56,16 @@ if __name__ == "__main__":
     os.makedirs(statas_folder, exist_ok=True)
     os.makedirs(labels_meta_folder, exist_ok=True)
     
+    with open(survey_options_filename, "r") as file:
+        survey_options = json.load(file)  # Parse the JSON file into a Python object
+
     # Iterate over all files in the folder
-    for survey_id in survey_ids:
+    for survey_option in survey_options:
         # Create survey stata url and labels_meta file path
-        stata_url = os.path.join(stata_files_url_base, f"{survey_id}.dta")
+        stata_url = os.path.join(stata_files_url_base, f"{survey_option['websiteId']}.dta")
         
-        survey_nickname = survey_id.rsplit('/', 1)[-1]
-        labels_meta_file = os.path.join(labels_meta_folder, f"{survey_nickname}_labels.csv")
+        survey_id = survey_option['id']
+        labels_meta_file = os.path.join(labels_meta_folder, f"{survey_id}_labels.csv")
         
         print(f"Downloading from url: {stata_url}")
         stata_file = download_file(stata_url, statas_folder)

@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 src/assets/statas
+src/assets/labels_meta
+src/assets/question_items
