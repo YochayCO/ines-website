@@ -9,13 +9,6 @@ export interface QuestionItem {
 
 export interface SurveyMetaBase {
     id: string;
-    demography: {
-        "Age Group": string;
-        "Sex": string;
-        "Education": string;
-        "Religiousness": string;
-        "Sector": string;
-    };
     weights: {
         all: string;
         jews: string;

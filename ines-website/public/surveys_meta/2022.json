@@ -1,13 +1,5 @@
 {
     "id": "2022",
-    "demography": {
-        "id": "ID",
-        "Age Group": "age_group",
-        "Sex": "sex",
-        "Education": "educ",
-        "Religiousness": "v144",
-        "Sector": "v143_code"
-    },
     "weights": {
         "all": "w_panel1",
         "jews": "w_jews_panel1",
