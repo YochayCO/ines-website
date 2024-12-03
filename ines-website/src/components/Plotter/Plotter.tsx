@@ -9,7 +9,6 @@ import InnerPlotter from './InnerPlotter';
 import './Plotter.css'
 
 function Plotter() {
-  // x & y are the column letters of the selected questions
   const [surveyId, setSurveyId] = useState<string>('')
   const [survey, setSurvey] = useState<Survey | null>(null)
   
@@ -27,7 +26,7 @@ function Plotter() {
     updateSurvey(surveyId)
   }, [surveyId])
 
-  const surveyItems = SurveyOptions.map(({ websiteId, title }) => ({ value: websiteId, label: title }))
+  const surveyItems = SurveyOptions.map(({ id, title }) => ({ value: id, label: title }))
   
   return (
     <>

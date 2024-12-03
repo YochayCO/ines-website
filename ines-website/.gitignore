@@ -24,5 +24,7 @@ dist-ssr
 *.sw?
 
 src/assets/statas
+# TODO: use labels_meta from app
 src/assets/labels_meta
-src/assets/question_items
+public/question_items
+public/surveys_data

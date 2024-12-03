@@ -1,22 +1,21 @@
 import { useState } from 'react'
-import map from 'lodash/map'
 
-import { QuestionItem, Survey } from '../../types/survey';
+import { Survey } from '../../types/survey';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
 import SmartChart from '../SmartChart/SmartChart';
 
 import './Plotter.css'
 
 export default function InnerPlotter({ survey }: { survey: Survey }) {
-  // x & y are the column titles of the selected questions
+  // x & y are the ids of the selected questions
   const [x, setX] = useState('')
   const [y, setY] = useState('')
 
-  const allQuestionItems: QuestionItem[] = map(survey.meta.questions, (qi) => qi)
-  const nonDemographyQuestionItems: QuestionItem[] = allQuestionItems.filter((qi) => qi.type !== 'demography')
+  const allQuestionItems = survey.meta.questionItems
+  const nonDemographyQuestionItems = allQuestionItems.filter((qi) => qi.type !== 'demography')
 
-  const xQuestionItem = allQuestionItems.find(qi => qi.column === x)
-  const yQuestionItem = nonDemographyQuestionItems.find(qi => qi.column === y)
+  const xQuestionItem = allQuestionItems.find(qi => qi.id === x)
+  const yQuestionItem = nonDemographyQuestionItems.find(qi => qi.id === y)
 
   const isGraphVisible = !!xQuestionItem && xQuestionItem.type !== 'demography'
   
@@ -34,11 +33,13 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
         onChange={setY}
         questionItems={nonDemographyQuestionItems}
       />
-      {isGraphVisible && <SmartChart
-        survey={survey}
-        x={xQuestionItem}
-        y={yQuestionItem}
-      />}
+      {isGraphVisible && (
+        <SmartChart
+          survey={survey}
+          x={xQuestionItem}
+          y={yQuestionItem}
+        />
+      )}
     </>
   )
 }

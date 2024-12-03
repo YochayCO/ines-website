@@ -1,28 +1,32 @@
-import Papa, { ParseError } from 'papaparse'
-import { Survey, SurveyMeta, SurveyRows } from '../types/survey'
+import Papa from 'papaparse'
+import { Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
 import { getRate } from './graph'
+import { fetchCSV, fetchJson } from './files'
 
 async function fetchSurveyDataById(id: string): Promise<SurveyRows> {
+    const surveyDataFile = `/surveys_data/${id}.csv`
+    const surveyDataText = await fetchCSV(surveyDataFile)
+    
     return new Promise((resolve, reject) => {
-        // TODO: construct all of the url (make id include more of it / use id dictionary)
-        const url = `/wp-content/uploads/2024/10/${id}_STATA.csv`
-        
-        Papa.parse(url, {
-            download: true,
+        Papa.parse(surveyDataText, {
             header: true,
+            skipEmptyLines: true,
             complete: ({ data, errors }) => {
-                const cleanedData = cleanSurvey(data as SurveyRows, errors)
-                resolve(cleanedData)
+                if (errors.length) console.error(errors)
+                
+                resolve(data as SurveyRows)
             },
-            error: (error) => reject(error),
+            error: (error: Error) => reject(error),
         })
     })
 }
 
 // TODO: really fetch when I know the data format
 async function getSurveyMetaById(id: string): Promise<SurveyMeta> {
-  const data = await import(`../assets/surveys_meta/${id}.json`)
-  return data.default as SurveyMeta
+  const meta = await fetchJson(`/surveys_meta/${id}.json`)
+  const questionItems = await fetchJson(`/question_items/${id}.json`)
+  
+  return { ...(meta as SurveyMetaBase), questionItems } as SurveyMeta
 }
 
 export async function fetchSurvey(surveyId: string): Promise<Survey | null> {
@@ -45,21 +49,7 @@ export async function fetchSurvey(surveyId: string): Promise<Survey | null> {
     }
 }
 
-export function cleanSurvey (data: SurveyRows, errors: ParseError[]) {
-    const invalidRows: number[] = []
-    errors.forEach(e => {
-        if (e.code === 'TooFewFields' && e.row) {
-            invalidRows.unshift(e.row)
-        }
-    })
-    invalidRows.forEach(row => {
-        delete data[row]
-    })
-
-    return data
-}
-
-export function sortByRate(a: string, b: string) {
-    const [rateA, rateB] = [Number(getRate(a)), Number(getRate(b))]
+export function sortByRate(ansA: string, ansB: string) {
+    const [rateA, rateB] = [Number(getRate(ansA)), Number(getRate(ansB))]
     return rateA - rateB
 }

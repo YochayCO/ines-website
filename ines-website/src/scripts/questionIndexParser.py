@@ -6,7 +6,7 @@ import pandas as pd
 if __name__ == "__main__":
     survey_options_filename = '/home/yochayc/INES/ines-website/src/assets/surveyOptions.json'
     question_index_file = "/home/yochayc/INES/ines-website/src/assets/question_index.xlsx"
-    question_items_folder = "/home/yochayc/INES/ines-website/src/assets/question_items"
+    question_items_folder = "/home/yochayc/INES/ines-website/public/question_items"
 
     os.makedirs(question_items_folder, exist_ok=True)
     excel_data = pd.ExcelFile(question_index_file)

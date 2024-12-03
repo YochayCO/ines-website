@@ -23,8 +23,8 @@ export function getBubbleGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps
 ): BubbleGraphSerie[] {
   const graphData = survey.data.reduce((series: InitialBubbleGraphSerie[], row) => {
-    const yAns = row[yQuestionItem.column]
-    const xAns = row[xQuestionItem.column]
+    const yAns = row[yQuestionItem.questionSurveyId]
+    const xAns = row[xQuestionItem.questionSurveyId]
     
     // Do not include invalid data (null values and such)
     if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
@@ -110,7 +110,7 @@ export function getBubbleGraphData(
 
 export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
   const surveyDesign = new SurveyDesign(survey.data, 'w_panel1')
-  const weightedXs = surveyDesign.svytable(x.column)
+  const weightedXs = surveyDesign.svytable(x.questionSurveyId)
   const totalXWeight = sum(Object.values(weightedXs))
   
   const barGraphData = map(weightedXs, (answerWeightedCount, ans) => {

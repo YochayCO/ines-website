@@ -12,7 +12,11 @@ interface QuestionSelectProps {
 
 // A Select component for selecting a single question from a bunch of questions
 function QuestionSelect({ inputLabel, value, onChange, questionItems }: QuestionSelectProps) {
-  const items = map(questionItems, ({ column, description }) => ({ value: column, label: description }))
+  const items = map(questionItems, ({ id, questionHebrewDescription, type }) => ({ 
+    value: id, 
+    label: questionHebrewDescription, 
+    isDemography: type === 'demography'
+  }))
 
   return (
     <CustomSelect

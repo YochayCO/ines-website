@@ -17,8 +17,8 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         return (
             <BubblePlot
                 data={visibleData}
-                xTitle={x.description}
-                yTitle={y.description}
+                xTitle={x.questionHebrewDescription}
+                yTitle={y.questionHebrewDescription}
             />
         )
     } else {
@@ -26,7 +26,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         return (
             <BarPlot
                 data={visibleData}
-                xTitle={x.description}
+                xTitle={x.questionHebrewDescription}
                 yTitle='Percentage of voters'
             />
         )

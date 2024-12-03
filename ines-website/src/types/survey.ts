@@ -1,12 +1,13 @@
 export type QuestionType = "demography" | "category";
 
 export interface QuestionItem {
-    column: string;
-    description: string;
+    id: string;
+    questionHebrewDescription: string;
+    questionSurveyId: string;
     type: QuestionType;
 }
 
-export interface SurveyMeta {
+export interface SurveyMetaBase {
     id: string;
     demography: {
         "Age Group": string;
@@ -20,9 +21,10 @@ export interface SurveyMeta {
         jews: string;
         arabs: string;
     };
-    questions: {
-        [key: number | string]: QuestionItem;
-    }
+}
+
+export interface SurveyMeta extends SurveyMetaBase {
+    questionItems: QuestionItem[]
 }
 
 export interface SurveyRow {
