@@ -27,14 +27,12 @@ export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
                     legendOffset: 180,
                     truncateTickAt: 0,
                 }}
+                axisRight={{}}
                 axisLeft={{
-                    tickSize: 5,
-                    tickPadding: 5,
-                    tickRotation: 0,
                     legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
                     legendPosition: 'start',
-                    legendOffset: -80,
-                    truncateTickAt: 0,
+                    legendOffset: -60,
+                    tickValues: []
                 }}
                 tooltip={({ cell }) => (
                     <div className='tooltip'>

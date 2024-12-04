@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 
 import { Survey } from '../../types/survey';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
@@ -10,6 +10,11 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
   // x & y are the ids of the selected questions
   const [x, setX] = useState('')
   const [y, setY] = useState('')
+
+  useEffect(() => {
+    setX('')
+    setY('')
+  }, [survey])
 
   const allQuestionItems = survey.meta.questionItems
   const nonDemographyQuestionItems = allQuestionItems.filter((qi) => qi.type !== 'demography')

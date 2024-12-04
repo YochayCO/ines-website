@@ -2,9 +2,14 @@ type DataRow = { [key: string]: string };
 
 class SurveyDesign {
     private data: DataRow[];
-    private weightsKey: string;
+    private weightsKey?: string;
 
-    constructor(data:DataRow[], weightsKey: string) {
+    constructor(data: DataRow[], weightsKey?: string) {
+        if (!weightsKey) {
+            this.data = data
+            return
+        }
+
         this.data = data.filter(row => row[weightsKey] !== null)
         this.weightsKey = weightsKey;
 
@@ -24,10 +29,13 @@ class SurveyDesign {
     
         this.data.forEach((row, rowNum) => {
             const ans = row[column];
-            const weight = Number(row[this.weightsKey]);
+            const weight = this.weightsKey ? Number(row[this.weightsKey]) : 1;
+            
+            // Ignore empty cells (some people were not asked this question)
+            if (ans.trim() === '') return
     
-            if (ans === null || isNaN(weight)) {
-                throw new Error(`${rowNum}: Invalid data row: missing category or weight`);
+            if (isNaN(weight)) {
+                throw new Error(`${rowNum}: Invalid weight`);
             }
 
             if (!weightedAnswerSums[ans]) {

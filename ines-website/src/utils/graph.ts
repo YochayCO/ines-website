@@ -28,10 +28,11 @@ export function getBubbleGraphData(
     
     // Do not include invalid data (null values and such)
     if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
+    if (yAns.trim() === '' || xAns.trim() === '') return series
     
-    const serieId = getRate(yAns)
+    const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
-    const weight = Number(row[survey.meta.weights.all])
+    const weight = survey.meta.weights.all ? Number(row[survey.meta.weights.all]) : 1
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)
@@ -72,7 +73,7 @@ export function getBubbleGraphData(
     serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
   })
 
-  const sortedGraphData = graphData.sort((a, b) => sortByRate(b.origId, a.origId))
+  const sortedGraphData = graphData.sort((a, b) => sortByRate(a.origId, b.origId))
 
   //
   // Add percentages to data
@@ -109,7 +110,7 @@ export function getBubbleGraphData(
 }
 
 export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
-  const surveyDesign = new SurveyDesign(survey.data, 'w_panel1')
+  const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights.all)
   const weightedXs = surveyDesign.svytable(x.questionSurveyId)
   const totalXWeight = sum(Object.values(weightedXs))
   

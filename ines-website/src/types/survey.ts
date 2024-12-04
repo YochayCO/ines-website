@@ -10,9 +10,9 @@ export interface QuestionItem {
 export interface SurveyMetaBase {
     id: string;
     weights: {
-        all: string;
-        jews: string;
-        arabs: string;
+        all?: string;
+        jews?: string;
+        arabs?: string;
     };
 }
 
