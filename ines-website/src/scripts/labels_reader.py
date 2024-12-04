@@ -54,9 +54,10 @@ def export_stata_labels(stata_filename: str, survey_id: str):
         labels_list.append({"id": var_name, "description": label})
         
     labels_meta_df = pd.DataFrame(labels_list)
-    data_df = pd.DataFrame(df)
     labels_meta_df.to_csv(labels_meta_file, index=False)
-    data_df.to_csv(survey_data_file, index=False)
+
+    survey_df = pd.read_stata(stata_filename)
+    survey_df.to_csv(survey_data_file, index=False)
     
     print(f"Labels exported to: {labels_meta_file}")
     print(f"Data exported to: {survey_data_file}")
@@ -76,7 +77,6 @@ if __name__ == "__main__":
         
         survey_id = survey_option['id']
         
-        print(f"Downloading from url: {stata_url}")
         stata_file = download_file(stata_url, statas_folder)
         
         print(f"Processing file: {stata_file}")

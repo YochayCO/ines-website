@@ -14,10 +14,10 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
   const allQuestionItems = survey.meta.questionItems
   const nonDemographyQuestionItems = allQuestionItems.filter((qi) => qi.type !== 'demography')
 
-  const xQuestionItem = allQuestionItems.find(qi => qi.id === x)
-  const yQuestionItem = nonDemographyQuestionItems.find(qi => qi.id === y)
+  const xQuestionItem = allQuestionItems.find(qi => qi.questionSurveyId === x)
+  const yQuestionItem = nonDemographyQuestionItems.find(qi => qi.questionSurveyId === y)
 
-  const isGraphVisible = !!xQuestionItem && xQuestionItem.type !== 'demography'
+  const isGraphVisible = !!xQuestionItem && (xQuestionItem.type !== 'demography' || !!yQuestionItem)
   
   return (
     <>
