@@ -15,8 +15,19 @@ import {
 import SurveyDesign from './SurveyDesign'
 import { sortByRate } from './survey'
 
-export function getLabel (ans: string): string { return ans.split('. ')[1] || ans.split('. ')[0] }
-export function getRate (ans: string): string { return ans.split('. ')[0] }
+function getRateAndLabel (ans: string): string[] {
+  return ans.replace(/[\s\u200B\u200E\u200F\u202A-\u202E]+/g, ' ').split('. ') 
+}
+
+// if answer has no label - rate is the label
+export function getLabel (ans: string): string { 
+  const [rate, label] = getRateAndLabel(ans)
+  return label || rate
+}
+export function getRate (ans: string): string { 
+  const [rate] = getRateAndLabel(ans)
+  return rate 
+}
 export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 
 export function getBubbleGraphData(
