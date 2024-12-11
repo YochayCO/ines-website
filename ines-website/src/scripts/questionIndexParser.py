@@ -1,19 +1,44 @@
 import json
 import os
 import pandas as pd
+import pyreadstat
+import requests
 
-if __name__ == "__main__":
-    survey_options_filename = '/home/yochayc/INES/ines-website/src/assets/surveyOptions.json'
-    question_index_file = "/home/yochayc/INES/ines-website/src/assets/question_index.xlsx"
-    question_items_folder = "/home/yochayc/INES/ines-website/public/question_items"
+scriptpath = os.path.dirname(os.path.abspath(__file__))
+survey_options_filename = os.path.join(scriptpath, "../../src/assets/surveyOptions.json")
+question_index_file = os.path.join(scriptpath, "../../src/assets/question_index.xlsx")
+question_items_folder = os.path.join(scriptpath, "../../public/question_items")
 
-    os.makedirs(question_items_folder, exist_ok=True)
-    excel_data = pd.ExcelFile(question_index_file)
-    
-    # Load survey options json
-    with open(survey_options_filename, "r") as file:
-        survey_options = json.load(file)
-    
+stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4"
+statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
+surveys_data_folder = os.path.join(scriptpath, "..", "..", "public/surveys_data")
+
+def download_file(url: str, output_folder: str) -> str:
+    """
+    Downloads a file from a given URL and saves it in the specified output folder.
+
+    Args:
+        url (str): The URL of the file to download.
+        output_folder (str): The folder to save the downloaded file.
+
+    Returns:
+        str: The path to the downloaded file.
+    """
+    filename = os.path.basename(url)  # Extract the file name from the URL
+    output_path = os.path.join(output_folder, filename)
+
+    print(f"Downloading {url}...")
+    response = requests.get(url, stream=True)
+    response.raise_for_status()  # Raise an error for HTTP issues
+
+    with open(output_path, 'wb') as file:
+        for chunk in response.iter_content(chunk_size=8192):
+            file.write(chunk)
+
+    print(f"Downloaded to {output_path}")
+    return output_path
+
+def create_question_items(question_index_file, excel_data, survey_options):
     survey_ids = [entry["id"] for entry in survey_options if "id" in entry]
 
     # Initialize the questionItems dictionary
@@ -50,6 +75,61 @@ if __name__ == "__main__":
                         "type": question_type,
                     }
                     question_items_by_survey[col].append(question_item)
+    return question_items_by_survey
+
+def append_english_descriptions(question_items_by_survey, stata_filename: str, survey_id: str):
+    """
+    Extracts english descriptions from a Stata file.
+    Appends them to their question items.
+    Exports survey data to CSV file.
+
+    Args:
+        question_items_by_survey: The question items, grouped by survey id, created in `create_question_items`
+        stata_filename (str): The path for the input Stata (.dta) file.
+        survey_id (str): The id of the survey that matches the Stata file
+    """
+    survey_question_items = question_items_by_survey[survey_id]
+    survey_data_file = os.path.join(surveys_data_folder, f"{survey_id}.csv")
+    
+    # This df is not good, but the meta file is better parsed with pyreadstat
+    df, meta = pyreadstat.read_dta(stata_filename)
+
+    for question_survey_id, english_description in meta.column_names_to_labels.items():
+        question_item = next((item for item in survey_question_items if item["questionSurveyId"] == question_survey_id), None)
+        if (question_item != None): question_item["englishDescription"] = english_description
+
+    survey_df = pd.read_stata(stata_filename)
+    survey_df.to_csv(survey_data_file, index=False)
+    
+    print(f"Data exported to: {survey_data_file}")
+
+    return survey_question_items
+
+if __name__ == "__main__":
+    os.makedirs(question_items_folder, exist_ok=True)
+    os.makedirs(statas_folder, exist_ok=True)
+    os.makedirs(surveys_data_folder, exist_ok=True)
+
+    excel_data = pd.ExcelFile(question_index_file)
+    
+    # Load survey options json
+    with open(survey_options_filename, "r") as file:
+        survey_options = json.load(file)
+    
+    question_items_by_survey = create_question_items(question_index_file, excel_data, survey_options)
+
+    # Iterate over all files in the folder
+    for survey_option in survey_options:
+        # Create survey stata url path
+        stata_url = os.path.join(stata_files_url_base, f"{survey_option['websiteId']}.dta")
+        
+        survey_id = survey_option['id']
+        
+        stata_file = download_file(stata_url, statas_folder)
+        
+        print(f"Processing stata file: {stata_file}")
+        question_items_by_survey[survey_id] = append_english_descriptions(question_items_by_survey, stata_file, survey_id)
+        # TODO: Clear question items with missing english descriptions
 
     # Save to JSON for future use
     for survey_id, question_items in question_items_by_survey.items():
