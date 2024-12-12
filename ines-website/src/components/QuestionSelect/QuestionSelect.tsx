@@ -12,9 +12,10 @@ interface QuestionSelectProps {
 
 // A Select component for selecting a single question from a bunch of questions
 function QuestionSelect({ inputLabel, value, onChange, questionItems }: QuestionSelectProps) {
-  const items = map(questionItems, ({ questionSurveyId, questionHebrewDescription, type }) => ({ 
+  const items = map(questionItems, ({ questionSurveyId, questionHebrewDescription, englishDescription, type }) => ({ 
     value: questionSurveyId, 
-    label: questionHebrewDescription, 
+    label: `${englishDescription} / ${questionHebrewDescription}`,
+    tooltipText: questionHebrewDescription,
     isDemography: type === 'demography'
   }))
 

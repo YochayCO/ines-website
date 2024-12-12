@@ -3,7 +3,7 @@ export type QuestionType = "demography" | "category";
 export interface QuestionItem {
     id: string;
     questionHebrewDescription: string;
-    englishDescription?: string
+    englishDescription: string
     questionSurveyId: string;
     type: QuestionType;
 }

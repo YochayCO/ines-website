@@ -27,6 +27,8 @@ def download_file(url: str, output_folder: str) -> str:
     filename = os.path.basename(url)  # Extract the file name from the URL
     output_path = os.path.join(output_folder, filename)
 
+    if os.path.exists(output_path) == True: return output_path
+
     print(f"Downloading {url}...")
     response = requests.get(url, stream=True)
     response.raise_for_status()  # Raise an error for HTTP issues
@@ -105,6 +107,15 @@ def append_english_descriptions(question_items_by_survey, stata_filename: str, s
 
     return survey_question_items
 
+def clean_question_items(question_items_by_survey):
+    """
+    Removes all question items without an English description.
+    """
+    for survey_id, question_items in question_items_by_survey.items():
+        question_items_by_survey[survey_id] = [
+            item for item in question_items if "englishDescription" in item
+        ]
+
 if __name__ == "__main__":
     os.makedirs(question_items_folder, exist_ok=True)
     os.makedirs(statas_folder, exist_ok=True)
@@ -129,8 +140,10 @@ if __name__ == "__main__":
         
         print(f"Processing stata file: {stata_file}")
         question_items_by_survey[survey_id] = append_english_descriptions(question_items_by_survey, stata_file, survey_id)
-        # TODO: Clear question items with missing english descriptions
+    
+    clean_question_items(question_items_by_survey)
 
+        
     # Save to JSON for future use
     for survey_id, question_items in question_items_by_survey.items():
         question_items_file = f"{question_items_folder}/{survey_id}.json"

@@ -11,17 +11,18 @@ interface CustomSelectProps {
     inputLabel: string;
     value: string; // id
     onChange: (newValue: string) => void;
-    items: { value: string; label: string; isDemography?: boolean; }[];
+    items: { value: string; label: string; tooltipText?: string; isDemography?: boolean; }[];
 }
 
 // A Select component for selecting a single question from a bunch of questions
 function CustomSelect({ inputLabel, value, onChange, items }: CustomSelectProps) {
-  const menuItems = map(items, ({ value: itemValue, label, isDemography }) => {
+  const menuItems = map(items, ({ value: itemValue, label, tooltipText, isDemography }) => {
     return (
     <MenuItem 
       value={itemValue} 
       key={itemValue} 
       className={isDemography ? 'demography' : ''}
+      title={tooltipText}
     >
       {label}
     </MenuItem>
