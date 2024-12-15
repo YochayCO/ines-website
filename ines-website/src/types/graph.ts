@@ -41,4 +41,6 @@ export interface SmartGraphProps {
     y?: QuestionItem; 
 }
 
-export type SmartBoxPlotProps = SmartGraphProps & { y: QuestionItem; }
+export type SmartBubblePlotProps = SmartGraphProps & { y: QuestionItem; }
+
+export type SmartGraphConfig = { isSpecialVisible: boolean; }

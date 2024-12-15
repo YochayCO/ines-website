@@ -5,11 +5,12 @@ import difference from 'lodash/difference'
 import { 
   BarGraphDatum,
   BubbleGraphSerie,
-  SmartBoxPlotProps,
+  SmartBubblePlotProps,
   SmartGraphProps,
   BubbleGraphDatum,
   InitialBubbleGraphDatum,
   InitialBubbleGraphSerie,
+  SmartGraphConfig,
 } from '../types/graph'
 import SurveyDesign from './SurveyDesign'
 import { sortByRate } from './survey'
@@ -41,12 +42,16 @@ function getNormalValues(answers: string[]): string[] {
 }
 
 export function getBubbleGraphData(
-  { survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps
+  { survey, x: xQuestionItem, y: yQuestionItem }: SmartBubblePlotProps,
+  options: SmartGraphConfig,
 ): BubbleGraphSerie[] {
   const ySet = new Set<string>()
   const xSet = new Set<string>()
 
-  const graphData = survey.data.reduce((series: InitialBubbleGraphSerie[], row) => {
+  //
+  // Calculate cell weights, build table structure
+  //
+  let graphData = survey.data.reduce((series: InitialBubbleGraphSerie[], row) => {
     const yAns = row[yQuestionItem.questionSurveyId]
     const xAns = row[xQuestionItem.questionSurveyId]
     
@@ -86,7 +91,7 @@ export function getBubbleGraphData(
   const xNormalAnswers = getNormalValues(xAnswers)
 
   //
-  // Fill empty cells section:
+  // Fill empty cells in table:
   //
   graphData.forEach(serie => {
     const existingXValues = serie.data.map((xy: InitialBubbleGraphDatum) => xy.origX)
@@ -98,18 +103,32 @@ export function getBubbleGraphData(
     serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
   })
 
-  const sortedGraphData = graphData.sort((a, b) => sortByRate(a.origId, b.origId))
+  graphData.sort((a, b) => sortByRate(a.origId, b.origId))
+
+  //
+  // Filter data if needed
+  //
+  if (!options.isSpecialVisible) {
+    graphData = graphData
+      .filter(serie => yNormalAnswers.includes(serie.origId))
+      .map(serie => {
+        return {
+          ...serie,
+          data: serie.data.filter((d: InitialBubbleGraphDatum) => xNormalAnswers.includes(d.origX))
+        }
+      })
+  }
 
   //
   // Add percentages to data
   //
   
-  // Sum up all the weights for each X and each serie (y param)
+  // Sum up all the visible weights for each X and each serie (y param)
   let weightSum = 0
-  const serieWeights = Array.from(sortedGraphData, () => 0)
+  const serieWeights = Array.from(graphData, () => 0)
   const xWeights = Array.from(xAnswers, () => 0)
   
-  sortedGraphData.forEach((serie, serieIndex) => {
+  graphData.forEach((serie, serieIndex) => {
     serie.data.forEach((datum: InitialBubbleGraphDatum, xIndex) => {
       weightSum += datum.y
       serieWeights[serieIndex] += datum.y
@@ -117,7 +136,7 @@ export function getBubbleGraphData(
     })
   })
 
-  const finalGraphData: BubbleGraphSerie[] = sortedGraphData.map((serie, serieIndex) => {
+  const finalGraphData: BubbleGraphSerie[] = graphData.map((serie, serieIndex) => {
     return {
       ...serie,
       data: serie.data.map((datum: InitialBubbleGraphDatum, xIndex): BubbleGraphDatum => {
@@ -140,14 +159,28 @@ export function getBubbleGraphData(
   return finalGraphData
 }
 
-export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[] {
+export function getBarGraphData(
+  { survey, x }: SmartGraphProps,
+  options: SmartGraphConfig,
+): BarGraphDatum[] {
+  // Calculate weights
   const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights.all)
-  const weightedXs = surveyDesign.svytable(x.questionSurveyId)
-  const totalXWeight = sum(Object.values(weightedXs))
-
+  let weightedXs = surveyDesign.svytable(x.questionSurveyId)
+  
   const allAnswers = Array.from(new Set(Object.keys(weightedXs)))
   const normalAnswers = getNormalValues(allAnswers)
+
+  // Filter if needed
+  if (!options.isSpecialVisible) {
+    // Object.fromEntries: ({ key: value }) => [key, value]
+    weightedXs = Object.fromEntries(
+      Object.entries(weightedXs).filter(([ans]) => normalAnswers.includes(ans))
+    )
+  }
+
+  const totalXWeight = sum(Object.values(weightedXs))
   
+  // Convert to graph data
   const barGraphData = map(weightedXs, (answerWeightedCount, ans) => {
     return { 
       group: getLabel(ans), 
@@ -156,9 +189,11 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[]
       id: normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
     }
   })
-  const sortedData = barGraphData.sort(
+
+  // Sort by answer prefix
+  barGraphData.sort(
     (a, b) => sortByRate(a.origGroup, b.origGroup)
   )
 
-  return sortedData
+  return barGraphData
 }
