@@ -30,6 +30,13 @@ export function getRate (ans: string): string {
 }
 export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 
+function getNormalValues(answers: string[]): string[] {
+  const rates = answers.map(ans => Number(getRate(ans)))
+  rates.sort((a, b) => a - b)
+  const normalRates = rates.filter((rate, i, arr) => i === 0 || rate === arr[i-1] + 1)
+  return answers.filter((ans) => normalRates.includes(Number(getRate(ans)))) 
+}
+
 export function getBubbleGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps
 ): BubbleGraphSerie[] {
@@ -124,12 +131,17 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[]
   const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights.all)
   const weightedXs = surveyDesign.svytable(x.questionSurveyId)
   const totalXWeight = sum(Object.values(weightedXs))
+
+  const allAnswers = Array.from(new Set(Object.keys(weightedXs)))
+  const normalAnswers = getNormalValues(allAnswers)
   
   const barGraphData = map(weightedXs, (answerWeightedCount, ans) => {
     return { 
       group: getLabel(ans), 
       origGroup: ans,
       value: (answerWeightedCount / totalXWeight * 100).toFixed(2),
+      ansType: normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
+      id: normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
     }
   })
   const sortedData = barGraphData.sort(

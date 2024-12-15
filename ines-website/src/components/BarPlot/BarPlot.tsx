@@ -25,7 +25,7 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                 data={data}
                 indexBy='group'
                 maxValue={100}
-                colorBy='indexValue'
+                colorBy='id'
                 label={formattedLabel}
                 labelPosition='end'
                 labelOffset={10}
@@ -33,6 +33,34 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                 margin={{ top: 60, right: 160, bottom: 200, left: 60 }}
                 padding={0.12}
                 enableGridX
+                defs={[
+                    {
+                        id: 'normal',
+                        type: 'linearGradient',
+                        colors: [
+                            { offset: 0, color: '#38bcb2' },
+                            { offset: 100, color: '#38bcb2' },
+                        ],
+                    },
+                    {
+                        id: 'special',
+                        type: 'linearGradient',
+                        colors: [
+                            { offset: 0, color: '#faf047' },
+                            { offset: 100, color: '#faf047' },
+                        ],
+                    }
+                ]}
+                fill={[
+                    {
+                        match: (d) => d.data.data.id === 'normal',
+                        id: 'normal'
+                    },
+                    {
+                        match: (d) => d.data.data.id === 'special',
+                        id: 'special'
+                    }
+                ]}
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
