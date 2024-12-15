@@ -1,7 +1,7 @@
-import map from 'lodash/map'
-
 import { QuestionItem } from '../../types/survey'
 import CustomSelect from '../CustomSelect/CustomSelect'
+
+import './QuestionSelect.css'
 
 interface QuestionSelectProps {
     inputLabel: string; // label is the description / the question
@@ -12,17 +12,17 @@ interface QuestionSelectProps {
 
 // A Select component for selecting a single question from a bunch of questions
 function QuestionSelect({ inputLabel, value, onChange, questionItems }: QuestionSelectProps) {
-  const items = map(questionItems, ({ questionSurveyId, questionHebrewDescription, englishDescription, type }) => ({ 
+  const options = questionItems.map(({ questionSurveyId, questionHebrewDescription, englishDescription, type }) => ({ 
     value: questionSurveyId, 
     label: `${englishDescription} / ${questionHebrewDescription}`,
     tooltipText: questionHebrewDescription,
-    isDemography: type === 'demography'
+    className: type === 'demography' ? 'demography' : '',
   }))
 
   return (
     <CustomSelect
       inputLabel={inputLabel}
-      items={items}
+      options={options}
       value={value}
       onChange={onChange}
     />

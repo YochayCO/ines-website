@@ -1,45 +1,49 @@
-import map from 'lodash/map'
-
-import Select, { SelectChangeEvent } from '@mui/material/Select'
-import FormControl from '@mui/material/FormControl'
-import InputLabel from '@mui/material/InputLabel'
-import MenuItem from '@mui/material/MenuItem'
+import { useMemo } from 'react'
+import { Autocomplete, Box, TextField } from '@mui/material'
+import cx from 'classnames'
 
 import './CustomSelect.css'
+
+interface CustomItem { 
+  value: string; 
+  label: string; 
+  tooltipText?: string; 
+  className?: string;
+}
 
 interface CustomSelectProps {
     inputLabel: string;
     value: string; // id
     onChange: (newValue: string) => void;
-    items: { value: string; label: string; tooltipText?: string; isDemography?: boolean; }[];
+    options: CustomItem[];
 }
 
 // A Select component for selecting a single question from a bunch of questions
-function CustomSelect({ inputLabel, value, onChange, items }: CustomSelectProps) {
-  const menuItems = map(items, ({ value: itemValue, label, tooltipText, isDemography }) => {
-    return (
-    <MenuItem 
-      value={itemValue} 
-      key={itemValue} 
-      className={isDemography ? 'demography' : ''}
-      title={tooltipText}
-    >
-      {label}
-    </MenuItem>
-  )
-  })
+function CustomSelect({ inputLabel, value, onChange, options: options }: CustomSelectProps) {
+  const selectedOption = useMemo(() => options.find((option) => option.value === value) || null, [options, value])
   
-  const handleChange = (event: SelectChangeEvent) => onChange(event.target.value as string)
+  const handleChange = (_event: React.SyntheticEvent, option: CustomItem | null) => onChange(option?.value || '')
 
   return (
     <>
-      <FormControl sx={{ m: 1, width: 1 }}>
-        <InputLabel>{inputLabel}</InputLabel>
-        <Select value={value} onChange={handleChange}>
-          <MenuItem value=''><em>{inputLabel}</em></MenuItem>
-          {menuItems}
-        </Select>
-      </FormControl>
+      <Autocomplete
+        sx={{ m: 1, width: 1 }}
+        options={options}
+        renderInput={(params) => <TextField {...params} label={inputLabel} />}
+        renderOption={({ key, ...optionProps }, option) => (
+          <Box 
+            {...optionProps}
+            key={key} 
+            component='li'
+            title={option.tooltipText}
+            className={cx(optionProps.className, option.className)}
+          >
+            {option.label}
+          </Box>
+        )}
+        value={selectedOption}
+        onChange={handleChange}
+      />
     </>
   )
 }

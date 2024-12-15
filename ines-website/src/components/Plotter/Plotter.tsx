@@ -35,7 +35,7 @@ function Plotter() {
         inputLabel='Select survey'
         value={surveyId}
         onChange={setSurveyId}
-        items={surveyItems}
+        options={surveyItems}
       />
       {!!survey && <InnerPlotter survey={survey} />}
     </>
