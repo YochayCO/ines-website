@@ -19,6 +19,20 @@ npm run dev
 ```
 Open `localhost:5137` and enjoy the hmr.
 
+## Deployment
+
+Go to `ines-website` folder.
+
+Run the following commands to bulid a new image
+
+`npm run build`
+
+`docker build -t ines-website-app .`
+
+And then to run the image:
+
+`docker run -d -p 80:80 ines-website-app:latest`
+
 ## Scripts
 
 *Our main inputs:*
