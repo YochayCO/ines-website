@@ -3,6 +3,12 @@
     font-weight: 600;
 }
 
+.empty-data-msg {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0 10px 10px;
+}
+
 text:has(> tspan.axis-legend), .axis-legend {
     font: 15px sans-serif;
 }
