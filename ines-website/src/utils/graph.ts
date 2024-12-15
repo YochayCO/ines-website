@@ -8,9 +8,8 @@ import {
   SmartBoxPlotProps,
   SmartGraphProps,
   BubbleGraphDatum,
-  InitialBubbleGraphDatumData,
   InitialBubbleGraphDatum,
-  InitialBubbleGraphSerie
+  InitialBubbleGraphSerie,
 } from '../types/graph'
 import SurveyDesign from './SurveyDesign'
 import { sortByRate } from './survey'
@@ -30,16 +29,23 @@ export function getRate (ans: string): string {
 }
 export function getGraphGroup (d: BarGraphDatum): string { return d.group }
 
+// Normal answers end on the first special answer (a numerical "jump")
 function getNormalValues(answers: string[]): string[] {
   const rates = answers.map(ans => Number(getRate(ans)))
   rates.sort((a, b) => a - b)
-  const normalRates = rates.filter((rate, i, arr) => i === 0 || rate === arr[i-1] + 1)
-  return answers.filter((ans) => normalRates.includes(Number(getRate(ans)))) 
+
+  const firstSpecialIndex = rates.findIndex((rate, i, arr) => !(i === 0 || rate === arr[i-1] + 1))
+  rates.splice(firstSpecialIndex)
+
+  return answers.filter((ans) => rates.includes(Number(getRate(ans)))) 
 }
 
 export function getBubbleGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBoxPlotProps
 ): BubbleGraphSerie[] {
+  const ySet = new Set<string>()
+  const xSet = new Set<string>()
+
   const graphData = survey.data.reduce((series: InitialBubbleGraphSerie[], row) => {
     const yAns = row[yQuestionItem.questionSurveyId]
     const xAns = row[xQuestionItem.questionSurveyId]
@@ -47,6 +53,9 @@ export function getBubbleGraphData(
     // Do not include invalid data (null values and such)
     if (typeof yAns !== 'string' || typeof xAns !== 'string') return series
     if (yAns.trim() === '' || xAns.trim() === '') return series
+
+    ySet.add(yAns)
+    xSet.add(xAns)
     
     const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
@@ -71,23 +80,21 @@ export function getBubbleGraphData(
     return series
   }, [])
 
+  const yAnswers = Array.from(ySet)
+  const yNormalAnswers = getNormalValues(yAnswers)
+  const xAnswers = Array.from(xSet)
+  const xNormalAnswers = getNormalValues(xAnswers)
+
   //
   // Fill empty cells section:
   //
-
-  // Create a unique list of all x original values
-  const dupOrigXs = graphData.map(
-    (d) => d.data.map((xy: InitialBubbleGraphDatum) => xy.origX)
-  ).flat(2)
-  const allOrigXs = Array.from(new Set(dupOrigXs))
-
   graphData.forEach(serie => {
-    const existingXValues = serie.data.map((xy: InitialBubbleGraphDatumData) => xy.origX)
-    const newXs = difference(allOrigXs, existingXValues)
-    const newXYs: InitialBubbleGraphDatumData[] = newXs.map(origX => 
+    const existingXValues = serie.data.map((xy: InitialBubbleGraphDatum) => xy.origX)
+    const newXs = difference(xAnswers, existingXValues)
+    const newXYs: InitialBubbleGraphDatum[] = newXs.map(origX => 
       ({ x: getLabel(origX), y: 0, origX, origId: serie.origId }))
 
-    const data: InitialBubbleGraphDatumData[] = concat(serie.data,newXYs)
+    const data: InitialBubbleGraphDatum[] = concat(serie.data,newXYs)
     serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
   })
 
@@ -100,7 +107,7 @@ export function getBubbleGraphData(
   // Sum up all the weights for each X and each serie (y param)
   let weightSum = 0
   const serieWeights = Array.from(sortedGraphData, () => 0)
-  const xWeights = Array.from(allOrigXs, () => 0)
+  const xWeights = Array.from(xAnswers, () => 0)
   
   sortedGraphData.forEach((serie, serieIndex) => {
     serie.data.forEach((datum: InitialBubbleGraphDatum, xIndex) => {
@@ -114,11 +121,17 @@ export function getBubbleGraphData(
     return {
       ...serie,
       data: serie.data.map((datum: InitialBubbleGraphDatum, xIndex): BubbleGraphDatum => {
+        const isCellNormal = (
+          yNormalAnswers.includes(serie.origId) && 
+          xNormalAnswers.includes(datum.origX)
+        )
+
         return {
           ...datum,
           y: Number((datum.y / weightSum * 100).toFixed(2)),
           yByX: Number((datum.y / xWeights[xIndex] * 100).toFixed(2)),
           yBySerie: Number((datum.y / serieWeights[serieIndex] * 100).toFixed(2)),
+          ansType: isCellNormal ? 'normal' : 'special'
         }
       })
     }
@@ -140,7 +153,6 @@ export function getBarGraphData({ survey, x }: SmartGraphProps): BarGraphDatum[]
       group: getLabel(ans), 
       origGroup: ans,
       value: (answerWeightedCount / totalXWeight * 100).toFixed(2),
-      ansType: normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
       id: normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
     }
   })

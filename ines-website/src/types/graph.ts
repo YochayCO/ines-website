@@ -8,10 +8,10 @@ export type AnswerType = 'normal' | 'special'
 export interface GraphDatum extends BoxPlotDatum { group: string; } // Striter than general datum
 export type GraphData = GraphDatum[]
 
-export interface BarGraphDatum extends BarDatum { group: string; origGroup: string; ansType: AnswerType }
+export interface BarGraphDatum extends BarDatum { group: string; origGroup: string; }
 
 
-export interface InitialBubbleGraphDatumData { 
+export interface InitialBubbleGraphDatum extends HeatMapDatum { 
     x: string; 
     y: number; 
     origX: string;
@@ -19,24 +19,20 @@ export interface InitialBubbleGraphDatumData {
     yByX?: number;
     yBySerie?: number
 }
-export type InitialBubbleGraphDatum = HeatMapDatum & InitialBubbleGraphDatumData
-export type InitialBubbleGraphExtras = { origId: string; data: InitialBubbleGraphDatumData[] }
+export type InitialBubbleGraphExtras = { origId: string; data: InitialBubbleGraphDatum[] }
 export type InitialBubbleGraphSerie = HeatMapSerie<HeatMapDatum, InitialBubbleGraphExtras>
 
 
-export interface BubbleGraphDatumData extends InitialBubbleGraphDatumData { 
+export interface BubbleGraphDatum extends InitialBubbleGraphDatum { 
     x: string; 
     y: number; 
     origX: string;
     origId: string;
     yByX: number;
     yBySerie: number; 
-    // TODO: Also color the tabulation chart
-    // xAnsType: AnswerType;
-    // yAnsType: AnswerType;
+    ansType: AnswerType;
 }
-export type BubbleGraphDatum = HeatMapDatum & BubbleGraphDatumData
-export type BubbleGraphExtras = { origId: string; data: BubbleGraphDatumData[] }
+export type BubbleGraphExtras = { origId: string; data: BubbleGraphDatum[] }
 export type BubbleGraphSerie = HeatMapSerie<HeatMapDatum, BubbleGraphExtras>
 
 export interface SmartGraphProps {

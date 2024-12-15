@@ -59,17 +59,9 @@ export default function BubblePlot({ data, xTitle, yTitle }: BubblePlotProps) {
                 )}
                 axisTop={null}
                 colors={{ type: 'diverging', scheme: 'blues' }}
-                labelTextColor={'black'}
+                borderColor={(d) => d.data.ansType === 'normal' ? 'none' : 'yellow'}
                 borderWidth={2}
-                borderColor={{
-                    from: 'color',
-                    modifiers: [
-                        [
-                            'darker',
-                            0.3
-                        ]
-                    ]
-                }}
+                labelTextColor={'black'}
                 motionConfig="stiff"
             />
         </div>
