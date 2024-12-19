@@ -19,7 +19,7 @@ npm run dev
 ```
 Open `localhost:5137` and enjoy the hmr.
 
-## Deployment
+## Building docker image
 
 Go to `ines-website` folder.
 
@@ -32,6 +32,45 @@ Run the following commands to bulid a new image
 And then to run the image:
 
 `docker run -d -p 80:80 ines-website-app:latest`
+
+## Deploy on server
+
+The server is based on a deprecated version of centos (centos7) and it has firewalls which prevent downloading docker normally. 
+We are therefore forced to install docker and its dependencies one-by-one, and this means going through "dependency hell" whenever we run into a bad/missing dependency.
+
+Here are the main ones (use latest of centos-7 compatible files unless stated otherwise):
+* docker-ce-20.XXX
+  * docker-ce-cli
+    * docker-buildx-plugin
+    * docker-compose-plugin
+  * containerd.io
+    * libseccomp
+    * container-selinux
+  * docker-ce-rootless-extras-20.XXX
+    * fuse-overlayfs
+      * libfuse3.so.3 (=**fuse3-libs**)
+    * slirp4netns
+Note: `docker-ce-rootless-extras` & `docker-ce` are each other's dependencies and should be installed simultaniously.
+
+
+They can be installed from: 
+`https://download.docker.com/linux/centos/7/x86_64/stable/Packages/`
+`https://vault.centos.org/centos/7/extras/x86_64/Packages/`
+`https://vault.centos.org/7.9.2009/os/x86_64/Packages/`
+
+`rpm` + `grep` can help discover missing dependencies.
+
+`sudo yum install` can install the local files after they are moved to the server using `scp`
+
+I pray thou shall never have to go through this process
+
+Then:
+
+`systemctl docker enable`
+
+`systemctl docker start`
+
+`docker ps` should hopefully work now
 
 ## Scripts
 
