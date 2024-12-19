@@ -10,13 +10,22 @@ import {
   BubbleGraphDatum,
   InitialBubbleGraphDatum,
   InitialBubbleGraphSerie,
-  SmartGraphConfig,
+  BubbleGraphConfig,
+  BarGraphConfig,
 } from '../types/graph'
 import SurveyDesign from './SurveyDesign'
 import { sortByRate } from './survey'
+import { SurveyRow } from '../types/survey'
 
 function getRateAndLabel (ans: string): string[] {
   return ans.replace(/[\s\u200B\u200E\u200F\u202A-\u202E]+/g, ' ').split('. ') 
+}
+
+export function getAnswerFromLabel(graphData: BubbleGraphSerie[], label: string): string | undefined {
+  const answers = graphData[0].data.map((d: BubbleGraphDatum) => d.origX)
+  const ans = answers.find(ans => getLabel(ans) === label)
+
+  return ans
 }
 
 // if answer has no label - rate is the label
@@ -41,9 +50,15 @@ function getNormalValues(answers: string[]): string[] {
   return answers.filter((ans) => rates.includes(Number(getRate(ans)))) 
 }
 
+function getWeight (row: SurveyRow, weightKey?: string, isHidden?: boolean) {
+  if (isHidden) return 0
+
+  return weightKey ? Number(row[weightKey]) : 1
+}
+
 export function getBubbleGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBubblePlotProps,
-  options: SmartGraphConfig,
+  options: BubbleGraphConfig,
 ): BubbleGraphSerie[] {
   const ySet = new Set<string>()
   const xSet = new Set<string>()
@@ -64,7 +79,9 @@ export function getBubbleGraphData(
     
     const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
-    const weight = survey.meta.weights.all ? Number(row[survey.meta.weights.all]) : 1
+    const weight = getWeight(
+      row, survey.meta.weights.all, options.hiddenAnswers.includes(xAns)
+    )
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)
@@ -74,14 +91,14 @@ export function getBubbleGraphData(
     }
 
     // If x does not exist for series - create it and go to next.
-    const currX = currSerie.data.find(({ x }) => x === xValue)
-    if (!currX?.y) {
+    const currDatum = currSerie.data.find(({ x }) => x === xValue) as InitialBubbleGraphDatum | undefined
+    if (currDatum === undefined) {
       currSerie.data = currSerie.data.concat([{ x: xValue, y: weight, origX: xAns, origId: yAns }])
       return series
     }
 
     // If x-serie pair exist - increment voteCount and go to next.
-    currX.y += weight
+    currDatum.y += weight
     return series
   }, [])
 
@@ -94,7 +111,7 @@ export function getBubbleGraphData(
   // Fill empty cells in table:
   //
   graphData.forEach(serie => {
-    const existingXValues = serie.data.map((xy: InitialBubbleGraphDatum) => xy.origX)
+    const existingXValues = serie.data.map((d: InitialBubbleGraphDatum) => d.origX)
     const newXs = difference(xAnswers, existingXValues)
     const newXYs: InitialBubbleGraphDatum[] = newXs.map(origX => 
       ({ x: getLabel(origX), y: 0, origX, origId: serie.origId }))
@@ -161,7 +178,7 @@ export function getBubbleGraphData(
 
 export function getBarGraphData(
   { survey, x }: SmartGraphProps,
-  options: SmartGraphConfig,
+  options: BarGraphConfig,
 ): BarGraphDatum[] {
   // Calculate weights
   const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights.all)

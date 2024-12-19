@@ -1,4 +1,4 @@
-import { ReactNode, useMemo, useState } from 'react';
+import { ReactNode, useEffect, useMemo, useState } from 'react';
 import { FormControlLabel, FormGroup, Switch } from '@mui/material';
 import { BarGraphDatum, BubbleGraphSerie, SmartGraphProps } from '../../types/graph';
 import { getBarGraphData, getBubbleGraphData } from '../../utils/graph';
@@ -8,14 +8,28 @@ import BubblePlot from '../BubblePlot/BubblePlot';
 // A smart component that wraps all possible plots
 export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const [isSpecialVisible, setSpecialVisible] = useState(true)
+    const [hiddenAnswers, setHiddenAnswers] = useState<string[]>([])
+
+    useEffect(() => {
+        setHiddenAnswers([])
+    }, [survey, x, y, isSpecialVisible])
+
     const handleSpecialToggle = () => setSpecialVisible((currVisibility) => !currVisibility)
+    const handleXAnswerClick = (ans: string) => {
+        if (hiddenAnswers.includes(ans)) {
+            const newHiddenAnswers = hiddenAnswers.filter(a => a !== ans)
+            setHiddenAnswers(newHiddenAnswers)
+        } else {
+            setHiddenAnswers(hiddenAnswers.concat(ans))
+        }
+    }
     
     const graphData = useMemo(() => {
-        const options = { isSpecialVisible }
+        const options = { isSpecialVisible, hiddenAnswers }
 
         if (y) return getBubbleGraphData({ survey, x, y }, options)
         return getBarGraphData({ survey, x }, options)
-    }, [survey, x, y, isSpecialVisible])
+    }, [survey, x, y, isSpecialVisible, hiddenAnswers])
 
     const toggleButton = (
         <FormGroup>
@@ -37,6 +51,8 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
                 data={visibleData}
                 xTitle={`${x.englishDescription} / ${x.questionHebrewDescription}`}
                 yTitle={`${y.englishDescription} / ${y.questionHebrewDescription}`}
+                hiddenAnswers={hiddenAnswers}
+                onXAnswerClick={handleXAnswerClick}
             />
         )
     } else {

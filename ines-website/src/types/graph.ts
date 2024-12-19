@@ -43,4 +43,5 @@ export interface SmartGraphProps {
 
 export type SmartBubblePlotProps = SmartGraphProps & { y: QuestionItem; }
 
-export type SmartGraphConfig = { isSpecialVisible: boolean; }
+export type BarGraphConfig = { isSpecialVisible: boolean; }
+export type BubbleGraphConfig = { isSpecialVisible: boolean; hiddenAnswers: string[]; }
