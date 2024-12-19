@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 
 import { Survey } from '../../types/survey';
+import { getQiOptions } from '../../utils/survey';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
 import SmartChart from '../SmartChart/SmartChart';
 
@@ -16,11 +17,11 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
     setY('')
   }, [survey])
 
-  const allQuestionItems = survey.meta.questionItems
-  const nonDemographyQuestionItems = allQuestionItems.filter((qi) => qi.type !== 'demography')
+  const allQiOptions = getQiOptions(survey.meta)
+  const nonDemographyQiOptions = allQiOptions.filter((qi) => qi.type !== 'demography')
 
-  const xQuestionItem = allQuestionItems.find(qi => qi.questionSurveyId === x)
-  const yQuestionItem = nonDemographyQuestionItems.find(qi => qi.questionSurveyId === y)
+  const xQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === x)
+  const yQuestionItem = nonDemographyQiOptions.find(qi => qi.questionSurveyId === y)
 
   const isGraphVisible = !!xQuestionItem && (xQuestionItem.type !== 'demography' || !!yQuestionItem)
   
@@ -30,13 +31,13 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
         inputLabel='Select question for X Axis' 
         value={x} 
         onChange={setX}
-        questionItems={allQuestionItems}
+        questionItems={allQiOptions}
       />
       <QuestionSelect 
         inputLabel='Select question for Y Axis' 
         value={y}
         onChange={setY}
-        questionItems={nonDemographyQuestionItems}
+        questionItems={nonDemographyQiOptions}
       />
       {isGraphVisible && (
         <SmartChart

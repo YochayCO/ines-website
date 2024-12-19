@@ -1,7 +1,18 @@
 import Papa from 'papaparse'
-import { Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
+import { QuestionItemOption, Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
 import { getRate } from './graph'
 import { fetchCSV, fetchJson } from './files'
+
+export function getQiOptions (meta: SurveyMeta): QuestionItemOption[] {
+    if (!meta.hiddenQuestionItems?.length) return meta.questionItems
+    
+    return meta.questionItems.map(qi => {
+        return {
+            ...qi,
+            disabled: meta.hiddenQuestionItems!.includes(qi.questionSurveyId),
+        }
+    })
+}
 
 async function fetchSurveyDataById(id: string): Promise<SurveyRows> {
     const surveyDataFile = `/surveys_data/${id}.csv`

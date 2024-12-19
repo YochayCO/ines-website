@@ -8,6 +8,10 @@ export interface QuestionItem {
     type: QuestionType;
 }
 
+export interface QuestionItemOption extends QuestionItem {
+    disabled?: boolean;
+}
+
 export interface SurveyMetaBase {
     id: string;
     weights: {
@@ -15,6 +19,7 @@ export interface SurveyMetaBase {
         jews?: string;
         arabs?: string;
     };
+    hiddenQuestionItems?: string[];
 }
 
 export interface SurveyMeta extends SurveyMetaBase {

@@ -4,25 +4,26 @@ import cx from 'classnames'
 
 import './CustomSelect.css'
 
-interface CustomItem { 
+interface CustomOption { 
   value: string; 
   label: string; 
   tooltipText?: string; 
   className?: string;
+  disabled?: boolean;
 }
 
 interface CustomSelectProps {
     inputLabel: string;
     value: string; // id
     onChange: (newValue: string) => void;
-    options: CustomItem[];
+    options: CustomOption[];
 }
 
 // A Select component for selecting a single question from a bunch of questions
 function CustomSelect({ inputLabel, value, onChange, options: options }: CustomSelectProps) {
   const selectedOption = useMemo(() => options.find((option) => option.value === value) || null, [options, value])
   
-  const handleChange = (_event: React.SyntheticEvent, option: CustomItem | null) => onChange(option?.value || '')
+  const handleChange = (_event: React.SyntheticEvent, option: CustomOption | null) => onChange(option?.value || '')
 
   return (
     <>
@@ -43,6 +44,7 @@ function CustomSelect({ inputLabel, value, onChange, options: options }: CustomS
         )}
         value={selectedOption}
         onChange={handleChange}
+        getOptionDisabled={option => !!option.disabled}
       />
     </>
   )
