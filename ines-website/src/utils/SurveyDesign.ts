@@ -3,6 +3,7 @@ type DataRow = { [key: string]: string };
 class SurveyDesign {
     private data: DataRow[];
     private weightsKey?: string;
+    public effectiveResponses: number = 0;
 
     constructor(data: DataRow[], weightsKey?: string) {
         if (!weightsKey) {
@@ -25,7 +26,7 @@ class SurveyDesign {
     }
 
     svytable(column: string): Record<string, number> {
-        const weightedAnswerSums: Record<string, number> = {};
+        const weightedAnswerSums: Record<string, number> = {}
     
         this.data.forEach((row, rowNum) => {
             const ans = row[column];
@@ -43,6 +44,7 @@ class SurveyDesign {
             }
     
             weightedAnswerSums[ans] += weight;
+            this.effectiveResponses++
         });
         
         return weightedAnswerSums;

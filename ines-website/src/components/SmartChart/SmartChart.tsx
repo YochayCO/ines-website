@@ -5,6 +5,8 @@ import { getBarGraphData, getBubbleGraphData } from '../../utils/graph';
 import BarPlot from '../BarPlot/BarPlot';
 import BubblePlot from '../BubblePlot/BubblePlot';
 
+import './SmartChart.css'
+
 // A smart component that wraps all possible plots
 export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const [isSpecialVisible, setSpecialVisible] = useState(true)
@@ -24,7 +26,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         }
     }
     
-    const graphData = useMemo(() => {
+    const { graphData, effectiveResponses } = useMemo(() => {
         const options = { isSpecialVisible, hiddenAnswers }
 
         if (y) return getBubbleGraphData({ survey, x, y }, options)
@@ -32,7 +34,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     }, [survey, x, y, isSpecialVisible, hiddenAnswers])
 
     const toggleButton = (
-        <FormGroup>
+        <FormGroup className='toggle-button'>
             <FormControlLabel 
                 label='Toggle special values visibility'
                 control={(
@@ -40,6 +42,10 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
                 )}
             />
         </FormGroup>
+    )
+
+    const effectiveResponsesIndicator = (
+        <div className='responses-sum'>{effectiveResponses}</div>
     )
 
     let smartPlot: ReactNode
@@ -67,10 +73,15 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     }
 
     return (
-        <>
-            {toggleButton}
-            {smartPlot}
-        </>
+        <div className='graph-container'>
+            <div className='graph-header'>
+                {toggleButton}
+                {effectiveResponsesIndicator}
+            </div>
+            <div className='graph'>
+                {smartPlot}
+            </div>
+        </div>
     )
 };
 

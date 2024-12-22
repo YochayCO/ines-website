@@ -59,9 +59,10 @@ function getWeight (row: SurveyRow, weightKey?: string, isHidden?: boolean) {
 export function getBubbleGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBubblePlotProps,
   options: BubbleGraphConfig,
-): BubbleGraphSerie[] {
+): { graphData: BubbleGraphSerie[]; effectiveResponses: number } {
   const ySet = new Set<string>()
   const xSet = new Set<string>()
+  let effectiveResponses = 0
 
   //
   // Calculate cell weights, build table structure
@@ -76,6 +77,7 @@ export function getBubbleGraphData(
 
     ySet.add(yAns)
     xSet.add(xAns)
+    effectiveResponses++
     
     const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
@@ -173,16 +175,17 @@ export function getBubbleGraphData(
     }
   })
 
-  return finalGraphData
+  return { graphData: finalGraphData, effectiveResponses }
 }
 
 export function getBarGraphData(
   { survey, x }: SmartGraphProps,
   options: BarGraphConfig,
-): BarGraphDatum[] {
+): { graphData: BarGraphDatum[]; effectiveResponses: number } {
   // Calculate weights
   const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights?.all)
   let weightedXs = surveyDesign.svytable(x.questionSurveyId)
+  const effectiveResponses = surveyDesign.effectiveResponses
   
   const allAnswers = Array.from(new Set(Object.keys(weightedXs)))
   const normalAnswers = getNormalValues(allAnswers)
@@ -212,5 +215,5 @@ export function getBarGraphData(
     (a, b) => sortByRate(a.origGroup, b.origGroup)
   )
 
-  return barGraphData
+  return { graphData: barGraphData, effectiveResponses }
 }

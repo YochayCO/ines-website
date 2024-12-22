@@ -30,7 +30,6 @@ function Plotter() {
   
   return (
     <>
-      <h2>Plot away!</h2>
       <CustomSelect 
         inputLabel='Select survey'
         value={surveyId}
