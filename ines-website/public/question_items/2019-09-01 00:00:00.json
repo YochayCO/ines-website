@@ -1,0 +1,289 @@
+[
+    {
+        "id": "2. תאריך",
+        "questionHebrewDescription": "תאריך",
+        "questionSurveyId": "c_date_before",
+        "type": "demography",
+        "englishDescription": null
+    },
+    {
+        "id": "3. תאריך פוסט בחירות",
+        "questionHebrewDescription": "תאריך פוסט בחירות",
+        "questionSurveyId": "d_date_after",
+        "type": "demography",
+        "englishDescription": null
+    },
+    {
+        "id": "5. סקטור",
+        "questionHebrewDescription": "סקטור",
+        "questionSurveyId": "c149",
+        "type": "demography",
+        "englishDescription": "C149. Sector"
+    },
+    {
+        "id": "7. גרסה",
+        "questionHebrewDescription": "גרסה",
+        "questionSurveyId": "girsa_c",
+        "type": "demography",
+        "englishDescription": "1. Version"
+    },
+    {
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "c111",
+        "type": "category",
+        "englishDescription": "C111. There is much talk about left and right in politics. Where would you rank"
+    },
+    {
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "c49_a",
+        "type": "category",
+        "englishDescription": "C49_A Likud"
+    },
+    {
+        "id": "2. מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? כחול-לבן",
+        "questionSurveyId": "c49_b",
+        "type": "category",
+        "englishDescription": "C49_B Kahol-Lavan"
+    },
+    {
+        "id": "10. מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? מרצ",
+        "questionSurveyId": "c49_f",
+        "type": "category",
+        "englishDescription": "C49_F Hamachane Hademocrati"
+    },
+    {
+        "id": "11. מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ימינה",
+        "questionSurveyId": "c49_d",
+        "type": "category",
+        "englishDescription": "C49_D Yamina (HaYamin HaMeuchad)"
+    },
+    {
+        "id": "14. מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? ישראל ביתנו",
+        "questionSurveyId": "c49_h",
+        "type": "category",
+        "englishDescription": "C49_H Yisrael Beitenu"
+    },
+    {
+        "id": "20. מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הרשימה המשותפת",
+        "questionSurveyId": "c49_j",
+        "type": "category",
+        "englishDescription": "C49_J HaReshima HaMeshutefet"
+    },
+    {
+        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "questionSurveyId": "c52_a",
+        "type": "category",
+        "englishDescription": "C52_A Binyamin Netanyahu"
+    },
+    {
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "questionSurveyId": "c52_b",
+        "type": "category",
+        "englishDescription": "C52_B Benny Gantz"
+    },
+    {
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "questionSurveyId": "c52_i",
+        "type": "category",
+        "englishDescription": "C52_I Avigdor Liberman"
+    },
+    {
+        "id": "64. ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
+        "questionSurveyId": "c52_d",
+        "type": "category",
+        "englishDescription": "C52_D Amir Peretz"
+    },
+    {
+        "id": "68. ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
+        "questionSurveyId": "c52_e",
+        "type": "category",
+        "englishDescription": "C52_E Ayelet Shaked"
+    },
+    {
+        "id": "75. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "questionSurveyId": "c52_g",
+        "type": "category",
+        "englishDescription": "C52_G Nitzan Horowitz"
+    },
+    {
+        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "questionSurveyId": "c52_k",
+        "type": "category",
+        "englishDescription": "C52_K Ayman Oudeh"
+    },
+    {
+        "id": "105. נתחיל מהאירועים שהובילו לבחירות החוזרות ב-17 בספטמבר, לאחר שנתניהו לא הצליח להרכיב ממשלה. עד כמה לדעתך, כל אחד מהדברים הבאים, היה ראוי או לא ראוי בעינייך: שהכנסת החליטה לפזר עצמה ולקיים בחירות חדשות",
+        "questionHebrewDescription": "נתחיל מהאירועים שהובילו לבחירות החוזרות ב-17 בספטמבר, לאחר שנתניהו לא הצליח להרכיב ממשלה. עד כמה לדעתך, כל אחד מהדברים הבאים, היה ראוי או לא ראוי בעינייך: שהכנסת החליטה לפזר עצמה ולקיים בחירות חדשות",
+        "questionSurveyId": "c301",
+        "type": "category",
+        "englishDescription": "C301. That the Knesset decided to dissolve itself and hold new elections"
+    },
+    {
+        "id": "106. שנתניהו לא החזיר את המנדט לנשיא בתום התקופה שקיבל להרכיב קואליציה",
+        "questionHebrewDescription": "שנתניהו לא החזיר את המנדט לנשיא בתום התקופה שקיבל להרכיב קואליציה",
+        "questionSurveyId": "c302",
+        "type": "category",
+        "englishDescription": "C302. That Netanyahu did not return the mandate to the president at the end of t"
+    },
+    {
+        "id": "107. שליברמן לא נכנס לקואליציה למרות שהתחייב לקואליציית ימין בראשות נתניהו",
+        "questionHebrewDescription": "שליברמן לא נכנס לקואליציה למרות שהתחייב לקואליציית ימין בראשות נתניהו",
+        "questionSurveyId": "c303",
+        "type": "category",
+        "englishDescription": "C303. That Lieberman did not join the coalition despite his committing to a righ"
+    },
+    {
+        "id": "108. שמפלגות מהמרכז ומהשמאל פסלו ישיבה בממשלה בראשות נתניהו בשל כתבי האישום נגדו",
+        "questionHebrewDescription": "שמפלגות מהמרכז ומהשמאל פסלו ישיבה בממשלה בראשות נתניהו בשל כתבי האישום נגדו",
+        "questionSurveyId": "c304",
+        "type": "category",
+        "englishDescription": "C304. That the center and left parties rejected joining a government lead by Net"
+    },
+    {
+        "id": "109. שהמשא ומתן הקואליציוני התמקד בנושאים האישיים של נתניהו ולא בנושאי מדיניות",
+        "questionHebrewDescription": "שהמשא ומתן הקואליציוני התמקד בנושאים האישיים של נתניהו ולא בנושאי מדיניות",
+        "questionSurveyId": "c305",
+        "type": "category",
+        "englishDescription": "C305. That the coalition negotiations  focused on Netanyahu’s personal affairs a"
+    },
+    {
+        "id": "110. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: כעס",
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: כעס",
+        "questionSurveyId": "c306",
+        "type": "category",
+        "englishDescription": "C306. Anger"
+    },
+    {
+        "id": "111. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: גועל",
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: גועל",
+        "questionSurveyId": "c307",
+        "type": "category",
+        "englishDescription": "C307. Disgust"
+    },
+    {
+        "id": "112. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: תקווה",
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: תקווה",
+        "questionSurveyId": "c308",
+        "type": "category",
+        "englishDescription": "C308. Hope"
+    },
+    {
+        "id": "113. לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: ייאוש",
+        "questionHebrewDescription": "לאנשים יש רגשות שונים כלפי מה שקרה אחרי הבחירות באפריל האחרון. באיזו מידה אתה מרגיש: ייאוש",
+        "questionSurveyId": "c309",
+        "type": "category",
+        "englishDescription": "C309. Despair"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "c104",
+        "type": "category",
+        "englishDescription": "C104. If the Knesset elections were held today, which party list would you vote"
+    },
+    {
+        "id": "29. האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionHebrewDescription": "האם הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "D1",
+        "type": "category",
+        "englishDescription": "D1. Did you vote in the last Knesset election?"
+    },
+    {
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "D2",
+        "type": "category",
+        "englishDescription": "D2. Which list did you vote for in the last Knesset election?"
+    },
+    {
+        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
+        "questionSurveyId": "c106",
+        "type": "category",
+        "englishDescription": "C106. In your opinion, will the government after the election be based on:"
+    },
+    {
+        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
+        "questionSurveyId": "c107",
+        "type": "category",
+        "englishDescription": "C107. And which of the following governments would you prefer?"
+    },
+    {
+        "id": "55. באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "questionHebrewDescription": "באיזו מידה ביום הבחירות היה חשוב לך באופן אישי אם הממשלה הבאה תהיה ממשלת ימין או ממשלת שמאל?",
+        "questionSurveyId": "D4",
+        "type": "category",
+        "englishDescription": "D4. On election day, to what extent was it important to you personally that the"
+    },
+    {
+        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
+        "questionSurveyId": "D9",
+        "type": "category",
+        "englishDescription": "D9. And now given the election results - which coalition would you prefer?"
+    },
+    {
+        "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionHebrewDescription": "בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
+        "questionSurveyId": "D7",
+        "type": "category",
+        "englishDescription": "D7. And when you think about the elections that just took place, what were they"
+    },
+    {
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "c20",
+        "type": "category",
+        "englishDescription": "C20. About the structure of economic life in the country, which do you support m"
+    },
+    {
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "c21",
+        "type": "category",
+        "englishDescription": "C21. In your opinion, should the government of Israel see to it that public life"
+    },
+    {
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "c19",
+        "type": "category",
+        "englishDescription": "C19. In your opinion, should Israel agree, or not agree, to the establishment of"
+    },
+    {
+        "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionHebrewDescription": "יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",
+        "questionSurveyId": "c25",
+        "type": "category",
+        "englishDescription": "C25. Political leader, who does his/her job successfully, should be allowed to c"
+    },
+    {
+        "id": "4. ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionHebrewDescription": "ניתן להשיג שוויון אזרחי לאזרחים הערבים בעיקר באמצעות המאבק הפוליטי בכנסת",
+        "questionSurveyId": "c28",
+        "type": "category",
+        "englishDescription": "C28. It is possible to achieve equal rights for Arab citizens mainly through the"
+    },
+    {
+        "id": "5. המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionHebrewDescription": "המפלגות הערביות עושות את כל שביכולתן כדי לקדם את האינטרסים של האוכלוסייה הערבית בישראל",
+        "questionSurveyId": "c29",
+        "type": "category",
+        "englishDescription": "C29. The Arab parties are doing everything in their power to advance the interes"
+    }
+]

@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 src/assets/statas
-public/question_items
+# public/question_items
 public/surveys_data
 .vercel
