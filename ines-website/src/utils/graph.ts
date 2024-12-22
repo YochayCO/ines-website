@@ -80,7 +80,7 @@ export function getBubbleGraphData(
     const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
     const weight = getWeight(
-      row, survey.meta.weights.all, options.hiddenAnswers.includes(xAns)
+      row, survey.meta.weights?.all, options.hiddenAnswers.includes(xAns)
     )
 
     // If series does not exist - create it and go to next.
@@ -181,7 +181,7 @@ export function getBarGraphData(
   options: BarGraphConfig,
 ): BarGraphDatum[] {
   // Calculate weights
-  const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights.all)
+  const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights?.all)
   let weightedXs = surveyDesign.svytable(x.questionSurveyId)
   
   const allAnswers = Array.from(new Set(Object.keys(weightedXs)))

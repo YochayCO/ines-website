@@ -14,7 +14,7 @@ export interface QuestionItemOption extends QuestionItem {
 
 export interface SurveyMetaBase {
     id: string;
-    weights: {
+    weights?: {
         all?: string;
         jews?: string;
         arabs?: string;
