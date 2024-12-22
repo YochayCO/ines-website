@@ -9,7 +9,7 @@ survey_options_filename = os.path.join(scriptpath, "../../src/assets/surveyOptio
 question_index_file = os.path.join(scriptpath, "../../src/assets/question_index.xlsx")
 question_items_folder = os.path.join(scriptpath, "../../public/question_items")
 
-stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4"
+stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
 statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
 surveys_data_folder = os.path.join(scriptpath, "..", "..", "public/surveys_data")
 
@@ -27,6 +27,7 @@ def download_file(url: str, output_folder: str) -> str:
     filename = os.path.basename(url)  # Extract the file name from the URL
     output_path = os.path.join(output_folder, filename)
 
+    # If file was already downloaded - use it
     if os.path.exists(output_path) == True: return output_path
 
     print(f"Downloading {url}...")
@@ -41,6 +42,14 @@ def download_file(url: str, output_folder: str) -> str:
     return output_path
 
 def create_question_items(question_index_file, excel_data, survey_options):
+    """
+    Create a question_items file for each survey (ids are unique).
+    For each sheet in the excel - go over all rows (questions),
+    and for each column (survey) that is a survey id,
+    If the [(row)X(column)] cell is not empty, add it as a question item to the survey.
+
+    Return the question items by survey
+    """
     survey_ids = [entry["id"] for entry in survey_options if "id" in entry]
 
     # Initialize the questionItems dictionary
@@ -94,14 +103,13 @@ def append_english_descriptions(question_items_by_survey, stata_filename: str, s
     survey_data_file = os.path.join(surveys_data_folder, f"{survey_id}.csv")
     
     # This df is not good, but the meta file is better parsed with pyreadstat
-    df, meta = pyreadstat.read_dta(stata_filename)
+    df, meta = pyreadstat.read_dta(stata_filename, apply_value_formats=True)
 
     for question_survey_id, english_description in meta.column_names_to_labels.items():
         question_item = next((item for item in survey_question_items if item["questionSurveyId"] == question_survey_id), None)
         if (question_item != None): question_item["englishDescription"] = english_description
 
-    survey_df = pd.read_stata(stata_filename)
-    survey_df.to_csv(survey_data_file, index=False)
+    df.to_csv(survey_data_file, index=False)
     
     print(f"Data exported to: {survey_data_file}")
 
@@ -141,10 +149,10 @@ if __name__ == "__main__":
         print(f"Processing stata file: {stata_file}")
         question_items_by_survey[survey_id] = append_english_descriptions(question_items_by_survey, stata_file, survey_id)
     
+    # Filter out question items with invalid data
     clean_question_items(question_items_by_survey)
 
-        
-    # Save to JSON for future use
+    # Save to question_items of each survey
     for survey_id, question_items in question_items_by_survey.items():
         question_items_file = f"{question_items_folder}/{survey_id}.json"
 

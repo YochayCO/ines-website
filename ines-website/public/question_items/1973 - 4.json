@@ -1,0 +1,478 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identity number"
+    },
+    {
+        "id": "2. תאריך",
+        "questionHebrewDescription": "תאריך",
+        "questionSurveyId": "g68",
+        "type": "demography",
+        "englishDescription": "date of interview"
+    },
+    {
+        "id": "4. מקום הראיון",
+        "questionHebrewDescription": "מקום הראיון",
+        "questionSurveyId": "g67",
+        "type": "demography",
+        "englishDescription": "place of interview"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "g62",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "g59",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "g61",
+        "type": "demography",
+        "englishDescription": "years of schooling"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "g66",
+        "type": "demography",
+        "englishDescription": "place of birth/father's place of birth"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "g64",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "46. תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionHebrewDescription": "תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionSurveyId": "g65",
+        "type": "demography",
+        "englishDescription": "occupation"
+    },
+    {
+        "id": "59. מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionHebrewDescription": "מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionSurveyId": "g63",
+        "type": "demography",
+        "englishDescription": "total gross monthly income for household"
+    },
+    {
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "g2",
+        "type": "category",
+        "englishDescription": "the first of the two most important problems the government has to take care of"
+    },
+    {
+        "id": "4. והבעיה השנייה הכי חשובה?",
+        "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
+        "questionSurveyId": "g3",
+        "type": "category",
+        "englishDescription": "the second problem"
+    },
+    {
+        "id": "91. האם אתה מאמין למה שהמפלגות אומרות במערכת הבחירות?",
+        "questionHebrewDescription": "האם אתה מאמין למה שהמפלגות אומרות במערכת הבחירות?",
+        "questionSurveyId": "g25",
+        "type": "category",
+        "englishDescription": "interviewee believes what parties say during the election campaign"
+    },
+    {
+        "id": "93. באיזו מידה אתה מרוצה מהצורה בה מתנהלת מערכת הבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהצורה בה מתנהלת מערכת הבחירות לכנסת?",
+        "questionSurveyId": "g4",
+        "type": "category",
+        "englishDescription": "interviewee is satisfied with way election campaign for knesset is being conduct"
+    },
+    {
+        "id": "97. האם בעלך מגוייס?",
+        "questionHebrewDescription": "האם בעלך מגוייס?",
+        "questionSurveyId": "g60",
+        "type": "category",
+        "englishDescription": "interviewee's husband is in the army"
+    },
+    {
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "g33",
+        "type": "category",
+        "englishDescription": "to what extent can interviewee and friends influence government policy"
+    },
+    {
+        "id": "11. האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionHebrewDescription": "האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionSurveyId": "g58",
+        "type": "category",
+        "englishDescription": "interviewee is a supporter, member and/or office-holder in a party"
+    },
+    {
+        "id": "15. יש אנשים שמתעניינים במערכת הבחירות מכיוון שיש לה אופי של התמודדות ספורטיבית. באיזו מידה גם אתה מתעניין מסיבה זו?",
+        "questionHebrewDescription": "יש אנשים שמתעניינים במערכת הבחירות מכיוון שיש לה אופי של התמודדות ספורטיבית. באיזו מידה גם אתה מתעניין מסיבה זו?",
+        "questionSurveyId": "g26",
+        "type": "category",
+        "englishDescription": "to what extent interviewee is interested in the election campaign because of its"
+    },
+    {
+        "id": "16. האם אתה פעיל במערכת הבחירות הנוכחית? (עובד למען אחת המפלגות בהתנדבות או בשכר)",
+        "questionHebrewDescription": "האם אתה פעיל במערכת הבחירות הנוכחית? (עובד למען אחת המפלגות בהתנדבות או בשכר)",
+        "questionSurveyId": "g27",
+        "type": "category",
+        "englishDescription": "interviewee is active in present election campaign"
+    },
+    {
+        "id": "25. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את המנהיגים הפוליטיים?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את המנהיגים הפוליטיים?",
+        "questionSurveyId": "g8",
+        "type": "category",
+        "englishDescription": "to what extent present election campaign helps to better know the political lead"
+    },
+    {
+        "id": "27. באיזו מידה מערכת הבחירות עוזרת לך להבין יותר את הבעיות הפוליטיות בארץ?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות עוזרת לך להבין יותר את הבעיות הפוליטיות בארץ?",
+        "questionSurveyId": "g6",
+        "type": "category",
+        "englishDescription": "to what extent present election campaign helps to better understand the politica"
+    },
+    {
+        "id": "23. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "g53",
+        "type": "category",
+        "englishDescription": "a difference exists between the likud's and the alignment's approach to foreign"
+    },
+    {
+        "id": "51. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את עמדות המפלגות לגבי הבעיות הפוליטיות?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את עמדות המפלגות לגבי הבעיות הפוליטיות?",
+        "questionSurveyId": "g7",
+        "type": "category",
+        "englishDescription": "to what extent present election campaign helps to better know the parties' stand"
+    },
+    {
+        "id": "160. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לדעת איזו מפלגה קרובה ביותר לדעותיך?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לדעת איזו מפלגה קרובה ביותר לדעותיך?",
+        "questionSurveyId": "g11",
+        "type": "category",
+        "englishDescription": "to what extent present election campaign helps interviewee know with which polit"
+    },
+    {
+        "id": "232. מיהו לדעתך המועמד המתאים ביותר לכהונת ראש ממשלה?",
+        "questionHebrewDescription": "מיהו לדעתך המועמד המתאים ביותר לכהונת ראש ממשלה?",
+        "questionSurveyId": "g54",
+        "type": "category",
+        "englishDescription": "the best candidate for prime minister"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "g56",
+        "type": "category",
+        "englishDescription": "party interviewee intends to vote for in the coming election"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "g55",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in 1969 elections"
+    },
+    {
+        "id": "43. מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionHebrewDescription": "מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionSurveyId": "g39",
+        "type": "category",
+        "englishDescription": "when interviewee decided/will decide whom to vote for"
+    },
+    {
+        "id": "48. באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionSurveyId": "g21",
+        "type": "category",
+        "englishDescription": "to what extent television advertisements help interviewee decide whom to vote fo"
+    },
+    {
+        "id": "49. באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionSurveyId": "g15",
+        "type": "category",
+        "englishDescription": "to what extent party advertisements help interviewee decide whom to vote for"
+    },
+    {
+        "id": "51. באיזו מידה אתה חושב שהשידורים ברדיו יעזרו לך או לא להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שהשידורים ברדיו יעזרו לך או לא להחליט בעד מי להצביע?",
+        "questionSurveyId": "g18",
+        "type": "category",
+        "englishDescription": "to what extent the radio ads helped interviewee decide whom to vote for"
+    },
+    {
+        "id": "55. יש אנשים שלא מצביעים בבחירות מסיבה כזו או אחרת. האם אתה מתכוון להצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "יש אנשים שלא מצביעים בבחירות מסיבה כזו או אחרת. האם אתה מתכוון להצביע בבחירות לכנסת?",
+        "questionSurveyId": "g37",
+        "type": "category",
+        "englishDescription": "interviewee intends to vote in the coming elections"
+    },
+    {
+        "id": "70. באיזו מידה לדעתך מערכת הבחירות תעזור לך להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה לדעתך מערכת הבחירות תעזור לך להחליט בעד מי להצביע?",
+        "questionSurveyId": "g5",
+        "type": "category",
+        "englishDescription": "to what extent election campaign has helped interviewee decide whom to vote for"
+    },
+    {
+        "id": "118. האם חבריך מצביעים כמוך?",
+        "questionHebrewDescription": "האם חבריך מצביעים כמוך?",
+        "questionSurveyId": "g31",
+        "type": "category",
+        "englishDescription": "interviewee thinks most of his friends are voting for the same party as he is vo"
+    },
+    {
+        "id": "121. האם בן/בת זוגך תצביע כמוך?",
+        "questionHebrewDescription": "האם בן/בת זוגך תצביע כמוך?",
+        "questionSurveyId": "g32",
+        "type": "category",
+        "englishDescription": "spouse votes like interviewee"
+    },
+    {
+        "id": "136. באיזו מידה אתה בטוח או שאינך בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה בטוח או שאינך בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionSurveyId": "g38",
+        "type": "category",
+        "englishDescription": "to what extent interviewee is certain about whom to vote for"
+    },
+    {
+        "id": "166. האם הצבעת הפעם בעד אותה המפלגה עבורה הצבעת בבחירות לכנסת ב-1969?",
+        "questionHebrewDescription": "האם הצבעת הפעם בעד אותה המפלגה עבורה הצבעת בבחירות לכנסת ב-1969?",
+        "questionSurveyId": "g41",
+        "type": "category",
+        "englishDescription": "interviewee intends to vote for same party he voted for in 1969 knesset election"
+    },
+    {
+        "id": "167. האם שינית את החלטתך בעד איזו מפלגה להצביע בעקבות מלחמת יום כיפור?",
+        "questionHebrewDescription": "האם שינית את החלטתך בעד איזו מפלגה להצביע בעקבות מלחמת יום כיפור?",
+        "questionSurveyId": "g40",
+        "type": "category",
+        "englishDescription": "the yom kippur war made interviewee change his mind whom to vote for"
+    },
+    {
+        "id": "170. ביום הבחירות הולכים רוב האנשים להצביע בקלפי. שהם נשאלים מהי הסיבה לכך שהם משתתפים בבחירות משיבים אנשים שונים תשובות שונות. אנא ציין איזו סיבה מבין אלה ניראת לך כסיבה העיקרית שבגללה אתה הולך להצביע?",
+        "questionHebrewDescription": "ביום הבחירות הולכים רוב האנשים להצביע בקלפי. שהם נשאלים מהי הסיבה לכך שהם משתתפים בבחירות משיבים אנשים שונים תשובות שונות. אנא ציין איזו סיבה מבין אלה ניראת לך כסיבה העיקרית שבגללה אתה הולך להצביע?",
+        "questionSurveyId": "g43",
+        "type": "category",
+        "englishDescription": "main reason why interviewee intends to vote"
+    },
+    {
+        "id": "178. באיזו מידה אתה נוהג להתיעץ עם בן/בת זוגך או עם חברך/חברתך בדבר המפלגה עבורה יש להצביע בבחירות?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג להתיעץ עם בן/בת זוגך או עם חברך/חברתך בדבר המפלגה עבורה יש להצביע בבחירות?",
+        "questionSurveyId": "g28",
+        "type": "category",
+        "englishDescription": "to what extent interviewee takes advice from his/her wife/husband on whom to vot"
+    },
+    {
+        "id": "179. האם יש לך הרגשה כי כיום קשה לך למצוא אדם קרוב להתיעץ איתו לגבי המפלגה עבורה יש להצביע בבחירות, יותר מאשר לפני המלחמה?",
+        "questionHebrewDescription": "האם יש לך הרגשה כי כיום קשה לך למצוא אדם קרוב להתיעץ איתו לגבי המפלגה עבורה יש להצביע בבחירות, יותר מאשר לפני המלחמה?",
+        "questionSurveyId": "g29",
+        "type": "category",
+        "englishDescription": "it is harder today than before the war to find someone close to ask for advice o"
+    },
+    {
+        "id": "180. האם את מתחשבת ברצונו של בעלך בהחלטתך בעד מי להצביע?",
+        "questionHebrewDescription": "האם את מתחשבת ברצונו של בעלך בהחלטתך בעד מי להצביע?",
+        "questionSurveyId": "g30",
+        "type": "category",
+        "englishDescription": "interviewee takes into consideration her husband's wish when deciding whom to vo"
+    },
+    {
+        "id": "181. האם אתה חושב שהצבעתך לכנסת משפיעה על תוצאות הבחירות?",
+        "questionHebrewDescription": "האם אתה חושב שהצבעתך לכנסת משפיעה על תוצאות הבחירות?",
+        "questionSurveyId": "g36",
+        "type": "category",
+        "englishDescription": "interviewee thinks his vote will influence the result of the knesset election"
+    },
+    {
+        "id": "182. יש הטוענים שאם לבוחר אין מפלגה שהוא תומך בה במיוחד, מוטב שלא יצביע בכלל, מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שאם לבוחר אין מפלגה שהוא תומך בה במיוחד, מוטב שלא יצביע בכלל, מה דעתך?",
+        "questionSurveyId": "g42",
+        "type": "category",
+        "englishDescription": "if the voter does not support a specific party he should not vote"
+    },
+    {
+        "id": "184. האם לך אישית חשוב להצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "האם לך אישית חשוב להצביע בבחירות לכנסת?",
+        "questionSurveyId": "g44",
+        "type": "category",
+        "englishDescription": "it is important to interviewee to participate in the knesset elections"
+    },
+    {
+        "id": "185. יש אנשים שהעיקר בשבילם זה להצביע ופחות חשוב להם בעד איזו מפלגה הם מצביעים, ויש אנשים שהעיקר בשבילם היא המפלגה בעדה הם מצביעים. לאיזו מן העמדות אתה קרוב יותר?",
+        "questionHebrewDescription": "יש אנשים שהעיקר בשבילם זה להצביע ופחות חשוב להם בעד איזו מפלגה הם מצביעים, ויש אנשים שהעיקר בשבילם היא המפלגה בעדה הם מצביעים. לאיזו מן העמדות אתה קרוב יותר?",
+        "questionSurveyId": "g45",
+        "type": "category",
+        "englishDescription": "the act of voting is more important or the choosing of a party is more important"
+    },
+    {
+        "id": "51. האם היית רוצה שאחרי הבחירות תקום ממשלת אחדות לאומית?",
+        "questionHebrewDescription": "האם היית רוצה שאחרי הבחירות תקום ממשלת אחדות לאומית?",
+        "questionSurveyId": "g49",
+        "type": "category",
+        "englishDescription": "a national unity government should be formed today"
+    },
+    {
+        "id": "52. באיזו מידה הוכיח הליכוד כי הוא מסוגל או שאינו מסוגל להיות תחליף למערך בשלטון?",
+        "questionHebrewDescription": "באיזו מידה הוכיח הליכוד כי הוא מסוגל או שאינו מסוגל להיות תחליף למערך בשלטון?",
+        "questionSurveyId": "g51",
+        "type": "category",
+        "englishDescription": "to what extent the likud can be a substitute for the labour party in government"
+    },
+    {
+        "id": "83. עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionHebrewDescription": "עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionSurveyId": "g57",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in last histadrut elections"
+    },
+    {
+        "id": "3. לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionHebrewDescription": "לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "g52",
+        "type": "category",
+        "englishDescription": "party position on foreign and security affairs interviewee identifies with most"
+    },
+    {
+        "id": "132. כידוע לך, מונתה מונתה ועדת חקירה לבדוק את מה שאירע לפני ובזמן המלחמה; האם אתה חושב שלמסקנות הועדה הזו תהיינה השלכות מעשיות על פעולות הממשלה בעתיד בתחומי חוץ וביטחון?",
+        "questionHebrewDescription": "כידוע לך, מונתה מונתה ועדת חקירה לבדוק את מה שאירע לפני ובזמן המלחמה; האם אתה חושב שלמסקנות הועדה הזו תהיינה השלכות מעשיות על פעולות הממשלה בעתיד בתחומי חוץ וביטחון?",
+        "questionSurveyId": "g48",
+        "type": "category",
+        "englishDescription": "the committee formed to investigate events of war will have a concrete influence"
+    },
+    {
+        "id": "116. האם אתה מסכים עם הטענה שדרך הטיפול של הממשלה תסייע בהשגת שלום של אמת?",
+        "questionHebrewDescription": "האם אתה מסכים עם הטענה שדרך הטיפול של הממשלה תסייע בהשגת שלום של אמת?",
+        "questionSurveyId": "g46",
+        "type": "category",
+        "englishDescription": "the way the government is handling affairs now will help israel achieve peace"
+    },
+    {
+        "id": "117. האם אתה מסכים עם הטענה שדרך הטיפול של הממשלה מוליכה את המדינה לכניעה?",
+        "questionHebrewDescription": "האם אתה מסכים עם הטענה שדרך הטיפול של הממשלה מוליכה את המדינה לכניעה?",
+        "questionSurveyId": "g47",
+        "type": "category",
+        "englishDescription": "the way the government is handling affairs now will lead israel to surrender"
+    },
+    {
+        "id": "63. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
+        "questionSurveyId": "g9",
+        "type": "category",
+        "englishDescription": "to what extent present election campaign helps to better understand how democrac"
+    },
+    {
+        "id": "65. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
+        "questionSurveyId": "g10",
+        "type": "category",
+        "englishDescription": "to what extent present election campaign helps give your children a political ed"
+    },
+    {
+        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "questionSurveyId": "g50",
+        "type": "category",
+        "englishDescription": "the party in government should be replaced even if it is doing a good job"
+    },
+    {
+        "id": "80. יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
+        "questionHebrewDescription": "יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
+        "questionSurveyId": "g35",
+        "type": "category",
+        "englishDescription": "interviewee wants to influence government policy"
+    },
+    {
+        "id": "81. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "questionHebrewDescription": "באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "questionSurveyId": "g34",
+        "type": "category",
+        "englishDescription": "to what extent the elections have an influence on govt. policy"
+    },
+    {
+        "id": "34. כמה פעמים צפית בשידורי התעמולה של המפלגות בטלוויזיה?",
+        "questionHebrewDescription": "כמה פעמים צפית בשידורי התעמולה של המפלגות בטלוויזיה?",
+        "questionSurveyId": "g19",
+        "type": "category",
+        "englishDescription": "interviewee sees party ads on television"
+    },
+    {
+        "id": "35. אם כן, של איזו מפלגות בעיקר ראית?",
+        "questionHebrewDescription": "אם כן, של איזו מפלגות בעיקר ראית?",
+        "questionSurveyId": "g20",
+        "type": "category",
+        "englishDescription": "if yes, party whose ads interviewee mainly sees"
+    },
+    {
+        "id": "52. לפניך כרטיס ובו סיבות שונות שצויינו ע\"י אנשים שנשאלו מדוע הם מסתכלים בשידורי בחירות בטלוויזיה, אנא ציין איזו מבין סיבות אלה נראת לך כעיקרית?",
+        "questionHebrewDescription": "לפניך כרטיס ובו סיבות שונות שצויינו ע\"י אנשים שנשאלו מדוע הם מסתכלים בשידורי בחירות בטלוויזיה, אנא ציין איזו מבין סיבות אלה נראת לך כעיקרית?",
+        "questionSurveyId": "g22",
+        "type": "category",
+        "englishDescription": "main reason for watching television advertisements"
+    },
+    {
+        "id": "53. ובכרטיס זה שורת סיבות בגללן אנשים אינם מסתכלים בשידורי הבחירות בטלוויזיה, אנא ציין איזו נראת לך כסיבה העיקרית לאי הסתכלות בטלוויזיה?",
+        "questionHebrewDescription": "ובכרטיס זה שורת סיבות בגללן אנשים אינם מסתכלים בשידורי הבחירות בטלוויזיה, אנא ציין איזו נראת לך כסיבה העיקרית לאי הסתכלות בטלוויזיה?",
+        "questionSurveyId": "g23",
+        "type": "category",
+        "englishDescription": "main reason for not watching television advertisements"
+    },
+    {
+        "id": "57. האם לדעתך מטפלות המפלגות בתעמולת הבחירות שלהן בבעיות החשובות ביותר במדינה?",
+        "questionHebrewDescription": "האם לדעתך מטפלות המפלגות בתעמולת הבחירות שלהן בבעיות החשובות ביותר במדינה?",
+        "questionSurveyId": "g24",
+        "type": "category",
+        "englishDescription": "in their campaigns, the parties deal with the country's most important issues"
+    },
+    {
+        "id": "59. האם אתה בדר\"כ בתקופת הבחירות קורא יותר על עניינים פוליטיים?",
+        "questionHebrewDescription": "האם אתה בדר\"כ בתקופת הבחירות קורא יותר על עניינים פוליטיים?",
+        "questionSurveyId": "g12",
+        "type": "category",
+        "englishDescription": "in general, interviewee reads more about political matters during election time"
+    },
+    {
+        "id": "60. האם אתה קורא מודעות של המפלגה/ות הקרובה/ות לדעותיך?",
+        "questionHebrewDescription": "האם אתה קורא מודעות של המפלגה/ות הקרובה/ות לדעותיך?",
+        "questionSurveyId": "g13",
+        "type": "category",
+        "englishDescription": "interviewee reads advertisements by party(ies) with which he identifies"
+    },
+    {
+        "id": "61. האם אתה קורא מודעות של המפלגות שאינן קרובות לדעותיך?",
+        "questionHebrewDescription": "האם אתה קורא מודעות של המפלגות שאינן קרובות לדעותיך?",
+        "questionSurveyId": "g14",
+        "type": "category",
+        "englishDescription": "interviewee reads advertisements by parties with which he does not identify"
+    },
+    {
+        "id": "62. האם שמעת ברדיו שידורי תעמולת בחירות של המפלגות?",
+        "questionHebrewDescription": "האם שמעת ברדיו שידורי תעמולת בחירות של המפלגות?",
+        "questionSurveyId": "g16",
+        "type": "category",
+        "englishDescription": "interviewee has heard party ads on radio"
+    },
+    {
+        "id": "63. אם כן, של איזו מפלגות בעיקר שמעת?",
+        "questionHebrewDescription": "אם כן, של איזו מפלגות בעיקר שמעת?",
+        "questionSurveyId": "g17",
+        "type": "category",
+        "englishDescription": "if yes, party whose ads interviewee mainly heard"
+    }
+]

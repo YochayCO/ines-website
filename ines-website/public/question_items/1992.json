@@ -1,0 +1,1290 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "a1",
+        "type": "demography",
+        "englishDescription": "identification number"
+    },
+    {
+        "id": "2. תאריך",
+        "questionHebrewDescription": "תאריך",
+        "questionSurveyId": "i70",
+        "type": "demography",
+        "englishDescription": "date of interview"
+    },
+    {
+        "id": "4. מקום הראיון",
+        "questionHebrewDescription": "מקום הראיון",
+        "questionSurveyId": "i68",
+        "type": "demography",
+        "englishDescription": "locality of interview"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "i61",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "i67",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "i62",
+        "type": "demography",
+        "englishDescription": "years of schooling"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "i52",
+        "type": "demography",
+        "englishDescription": "place of birth"
+    },
+    {
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "i53",
+        "type": "demography",
+        "englishDescription": "year of immigration"
+    },
+    {
+        "id": "19. כיצד היית מגדיר את עצמך? (עדה)",
+        "questionHebrewDescription": "כיצד היית מגדיר את עצמך? (עדה)",
+        "questionSurveyId": "i51",
+        "type": "demography",
+        "englishDescription": "self ethnic definition"
+    },
+    {
+        "id": "26. ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "questionHebrewDescription": "ההוצאה החודשית הממוצעת של משפחה בישראל היא כ-16,500 ₪. בהתחשב בכל ההוצאות של משפחתכם, האם אתם מוציאים: ",
+        "questionSurveyId": "i65",
+        "type": "demography",
+        "englishDescription": "estimated monthly expenditure"
+    },
+    {
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "i63",
+        "type": "demography",
+        "englishDescription": "number of rooms in house"
+    },
+    {
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "i64",
+        "type": "demography",
+        "englishDescription": "number of persons in house"
+    },
+    {
+        "id": "33. מהו מצבך המשפחתי?",
+        "questionHebrewDescription": "מהו מצבך המשפחתי?",
+        "questionSurveyId": "i54",
+        "type": "demography",
+        "englishDescription": "marital status"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "i50",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "41. מהו מצבך התעסוקתי?",
+        "questionHebrewDescription": "מהו מצבך התעסוקתי?",
+        "questionSurveyId": "i66",
+        "type": "demography",
+        "englishDescription": "status at work"
+    },
+    {
+        "id": "65. האם שירתת בצה\"ל או שהינך משרת בצה\"ל?",
+        "questionHebrewDescription": "האם שירתת בצה\"ל או שהינך משרת בצה\"ל?",
+        "questionSurveyId": "i59",
+        "type": "demography",
+        "englishDescription": "military service"
+    },
+    {
+        "id": "79. האם אתה חבר הסתדרות?",
+        "questionHebrewDescription": "האם אתה חבר הסתדרות?",
+        "questionSurveyId": "i57",
+        "type": "demography",
+        "englishDescription": "membership in histadrut"
+    },
+    {
+        "id": "1. מהו לדעתך מצבה של ישראל באופן כללי?",
+        "questionHebrewDescription": "מהו לדעתך מצבה של ישראל באופן כללי?",
+        "questionSurveyId": "a2",
+        "type": "category",
+        "englishDescription": "general situation in israel today"
+    },
+    {
+        "id": "2. מה דעתך על הדרך שבה מטפלת הממשלה בבעיות שישנן כיום במדינה?",
+        "questionHebrewDescription": "מה דעתך על הדרך שבה מטפלת הממשלה בבעיות שישנן כיום במדינה?",
+        "questionSurveyId": "a3",
+        "type": "category",
+        "englishDescription": "way the government handles the nation's problems"
+    },
+    {
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "a7",
+        "type": "category",
+        "englishDescription": "the main problem the government has to take care of"
+    },
+    {
+        "id": "8. איזו מפלגה תוכל לטפל טוב יותר בבעיה שציינת?",
+        "questionHebrewDescription": "איזו מפלגה תוכל לטפל טוב יותר בבעיה שציינת?",
+        "questionSurveyId": "a8",
+        "type": "category",
+        "englishDescription": "party most capable of handling above issue"
+    },
+    {
+        "id": "20. כיצד היית מדרג את מצבך האישי בימים אלו?",
+        "questionHebrewDescription": "כיצד היית מדרג את מצבך האישי בימים אלו?",
+        "questionSurveyId": "i33",
+        "type": "category",
+        "englishDescription": "at present"
+    },
+    {
+        "id": "21. ולפני 5 שנים מה היה מצבך האישי?",
+        "questionHebrewDescription": "ולפני 5 שנים מה היה מצבך האישי?",
+        "questionSurveyId": "i34",
+        "type": "category",
+        "englishDescription": "five years ago"
+    },
+    {
+        "id": "22. ובעוד 5 שנים מה יהיה מצבך האישי?",
+        "questionHebrewDescription": "ובעוד 5 שנים מה יהיה מצבך האישי?",
+        "questionSurveyId": "i35",
+        "type": "category",
+        "englishDescription": "in five years"
+    },
+    {
+        "id": "25. מה צריך להיות יותר חשוב לאזרחי המדינה, האינטרסים האישיים שלהם או האינטרסים של המדינה כולה?",
+        "questionHebrewDescription": "מה צריך להיות יותר חשוב לאזרחי המדינה, האינטרסים האישיים שלהם או האינטרסים של המדינה כולה?",
+        "questionSurveyId": "a75",
+        "type": "category",
+        "englishDescription": "importance of individual interests vs. public interest"
+    },
+    {
+        "id": "27. יש החושבים שישראל יכולה להשיג את כל היעדים החשובים לה: שלום, א\"י השלמה, שמירה על רוב יהודי, שמירה על משטר דמוקרטי מבלי לוותר על אף דבר. אחרים חושבים שאי אפשר להשיג את כל היעדים הללו בו זמנית, וכדי להשיג יעדים מסויימים צריך להתפשר על יעדים אחרים. מה דעתך?",
+        "questionHebrewDescription": "יש החושבים שישראל יכולה להשיג את כל היעדים החשובים לה: שלום, א\"י השלמה, שמירה על רוב יהודי, שמירה על משטר דמוקרטי מבלי לוותר על אף דבר. אחרים חושבים שאי אפשר להשיג את כל היעדים הללו בו זמנית, וכדי להשיג יעדים מסויימים צריך להתפשר על יעדים אחרים. מה דעתך?",
+        "questionSurveyId": "i31",
+        "type": "category",
+        "englishDescription": "israel's ability to achieve all important goals simultaneously"
+    },
+    {
+        "id": "29. באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: מספר שווה של יהודים וערבים במדינה",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: מספר שווה של יהודים וערבים במדינה",
+        "questionSurveyId": "i17",
+        "type": "category",
+        "englishDescription": "equal number of jews and arabs in israel"
+    },
+    {
+        "id": "30. באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: הפסקת הסיוע מארה\"ב",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: הפסקת הסיוע מארה\"ב",
+        "questionSurveyId": "i20",
+        "type": "category",
+        "englishDescription": "cessation of american support"
+    },
+    {
+        "id": "31. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: מספר שווה של יהודים וערבים במדינה",
+        "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: מספר שווה של יהודים וערבים במדינה",
+        "questionSurveyId": "i26",
+        "type": "category",
+        "englishDescription": "equal number of jews and arabs in israel"
+    },
+    {
+        "id": "32. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: הפסקת הסיוע של ארה\"ב",
+        "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: הפסקת הסיוע של ארה\"ב",
+        "questionSurveyId": "i29",
+        "type": "category",
+        "englishDescription": "cessation of american support"
+    },
+    {
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "a61",
+        "type": "category",
+        "englishDescription": "evaluation of ability to influence government policies"
+    },
+    {
+        "id": "2. באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionSurveyId": "a60",
+        "type": "category",
+        "englishDescription": "frequency of political discussions with friends and relatives"
+    },
+    {
+        "id": "11. האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionHebrewDescription": "האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionSurveyId": "i55",
+        "type": "category",
+        "englishDescription": "support and membership in a political party"
+    },
+    {
+        "id": "3. עם איזה זרם פוליטי אתה מזדהה?",
+        "questionHebrewDescription": "עם איזה זרם פוליטי אתה מזדהה?",
+        "questionSurveyId": "i56",
+        "type": "category",
+        "englishDescription": "political tendency"
+    },
+    {
+        "id": "4. הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionHebrewDescription": "הרבה מדברים על שמאל וימין בפוליטיקה. היכן היית מדרג את עצמך על פני רצף שמאל-ימין, כאשר 1 הקצה הימני ו-7 הקצה השמאלי?",
+        "questionSurveyId": "a110",
+        "type": "category",
+        "englishDescription": "self rating on right-left scale"
+    },
+    {
+        "id": "19. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: כלכלה",
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: כלכלה",
+        "questionSurveyId": "a53",
+        "type": "category",
+        "englishDescription": "evaluated differences between major parties on economic issues"
+    },
+    {
+        "id": "22. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שלום ושטחים",
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שלום ושטחים",
+        "questionSurveyId": "a51",
+        "type": "category",
+        "englishDescription": "evaluated differences between major parties on territories issues"
+    },
+    {
+        "id": "1. מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? הליכוד",
+        "questionSurveyId": "a102",
+        "type": "category",
+        "englishDescription": "likud party"
+    },
+    {
+        "id": "6. מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionHebrewDescription": "מה יחסך לכל אחת מן המפלגות הבאות? העבודה/המערך",
+        "questionSurveyId": "a101",
+        "type": "category",
+        "englishDescription": "labor party"
+    },
+    {
+        "id": "34. מה יחסך לערבים?",
+        "questionHebrewDescription": "מה יחסך לערבים?",
+        "questionSurveyId": "a106",
+        "type": "category",
+        "englishDescription": "arabs"
+    },
+    {
+        "id": "35. מה יחסך לדתיים?",
+        "questionHebrewDescription": "מה יחסך לדתיים?",
+        "questionSurveyId": "a107",
+        "type": "category",
+        "englishDescription": "religious people"
+    },
+    {
+        "id": "42. מה יחסך לתנועת גוש אמונים?",
+        "questionHebrewDescription": "מה יחסך לתנועת גוש אמונים?",
+        "questionSurveyId": "a108",
+        "type": "category",
+        "englishDescription": "gush emunim movement"
+    },
+    {
+        "id": "43. מה יחסך לתנועת שלום עכשיו?",
+        "questionHebrewDescription": "מה יחסך לתנועת שלום עכשיו?",
+        "questionSurveyId": "a109",
+        "type": "category",
+        "englishDescription": "peace now movement"
+    },
+    {
+        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
+        "questionSurveyId": "a103",
+        "type": "category",
+        "englishDescription": "yitzhak shamir"
+    },
+    {
+        "id": "57. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
+        "questionSurveyId": "a104",
+        "type": "category",
+        "englishDescription": "yitzhak rabin"
+    },
+    {
+        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "questionSurveyId": "a105",
+        "type": "category",
+        "englishDescription": "shimon peres"
+    },
+    {
+        "id": "1. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לעמוד בתוקף במו\"מ על שטחים ושלום ",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לעמוד בתוקף במו\"מ על שטחים ושלום ",
+        "questionSurveyId": "a92",
+        "type": "category",
+        "englishDescription": "can be firm in negotiations about peace and territories"
+    },
+    {
+        "id": "3. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתשמור על המשטר הדמוקרטי במדינה",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתשמור על המשטר הדמוקרטי במדינה",
+        "questionSurveyId": "a93",
+        "type": "category",
+        "englishDescription": "will know how to preserve democracy"
+    },
+    {
+        "id": "5. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתוכל להוביל לשלום אמת עם הערבים",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתוכל להוביל לשלום אמת עם הערבים",
+        "questionSurveyId": "a94",
+        "type": "category",
+        "englishDescription": "can achieve true peace with the arabs"
+    },
+    {
+        "id": "7. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לטפל בטרור",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לטפל בטרור",
+        "questionSurveyId": "a95",
+        "type": "category",
+        "englishDescription": "can regain quiet and order in territories"
+    },
+    {
+        "id": "9. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתבטיח רוב יהודי במדינה",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתבטיח רוב יהודי במדינה",
+        "questionSurveyId": "a88",
+        "type": "category",
+        "englishDescription": "secures jewish majority in israel"
+    },
+    {
+        "id": "11. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שיש בה שחיתות",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שיש בה שחיתות",
+        "questionSurveyId": "a98",
+        "type": "category",
+        "englishDescription": "corrupt party"
+    },
+    {
+        "id": "17. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתצמצם את הפער העדתי",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתצמצם את הפער העדתי",
+        "questionSurveyId": "a89",
+        "type": "category",
+        "englishDescription": "closes gaps between ethnic groups"
+    },
+    {
+        "id": "18. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שמטפחת את הכבוד העצמי של בני עדות המזרח",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שמטפחת את הכבוד העצמי של בני עדות המזרח",
+        "questionSurveyId": "a91",
+        "type": "category",
+        "englishDescription": "promotes self-esteem of oriental jews"
+    },
+    {
+        "id": "19. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לשמור על היחסים עם ארה\"ב",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לשמור על היחסים עם ארה\"ב",
+        "questionSurveyId": "a99",
+        "type": "category",
+        "englishDescription": "can maintain good relations with u.s."
+    },
+    {
+        "id": "20. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה עם מנהיגים מנוסים",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה עם מנהיגים מנוסים",
+        "questionSurveyId": "a86",
+        "type": "category",
+        "englishDescription": "has experienced leaders"
+    },
+    {
+        "id": "21. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדאג לשכבות החלשות",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדאג לשכבות החלשות",
+        "questionSurveyId": "a87",
+        "type": "category",
+        "englishDescription": "concerned for weaker strata in society"
+    },
+    {
+        "id": "22. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתרמה לבנין הארץ",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתרמה לבנין הארץ",
+        "questionSurveyId": "a90",
+        "type": "category",
+        "englishDescription": "contributed to building the country"
+    },
+    {
+        "id": "23. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לקלוט עליה",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לקלוט עליה",
+        "questionSurveyId": "a96",
+        "type": "category",
+        "englishDescription": "knows how to absorb immigration"
+    },
+    {
+        "id": "24. לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לצמצם את האבטלה",
+        "questionHebrewDescription": "לפניך רשימה של תכונות שונות של מפלגות. לגבי כל אחת מהן, ציין לאיזו מפלגה היא מתאימה ביותר: מפלגה שתדע לצמצם את האבטלה",
+        "questionSurveyId": "a97",
+        "type": "category",
+        "englishDescription": "knows how to decrease unemployment"
+    },
+    {
+        "id": "42. לפניך רשימה של תכונות של מנהיגים. לגבי כל אחת מהתכונות ציין למי היא מתאימה יותר? האם \"כושר מנהיגות\" מתאים יותר ל:",
+        "questionHebrewDescription": "לפניך רשימה של תכונות של מנהיגים. לגבי כל אחת מהתכונות ציין למי היא מתאימה יותר? האם \"כושר מנהיגות\" מתאים יותר ל:",
+        "questionSurveyId": "a112",
+        "type": "category",
+        "englishDescription": "has leadership characteristics"
+    },
+    {
+        "id": "46. האם \"אמין\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"אמין\" מתאים יותר ל:",
+        "questionSurveyId": "a114",
+        "type": "category",
+        "englishDescription": "reliable"
+    },
+    {
+        "id": "48. האם \"יעדיף את טובת המדינה על פני שיקולים אחרים\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"יעדיף את טובת המדינה על פני שיקולים אחרים\" מתאים יותר ל:",
+        "questionSurveyId": "a116",
+        "type": "category",
+        "englishDescription": "places benefit of the country before party"
+    },
+    {
+        "id": "50. האם \"יכולת טובה לניהול משא ומתן\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"יכולת טובה לניהול משא ומתן\" מתאים יותר ל:",
+        "questionSurveyId": "a118",
+        "type": "category",
+        "englishDescription": "good negotiator"
+    },
+    {
+        "id": "54. האם \"יעמוד במצבי לחץ\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"יעמוד במצבי לחץ\" מתאים יותר ל:",
+        "questionSurveyId": "a119",
+        "type": "category",
+        "englishDescription": "can stand up under pressure"
+    },
+    {
+        "id": "60. האם \"בעל כושר החלטה\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"בעל כושר החלטה\" מתאים יותר ל:",
+        "questionSurveyId": "a115",
+        "type": "category",
+        "englishDescription": "decisive"
+    },
+    {
+        "id": "62. האם \"יוזמה ומעוף\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"יוזמה ומעוף\" מתאים יותר ל:",
+        "questionSurveyId": "a117",
+        "type": "category",
+        "englishDescription": "initiates and move things"
+    },
+    {
+        "id": "66. האם \"חזק\" מתאים יותר ל:",
+        "questionHebrewDescription": "האם \"חזק\" מתאים יותר ל:",
+        "questionSurveyId": "a113",
+        "type": "category",
+        "englishDescription": "strong"
+    },
+    {
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "a62",
+        "type": "category",
+        "englishDescription": "most important factor influencing voting"
+    },
+    {
+        "id": "5. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? כלכלה",
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? כלכלה",
+        "questionSurveyId": "a54",
+        "type": "category",
+        "englishDescription": "effect of economic issues on interviewee's voting to knesset"
+    },
+    {
+        "id": "8. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionSurveyId": "a49",
+        "type": "category",
+        "englishDescription": "extent of effect of territorial issue on interviewee's voting to knesset"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "i41",
+        "type": "category",
+        "englishDescription": "vote if elections were held today"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "i42",
+        "type": "category",
+        "englishDescription": "voting in 1988 knesset elections"
+    },
+    {
+        "id": "48. באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionSurveyId": "i49",
+        "type": "category",
+        "englishDescription": "evaluation of effect of broadcasts on voting"
+    },
+    {
+        "id": "79. אילו היו שני פתקים בבחירות האלה, אחד לראש הממשלה ואחד לכנסת, עבור מי היית מצביע לראשות הממשלה?",
+        "questionHebrewDescription": "אילו היו שני פתקים בבחירות האלה, אחד לראש הממשלה ואחד לכנסת, עבור מי היית מצביע לראשות הממשלה?",
+        "questionSurveyId": "i43",
+        "type": "category",
+        "englishDescription": "preferred candidate in personal elections"
+    },
+    {
+        "id": "80. אילו היו שני פתקים בבחירות האלה, אחד לראש הממשלה ואחד לכנסת, עבור מי היית מצביע לכנסת?",
+        "questionHebrewDescription": "אילו היו שני פתקים בבחירות האלה, אחד לראש הממשלה ואחד לכנסת, עבור מי היית מצביע לכנסת?",
+        "questionSurveyId": "i44",
+        "type": "category",
+        "englishDescription": "preferred party in personal elections"
+    },
+    {
+        "id": "96. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? העמדת יצחק שמיר בראש הליכוד",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? העמדת יצחק שמיר בראש הליכוד",
+        "questionSurveyId": "a122",
+        "type": "category",
+        "englishDescription": "placement of yitzhak shamir as head of the likud party"
+    },
+    {
+        "id": "97. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הפריימריז בעבודה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הפריימריז בעבודה",
+        "questionSurveyId": "a123",
+        "type": "category",
+        "englishDescription": "primaries held in labor party"
+    },
+    {
+        "id": "98. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הרכב רשימת העבודה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הרכב רשימת העבודה",
+        "questionSurveyId": "a124",
+        "type": "category",
+        "englishDescription": "composition of labor party list"
+    },
+    {
+        "id": "99. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הרכב רשימת הליכוד",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הרכב רשימת הליכוד",
+        "questionSurveyId": "a125",
+        "type": "category",
+        "englishDescription": "composition of likud party list"
+    },
+    {
+        "id": "100. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הליך בחירת השביעיות בליכוד",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הליך בחירת השביעיות בליכוד",
+        "questionSurveyId": "a126",
+        "type": "category",
+        "englishDescription": "the process of electing seven candidates at a time in likud"
+    },
+    {
+        "id": "101. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? העמדת יצחק רבין בראש העבודה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? העמדת יצחק רבין בראש העבודה",
+        "questionSurveyId": "a127",
+        "type": "category",
+        "englishDescription": "placement of yitzhak rabin as head of labor party"
+    },
+    {
+        "id": "102. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הסיכוי שתהיה ממשלת אחדות לאומית",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? הסיכוי שתהיה ממשלת אחדות לאומית",
+        "questionSurveyId": "i2",
+        "type": "category",
+        "englishDescription": "probability of having national unity governmen"
+    },
+    {
+        "id": "103. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מצב היחסים עם ארה\"ב",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מצב היחסים עם ארה\"ב",
+        "questionSurveyId": "i3",
+        "type": "category",
+        "englishDescription": "relations with united states"
+    },
+    {
+        "id": "104. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מצב קליטת העליה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מצב קליטת העליה",
+        "questionSurveyId": "i4",
+        "type": "category",
+        "englishDescription": "absorption of immigrants"
+    },
+    {
+        "id": "105. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? האבטלה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? האבטלה",
+        "questionSurveyId": "i5",
+        "type": "category",
+        "englishDescription": "unemployment"
+    },
+    {
+        "id": "106. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? השחיתויות בשלטון ודוח מבקר המדינה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? השחיתויות בשלטון ודוח מבקר המדינה",
+        "questionSurveyId": "i6",
+        "type": "category",
+        "englishDescription": "corruption in government and the report of the state controller"
+    },
+    {
+        "id": "107. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? האינתיפאדה",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? האינתיפאדה",
+        "questionSurveyId": "i7",
+        "type": "category",
+        "englishDescription": "the intifada"
+    },
+    {
+        "id": "108. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? התחלת שיחות השלום",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? התחלת שיחות השלום",
+        "questionSurveyId": "i8",
+        "type": "category",
+        "englishDescription": "initiation of peace talks"
+    },
+    {
+        "id": "109. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? טיפול הממשלה בשיחות השלום",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? טיפול הממשלה בשיחות השלום",
+        "questionSurveyId": "i9",
+        "type": "category",
+        "englishDescription": "government's handling of peace talks"
+    },
+    {
+        "id": "110. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? המצב בתחום דתיים-חילונים",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? המצב בתחום דתיים-חילונים",
+        "questionSurveyId": "i10",
+        "type": "category",
+        "englishDescription": "relations between religious and non-religious groups"
+    },
+    {
+        "id": "111. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מדינות ההתנחלויות של הליכוד",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מדינות ההתנחלויות של הליכוד",
+        "questionSurveyId": "i11",
+        "type": "category",
+        "englishDescription": "settlement policy of the likud"
+    },
+    {
+        "id": "112. הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מצבך האישי כיום",
+        "questionHebrewDescription": "הגורמים הבאים משפיע או לא משפיע על החלטתך עבור מי להצביע? מצבך האישי כיום",
+        "questionSurveyId": "i12",
+        "type": "category",
+        "englishDescription": "current personal situation"
+    },
+    {
+        "id": "6. איזו מפלגה למיטב הערכתך תהיה המפלגה הגדולה ביותר בכנסת הבאה?",
+        "questionHebrewDescription": "איזו מפלגה למיטב הערכתך תהיה המפלגה הגדולה ביותר בכנסת הבאה?",
+        "questionSurveyId": "i39",
+        "type": "category",
+        "englishDescription": "interviewee's guess on ruling party after elections"
+    },
+    {
+        "id": "7. איזו מפלגה היית רוצה שתקים את ההממשלה הבאה?",
+        "questionHebrewDescription": "איזו מפלגה היית רוצה שתקים את ההממשלה הבאה?",
+        "questionSurveyId": "i40",
+        "type": "category",
+        "englishDescription": "favored party to form next government"
+    },
+    {
+        "id": "51. האם היית רוצה שאחרי הבחירות תקום ממשלת אחדות לאומית?",
+        "questionHebrewDescription": "האם היית רוצה שאחרי הבחירות תקום ממשלת אחדות לאומית?",
+        "questionSurveyId": "a59",
+        "type": "category",
+        "englishDescription": "holds for national-unity-government formation after elections"
+    },
+    {
+        "id": "39. האם לדעתך הבחירה הישירה לראש הממשלה מביאה לשיטת ממשל טובה יותר או גרועה יותר למדינה?",
+        "questionHebrewDescription": "האם לדעתך הבחירה הישירה לראש הממשלה מביאה לשיטת ממשל טובה יותר או גרועה יותר למדינה?",
+        "questionSurveyId": "i38",
+        "type": "category",
+        "englishDescription": "evaluation of personal election for prime ministry"
+    },
+    {
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "a52",
+        "type": "category",
+        "englishDescription": "interviewee's economic approach"
+    },
+    {
+        "id": "3. איזו מפלגה משקפת בצורה הטובה ביותר את עמדותיך בנושא כלכלה?",
+        "questionHebrewDescription": "איזו מפלגה משקפת בצורה הטובה ביותר את עמדותיך בנושא כלכלה?",
+        "questionSurveyId": "a55",
+        "type": "category",
+        "englishDescription": "identification with parties on economic issues"
+    },
+    {
+        "id": "5. מי לדעתך יטפל יותר טוב בבעיות הכלכליות של המדינה?",
+        "questionHebrewDescription": "מי לדעתך יטפל יותר טוב בבעיות הכלכליות של המדינה?",
+        "questionSurveyId": "a57",
+        "type": "category",
+        "englishDescription": "better team to handle economic problems"
+    },
+    {
+        "id": "14. האם אתה מוכן או לא מוכן שיעלו בארץ את המסים, כלומר שגם אתה תשלם יותר, כדי לטפל בבעיות השונות שהמדינה ניצבת בפניהן?",
+        "questionHebrewDescription": "האם אתה מוכן או לא מוכן שיעלו בארץ את המסים, כלומר שגם אתה תשלם יותר, כדי לטפל בבעיות השונות שהמדינה ניצבת בפניהן?",
+        "questionSurveyId": "a63",
+        "type": "category",
+        "englishDescription": "acceptance of tax increase to handle problems"
+    },
+    {
+        "id": "15. לגבי כל אחד מהסעיפים הבאים, ציין האם לדעתך על המדינה להוציא יותר כספים, פחות כספים או כמו עכשיו: חינוך",
+        "questionHebrewDescription": "לגבי כל אחד מהסעיפים הבאים, ציין האם לדעתך על המדינה להוציא יותר כספים, פחות כספים או כמו עכשיו: חינוך",
+        "questionSurveyId": "a65",
+        "type": "category",
+        "englishDescription": "education"
+    },
+    {
+        "id": "16. מוסדות דת וישיבות",
+        "questionHebrewDescription": "מוסדות דת וישיבות",
+        "questionSurveyId": "a67",
+        "type": "category",
+        "englishDescription": "religious institutions and yeshivot"
+    },
+    {
+        "id": "17. בריאות",
+        "questionHebrewDescription": "בריאות",
+        "questionSurveyId": "a68",
+        "type": "category",
+        "englishDescription": "health"
+    },
+    {
+        "id": "19. צבא ובטחון",
+        "questionHebrewDescription": "צבא ובטחון",
+        "questionSurveyId": "a69",
+        "type": "category",
+        "englishDescription": "security"
+    },
+    {
+        "id": "21. קיצבאות אבטלה",
+        "questionHebrewDescription": "קיצבאות אבטלה",
+        "questionSurveyId": "a71",
+        "type": "category",
+        "englishDescription": "unemployment aid"
+    },
+    {
+        "id": "24. התיישבות בשטחים",
+        "questionHebrewDescription": "התיישבות בשטחים",
+        "questionSurveyId": "a72",
+        "type": "category",
+        "englishDescription": "settlement in territories"
+    },
+    {
+        "id": "26. יצירת מקומות תעסוקה",
+        "questionHebrewDescription": "יצירת מקומות תעסוקה",
+        "questionSurveyId": "a73",
+        "type": "category",
+        "englishDescription": "increase jobs"
+    },
+    {
+        "id": "28. שמירת הטבע והאקולוגיה",
+        "questionHebrewDescription": "שמירת הטבע והאקולוגיה",
+        "questionSurveyId": "a66",
+        "type": "category",
+        "englishDescription": "nature preservation and ecology"
+    },
+    {
+        "id": "30. קליטת עליה",
+        "questionHebrewDescription": "קליטת עליה",
+        "questionSurveyId": "a70",
+        "type": "category",
+        "englishDescription": "immigrant absorption"
+    },
+    {
+        "id": "35. יש הטוענים שאין מספיק שוויון חברתי וכלכלי בארץ. באיזו מידה אתה מסכים או לא מסכים עם דעה זו?",
+        "questionHebrewDescription": "יש הטוענים שאין מספיק שוויון חברתי וכלכלי בארץ. באיזו מידה אתה מסכים או לא מסכים עם דעה זו?",
+        "questionSurveyId": "a74",
+        "type": "category",
+        "englishDescription": "existence of socio-economical inequality in israel"
+    },
+    {
+        "id": "36. באיזו מידה יש לדעתך אפליה עדתית בישראל?",
+        "questionHebrewDescription": "באיזו מידה יש לדעתך אפליה עדתית בישראל?",
+        "questionSurveyId": "i36",
+        "type": "category",
+        "englishDescription": "evaluation of ethnic discrimination in israel"
+    },
+    {
+        "id": "37. באיזו מידה נפגעת באופן אישי מאפליה עדתית?",
+        "questionHebrewDescription": "באיזו מידה נפגעת באופן אישי מאפליה עדתית?",
+        "questionSurveyId": "i37",
+        "type": "category",
+        "englishDescription": "personal suffering due to ethnic discrimination"
+    },
+    {
+        "id": "1. אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "questionHebrewDescription": "אם אנו חושבים על כיווני התפתחות אפשריים של מדינת ישראל, ישנם 4 ערכים חשובים שבמידה מסוימת מתנגשים זה עם זה, והם חשובים לאנשים שונים במידות שונות. מבין ארבעת הערכים הבאים, איזה החשוב לך ביותר?",
+        "questionSurveyId": "a76",
+        "type": "category",
+        "englishDescription": "most important value to interviewee"
+    },
+    {
+        "id": "2. ואיזה שני בחשיבותו?",
+        "questionHebrewDescription": "ואיזה שני בחשיבותו?",
+        "questionSurveyId": "a77",
+        "type": "category",
+        "englishDescription": "value second in importance"
+    },
+    {
+        "id": "3. ומה השלישי בחשיבותו?",
+        "questionHebrewDescription": "ומה השלישי בחשיבותו?",
+        "questionSurveyId": "a78",
+        "type": "category",
+        "englishDescription": "third"
+    },
+    {
+        "id": "4. ומה הרביעי בחשיבותו?",
+        "questionHebrewDescription": "ומה הרביעי בחשיבותו?",
+        "questionSurveyId": "a79",
+        "type": "category",
+        "englishDescription": "fourth"
+    },
+    {
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "a80",
+        "type": "category",
+        "englishDescription": "government should see to it that public life conducted according to jewish relig"
+    },
+    {
+        "id": "20. כיצד יש לקבוע את סידורי הרחצה בבריכות עירוניות בישובים מעורבים של חילונים ודתיים?",
+        "questionHebrewDescription": "כיצד יש לקבוע את סידורי הרחצה בבריכות עירוניות בישובים מעורבים של חילונים ודתיים?",
+        "questionSurveyId": "a81",
+        "type": "category",
+        "englishDescription": "preferred arrangements in public swimming pools"
+    },
+    {
+        "id": "21. באיזו מידה אתה מסכים או לא מסכים לכך שכל גבר יהודי בארץ צריך לשרת שירות פעיל בצה\"ל?",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים לכך שכל גבר יהודי בארץ צריך לשרת שירות פעיל בצה\"ל?",
+        "questionSurveyId": "a82",
+        "type": "category",
+        "englishDescription": "mandatory military service for all jewish men in israel"
+    },
+    {
+        "id": "22. באיזו מידה אתה מסכים או לא מסכים לכך שבחורי ישיבות בגיל גיוס יקבלו פטור משירות פעיל בצה\"ל?",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים לכך שבחורי ישיבות בגיל גיוס יקבלו פטור משירות פעיל בצה\"ל?",
+        "questionSurveyId": "a83",
+        "type": "category",
+        "englishDescription": "exemption of yeshiva students from military service"
+    },
+    {
+        "id": "23. באיזו מידה אתה מסכים או לא מסכים לכך שתהיה תחבורה ציבורית בשבת?",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים לכך שתהיה תחבורה ציבורית בשבת?",
+        "questionSurveyId": "a84",
+        "type": "category",
+        "englishDescription": "public transportation on sabbath"
+    },
+    {
+        "id": "24. באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: מדינת הלכה",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: מדינת הלכה",
+        "questionSurveyId": "i15",
+        "type": "category",
+        "englishDescription": "state run by jewish religious law"
+    },
+    {
+        "id": "25. באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: הפרדת דת ומדינה",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה איום בעיניך: הפרדת דת ומדינה",
+        "questionSurveyId": "i18",
+        "type": "category",
+        "englishDescription": "separation of religion from state"
+    },
+    {
+        "id": "26. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: מדינת הלכה",
+        "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: מדינת הלכה",
+        "questionSurveyId": "i24",
+        "type": "category",
+        "englishDescription": "halachic state"
+    },
+    {
+        "id": "27. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: הפרדת דת ומדינה",
+        "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: הפרדת דת ומדינה",
+        "questionSurveyId": "i27",
+        "type": "category",
+        "englishDescription": "separation of religion from state"
+    },
+    {
+        "id": "1. מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "questionHebrewDescription": "מי לדעתך יטפל טוב יותר בבעיית החוץ והביטחון של המדינה?",
+        "questionSurveyId": "a58",
+        "type": "category",
+        "englishDescription": "better team to handle security/foreign problem"
+    },
+    {
+        "id": "4. איזו מפלגה משקפת בצורה הטובה ביותר את עמדותיך בנושא חוץ ובטחון?",
+        "questionHebrewDescription": "איזו מפלגה משקפת בצורה הטובה ביותר את עמדותיך בנושא חוץ ובטחון?",
+        "questionSurveyId": "a56",
+        "type": "category",
+        "englishDescription": "identification with parties on foreign and security issues"
+    },
+    {
+        "id": "6. באיזו מידה אתה מודאג או לא מודאג מגך שאתה או בני משפחתך עלולים להיפגע בדי מחבלים בחיי היום יום שלכם?",
+        "questionHebrewDescription": "באיזו מידה אתה מודאג או לא מודאג מגך שאתה או בני משפחתך עלולים להיפגע בדי מחבלים בחיי היום יום שלכם?",
+        "questionSurveyId": "a48",
+        "type": "category",
+        "englishDescription": "concern regarding personal injury by arabs in daily life"
+    },
+    {
+        "id": "8. יש מצבים בהם קיימת סתירה בין שמירה על העיקרון של שלטון החוק לבין הצורך להגן על האינרטסיים הביטחוניים. במקרה של סתירה, האם יש להעדיף את האינטרס הביטחוני או להעדיף את השמירה על שלטון החוק?",
+        "questionHebrewDescription": "יש מצבים בהם קיימת סתירה בין שמירה על העיקרון של שלטון החוק לבין הצורך להגן על האינרטסיים הביטחוניים. במקרה של סתירה, האם יש להעדיף את האינטרס הביטחוני או להעדיף את השמירה על שלטון החוק?",
+        "questionSurveyId": "a42",
+        "type": "category",
+        "englishDescription": "preference for rule of law vs. security interests"
+    },
+    {
+        "id": "18. לדעתך, מהו מצב המדינה בימים אלו מבחינת בטחון לאומי?",
+        "questionHebrewDescription": "לדעתך, מהו מצב המדינה בימים אלו מבחינת בטחון לאומי?",
+        "questionSurveyId": "a4",
+        "type": "category",
+        "englishDescription": "evaluation of israel's present national security"
+    },
+    {
+        "id": "19. ולפני חמש שנים, מה היה מצב המדינה מבחינת הבטחון הלאומי?",
+        "questionHebrewDescription": "ולפני חמש שנים, מה היה מצב המדינה מבחינת הבטחון הלאומי?",
+        "questionSurveyId": "a5",
+        "type": "category",
+        "englishDescription": "evaluation of israel's national security 5 years ago"
+    },
+    {
+        "id": "20. ובעוד חמש שנים, מה יהיה מצב המדינה מבחינת הבטחון הלאומי?",
+        "questionHebrewDescription": "ובעוד חמש שנים, מה יהיה מצב המדינה מבחינת הבטחון הלאומי?",
+        "questionSurveyId": "a6",
+        "type": "category",
+        "englishDescription": "evaluation of israel's national security in 5 years"
+    },
+    {
+        "id": "24. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': נשק כימי וביולוגי בידי מדינת אויב",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': נשק כימי וביולוגי בידי מדינת אויב",
+        "questionSurveyId": "i14",
+        "type": "category",
+        "englishDescription": "non conventional weapons in arab countries"
+    },
+    {
+        "id": "26. מלחמה בצפון",
+        "questionHebrewDescription": "מלחמה בצפון",
+        "questionSurveyId": "i22",
+        "type": "category",
+        "englishDescription": "another war with the arabs"
+    },
+    {
+        "id": "32. כיצד אתה מעריך את מדיניות הממשלה לשמירת השקט בשטחים - רכה מדי, מתאימה או קשה מדי?",
+        "questionHebrewDescription": "כיצד אתה מעריך את מדיניות הממשלה לשמירת השקט בשטחים - רכה מדי, מתאימה או קשה מדי?",
+        "questionSurveyId": "a17",
+        "type": "category",
+        "englishDescription": "evaluation of government policy in territories"
+    },
+    {
+        "id": "34. לגבי כל אחת מהאופשרויות הבאות, מהו לדעתך הסיכוי שהיא תביא למלחמה ישראלית-ערבית נוספת? החזרת שטחים לירדן",
+        "questionHebrewDescription": "לגבי כל אחת מהאופשרויות הבאות, מהו לדעתך הסיכוי שהיא תביא למלחמה ישראלית-ערבית נוספת? החזרת שטחים לירדן",
+        "questionSurveyId": "a26",
+        "type": "category",
+        "englishDescription": "territorial concession to jordan"
+    },
+    {
+        "id": "35. מדינה פלסטינית",
+        "questionHebrewDescription": "מדינה פלסטינית",
+        "questionSurveyId": "a27",
+        "type": "category",
+        "englishDescription": "palestinian state"
+    },
+    {
+        "id": "36. אוטונומיה",
+        "questionHebrewDescription": "אוטונומיה",
+        "questionSurveyId": "a28",
+        "type": "category",
+        "englishDescription": "palestinian autonomy"
+    },
+    {
+        "id": "37. סיפוח וריבונות ישראלית מלאה",
+        "questionHebrewDescription": "סיפוח וריבונות ישראלית מלאה",
+        "questionSurveyId": "a29",
+        "type": "category",
+        "englishDescription": "annexation and full israeli sovereignty"
+    },
+    {
+        "id": "38. המשך המצב הקיים",
+        "questionHebrewDescription": "המשך המצב הקיים",
+        "questionSurveyId": "a30",
+        "type": "category",
+        "englishDescription": "continuation of current situation"
+    },
+    {
+        "id": "39. האם תוכל או לא תוכל מדינת ישראל להתמודד עם כל אחד מהדברים הבאים: מלחמה כוללת של כל מדינות ערב נגדנו",
+        "questionHebrewDescription": "האם תוכל או לא תוכל מדינת ישראל להתמודד עם כל אחד מהדברים הבאים: מלחמה כוללת של כל מדינות ערב נגדנו",
+        "questionSurveyId": "a33",
+        "type": "category",
+        "englishDescription": "total israeli-arab war"
+    },
+    {
+        "id": "40. מלחמה של מדינות \"החזית המזרחית\" (סוריה, ירדן ועיראק) נגדנו",
+        "questionHebrewDescription": "מלחמה של מדינות \"החזית המזרחית\" (סוריה, ירדן ועיראק) נגדנו",
+        "questionSurveyId": "a34",
+        "type": "category",
+        "englishDescription": "war with 'eastern front' states (syria, jordan and iraq)"
+    },
+    {
+        "id": "41. מלחמה שתפתח סוריה לבדה נגדנו",
+        "questionHebrewDescription": "מלחמה שתפתח סוריה לבדה נגדנו",
+        "questionSurveyId": "a35",
+        "type": "category",
+        "englishDescription": "war against syria alone"
+    },
+    {
+        "id": "42. התגברות פעולות הטרור של ארגוני המחבלים",
+        "questionHebrewDescription": "התגברות פעולות הטרור של ארגוני המחבלים",
+        "questionSurveyId": "a36",
+        "type": "category",
+        "englishDescription": "increase in terrorist activity"
+    },
+    {
+        "id": "43. מרד של הערבים אזרחי מדינת ישראל",
+        "questionHebrewDescription": "מרד של הערבים אזרחי מדינת ישראל",
+        "questionSurveyId": "a37",
+        "type": "category",
+        "englishDescription": "israeli arabs' civilian uprising"
+    },
+    {
+        "id": "45. נקיטת סנקציות כלכליות ע\"י האו\"ם בהשתתפות האמריקאים",
+        "questionHebrewDescription": "נקיטת סנקציות כלכליות ע\"י האו\"ם בהשתתפות האמריקאים",
+        "questionSurveyId": "a38",
+        "type": "category",
+        "englishDescription": "economic sanctions by u.n. supported by u.s."
+    },
+    {
+        "id": "46. שארה\"ב תחליש את התמיכה בנו",
+        "questionHebrewDescription": "שארה\"ב תחליש את התמיכה בנו",
+        "questionSurveyId": "a39",
+        "type": "category",
+        "englishDescription": "decrease of american support"
+    },
+    {
+        "id": "47. שארה\"ב תפסיק את התמיכה בנו",
+        "questionHebrewDescription": "שארה\"ב תפסיק את התמיכה בנו",
+        "questionSurveyId": "a40",
+        "type": "category",
+        "englishDescription": "cessation of american support"
+    },
+    {
+        "id": "49. אם הדרגה \"1\" מייצגת את הדיעה האומרת שלנוכחותנו בשטחי יו\"ש ועזה יש השפעה לרעה על מוסר הלחימה של צה\"ל ודרגה \"7\" מייצגת את הדיעה כי לנוכחותנו בשטחים אלו יש השפעה טובה על מוסר הלחימה של צה\"ל, באיזו דרגה היית ממקם את עמדתך?",
+        "questionHebrewDescription": "אם הדרגה \"1\" מייצגת את הדיעה האומרת שלנוכחותנו בשטחי יו\"ש ועזה יש השפעה לרעה על מוסר הלחימה של צה\"ל ודרגה \"7\" מייצגת את הדיעה כי לנוכחותנו בשטחים אלו יש השפעה טובה על מוסר הלחימה של צה\"ל, באיזו דרגה היית ממקם את עמדתך?",
+        "questionSurveyId": "a43",
+        "type": "category",
+        "englishDescription": "evaluation of moral effect of occupying territories"
+    },
+    {
+        "id": "2. איזו מפלגה משקפת בצורה הטובה ביותר את עמדתך בנושא השלום והשטחים?",
+        "questionHebrewDescription": "איזו מפלגה משקפת בצורה הטובה ביותר את עמדתך בנושא השלום והשטחים?",
+        "questionSurveyId": "a50",
+        "type": "category",
+        "englishDescription": "party best reflecting interviewee's stand on territories issue"
+    },
+    {
+        "id": "6. על מה אתה חושב שישראל צריכה לשים את הדגש כדי למנוע מלחמה בינה לבין שכנותיה?",
+        "questionHebrewDescription": "על מה אתה חושב שישראל צריכה לשים את הדגש כדי למנוע מלחמה בינה לבין שכנותיה?",
+        "questionSurveyId": "a18",
+        "type": "category",
+        "englishDescription": "emphasis to put in attempt to prevent war"
+    },
+    {
+        "id": "7. האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionHebrewDescription": "האם לפי דעתך על ישראל להסכים או לא להקמת מדינה פלסטינית ביהודה, שומרון וחבל עזה במסגרת הסדר קבע?",
+        "questionSurveyId": "a12",
+        "type": "category",
+        "englishDescription": "should israel agree to palestinian autonomy"
+    },
+    {
+        "id": "8. מהי לדעתך שאיפת הפלסטינים בסופו של דבר?",
+        "questionHebrewDescription": "מהי לדעתך שאיפת הפלסטינים בסופו של דבר?",
+        "questionSurveyId": "a41",
+        "type": "category",
+        "englishDescription": "estimate of arabs' ultimate goal"
+    },
+    {
+        "id": "12. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': החזרת שטחים במסגרת הסכם שלום",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': החזרת שטחים במסגרת הסכם שלום",
+        "questionSurveyId": "i19",
+        "type": "category",
+        "englishDescription": "returning the territories"
+    },
+    {
+        "id": "13. הקמת מדינה פלסטינית",
+        "questionHebrewDescription": "הקמת מדינה פלסטינית",
+        "questionSurveyId": "i16",
+        "type": "category",
+        "englishDescription": "palestinian state"
+    },
+    {
+        "id": "17. מהם לדעתך הסיכויים שיתחזק השלום בין ישראל למדינות ערב בשלוש השנים הקרובות?",
+        "questionHebrewDescription": "מהם לדעתך הסיכויים שיתחזק השלום בין ישראל למדינות ערב בשלוש השנים הקרובות?",
+        "questionSurveyId": "a23",
+        "type": "category",
+        "englishDescription": "probability of signing another peace treaty with an arab country within 3 years"
+    },
+    {
+        "id": "18. ומהם לדעתך הסיכויים שתפרוץ מלחמה בין ישראל לבין מדינה ערבית בשלוש השנים הקרובות?",
+        "questionHebrewDescription": "ומהם לדעתך הסיכויים שתפרוץ מלחמה בין ישראל לבין מדינה ערבית בשלוש השנים הקרובות?",
+        "questionSurveyId": "a24",
+        "type": "category",
+        "englishDescription": "probability of israeli-arab war within 3 years"
+    },
+    {
+        "id": "20. האם ישראל צריכה להחזיר לסוריה שטחים ברמת הגולן תמורת חוזה שלום וסידורי בטחון המקובלים על צה\"ל?",
+        "questionHebrewDescription": "האם ישראל צריכה להחזיר לסוריה שטחים ברמת הגולן תמורת חוזה שלום וסידורי בטחון המקובלים על צה\"ל?",
+        "questionSurveyId": "a11",
+        "type": "category",
+        "englishDescription": "territorial concessions of golan heights for peace"
+    },
+    {
+        "id": "24. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: על הממשלה לעודד הגירת ערבים מהארץ",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: על הממשלה לעודד הגירת ערבים מהארץ",
+        "questionSurveyId": "a19",
+        "type": "category",
+        "englishDescription": "government should encourage arab migration from israel"
+    },
+    {
+        "id": "62. מבלי להתחשב בדעתך האישית, האם להערכתך במשך 10 השנים הבאות תקום או לא תקום מדינה פלסטינית ביו\"ש?",
+        "questionHebrewDescription": "מבלי להתחשב בדעתך האישית, האם להערכתך במשך 10 השנים הבאות תקום או לא תקום מדינה פלסטינית ביו\"ש?",
+        "questionSurveyId": "i25",
+        "type": "category",
+        "englishDescription": "palestinian state"
+    },
+    {
+        "id": "66. יש הטוענים שבגלל המשך הטרור אין להמשיך את המו\"מ עם אש\"ף ואילו אחרים טוענים שרק סיום מוצלח של המו\"מ יביא להפסקת הטרור. מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שבגלל המשך הטרור אין להמשיך את המו\"מ עם אש\"ף ואילו אחרים טוענים שרק סיום מוצלח של המו\"מ יביא להפסקת הטרור. מה דעתך?",
+        "questionSurveyId": "a13",
+        "type": "category",
+        "englishDescription": "should israel agree to negotiate with p.l.o."
+    },
+    {
+        "id": "67. אם יחול שינוי יסודי באש\"ף והארגון יודיע שהוא מכיר במדינת ישראל ויפסיק לחלוטין את פעילות הטרור, האם אז ישראל צריכה או לא צריכה להיות מוכנה לנהל מו\"מ עם אש\"ף?",
+        "questionHebrewDescription": "אם יחול שינוי יסודי באש\"ף והארגון יודיע שהוא מכיר במדינת ישראל ויפסיק לחלוטין את פעילות הטרור, האם אז ישראל צריכה או לא צריכה להיות מוכנה לנהל מו\"מ עם אש\"ף?",
+        "questionSurveyId": "a14",
+        "type": "category",
+        "englishDescription": "should israel agree to negotiate with p.l.o. providing p.l.o. recognizes israel"
+    },
+    {
+        "id": "69. ישנן הצעות שונות באשר לפתרונות קבע אפשריים עבור שטחי יו\"ש ועזה. לפניך רשימה של הצעות שכאלה. ציין את זו הקרובה ביותר לעמדתך:",
+        "questionHebrewDescription": "ישנן הצעות שונות באשר לפתרונות קבע אפשריים עבור שטחי יו\"ש ועזה. לפניך רשימה של הצעות שכאלה. ציין את זו הקרובה ביותר לעמדתך:",
+        "questionSurveyId": "a46",
+        "type": "category",
+        "englishDescription": "personal preference for solutions to arab-israeli conflict"
+    },
+    {
+        "id": "70. ובלי קשר להעדפות שלך, איזה הסדר יתקיים לדעתך בשטחי יו\"ש ועזה בעתיד הרחוק?",
+        "questionHebrewDescription": "ובלי קשר להעדפות שלך, איזה הסדר יתקיים לדעתך בשטחי יו\"ש ועזה בעתיד הרחוק?",
+        "questionSurveyId": "a471",
+        "type": "category",
+        "englishDescription": "arrangement considered most likely to take place"
+    },
+    {
+        "id": "71. ישנן שלוש הצעות לגבי פתרונות לטווח הרחוק של בעיית יו\"ש ועזה. עם איזה אתה מסכים ביותר?",
+        "questionHebrewDescription": "ישנן שלוש הצעות לגבי פתרונות לטווח הרחוק של בעיית יו\"ש ועזה. עם איזה אתה מסכים ביותר?",
+        "questionSurveyId": "a9",
+        "type": "category",
+        "englishDescription": "desired solution to territories issue"
+    },
+    {
+        "id": "72. אם ישראל תצטרך להכריע בין שתי האפשרויות הבאות, מה לדעתך עליה לעשות?",
+        "questionHebrewDescription": "אם ישראל תצטרך להכריע בין שתי האפשרויות הבאות, מה לדעתך עליה לעשות?",
+        "questionSurveyId": "a10",
+        "type": "category",
+        "englishDescription": "favorable solution of two possibilities"
+    },
+    {
+        "id": "76. האם אפשרי או לא אפשרי להגיע לשלום ביננו לבין מדינות ערב בעתיד הנראה לעין?",
+        "questionHebrewDescription": "האם אפשרי או לא אפשרי להגיע לשלום ביננו לבין מדינות ערב בעתיד הנראה לעין?",
+        "questionSurveyId": "a20",
+        "type": "category",
+        "englishDescription": "possibility of israeli-arab peace in future"
+    },
+    {
+        "id": "77. האם לדעתך ישראל יכולה או לא יכולה להשפיע בהתנהגותה ובמדיניותה על נכונות הערבים לשלום אמת איתה?",
+        "questionHebrewDescription": "האם לדעתך ישראל יכולה או לא יכולה להשפיע בהתנהגותה ובמדיניותה על נכונות הערבים לשלום אמת איתה?",
+        "questionSurveyId": "a21",
+        "type": "category",
+        "englishDescription": "israel's ability to affect arab peace policy"
+    },
+    {
+        "id": "78. מה לדעתך הסיכויים שיחתם הסכם על אוטונומיה לפלסטינים בשטחים?",
+        "questionHebrewDescription": "מה לדעתך הסיכויים שיחתם הסכם על אוטונומיה לפלסטינים בשטחים?",
+        "questionSurveyId": "a22",
+        "type": "category",
+        "englishDescription": "probability of signing palestinian autonomy agreement"
+    },
+    {
+        "id": "79. האם לדעתך אוטונומיה לפלסטינים בשטחים תביא בסופו של דבר: ",
+        "questionHebrewDescription": "האם לדעתך אוטונומיה לפלסטינים בשטחים תביא בסופו של דבר: ",
+        "questionSurveyId": "a31",
+        "type": "category",
+        "englishDescription": "final outcome of palestinian autonomy"
+    },
+    {
+        "id": "80. באיזו מידה אתה תומך או מתנגד להמשך השתתפותה של ישראל בועידת השלום?",
+        "questionHebrewDescription": "באיזו מידה אתה תומך או מתנגד להמשך השתתפותה של ישראל בועידת השלום?",
+        "questionSurveyId": "a44",
+        "type": "category",
+        "englishDescription": "support for israel's participation in peace talks"
+    },
+    {
+        "id": "81. האם אתה תומך או מתנגד להתיישבות בשטחים?",
+        "questionHebrewDescription": "האם אתה תומך או מתנגד להתיישבות בשטחים?",
+        "questionSurveyId": "a45",
+        "type": "category",
+        "englishDescription": "support of settlements in occupied territories"
+    },
+    {
+        "id": "82. מבין שני המנהיגים, עמדותיו של מי משקפות בצורה הטובה ביותר את דעותיך בנושא השטחים?",
+        "questionHebrewDescription": "מבין שני המנהיגים, עמדותיו של מי משקפות בצורה הטובה ביותר את דעותיך בנושא השטחים?",
+        "questionSurveyId": "a120",
+        "type": "category",
+        "englishDescription": "leader representing interviewee's stand on territories issues"
+    },
+    {
+        "id": "83. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: החזרת שטחים",
+        "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: החזרת שטחים",
+        "questionSurveyId": "i28",
+        "type": "category",
+        "englishDescription": "returning the territories"
+    },
+    {
+        "id": "91. האם במהלך שירות סדיר או מילואים שירתת בשטחים?",
+        "questionHebrewDescription": "האם במהלך שירות סדיר או מילואים שירתת בשטחים?",
+        "questionSurveyId": "i60",
+        "type": "category",
+        "englishDescription": "past service in territories since december 1987"
+    },
+    {
+        "id": "26. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
+        "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
+        "questionSurveyId": "i21",
+        "type": "category",
+        "englishDescription": "non democratic regime in israel"
+    },
+    {
+        "id": "27. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: משטר לא דמוקרטי בישראל",
+        "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: משטר לא דמוקרטי בישראל",
+        "questionSurveyId": "i30",
+        "type": "category",
+        "englishDescription": "non democratic regime in israel"
+    },
+    {
+        "id": "34. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
+        "questionHebrewDescription": "אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
+        "questionSurveyId": "a16",
+        "type": "category",
+        "englishDescription": "rights to be given to palestinians if territories annexed"
+    },
+    {
+        "id": "5. האם אתה נוהג לקרוא עיתון יומי?",
+        "questionHebrewDescription": "האם אתה נוהג לקרוא עיתון יומי?",
+        "questionSurveyId": "i58",
+        "type": "category",
+        "englishDescription": "reading daily newspaper"
+    },
+    {
+        "id": "20. האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionHebrewDescription": "האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionSurveyId": "i48",
+        "type": "category",
+        "englishDescription": "watching television elections broadcasts"
+    },
+    {
+        "id": "45. האם אתה מחובר לטלוויזיה בכבלים?",
+        "questionHebrewDescription": "האם אתה מחובר לטלוויזיה בכבלים?",
+        "questionSurveyId": "i45",
+        "type": "category",
+        "englishDescription": "connected to cable tv"
+    },
+    {
+        "id": "46. האם אתה קולט את ערוץ 2?",
+        "questionHebrewDescription": "האם אתה קולט את ערוץ 2?",
+        "questionSurveyId": "i46",
+        "type": "category",
+        "englishDescription": "reception of channel 2 broadcasts"
+    },
+    {
+        "id": "47. האם יש לך מכשיר וידאו בביתך?",
+        "questionHebrewDescription": "האם יש לך מכשיר וידאו בביתך?",
+        "questionSurveyId": "i47",
+        "type": "category",
+        "englishDescription": "ownership of vcr"
+    }
+]

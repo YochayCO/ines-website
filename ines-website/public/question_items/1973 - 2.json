@@ -1,0 +1,982 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identification number"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "e17",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "e16",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "e19",
+        "type": "demography",
+        "englishDescription": "where were you and your father born"
+    },
+    {
+        "id": "33. מהו מצבך המשפחתי?",
+        "questionHebrewDescription": "מהו מצבך המשפחתי?",
+        "questionSurveyId": "e18",
+        "type": "demography",
+        "englishDescription": "marital status"
+    },
+    {
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "c51",
+        "type": "category",
+        "englishDescription": "the first problem the government should take care of"
+    },
+    {
+        "id": "4. והבעיה השנייה הכי חשובה?",
+        "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
+        "questionSurveyId": "c52",
+        "type": "category",
+        "englishDescription": "the second problem the government should take care of"
+    },
+    {
+        "id": "6. האם אתה מאמין שהממשלה תפתור בקרוב את שתי הבעיות שציינת?",
+        "questionHebrewDescription": "האם אתה מאמין שהממשלה תפתור בקרוב את שתי הבעיות שציינת?",
+        "questionSurveyId": "c53",
+        "type": "category",
+        "englishDescription": "do you believe the government'll solve these 2 problems in the near future"
+    },
+    {
+        "id": "23. האם החלפת המפלגה בשלטון תשנה את המצב האישי שלך?",
+        "questionHebrewDescription": "האם החלפת המפלגה בשלטון תשנה את המצב האישי שלך?",
+        "questionSurveyId": "d44",
+        "type": "category",
+        "englishDescription": "will a change in government bring a change in your personal situation"
+    },
+    {
+        "id": "91. האם אתה מאמין למה שהמפלגות אומרות במערכת הבחירות?",
+        "questionHebrewDescription": "האם אתה מאמין למה שהמפלגות אומרות במערכת הבחירות?",
+        "questionSurveyId": "d8",
+        "type": "category",
+        "englishDescription": "do you believe what the parties say during election campaign"
+    },
+    {
+        "id": "93. באיזו מידה אתה מרוצה מהצורה בה מתנהלת מערכת הבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהצורה בה מתנהלת מערכת הבחירות לכנסת?",
+        "questionSurveyId": "c6",
+        "type": "category",
+        "englishDescription": "are you statisfied with the way elections for the knesset are held"
+    },
+    {
+        "id": "94. מדוע?",
+        "questionHebrewDescription": "מדוע?",
+        "questionSurveyId": "c7",
+        "type": "category",
+        "englishDescription": "why"
+    },
+    {
+        "id": "95. באיזו מידה הפעילות במערכת הבחירות מוסיפה לך יוקרה בקרב חבריך?",
+        "questionHebrewDescription": "באיזו מידה הפעילות במערכת הבחירות מוסיפה לך יוקרה בקרב חבריך?",
+        "questionSurveyId": "d11",
+        "type": "category",
+        "englishDescription": "to what extent does being active in campaign make you more respected by your fri"
+    },
+    {
+        "id": "96. באיזו מידה מועילה לך הפעילות במערכת הבחירות ליצירת קשרים, לקידום בעבודה, להנאה חומרות וכו'?",
+        "questionHebrewDescription": "באיזו מידה מועילה לך הפעילות במערכת הבחירות ליצירת קשרים, לקידום בעבודה, להנאה חומרות וכו'?",
+        "questionSurveyId": "d12",
+        "type": "category",
+        "englishDescription": "to what extent does being active in campaign help in meeting people, material be"
+    },
+    {
+        "id": "104. איך אתה רואה את הפוליטיקה בישראל?",
+        "questionHebrewDescription": "איך אתה רואה את הפוליטיקה בישראל?",
+        "questionSurveyId": "c27",
+        "type": "category",
+        "englishDescription": "how do you see politics in israel"
+    },
+    {
+        "id": "105. באיזו מידה חשוב לך להרגיש שאתה חלק מהמדינה והעם?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להרגיש שאתה חלק מהמדינה והעם?",
+        "questionSurveyId": "c45",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to feel you are part of the people (+count"
+    },
+    {
+        "id": "106. באיזו מידה ההשתתפות בבחירות מאפשרות לך להרגיש שאתה חלק מהמדינה והעם?",
+        "questionHebrewDescription": "באיזו מידה ההשתתפות בבחירות מאפשרות לך להרגיש שאתה חלק מהמדינה והעם?",
+        "questionSurveyId": "d22",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections make you feel part of the peo"
+    },
+    {
+        "id": "107. באיזו מידה חשוב לך להתנהג כמו החברים שלך?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להתנהג כמו החברים שלך?",
+        "questionSurveyId": "c48",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to behave like your friends"
+    },
+    {
+        "id": "108. באיזו מידה ההשתתפות בבחירות מאפשרת לך להתנהג כמו חבריך?",
+        "questionHebrewDescription": "באיזו מידה ההשתתפות בבחירות מאפשרת לך להתנהג כמו חבריך?",
+        "questionSurveyId": "d25",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections give you the opportunity to b"
+    },
+    {
+        "id": "109. באיזו מידה חשוב לך להשפיע איזה מפלגה תהיה בשלטון?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להשפיע איזה מפלגה תהיה בשלטון?",
+        "questionSurveyId": "c50",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to influence which party will govern"
+    },
+    {
+        "id": "110. באיזו מידה השתתפות בבחירות מאפשרת לך להשפיע איזה מפלגה תהיה בשלטון?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך להשפיע איזה מפלגה תהיה בשלטון?",
+        "questionSurveyId": "d27",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections allow you to influence which"
+    },
+    {
+        "id": "111. באיזו מידה השתתפות בבחירות גורמת לך הנאה בגלל שאתה משתתף במאורע חגיגי?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות גורמת לך הנאה בגלל שאתה משתתף במאורע חגיגי?",
+        "questionSurveyId": "d28",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections give you pleasure because it"
+    },
+    {
+        "id": "113. מהי לדעתך הבעיה החשובה ביותר שעל העירייה שלך לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל העירייה שלך לטפל בה?",
+        "questionSurveyId": "e11",
+        "type": "category",
+        "englishDescription": "what do you think is the most important problem the mayor should take care of"
+    },
+    {
+        "id": "115. איזו מפלגה מסוגלת לפתור את הבעיה החשובה ביותר של העיר שלך?",
+        "questionHebrewDescription": "איזו מפלגה מסוגלת לפתור את הבעיה החשובה ביותר של העיר שלך?",
+        "questionSurveyId": "e12",
+        "type": "category",
+        "englishDescription": "what party is capable of solving the city's most important problem"
+    },
+    {
+        "id": "116. באיזו מידה אתה מרוצה מהשירותים שאתה מקבל מהעירייה?",
+        "questionHebrewDescription": "באיזו מידה אתה מרוצה מהשירותים שאתה מקבל מהעירייה?",
+        "questionSurveyId": "e13",
+        "type": "category",
+        "englishDescription": "to what extent are you satisfied with the services you receive from city hall"
+    },
+    {
+        "id": "117. האם לדעתך רצוי להחליף את ראש העיר שלך?",
+        "questionHebrewDescription": "האם לדעתך רצוי להחליף את ראש העיר שלך?",
+        "questionSurveyId": "e14",
+        "type": "category",
+        "englishDescription": "do you think it would be good to have a new mayor in your city"
+    },
+    {
+        "id": "1. באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionHebrewDescription": "באיזו מידה אתה וחבריך יכולים להשפיע על מדיניות הממשלה?",
+        "questionSurveyId": "d6",
+        "type": "category",
+        "englishDescription": "to what extent can you and your friends influence government policy"
+    },
+    {
+        "id": "2. באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשוחח עם חבריך ובני משפחתך על עניינים פוליטיים?",
+        "questionSurveyId": "c25",
+        "type": "category",
+        "englishDescription": "to what extent do you talk with your friends about politics"
+    },
+    {
+        "id": "5. באיזו מידה חשוב לך להביע את דעותיך בעניינים פוליטיים?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להביע את דעותיך בעניינים פוליטיים?",
+        "questionSurveyId": "c46",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to express your opinions on political matt"
+    },
+    {
+        "id": "6. באיזו מידה השתתפות בבחירות מאפשרת לך להביע את דעותיך בעניינים פוליטיים?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך להביע את דעותיך בעניינים פוליטיים?",
+        "questionSurveyId": "d23",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections give the opportunity of expre"
+    },
+    {
+        "id": "11. האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionHebrewDescription": "האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionSurveyId": "d42",
+        "type": "category",
+        "englishDescription": "do you support a party,are you a member of one or do you hold a job in one"
+    },
+    {
+        "id": "13. האם אתה נוהג להשתתף בחוגי בית של המפלגות ואם כן באיזו תדירות?",
+        "questionHebrewDescription": "האם אתה נוהג להשתתף בחוגי בית של המפלגות ואם כן באיזו תדירות?",
+        "questionSurveyId": "c23",
+        "type": "category",
+        "englishDescription": "have you participated in house-meetings in this period"
+    },
+    {
+        "id": "15. יש אנשים שמתעניינים במערכת הבחירות מכיוון שיש לה אופי של התמודדות ספורטיבית. באיזו מידה גם אתה מתעניין מסיבה זו?",
+        "questionHebrewDescription": "יש אנשים שמתעניינים במערכת הבחירות מכיוון שיש לה אופי של התמודדות ספורטיבית. באיזו מידה גם אתה מתעניין מסיבה זו?",
+        "questionSurveyId": "d9",
+        "type": "category",
+        "englishDescription": "to what extent are you interested in election campaign as a sport competition"
+    },
+    {
+        "id": "16. האם אתה פעיל במערכת הבחירות הנוכחית? (עובד למען אחת המפלגות בהתנדבות או בשכר)",
+        "questionHebrewDescription": "האם אתה פעיל במערכת הבחירות הנוכחית? (עובד למען אחת המפלגות בהתנדבות או בשכר)",
+        "questionSurveyId": "d10",
+        "type": "category",
+        "englishDescription": "are you active in the present election campaign"
+    },
+    {
+        "id": "17. האם בתקופת הבחירות אתה מתעניין בפוליטיקה יותר מאשר בדר\"כ?",
+        "questionHebrewDescription": "האם בתקופת הבחירות אתה מתעניין בפוליטיקה יותר מאשר בדר\"כ?",
+        "questionSurveyId": "c2",
+        "type": "category",
+        "englishDescription": "during elections time, do you get more interested in politics than usually"
+    },
+    {
+        "id": "18. באיזו מידה אתה מתעניין במערכת הבחירות: להסתדרות",
+        "questionHebrewDescription": "באיזו מידה אתה מתעניין במערכת הבחירות: להסתדרות",
+        "questionSurveyId": "c3",
+        "type": "category",
+        "englishDescription": "how interested are you in histadrut elections"
+    },
+    {
+        "id": "19. באיזו מידה אתה מתעניין במערכת הבחירות: לעירייה",
+        "questionHebrewDescription": "באיזו מידה אתה מתעניין במערכת הבחירות: לעירייה",
+        "questionSurveyId": "c4",
+        "type": "category",
+        "englishDescription": "how interested are you in municipal elections"
+    },
+    {
+        "id": "20. באיזו מידה אתה מתעניין במערכת הבחירות: לכנסת",
+        "questionHebrewDescription": "באיזו מידה אתה מתעניין במערכת הבחירות: לכנסת",
+        "questionSurveyId": "c5",
+        "type": "category",
+        "englishDescription": "how interested are you in knesset elections"
+    },
+    {
+        "id": "21. איזה נושאים פוליטיים מעניינים אותך בעיקר?",
+        "questionHebrewDescription": "איזה נושאים פוליטיים מעניינים אותך בעיקר?",
+        "questionSurveyId": "c9",
+        "type": "category",
+        "englishDescription": "what political subjects interest you the most"
+    },
+    {
+        "id": "22. באיזו מידה אתה מתעניין בפוליטיקה בדר\"כ?",
+        "questionHebrewDescription": "באיזו מידה אתה מתעניין בפוליטיקה בדר\"כ?",
+        "questionSurveyId": "c26",
+        "type": "category",
+        "englishDescription": "to what extent are you interested in politics in general"
+    },
+    {
+        "id": "24. האם אתה פעיל בארגון ציבורי כלשהו?",
+        "questionHebrewDescription": "האם אתה פעיל בארגון ציבורי כלשהו?",
+        "questionSurveyId": "d43",
+        "type": "category",
+        "englishDescription": "are you active in any public organization(workers union, wizo, b'nei brith, etc)"
+    },
+    {
+        "id": "25. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את המנהיגים הפוליטיים?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את המנהיגים הפוליטיים?",
+        "questionSurveyId": "d15",
+        "type": "category",
+        "englishDescription": "to what extent does this campaign help you know better the political leaders"
+    },
+    {
+        "id": "26. באיזו מידה חשוב לך להכיר יותר טוב את המנהיגים הפוליטיים?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להכיר יותר טוב את המנהיגים הפוליטיים?",
+        "questionSurveyId": "c41",
+        "type": "category",
+        "englishDescription": "to what extent is it important to better know the political leaders"
+    },
+    {
+        "id": "27. באיזו מידה מערכת הבחירות עוזרת לך להבין יותר את הבעיות הפוליטיות בארץ?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות עוזרת לך להבין יותר את הבעיות הפוליטיות בארץ?",
+        "questionSurveyId": "d13",
+        "type": "category",
+        "englishDescription": "to what extent does this campaign help you better understand our political probl"
+    },
+    {
+        "id": "28. באיזו מידה חשוב לך להבין יותר טוב את הבעיות הפוליטיות בארץ?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להבין יותר טוב את הבעיות הפוליטיות בארץ?",
+        "questionSurveyId": "c39",
+        "type": "category",
+        "englishDescription": "to what extent is it important to better understand the country's political prob"
+    },
+    {
+        "id": "3. עם איזה זרם פוליטי אתה מזדהה?",
+        "questionHebrewDescription": "עם איזה זרם פוליטי אתה מזדהה?",
+        "questionSurveyId": "d31",
+        "type": "category",
+        "englishDescription": "with what political tendency do you identify"
+    },
+    {
+        "id": "16. האם לדעתך קיימים הבדלים בעמדותיהן של המפלגות לגבי הבעיה שציינת?",
+        "questionHebrewDescription": "האם לדעתך קיימים הבדלים בעמדותיהן של המפלגות לגבי הבעיה שציינת?",
+        "questionSurveyId": "c54",
+        "type": "category",
+        "englishDescription": "are there differences in the parties' stands on the first problem you metioned a"
+    },
+    {
+        "id": "28. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שחיתות",
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: שחיתות",
+        "questionSurveyId": "d3",
+        "type": "category",
+        "englishDescription": "to what extent do you think there are differences between parties on corruption"
+    },
+    {
+        "id": "44. יש האומרים שההבדלים בין המפלגות הם \"במה שהם אומרים\" ולא \"במה שהם עושים\", ויש האומרים את ההפך. מה דעתך?",
+        "questionHebrewDescription": "יש האומרים שההבדלים בין המפלגות הם \"במה שהם אומרים\" ולא \"במה שהם עושים\", ויש האומרים את ההפך. מה דעתך?",
+        "questionSurveyId": "c38",
+        "type": "category",
+        "englishDescription": "do you think these differences are in what they say mainly or what they do"
+    },
+    {
+        "id": "51. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את עמדות המפלגות לגבי הבעיות הפוליטיות?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להכיר יותר טוב את עמדות המפלגות לגבי הבעיות הפוליטיות?",
+        "questionSurveyId": "d14",
+        "type": "category",
+        "englishDescription": "to what extent does this campaign help you know the party's stands on political"
+    },
+    {
+        "id": "52. באיזו מידה חשוב לך להכיר יותר טוב את העמדות את עמדות המפלגות לגבי הבעיות הפוליטיות?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להכיר יותר טוב את העמדות את עמדות המפלגות לגבי הבעיות הפוליטיות?",
+        "questionSurveyId": "c40",
+        "type": "category",
+        "englishDescription": "to what extent is it important to better know the parties'stands on political pr"
+    },
+    {
+        "id": "53. האם לדעתך קיימים הבדלים בין רוב המפלגות בישראל?",
+        "questionHebrewDescription": "האם לדעתך קיימים הבדלים בין רוב המפלגות בישראל?",
+        "questionSurveyId": "c37",
+        "type": "category",
+        "englishDescription": "do you think there are differences between the parties in israel"
+    },
+    {
+        "id": "54. האם לדעתך הליכוד הזה הוא שמאלי, ימני או מרכזי?",
+        "questionHebrewDescription": "האם לדעתך הליכוד הזה הוא שמאלי, ימני או מרכזי?",
+        "questionSurveyId": "d36",
+        "type": "category",
+        "englishDescription": "do you think the likud is leftwing, right-wing or center"
+    },
+    {
+        "id": "156. באיזו מידה חשוב לך להזדהות עם אישיים פוליטיים?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להזדהות עם אישיים פוליטיים?",
+        "questionSurveyId": "c47",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to identify with political personalities"
+    },
+    {
+        "id": "157. באיזו מידה השתתפות בבחירות מאפשרת לך להזדהות עם אישיים פוליטיים?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך להזדהות עם אישיים פוליטיים?",
+        "questionSurveyId": "d24",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections give the opportunity to ident"
+    },
+    {
+        "id": "158. באיזו מידה חשוב לך להזדהות עם המפלגה שאתה תומך בה?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להזדהות עם המפלגה שאתה תומך בה?",
+        "questionSurveyId": "c49",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to identify with the party you support"
+    },
+    {
+        "id": "159. באיזו מידה השתתפות בבחירות מאפשרת לך להזדהות עם המפלגה שאתה תומך בה?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך להזדהות עם המפלגה שאתה תומך בה?",
+        "questionSurveyId": "d26",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections allow you to identify with th"
+    },
+    {
+        "id": "160. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לדעת איזו מפלגה קרובה ביותר לדעותיך?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לדעת איזו מפלגה קרובה ביותר לדעותיך?",
+        "questionSurveyId": "d18",
+        "type": "category",
+        "englishDescription": "o what extent does this campaign help you know which party's stands are closer t"
+    },
+    {
+        "id": "161. באיזו מידה חשוב לך לדעת איזו מפלגה קרובה ביותר לעמדותיך?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך לדעת איזו מפלגה קרובה ביותר לעמדותיך?",
+        "questionSurveyId": "c44",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to know which party is closer to your idea"
+    },
+    {
+        "id": "163. לאיזו מפלגה אתה חש הכי קרוב?",
+        "questionHebrewDescription": "לאיזו מפלגה אתה חש הכי קרוב?",
+        "questionSurveyId": "d55",
+        "type": "category",
+        "englishDescription": "the first party (out of 3) closest to you"
+    },
+    {
+        "id": "165. מהי המפלגה השנייה הכי קרובה אליך?",
+        "questionHebrewDescription": "מהי המפלגה השנייה הכי קרובה אליך?",
+        "questionSurveyId": "d56",
+        "type": "category",
+        "englishDescription": "the second party (out of 3) closest to you"
+    },
+    {
+        "id": "166. מהי המפלגה השלישית הכי קרובה אליך?",
+        "questionHebrewDescription": "מהי המפלגה השלישית הכי קרובה אליך?",
+        "questionSurveyId": "d57",
+        "type": "category",
+        "englishDescription": "the third party (out of 3) closest to you"
+    },
+    {
+        "id": "167. מהי המפלגה הרחוקה ממך ביותר?",
+        "questionHebrewDescription": "מהי המפלגה הרחוקה ממך ביותר?",
+        "questionSurveyId": "d58",
+        "type": "category",
+        "englishDescription": "the first party (out of 3) furthest from you"
+    },
+    {
+        "id": "168. מהי המפלגה השנייה הכי רחוקה ממך?",
+        "questionHebrewDescription": "מהי המפלגה השנייה הכי רחוקה ממך?",
+        "questionSurveyId": "d59",
+        "type": "category",
+        "englishDescription": "the second party (out of 3) furthest from you"
+    },
+    {
+        "id": "169. מהי המפלגה השלישית הכי רחוקה ממך?",
+        "questionHebrewDescription": "מהי המפלגה השלישית הכי רחוקה ממך?",
+        "questionSurveyId": "d60",
+        "type": "category",
+        "englishDescription": "the third party (out of 3)furthest from you"
+    },
+    {
+        "id": "170. מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי הראשונה?",
+        "questionHebrewDescription": "מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי הראשונה?",
+        "questionSurveyId": "e3",
+        "type": "category",
+        "englishDescription": "the first one"
+    },
+    {
+        "id": "171. מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי השנייה?",
+        "questionHebrewDescription": "מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי השנייה?",
+        "questionSurveyId": "e4",
+        "type": "category",
+        "englishDescription": "the second one"
+    },
+    {
+        "id": "172. מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי השלישית?",
+        "questionHebrewDescription": "מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי השלישית?",
+        "questionSurveyId": "e5",
+        "type": "category",
+        "englishDescription": "the third one"
+    },
+    {
+        "id": "173. מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי הרביעית?",
+        "questionHebrewDescription": "מהמפלגות הנותרות, איך היית מדרג את מידת הקרבה אלייך: מי הרביעית?",
+        "questionSurveyId": "e6",
+        "type": "category",
+        "englishDescription": "the fourth one"
+    },
+    {
+        "id": "4. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? מדיניות כלכלית-חברתית",
+        "questionSurveyId": "c60",
+        "type": "category",
+        "englishDescription": "to what extent will this issue influence your voting in the next elections"
+    },
+    {
+        "id": "8. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שלום ושטחים",
+        "questionSurveyId": "c63",
+        "type": "category",
+        "englishDescription": "to what extent will this issue influence your next vote"
+    },
+    {
+        "id": "10. באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "questionHebrewDescription": "באיזו מידה ישפיע או לא ישפיע כל אחד מהנושאים הבאים על ההצבעה שלך לכנסת? שחיתות",
+        "questionSurveyId": "d5",
+        "type": "category",
+        "englishDescription": "to what extent will this issue influence your voting in the next elections"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "e7",
+        "type": "category",
+        "englishDescription": "if the elections were held today, whom would you vote for"
+    },
+    {
+        "id": "48. באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionSurveyId": "c18",
+        "type": "category",
+        "englishDescription": "to what extent did the t.v. advertisements help you decide whom to vote for"
+    },
+    {
+        "id": "49. באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionSurveyId": "c12",
+        "type": "category",
+        "englishDescription": "to what extent do party advertisements help you decide whom to vote for"
+    },
+    {
+        "id": "51. באיזו מידה אתה חושב שהשידורים ברדיו יעזרו לך או לא להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שהשידורים ברדיו יעזרו לך או לא להחליט בעד מי להצביע?",
+        "questionSurveyId": "c15",
+        "type": "category",
+        "englishDescription": "to what extent did these advertisements help you decide whom to vote for"
+    },
+    {
+        "id": "53. באיזו מידה אתה חושב שחוגי בית יעזרו לך להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שחוגי בית יעזרו לך להחליט בעד מי להצביע?",
+        "questionSurveyId": "c24",
+        "type": "category",
+        "englishDescription": "to what extent did those house meetings help you decide whom to vote for"
+    },
+    {
+        "id": "55. יש אנשים שלא מצביעים בבחירות מסיבה כזו או אחרת. האם אתה מתכוון להצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "יש אנשים שלא מצביעים בבחירות מסיבה כזו או אחרת. האם אתה מתכוון להצביע בבחירות לכנסת?",
+        "questionSurveyId": "d45",
+        "type": "category",
+        "englishDescription": "do you intend to vote in the knesset elections"
+    },
+    {
+        "id": "136. באיזו מידה אתה בטוח או שאינך בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה בטוח או שאינך בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionSurveyId": "d46",
+        "type": "category",
+        "englishDescription": "to what extent are you certain about whom you'll vote for"
+    },
+    {
+        "id": "137. מדוע אתה לא בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "מדוע אתה לא בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionSurveyId": "d47",
+        "type": "category",
+        "englishDescription": "why aren't you certain about whom you'll vote for"
+    },
+    {
+        "id": "138. מתי אתה מתכנן להחליט עבור איזו רשימה להצביע?",
+        "questionHebrewDescription": "מתי אתה מתכנן להחליט עבור איזו רשימה להצביע?",
+        "questionSurveyId": "d48",
+        "type": "category",
+        "englishDescription": "when do you think you'll decide whom you'll vote for"
+    },
+    {
+        "id": "139. מה יעזור לך לקבל את החלטת הסופית?",
+        "questionHebrewDescription": "מה יעזור לך לקבל את החלטת הסופית?",
+        "questionSurveyId": "d49",
+        "type": "category",
+        "englishDescription": "what will help you make up your mind"
+    },
+    {
+        "id": "143. ראיינו אותך לפני מספר חודשים. האם יותר ברור לך היום או פחות ברור לך היום, בעד מי תצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "ראיינו אותך לפני מספר חודשים. האם יותר ברור לך היום או פחות ברור לך היום, בעד מי תצביע בבחירות לכנסת?",
+        "questionSurveyId": "d53",
+        "type": "category",
+        "englishDescription": "we interviewed you a month ago.is it clearer to you now whom you'll vote for"
+    },
+    {
+        "id": "144. מדוע?",
+        "questionHebrewDescription": "מדוע?",
+        "questionSurveyId": "d54",
+        "type": "category",
+        "englishDescription": "why do you think so"
+    },
+    {
+        "id": "181. האם אתה חושב שהצבעתך לכנסת משפיעה על תוצאות הבחירות?",
+        "questionHebrewDescription": "האם אתה חושב שהצבעתך לכנסת משפיעה על תוצאות הבחירות?",
+        "questionSurveyId": "c31",
+        "type": "category",
+        "englishDescription": "do you think your vote influences the results of the knesset elections"
+    },
+    {
+        "id": "182. יש הטוענים שאם לבוחר אין מפלגה שהוא תומך בה במיוחד, מוטב שלא יצביע בכלל, מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שאם לבוחר אין מפלגה שהוא תומך בה במיוחד, מוטב שלא יצביע בכלל, מה דעתך?",
+        "questionSurveyId": "d21",
+        "type": "category",
+        "englishDescription": "do you think that if the voter doesn't support any specific party he shouldn't v"
+    },
+    {
+        "id": "184. האם לך אישית חשוב להצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "האם לך אישית חשוב להצביע בבחירות לכנסת?",
+        "questionSurveyId": "d32",
+        "type": "category",
+        "englishDescription": "is it important for you personally to vote in the knesset election"
+    },
+    {
+        "id": "185. יש אנשים שהעיקר בשבילם זה להצביע ופחות חשוב להם בעד איזו מפלגה הם מצביעים, ויש אנשים שהעיקר בשבילם היא המפלגה בעדה הם מצביעים. לאיזו מן העמדות אתה קרוב יותר?",
+        "questionHebrewDescription": "יש אנשים שהעיקר בשבילם זה להצביע ופחות חשוב להם בעד איזו מפלגה הם מצביעים, ויש אנשים שהעיקר בשבילם היא המפלגה בעדה הם מצביעים. לאיזו מן העמדות אתה קרוב יותר?",
+        "questionSurveyId": "d19",
+        "type": "category",
+        "englishDescription": "do you think it is more important to vote in general or to vote for a particular"
+    },
+    {
+        "id": "186. האם אתה מתכונן להצביע בעד אותה מפלגה שבשבילה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "האם אתה מתכונן להצביע בעד אותה מפלגה שבשבילה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "e8",
+        "type": "category",
+        "englishDescription": "will you vote for the same party you voted for last time"
+    },
+    {
+        "id": "187. בין כל השיקולים שלך להצביע לאותה מפלגה, באיזו מידה לקחת בחשבון את הנאמנות שלך למפלגה עבורה הצבעת בעבר?",
+        "questionHebrewDescription": "בין כל השיקולים שלך להצביע לאותה מפלגה, באיזו מידה לקחת בחשבון את הנאמנות שלך למפלגה עבורה הצבעת בעבר?",
+        "questionSurveyId": "e9",
+        "type": "category",
+        "englishDescription": "if yes, to what extent did you take into con-sideration loyalty to the party vot"
+    },
+    {
+        "id": "188. מדוע שינית את דעתך ולא תצביע לאותה מפלגה שהצבעת לה פעם קודמת?",
+        "questionHebrewDescription": "מדוע שינית את דעתך ולא תצביע לאותה מפלגה שהצבעת לה פעם קודמת?",
+        "questionSurveyId": "e10",
+        "type": "category",
+        "englishDescription": "if no, why did you change your mind"
+    },
+    {
+        "id": "189. האם הצבעת בבחירות בארץ אחרת?",
+        "questionHebrewDescription": "האם הצבעת בבחירות בארץ אחרת?",
+        "questionSurveyId": "c35",
+        "type": "category",
+        "englishDescription": "did you vote in the last elections in israel"
+    },
+    {
+        "id": "190. אם כן, מה ההבדלים מה ההבדלים בין הבחירות בארץ לבחירות בחו\"ל?",
+        "questionHebrewDescription": "אם כן, מה ההבדלים מה ההבדלים בין הבחירות בארץ לבחירות בחו\"ל?",
+        "questionSurveyId": "c36",
+        "type": "category",
+        "englishDescription": "what are the differences between elections in israel and in foreign countries (i"
+    },
+    {
+        "id": "191. האם אתה מזדהה עם עמדה של מפלגה מסויימת לגבי הבעיה הראשונה שציינת? האם הזדהות זו משפיעה על הצבעתך?",
+        "questionHebrewDescription": "האם אתה מזדהה עם עמדה של מפלגה מסויימת לגבי הבעיה הראשונה שציינת? האם הזדהות זו משפיעה על הצבעתך?",
+        "questionSurveyId": "c56",
+        "type": "category",
+        "englishDescription": "do you identify with a specific party's stand on the 1st problem-if yes does it"
+    },
+    {
+        "id": "192. האם אתה מזדהה עם עמדה של מפלגה מסויימת לגבי הבעיה השנייה שציינת? האם הזדהות זו משפיעה על הצבעתך?",
+        "questionHebrewDescription": "האם אתה מזדהה עם עמדה של מפלגה מסויימת לגבי הבעיה השנייה שציינת? האם הזדהות זו משפיעה על הצבעתך?",
+        "questionSurveyId": "c57",
+        "type": "category",
+        "englishDescription": "do you identify with a specific party's stand on the 2nd problem-if yes does it"
+    },
+    {
+        "id": "193. האם הקמת הליכוד תשפיע על הצבעתך לבחירות לכנסת?",
+        "questionHebrewDescription": "האם הקמת הליכוד תשפיע על הצבעתך לבחירות לכנסת?",
+        "questionSurveyId": "d37",
+        "type": "category",
+        "englishDescription": "will the creation of the likud influence your vote to the knesset"
+    },
+    {
+        "id": "52. באיזו מידה הוכיח הליכוד כי הוא מסוגל או שאינו מסוגל להיות תחליף למערך בשלטון?",
+        "questionHebrewDescription": "באיזו מידה הוכיח הליכוד כי הוא מסוגל או שאינו מסוגל להיות תחליף למערך בשלטון?",
+        "questionSurveyId": "d38",
+        "type": "category",
+        "englishDescription": "to what extent can the likud/gahal represent a subsitute for the labor party in"
+    },
+    {
+        "id": "53. לאחרונה שמענו הרבה על שחיתות בקרב אנשי ציבור. באיזו מידה אתה חושב שנושא זה ישפיע על תוצאות הבחירות?",
+        "questionHebrewDescription": "לאחרונה שמענו הרבה על שחיתות בקרב אנשי ציבור. באיזו מידה אתה חושב שנושא זה ישפיע על תוצאות הבחירות?",
+        "questionSurveyId": "d2",
+        "type": "category",
+        "englishDescription": "to what extent do you think corruption will influence the election results"
+    },
+    {
+        "id": "60. האם שמעת על הליכוד החדש?",
+        "questionHebrewDescription": "האם שמעת על הליכוד החדש?",
+        "questionSurveyId": "d33",
+        "type": "category",
+        "englishDescription": "have you heard of the new likud"
+    },
+    {
+        "id": "61. האם ידוע לך מי הן המפלגות המרכיבות את הליכוד הזה?",
+        "questionHebrewDescription": "האם ידוע לך מי הן המפלגות המרכיבות את הליכוד הזה?",
+        "questionSurveyId": "d34",
+        "type": "category",
+        "englishDescription": "do you know which are the parties in this new likud"
+    },
+    {
+        "id": "62. האם לדעתך רצוי שהמפלגות אלה ירוצו לבחירות לכנסת ביחד?",
+        "questionHebrewDescription": "האם לדעתך רצוי שהמפלגות אלה ירוצו לבחירות לכנסת ביחד?",
+        "questionSurveyId": "d35",
+        "type": "category",
+        "englishDescription": "do you think it is good that these parties should run together for the knesset"
+    },
+    {
+        "id": "3. איזו מפלגה משקפת בצורה הטובה ביותר את עמדותיך בנושא כלכלה?",
+        "questionHebrewDescription": "איזו מפלגה משקפת בצורה הטובה ביותר את עמדותיך בנושא כלכלה?",
+        "questionSurveyId": "c59",
+        "type": "category",
+        "englishDescription": "is there a party with whose stand on this subject you identify-if yes which"
+    },
+    {
+        "id": "82. האם תצביע בבחירות הקרובות להסתדרות?",
+        "questionHebrewDescription": "האם תצביע בבחירות הקרובות להסתדרות?",
+        "questionSurveyId": "d50",
+        "type": "category",
+        "englishDescription": "will you vote in the histadrut elections"
+    },
+    {
+        "id": "87. מה הסיבה העיקרית שבגלל לא השתתפת בבחירות להסתדרות?",
+        "questionHebrewDescription": "מה הסיבה העיקרית שבגלל לא השתתפת בבחירות להסתדרות?",
+        "questionSurveyId": "d52",
+        "type": "category",
+        "englishDescription": "if no why"
+    },
+    {
+        "id": "93. אילו היו מתקיימות היום הבחירות להסתדרות עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "אילו היו מתקיימות היום הבחירות להסתדרות עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "d51",
+        "type": "category",
+        "englishDescription": "if yes-whom will you vote for"
+    },
+    {
+        "id": "95. נניח שהליכוד יעלה לשלטון. האם בענייני הפער הכלכלי והחברתי, זה יביא לשינוי לטובה או לרעה?",
+        "questionHebrewDescription": "נניח שהליכוד יעלה לשלטון. האם בענייני הפער הכלכלי והחברתי, זה יביא לשינוי לטובה או לרעה?",
+        "questionSurveyId": "d39",
+        "type": "category",
+        "englishDescription": "if the likud rises to government would that change socio-economic for better or"
+    },
+    {
+        "id": "98. באיזו מידה אתה מסכים כי יש במדינה פער כלכל וחברתי גדול מדי?",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים כי יש במדינה פער כלכל וחברתי גדול מדי?",
+        "questionSurveyId": "c58",
+        "type": "category",
+        "englishDescription": "to what extent do you agree that there is too much social and economic inequalit"
+    },
+    {
+        "id": "99. עבור איזה שירות ציבורי שהעירייה שלך נותנת לאזרחים היית מוכן לשלם יותר מיסים?",
+        "questionHebrewDescription": "עבור איזה שירות ציבורי שהעירייה שלך נותנת לאזרחים היית מוכן לשלם יותר מיסים?",
+        "questionSurveyId": "e15",
+        "type": "category",
+        "englishDescription": "for which public service provided by the municipality would you agree to pay mor"
+    },
+    {
+        "id": "135. נניח שהליכוד יעלה לשלטון. האם בקשר למדיניות הבטחונית, זה יביא לשינוי לטובה או לרעה?",
+        "questionHebrewDescription": "נניח שהליכוד יעלה לשלטון. האם בקשר למדיניות הבטחונית, זה יביא לשינוי לטובה או לרעה?",
+        "questionSurveyId": "d40",
+        "type": "category",
+        "englishDescription": "would this rising change security policy for better or for worse"
+    },
+    {
+        "id": "2. איזו מפלגה משקפת בצורה הטובה ביותר את עמדתך בנושא השלום והשטחים?",
+        "questionHebrewDescription": "איזו מפלגה משקפת בצורה הטובה ביותר את עמדתך בנושא השלום והשטחים?",
+        "questionSurveyId": "c62",
+        "type": "category",
+        "englishDescription": "is there a party with whose stand on occupied territories you identify-which"
+    },
+    {
+        "id": "97. יש כאלו שאומרים, שכדי שנוכל לשמור על רוב של יהודים במדינה, נצטרך להיות מוכנים לוותרים על שטחים ביו\"ש. האם אתה מסכים או מתנגד לעמדה זו?",
+        "questionHebrewDescription": "יש כאלו שאומרים, שכדי שנוכל לשמור על רוב של יהודים במדינה, נצטרך להיות מוכנים לוותרים על שטחים ביו\"ש. האם אתה מסכים או מתנגד לעמדה זו?",
+        "questionSurveyId": "c61",
+        "type": "category",
+        "englishDescription": "do you think that to maintain jewish character and to achieve peace we should gi"
+    },
+    {
+        "id": "63. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
+        "questionSurveyId": "d16",
+        "type": "category",
+        "englishDescription": "to what extent does this campaign help you understand better how democracy works"
+    },
+    {
+        "id": "64. באיזו מידה חשוב לך להבין יותר טוב איך פועלת הדמוקרטיה?",
+        "questionHebrewDescription": "באיזו מידה חשוב לך להבין יותר טוב איך פועלת הדמוקרטיה?",
+        "questionSurveyId": "c42",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to better understand how democracy works"
+    },
+    {
+        "id": "65. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
+        "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
+        "questionSurveyId": "d17",
+        "type": "category",
+        "englishDescription": "to what extent does this campaign help you give your children a political educat"
+    },
+    {
+        "id": "66. באיו מידה חשוב לך לחנך את ילדיך חינוך פוליטי?",
+        "questionHebrewDescription": "באיו מידה חשוב לך לחנך את ילדיך חינוך פוליטי?",
+        "questionSurveyId": "c43",
+        "type": "category",
+        "englishDescription": "to what extent is it important to you to give your children a political educatio"
+    },
+    {
+        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "questionSurveyId": "c32",
+        "type": "category",
+        "englishDescription": "do you think the party in government has to be substisuted even if it is doing w"
+    },
+    {
+        "id": "70. יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
+        "questionHebrewDescription": "יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
+        "questionSurveyId": "c28",
+        "type": "category",
+        "englishDescription": "do you think politicians take advantage of the public through elections for thei"
+    },
+    {
+        "id": "71. האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
+        "questionHebrewDescription": "האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
+        "questionSurveyId": "c29",
+        "type": "category",
+        "englishDescription": "do you think the opposition serves the country as much as parties in government"
+    },
+    {
+        "id": "72. האם היית אומר שיום הבחירות הוא יום חג למדינה ולעם?",
+        "questionHebrewDescription": "האם היית אומר שיום הבחירות הוא יום חג למדינה ולעם?",
+        "questionSurveyId": "c33",
+        "type": "category",
+        "englishDescription": "would you say that election day is a holiday for the country and for the people"
+    },
+    {
+        "id": "73. האם חשוב שכל אחד ישתתף בבחירות?",
+        "questionHebrewDescription": "האם חשוב שכל אחד ישתתף בבחירות?",
+        "questionSurveyId": "c34",
+        "type": "category",
+        "englishDescription": "is it important that everybody participates in the elections for the knesset"
+    },
+    {
+        "id": "74. הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. יש טוענים שהדבר פוגע בליכוד העם ועל כן מוטב שתהיה מפלגה אחת ויש הטוענים שהדבר אינו פוגע בליכוד העם ועל כן מוטב שתהיינה מספר מפלגות. מה דעתך?",
+        "questionHebrewDescription": "הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. יש טוענים שהדבר פוגע בליכוד העם ועל כן מוטב שתהיה מפלגה אחת ויש הטוענים שהדבר אינו פוגע בליכוד העם ועל כן מוטב שתהיינה מספר מפלגות. מה דעתך?",
+        "questionSurveyId": "d20",
+        "type": "category",
+        "englishDescription": "do you think voting for different parties prevents unity so there should be only"
+    },
+    {
+        "id": "76. באיזו מידה השתתפות בבחירות מאפשרת לך למלא את חובתך למדינה?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך למלא את חובתך למדינה?",
+        "questionSurveyId": "d29",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections allows you to fulfill obligat"
+    },
+    {
+        "id": "77. באיזו מידה השתתפות בבחירות מאפשרת לך להביע מחאה נגד השלטון?",
+        "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך להביע מחאה נגד השלטון?",
+        "questionSurveyId": "d30",
+        "type": "category",
+        "englishDescription": "to what extent does participation in the elections give you the opportunity to p"
+    },
+    {
+        "id": "80. יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
+        "questionHebrewDescription": "יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
+        "questionSurveyId": "c30",
+        "type": "category",
+        "englishDescription": "some people want to influence government policy and some don't. how about you?"
+    },
+    {
+        "id": "81. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "questionHebrewDescription": "באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "questionSurveyId": "d7",
+        "type": "category",
+        "englishDescription": "to what extent do you think the elections have an influence on government's poli"
+    },
+    {
+        "id": "20. האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionHebrewDescription": "האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionSurveyId": "c16",
+        "type": "category",
+        "englishDescription": "have you seen party advertisements on television"
+    },
+    {
+        "id": "21. אם כן, של איזו מפלגה בעיקר?",
+        "questionHebrewDescription": "אם כן, של איזו מפלגה בעיקר?",
+        "questionSurveyId": "c17",
+        "type": "category",
+        "englishDescription": "if yes, which party's advertisements have you mainly seen"
+    },
+    {
+        "id": "56. האם אתה קורא בדר\"כ מודעות בחירות של המפלגות השונות?",
+        "questionHebrewDescription": "האם אתה קורא בדר\"כ מודעות בחירות של המפלגות השונות?",
+        "questionSurveyId": "c10",
+        "type": "category",
+        "englishDescription": "do you read party advertisements in the newspapers"
+    },
+    {
+        "id": "59. האם אתה בדר\"כ בתקופת הבחירות קורא יותר על עניינים פוליטיים?",
+        "questionHebrewDescription": "האם אתה בדר\"כ בתקופת הבחירות קורא יותר על עניינים פוליטיים?",
+        "questionSurveyId": "c8",
+        "type": "category",
+        "englishDescription": "during elections do you read more about politics than usually"
+    },
+    {
+        "id": "62. האם שמעת ברדיו שידורי תעמולת בחירות של המפלגות?",
+        "questionHebrewDescription": "האם שמעת ברדיו שידורי תעמולת בחירות של המפלגות?",
+        "questionSurveyId": "c13",
+        "type": "category",
+        "englishDescription": "have you heard party advertisements on the radio"
+    },
+    {
+        "id": "63. אם כן, של איזו מפלגות בעיקר שמעת?",
+        "questionHebrewDescription": "אם כן, של איזו מפלגות בעיקר שמעת?",
+        "questionSurveyId": "c14",
+        "type": "category",
+        "englishDescription": "if yes, which party's advertisements have you mainly heard"
+    },
+    {
+        "id": "64. לקראת הבחירות לכנסת יהיו שידורים בטלוויזיה מטעם המפלגות. מי הוא המנהיג שהיית רוצה לראות ביותר בשידורים האלו?",
+        "questionHebrewDescription": "לקראת הבחירות לכנסת יהיו שידורים בטלוויזיה מטעם המפלגות. מי הוא המנהיג שהיית רוצה לראות ביותר בשידורים האלו?",
+        "questionSurveyId": "c19",
+        "type": "category",
+        "englishDescription": "who are the leaders you'd like to see most on television (first priority)"
+    },
+    {
+        "id": "65. ומי השני?",
+        "questionHebrewDescription": "ומי השני?",
+        "questionSurveyId": "c20",
+        "type": "category",
+        "englishDescription": "who are the leaders you'd like to see most on television (second priority)"
+    },
+    {
+        "id": "66. יש כאלה הרוצים לראות את המנהיג בפעילותו הפוליטית וציבורית ויש כאלה המעדיפים לראותו בשידור הטלוויזיה כאדם פרטי בחייו היום-יומיים. איך היית רוצה לראות את המנהיג שציינת ראשון ?",
+        "questionHebrewDescription": "יש כאלה הרוצים לראות את המנהיג בפעילותו הפוליטית וציבורית ויש כאלה המעדיפים לראותו בשידור הטלוויזיה כאדם פרטי בחייו היום-יומיים. איך היית רוצה לראות את המנהיג שציינת ראשון ?",
+        "questionSurveyId": "c21",
+        "type": "category",
+        "englishDescription": "how would you like to see your first priority on television advertisements"
+    },
+    {
+        "id": "67. יש כאלה הרוצים לראות את המנהיג בפעילותו הפוליטית וציבורית ויש כאלה המעדיפים לראותו בשידור הטלוויזיה כאדם פרטי בחייו היום-יומיים. איך היית רוצה לראות את המנהיג שציינת שני ?",
+        "questionHebrewDescription": "יש כאלה הרוצים לראות את המנהיג בפעילותו הפוליטית וציבורית ויש כאלה המעדיפים לראותו בשידור הטלוויזיה כאדם פרטי בחייו היום-יומיים. איך היית רוצה לראות את המנהיג שציינת שני ?",
+        "questionSurveyId": "c22",
+        "type": "category",
+        "englishDescription": "how would you like to see your second priority on television advertisements"
+    },
+    {
+        "id": "69. האם אתה קורא את מדור הבחירות בעיתונים?",
+        "questionHebrewDescription": "האם אתה קורא את מדור הבחירות בעיתונים?",
+        "questionSurveyId": "c11",
+        "type": "category",
+        "englishDescription": "do you read the elections column in the newspapers"
+    },
+    {
+        "id": "4. באיזו מידה אתה מסכים או אינך מסכים עם המשפט הבא: היו גילויים של בזבוז במשק ושחיתות. אין להמנע ממקרים כאלה כי בכל חברה קיימים גילויי שחיתות ואנחנו איננו מקרה יוצא דופן",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או אינך מסכים עם המשפט הבא: היו גילויים של בזבוז במשק ושחיתות. אין להמנע ממקרים כאלה כי בכל חברה קיימים גילויי שחיתות ואנחנו איננו מקרה יוצא דופן",
+        "questionSurveyId": "c65",
+        "type": "category",
+        "englishDescription": "corruption and waste were brought into the open. we cannot avoid such incidents"
+    },
+    {
+        "id": "5. מפלגות האופוזיציה מוחות נגד מפלגת השלטון על השחיתות במשק. האם אתה חושב ש:",
+        "questionHebrewDescription": "מפלגות האופוזיציה מוחות נגד מפלגת השלטון על השחיתות במשק. האם אתה חושב ש:",
+        "questionSurveyId": "c66",
+        "type": "category",
+        "englishDescription": "opposition parties attack the government on the corruption issue-do you think"
+    },
+    {
+        "id": "6. איזו מפלגה משקפת ביותר את עמדתך בנושא השחיתות במשק?",
+        "questionHebrewDescription": "איזו מפלגה משקפת ביותר את עמדתך בנושא השחיתות במשק?",
+        "questionSurveyId": "d4",
+        "type": "category",
+        "englishDescription": "whose party's stand on this issue do you identify with"
+    },
+    {
+        "id": "7. נניח שהליכוד יעלה לשלטון. האם בקשר לשחיתות והבזבוז, זה יביא לשינוי לטובה או לרעה?",
+        "questionHebrewDescription": "נניח שהליכוד יעלה לשלטון. האם בקשר לשחיתות והבזבוז, זה יביא לשינוי לטובה או לרעה?",
+        "questionSurveyId": "d41",
+        "type": "category",
+        "englishDescription": "would this rising change waste and corruption for better or for worse"
+    }
+]

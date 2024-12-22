@@ -1,0 +1,436 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identity number"
+    },
+    {
+        "id": "2. תאריך",
+        "questionHebrewDescription": "תאריך",
+        "questionSurveyId": "h66",
+        "type": "demography",
+        "englishDescription": "date of interview"
+    },
+    {
+        "id": "4. מקום הראיון",
+        "questionHebrewDescription": "מקום הראיון",
+        "questionSurveyId": "h65",
+        "type": "demography",
+        "englishDescription": "place of interview"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "h60",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "h57",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "h59",
+        "type": "demography",
+        "englishDescription": "years of schooling"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "h64",
+        "type": "demography",
+        "englishDescription": "place of birth/father's place of birth"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "h62",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "46. תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionHebrewDescription": "תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionSurveyId": "h63",
+        "type": "demography",
+        "englishDescription": "occupation"
+    },
+    {
+        "id": "59. מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionHebrewDescription": "מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionSurveyId": "h61",
+        "type": "demography",
+        "englishDescription": "total gross monthly income for entire household"
+    },
+    {
+        "id": "91. האם אתה מאמין למה שהמפלגות אומרות במערכת הבחירות?",
+        "questionHebrewDescription": "האם אתה מאמין למה שהמפלגות אומרות במערכת הבחירות?",
+        "questionSurveyId": "h48",
+        "type": "category",
+        "englishDescription": "interviewee believes what the parties say during the election campaign"
+    },
+    {
+        "id": "92. האם שירתת במילואים, בזמן או בעקבות מלחמת יום כיפור?",
+        "questionHebrewDescription": "האם שירתת במילואים, בזמן או בעקבות מלחמת יום כיפור?",
+        "questionSurveyId": "h58",
+        "type": "category",
+        "englishDescription": "interviewee was in reserves during or because of yom kippur war"
+    },
+    {
+        "id": "142. לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? גולדה מאיר",
+        "questionHebrewDescription": "לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? גולדה מאיר",
+        "questionSurveyId": "h20",
+        "type": "category",
+        "englishDescription": "golda meir"
+    },
+    {
+        "id": "143. לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? מנחם בגין",
+        "questionHebrewDescription": "לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? מנחם בגין",
+        "questionSurveyId": "h21",
+        "type": "category",
+        "englishDescription": "menachem begin"
+    },
+    {
+        "id": "144. לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? משה דיין",
+        "questionHebrewDescription": "לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? משה דיין",
+        "questionSurveyId": "h22",
+        "type": "category",
+        "englishDescription": "moshe dayan"
+    },
+    {
+        "id": "145. לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? פנחס ספיר",
+        "questionHebrewDescription": "לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? פנחס ספיר",
+        "questionSurveyId": "h23",
+        "type": "category",
+        "englishDescription": "pinchas sapir"
+    },
+    {
+        "id": "146. לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? אריק שרון",
+        "questionHebrewDescription": "לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? אריק שרון",
+        "questionSurveyId": "h24",
+        "type": "category",
+        "englishDescription": "arik sharon"
+    },
+    {
+        "id": "147. לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? יגאל אלון",
+        "questionHebrewDescription": "לפניך רשימה של מנהיגים. מה יחסך אל כל אחד מהם, והאם יחס זה היה גורם חשוב מאד בהצבעתך? יגאל אלון",
+        "questionSurveyId": "h25",
+        "type": "category",
+        "englishDescription": "yigal allon"
+    },
+    {
+        "id": "126. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: ידע לעמוד בתוקף במו\"מ על שטחים ושלום",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: ידע לעמוד בתוקף במו\"מ על שטחים ושלום",
+        "questionSurveyId": "h7",
+        "type": "category",
+        "englishDescription": "the likud will know how to take a firm stand at the geneva conference"
+    },
+    {
+        "id": "130. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: אי אפשר להאמין למנהיגי המערך ולכן יש לתמוך בליכוד",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: אי אפשר להאמין למנהיגי המערך ולכן יש לתמוך בליכוד",
+        "questionSurveyId": "h5",
+        "type": "category",
+        "englishDescription": "alignment leaders are not trustworthy"
+    },
+    {
+        "id": "133. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: למערך ולדיין אין מדיניות ברורה בענייני חוץ ובטחון ולכן יש לתמוך בליכוד",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: למערך ולדיין אין מדיניות ברורה בענייני חוץ ובטחון ולכן יש לתמוך בליכוד",
+        "questionSurveyId": "h8",
+        "type": "category",
+        "englishDescription": "the alignment does not have a clear foreign and security policy"
+    },
+    {
+        "id": "142. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: המערך נכשל בתחום החברה והכלכלה",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: המערך נכשל בתחום החברה והכלכלה",
+        "questionSurveyId": "h3",
+        "type": "category",
+        "englishDescription": "the alignment failed in social and economic issues"
+    },
+    {
+        "id": "143. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: הליכוד לא יוותר על שטחים",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: הליכוד לא יוותר על שטחים",
+        "questionSurveyId": "h4",
+        "type": "category",
+        "englishDescription": "the likud will not give up territories"
+    },
+    {
+        "id": "144. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: המערך אחראי למחדלי המלחמה",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: המערך אחראי למחדלי המלחמה",
+        "questionSurveyId": "h6",
+        "type": "category",
+        "englishDescription": "the alignment is responsible for the setbacks of the war"
+    },
+    {
+        "id": "145. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: הליכוד מציע מנהיגים טובים",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: הליכוד מציע מנהיגים טובים",
+        "questionSurveyId": "h9",
+        "type": "category",
+        "englishDescription": "the likud has better leaders to offer"
+    },
+    {
+        "id": "146. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: הליכוד הציע הקמת ממשלת ליכוד לאומית",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה בליכוד: הליכוד הציע הקמת ממשלת ליכוד לאומית",
+        "questionSurveyId": "h10",
+        "type": "category",
+        "englishDescription": "the likud proposes a national unity government"
+    },
+    {
+        "id": "154. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך בעל נסיון בשלטון",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך בעל נסיון בשלטון",
+        "questionSurveyId": "h12",
+        "type": "category",
+        "englishDescription": "the alignment has experience in government"
+    },
+    {
+        "id": "156. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: מדיניות המערך תגביר את סיכויי השלום",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: מדיניות המערך תגביר את סיכויי השלום",
+        "questionSurveyId": "h14",
+        "type": "category",
+        "englishDescription": "the alignment might succeed in bringing peace"
+    },
+    {
+        "id": "157. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך יוכל לטפל טוב יותר בבעיות משק וחברה",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך יוכל לטפל טוב יותר בבעיות משק וחברה",
+        "questionSurveyId": "h16",
+        "type": "category",
+        "englishDescription": "the alignment can take care of socio-economic problems"
+    },
+    {
+        "id": "159. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך הוא הרע במיעוטו",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך הוא הרע במיעוטו",
+        "questionSurveyId": "h13",
+        "type": "category",
+        "englishDescription": "the alignment is the least of all evils"
+    },
+    {
+        "id": "167. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: פחד מפני קיצוניות הליכוד",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: פחד מפני קיצוניות הליכוד",
+        "questionSurveyId": "h15",
+        "type": "category",
+        "englishDescription": "apprehension about the likud's extremism"
+    },
+    {
+        "id": "172. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך מציע מנהיגים טובים",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: המערך מציע מנהיגים טובים",
+        "questionSurveyId": "h17",
+        "type": "category",
+        "englishDescription": "the alignment proposes good leaders"
+    },
+    {
+        "id": "173. לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: חשש מפני זעזועים במדינה",
+        "questionHebrewDescription": "לפניך רשימה של נימוקים. באיזו מידה משכנע כל אחד מהנימוקים אלה כדי לתמוך הצבעה במערך: חשש מפני זעזועים במדינה",
+        "questionSurveyId": "h18",
+        "type": "category",
+        "englishDescription": "fear of sudden changes in the country"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "h53",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in the 1969 knesset elections"
+    },
+    {
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "h54",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in last elections"
+    },
+    {
+        "id": "43. מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionHebrewDescription": "מתי קיבלת את החלטתך הסופית (להצביע עבור המפלגה שהצביע)",
+        "questionSurveyId": "h29",
+        "type": "category",
+        "englishDescription": "when interviewee decided whom to vote for"
+    },
+    {
+        "id": "46. באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "questionHebrewDescription": "באיזו מידה הסקרים שהתפרסמו כמה ימים לפני הבחירות היוו גורם בהחלטה שלך כיצד להצביע?",
+        "questionSurveyId": "h51",
+        "type": "category",
+        "englishDescription": "to what extent those polls helped interviewee decide whom to vote for"
+    },
+    {
+        "id": "48. באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionSurveyId": "h42",
+        "type": "category",
+        "englishDescription": "to what extent television advertisements helped interviewee decide whom to vote"
+    },
+    {
+        "id": "49. באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionSurveyId": "h40",
+        "type": "category",
+        "englishDescription": "to what extent party advertisements helped interviewee decide whom to vote for"
+    },
+    {
+        "id": "51. באיזו מידה אתה חושב שהשידורים ברדיו יעזרו לך או לא להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שהשידורים ברדיו יעזרו לך או לא להחליט בעד מי להצביע?",
+        "questionSurveyId": "h41",
+        "type": "category",
+        "englishDescription": "to what extent radio advertisements helped interviewee decide whom to vote for"
+    },
+    {
+        "id": "52. באיזו מידה שיחות עם אנשים אחרים עזרו לך להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה שיחות עם אנשים אחרים עזרו לך להחליט בעד מי להצביע?",
+        "questionSurveyId": "h43",
+        "type": "category",
+        "englishDescription": "to what extent talking to other people helped interviewee decide whom to vote fo"
+    },
+    {
+        "id": "70. באיזו מידה לדעתך מערכת הבחירות תעזור לך להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה לדעתך מערכת הבחירות תעזור לך להחליט בעד מי להצביע?",
+        "questionSurveyId": "h39",
+        "type": "category",
+        "englishDescription": "to what extent the election campaign helped interviewee decide whom to vote for"
+    },
+    {
+        "id": "160. באיזו מידה אתה בטוח שבעתיד תמשיך לתמוך באותה מפלגה בה תמכת הפעם בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה בטוח שבעתיד תמשיך לתמוך באותה מפלגה בה תמכת הפעם בבחירות לכנסת?",
+        "questionSurveyId": "h28",
+        "type": "category",
+        "englishDescription": "to what extent interviewee is certain in the future he will continue to support"
+    },
+    {
+        "id": "166. האם הצבעת הפעם בעד אותה המפלגה עבורה הצבעת בבחירות לכנסת ב-1969?",
+        "questionHebrewDescription": "האם הצבעת הפעם בעד אותה המפלגה עבורה הצבעת בבחירות לכנסת ב-1969?",
+        "questionSurveyId": "h26",
+        "type": "category",
+        "englishDescription": "interviewee voted now for the same party he voted for in 1969"
+    },
+    {
+        "id": "167. האם שינית את החלטתך בעד איזו מפלגה להצביע בעקבות מלחמת יום כיפור?",
+        "questionHebrewDescription": "האם שינית את החלטתך בעד איזו מפלגה להצביע בעקבות מלחמת יום כיפור?",
+        "questionSurveyId": "h27",
+        "type": "category",
+        "englishDescription": "interviewee changed his mind about which party to vote for because of the yom ki"
+    },
+    {
+        "id": "168. באיזו מידה היה לך קשה להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה היה לך קשה להחליט בעד מי להצביע?",
+        "questionSurveyId": "h30",
+        "type": "category",
+        "englishDescription": "to what extent deciding whom to vote for was difficult"
+    },
+    {
+        "id": "169. באיזו מידה לדעתך זו חובה להשתתף בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה לדעתך זו חובה להשתתף בבחירות לכנסת?",
+        "questionSurveyId": "h31",
+        "type": "category",
+        "englishDescription": "to what extent it is a duty to participate in the knesset elections"
+    },
+    {
+        "id": "170. ביום הבחירות הולכים רוב האנשים להצביע בקלפי. שהם נשאלים מהי הסיבה לכך שהם משתתפים בבחירות משיבים אנשים שונים תשובות שונות. אנא ציין איזו סיבה מבין אלה ניראת לך כסיבה העיקרית שבגללה אתה הולך להצביע?",
+        "questionHebrewDescription": "ביום הבחירות הולכים רוב האנשים להצביע בקלפי. שהם נשאלים מהי הסיבה לכך שהם משתתפים בבחירות משיבים אנשים שונים תשובות שונות. אנא ציין איזו סיבה מבין אלה ניראת לך כסיבה העיקרית שבגללה אתה הולך להצביע?",
+        "questionSurveyId": "h32",
+        "type": "category",
+        "englishDescription": "main reason why interviewee votes"
+    },
+    {
+        "id": "176. האם הצבעת לעירייה בעד אותה רשימה עבורה הצבעת לכנסת?",
+        "questionHebrewDescription": "האם הצבעת לעירייה בעד אותה רשימה עבורה הצבעת לכנסת?",
+        "questionSurveyId": "h55",
+        "type": "category",
+        "englishDescription": "interviewee voted for same party in municipal and knesset elections"
+    },
+    {
+        "id": "177. לאחר שפורסמו תוצאות הבחירות, אילו היו נערכות שוב בחירות, עבור מי היית מצביע?",
+        "questionHebrewDescription": "לאחר שפורסמו תוצאות הבחירות, אילו היו נערכות שוב בחירות, עבור מי היית מצביע?",
+        "questionSurveyId": "h56",
+        "type": "category",
+        "englishDescription": "following election results, party interviewee would vote for if elections were h"
+    },
+    {
+        "id": "67. אם ההרכב הקואליציוני של הממשלה יהיה דומה לזה של הממשלה היוצאת, האם צריך לחול שינוי בהרכב האישי של חברי הממשלה מטעם המערך?",
+        "questionHebrewDescription": "אם ההרכב הקואליציוני של הממשלה יהיה דומה לזה של הממשלה היוצאת, האם צריך לחול שינוי בהרכב האישי של חברי הממשלה מטעם המערך?",
+        "questionSurveyId": "h38",
+        "type": "category",
+        "englishDescription": "there should be a change in alignment members forming the cabinet if the coaliti"
+    },
+    {
+        "id": "3. לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionHebrewDescription": "לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "h52",
+        "type": "category",
+        "englishDescription": "party position interviewee identifies with on foreign and security affairs"
+    },
+    {
+        "id": "111. אם הממשלה תתמוך בהסדר שלום הכרוך בויתור על רוב השטחים, והאופוזיציה תתנגד, מה תהיה עמדתך?",
+        "questionHebrewDescription": "אם הממשלה תתמוך בהסדר שלום הכרוך בויתור על רוב השטחים, והאופוזיציה תתנגד, מה תהיה עמדתך?",
+        "questionSurveyId": "h33",
+        "type": "category",
+        "englishDescription": "interviewee's position if the government supports a peace agreement that include"
+    },
+    {
+        "id": "112. אם תעלה הצעה להסדר שלום הכרוכה בויתור על רוב השטחים, והממשלה תתנגד לכך, מה תהיה עמדתך?",
+        "questionHebrewDescription": "אם תעלה הצעה להסדר שלום הכרוכה בויתור על רוב השטחים, והממשלה תתנגד לכך, מה תהיה עמדתך?",
+        "questionSurveyId": "h34",
+        "type": "category",
+        "englishDescription": "interviewee's postion if the government is against such an agreement"
+    },
+    {
+        "id": "113. האם תתמוך בהסדר שלום הכרוך בוויתור על רוב השטחים?",
+        "questionHebrewDescription": "האם תתמוך בהסדר שלום הכרוך בוויתור על רוב השטחים?",
+        "questionSurveyId": "h35",
+        "type": "category",
+        "englishDescription": "interviewee would support a peace agreement that involves giving back most of th"
+    },
+    {
+        "id": "114. האם תתמוך בהחזרת רוב השטחים, גם אם דבר זה ימנע סיכוי להסדר שלום?",
+        "questionHebrewDescription": "האם תתמוך בהחזרת רוב השטחים, גם אם דבר זה ימנע סיכוי להסדר שלום?",
+        "questionSurveyId": "h36",
+        "type": "category",
+        "englishDescription": "interviewee would support holding on to most of the territories even if it elimi"
+    },
+    {
+        "id": "115. באיזו מידה אתה מאמין שהסדר שלום עם הערבים אפשרי תוך השנים הקרובות?",
+        "questionHebrewDescription": "באיזו מידה אתה מאמין שהסדר שלום עם הערבים אפשרי תוך השנים הקרובות?",
+        "questionSurveyId": "h37",
+        "type": "category",
+        "englishDescription": "to what extent interviewee believes a peace agreement with the arabs is possible"
+    },
+    {
+        "id": "39. האם אתה עוקב אחרי הסקרים המתפרסמים לגבי הבחירות?",
+        "questionHebrewDescription": "האם אתה עוקב אחרי הסקרים המתפרסמים לגבי הבחירות?",
+        "questionSurveyId": "h50",
+        "type": "category",
+        "englishDescription": "to what extent interviewee read public opinion polls before the elections"
+    },
+    {
+        "id": "52. לפניך כרטיס ובו סיבות שונות שצויינו ע\"י אנשים שנשאלו מדוע הם מסתכלים בשידורי בחירות בטלוויזיה, אנא ציין איזו מבין סיבות אלה נראת לך כעיקרית?",
+        "questionHebrewDescription": "לפניך כרטיס ובו סיבות שונות שצויינו ע\"י אנשים שנשאלו מדוע הם מסתכלים בשידורי בחירות בטלוויזיה, אנא ציין איזו מבין סיבות אלה נראת לך כעיקרית?",
+        "questionSurveyId": "h44",
+        "type": "category",
+        "englishDescription": "main reason for watching television advertisements"
+    },
+    {
+        "id": "53. ובכרטיס זה שורת סיבות בגללן אנשים אינם מסתכלים בשידורי הבחירות בטלוויזיה, אנא ציין איזו נראת לך כסיבה העיקרית לאי הסתכלות בטלוויזיה?",
+        "questionHebrewDescription": "ובכרטיס זה שורת סיבות בגללן אנשים אינם מסתכלים בשידורי הבחירות בטלוויזיה, אנא ציין איזו נראת לך כסיבה העיקרית לאי הסתכלות בטלוויזיה?",
+        "questionSurveyId": "h45",
+        "type": "category",
+        "englishDescription": "main reason for not watching television advertisements"
+    },
+    {
+        "id": "57. האם לדעתך מטפלות המפלגות בתעמולת הבחירות שלהן בבעיות החשובות ביותר במדינה?",
+        "questionHebrewDescription": "האם לדעתך מטפלות המפלגות בתעמולת הבחירות שלהן בבעיות החשובות ביותר במדינה?",
+        "questionSurveyId": "h47",
+        "type": "category",
+        "englishDescription": "in their campaigns, the parties deal with the most important problems of the nat"
+    },
+    {
+        "id": "58. האם הייתה דרושה תעמולת בחירות לפני הבחירות?",
+        "questionHebrewDescription": "האם הייתה דרושה תעמולת בחירות לפני הבחירות?",
+        "questionSurveyId": "h49",
+        "type": "category",
+        "englishDescription": "the campaign was necessary before the elections"
+    }
+]

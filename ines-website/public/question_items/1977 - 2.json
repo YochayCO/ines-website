@@ -1,0 +1,163 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identity number"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "a17",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "a12",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "a13",
+        "type": "demography",
+        "englishDescription": "education"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "a22",
+        "type": "demography",
+        "englishDescription": "place of birth of interviewee/interviewee's father"
+    },
+    {
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "a23",
+        "type": "demography",
+        "englishDescription": "year of aliyah (immigration)"
+    },
+    {
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "a14",
+        "type": "demography",
+        "englishDescription": "number of rooms in dwelling"
+    },
+    {
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "a15",
+        "type": "demography",
+        "englishDescription": "number of persons in household"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "a19",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "41. מהו מצבך התעסוקתי?",
+        "questionHebrewDescription": "מהו מצבך התעסוקתי?",
+        "questionSurveyId": "a20",
+        "type": "demography",
+        "englishDescription": "interviewee works"
+    },
+    {
+        "id": "42. מהו המצב התעסוקתי של בן/בת זוגך?",
+        "questionHebrewDescription": "מהו המצב התעסוקתי של בן/בת זוגך?",
+        "questionSurveyId": "a21",
+        "type": "demography",
+        "englishDescription": "spouse works"
+    },
+    {
+        "id": "57. מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionHebrewDescription": "מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionSurveyId": "a18",
+        "type": "demography",
+        "englishDescription": "gross monthly income of entire household"
+    },
+    {
+        "id": "59. מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionHebrewDescription": "מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionSurveyId": "a16",
+        "type": "demography",
+        "englishDescription": "interviewee's gross monthly income"
+    },
+    {
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "a2",
+        "type": "category",
+        "englishDescription": "most important problem government should take care of"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "a9",
+        "type": "category",
+        "englishDescription": "party interviewee would vote for if elections held today"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "a8",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in the 1973 knesset elections"
+    },
+    {
+        "id": "33. בין מי למי אתה מתלבט?",
+        "questionHebrewDescription": "בין מי למי אתה מתלבט?",
+        "questionSurveyId": "a10",
+        "type": "category",
+        "englishDescription": "interviewee has decided which party to vote for or is still debating between par"
+    },
+    {
+        "id": "34. האם בגלל פרישתו של רבין וקבלת המועמדות לראשות הממשלה של פרס אתה מתלבט כיום יותר או פחות בעד איזו מפלגה להצביע?",
+        "questionHebrewDescription": "האם בגלל פרישתו של רבין וקבלת המועמדות לראשות הממשלה של פרס אתה מתלבט כיום יותר או פחות בעד איזו מפלגה להצביע?",
+        "questionSurveyId": "a11",
+        "type": "category",
+        "englishDescription": "rabin stepping down and peres becoming alignment's pm candidate has made intervi"
+    },
+    {
+        "id": "49. באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionSurveyId": "a7",
+        "type": "category",
+        "englishDescription": "to what extent those advertisements are an important factor in interviewee's dec"
+    },
+    {
+        "id": "2. לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: כלכלה",
+        "questionHebrewDescription": "לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: כלכלה",
+        "questionSurveyId": "a5",
+        "type": "category",
+        "englishDescription": "party position interviewee is closer to on economic and social issues"
+    },
+    {
+        "id": "96. יש גישות שונות לטיפול במצב הכלכלי. יש הטוענים שחשוב יותר למנוע אבטלה אפילו אם היא מלווה באינפלציה, ויש כאלה שחושבים שעדיף להפסיק את האינפלציה אפילו אם יהיה אבטלה. מה דעתך?",
+        "questionHebrewDescription": "יש גישות שונות לטיפול במצב הכלכלי. יש הטוענים שחשוב יותר למנוע אבטלה אפילו אם היא מלווה באינפלציה, ויש כאלה שחושבים שעדיף להפסיק את האינפלציה אפילו אם יהיה אבטלה. מה דעתך?",
+        "questionSurveyId": "a3",
+        "type": "category",
+        "englishDescription": "preferable to prevent unemployment or to stop inflation, even if the prevention"
+    },
+    {
+        "id": "97. כידוע לך בעיות הכלכלה העומדות בפני המדינה הינן בעיות קשות מאוד. באיזו מידה לדעתך מתאימים השרים המופקדים על ענייני הכלכלה לטיפול בבעיות אלה?",
+        "questionHebrewDescription": "כידוע לך בעיות הכלכלה העומדות בפני המדינה הינן בעיות קשות מאוד. באיזו מידה לדעתך מתאימים השרים המופקדים על ענייני הכלכלה לטיפול בבעיות אלה?",
+        "questionSurveyId": "a4",
+        "type": "category",
+        "englishDescription": "to what extent ministers in charge of economic affairs are suitable for taking c"
+    },
+    {
+        "id": "56. האם אתה קורא בדר\"כ מודעות בחירות של המפלגות השונות?",
+        "questionHebrewDescription": "האם אתה קורא בדר\"כ מודעות בחירות של המפלגות השונות?",
+        "questionSurveyId": "a6",
+        "type": "category",
+        "englishDescription": "interviewee usually reads the different parties' campaign advertisements"
+    }
+]

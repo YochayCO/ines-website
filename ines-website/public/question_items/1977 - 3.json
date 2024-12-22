@@ -1,0 +1,163 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identification number"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "b17",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "b12",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "b13",
+        "type": "demography",
+        "englishDescription": "education"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "b22",
+        "type": "demography",
+        "englishDescription": "place of birth of interviewee/interviewee's father"
+    },
+    {
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "b23",
+        "type": "demography",
+        "englishDescription": "year of aliyah (immigration)"
+    },
+    {
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "b14",
+        "type": "demography",
+        "englishDescription": "number of rooms in dwelling"
+    },
+    {
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "b15",
+        "type": "demography",
+        "englishDescription": "number of persons in household"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "b19",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "41. מהו מצבך התעסוקתי?",
+        "questionHebrewDescription": "מהו מצבך התעסוקתי?",
+        "questionSurveyId": "b20",
+        "type": "demography",
+        "englishDescription": "interviewee works"
+    },
+    {
+        "id": "42. מהו המצב התעסוקתי של בן/בת זוגך?",
+        "questionHebrewDescription": "מהו המצב התעסוקתי של בן/בת זוגך?",
+        "questionSurveyId": "b21",
+        "type": "demography",
+        "englishDescription": "spouse works"
+    },
+    {
+        "id": "57. מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionHebrewDescription": "מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionSurveyId": "b18",
+        "type": "demography",
+        "englishDescription": "gross monthly income of entire household"
+    },
+    {
+        "id": "59. מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionHebrewDescription": "מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionSurveyId": "b16",
+        "type": "demography",
+        "englishDescription": "interviewee's gross monthly income"
+    },
+    {
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "b2",
+        "type": "category",
+        "englishDescription": "the most important problem the government has to take care of"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "b10",
+        "type": "category",
+        "englishDescription": "party interviewee would vote for if elections held today"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "b9",
+        "type": "category",
+        "englishDescription": "which party did you vote in the 1973 knesset elections?"
+    },
+    {
+        "id": "33. בין מי למי אתה מתלבט?",
+        "questionHebrewDescription": "בין מי למי אתה מתלבט?",
+        "questionSurveyId": "b11",
+        "type": "category",
+        "englishDescription": "interviewee has decided which party to vote for or is still debating between par"
+    },
+    {
+        "id": "7. איזו מפלגה היית רוצה שתקים את ההממשלה הבאה?",
+        "questionHebrewDescription": "איזו מפלגה היית רוצה שתקים את ההממשלה הבאה?",
+        "questionSurveyId": "b7",
+        "type": "category",
+        "englishDescription": "party interviewee would like to see form the next government"
+    },
+    {
+        "id": "9. איזו מפלגה אתה מעריך שתקים את הממשלה לאחר הבחירות?",
+        "questionHebrewDescription": "איזו מפלגה אתה מעריך שתקים את הממשלה לאחר הבחירות?",
+        "questionSurveyId": "b6",
+        "type": "category",
+        "englishDescription": "party interviewee thinks will form the next government"
+    },
+    {
+        "id": "50. בסיכומו של דבר, מבין הקואליציות האלה, איזו קואליציה אתה מעדיף?",
+        "questionHebrewDescription": "בסיכומו של דבר, מבין הקואליציות האלה, איזו קואליציה אתה מעדיף?",
+        "questionSurveyId": "b8",
+        "type": "category",
+        "englishDescription": "assuming that it will be necessary to form a coalition govt. parties interviewee"
+    },
+    {
+        "id": "61. את מי מבין האישים הבאים היית רוצה לראות כראש ממשלה לאחר הבחירות לכנסת?",
+        "questionHebrewDescription": "את מי מבין האישים הבאים היית רוצה לראות כראש ממשלה לאחר הבחירות לכנסת?",
+        "questionSurveyId": "b5",
+        "type": "category",
+        "englishDescription": "interviewee's preference for prime minister after coming elections"
+    },
+    {
+        "id": "110. יש שטוענים שאם הסכם שלום יהיה גרוך בוויתורים טריטוריאליים ביו\"ש צריך לקיים בחירות חדשות לפני ביצוע ההסכם. לעותם יש שטוענים שהממשלה מוסמכת להחליט גם בנושא זה מבלי לקיים בחירות חדשות. מה דעתך?",
+        "questionHebrewDescription": "יש שטוענים שאם הסכם שלום יהיה גרוך בוויתורים טריטוריאליים ביו\"ש צריך לקיים בחירות חדשות לפני ביצוע ההסכם. לעותם יש שטוענים שהממשלה מוסמכת להחליט גם בנושא זה מבלי לקיים בחירות חדשות. מה דעתך?",
+        "questionSurveyId": "b3",
+        "type": "category",
+        "englishDescription": "before peace agreemt. giving back territory in west bank issigned, elections sho"
+    },
+    {
+        "id": "20. האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionHebrewDescription": "האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionSurveyId": "b4",
+        "type": "category",
+        "englishDescription": "interviewee watches parties' advertisements on television"
+    }
+]
