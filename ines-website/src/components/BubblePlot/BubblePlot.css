@@ -16,5 +16,10 @@ text:has(> tspan.axis-legend), .axis-legend {
 .tooltip {
     background-color: white;
     border: solid 1px gray;
-    padding: 0 15px;
+    padding: 8px 16px;
+    border-radius: 12px;
+}
+
+.tick-text {
+    font-size: 12px;
 }

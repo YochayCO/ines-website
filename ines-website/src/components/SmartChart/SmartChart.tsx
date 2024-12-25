@@ -45,7 +45,9 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     )
 
     const effectiveResponsesIndicator = (
-        <div className='responses-sum'>{effectiveResponses}</div>
+        <div className='responses-sum-container'>
+            Effective N:<div className='responses-sum'>{effectiveResponses}</div>
+        </div>
     )
 
     let smartPlot: ReactNode

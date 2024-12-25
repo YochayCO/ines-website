@@ -28,6 +28,16 @@ export function getAnswerFromLabel(graphData: BubbleGraphSerie[], label: string)
   return ans
 }
 
+export function getXLabel(graphData: BubbleGraphSerie[], index: number): string | undefined {
+  const answers = graphData[0].data.map((d: BubbleGraphDatum) => d.origX)
+  return answers[index]
+}
+
+export function getYLabel(graphData: BubbleGraphSerie[], index: number): string | undefined {
+  const answers = graphData.map((d: BubbleGraphSerie) => d.origId)
+  return answers[index]
+}
+
 // if answer has no label - rate is the label
 export function getLabel (ans: string): string { 
   const [rate, label] = getRateAndLabel(ans)

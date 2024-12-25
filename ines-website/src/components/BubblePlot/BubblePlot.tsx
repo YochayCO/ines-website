@@ -1,11 +1,11 @@
 import { PropertyAccessor } from '@nivo/core';
 import { ComputedCell, HeatMapDatum, ResponsiveHeatMap } from '@nivo/heatmap' 
 import { InheritedColorConfig } from '@nivo/colors'
+import { getAnswerFromLabel } from '../../utils/graph';
 import { BubbleGraphDatum, BubbleGraphSerie } from '../../types/graph';
-import CustomTick from './AxisTick';
+import { CustomTick, RegularXTick, RegularYTick } from './AxisTick';
 
 import './BubblePlot.css'
-import { getAnswerFromLabel } from '../../utils/graph';
 
 interface BubblePlotProps { 
     data: BubbleGraphSerie[];
@@ -80,14 +80,17 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
                     legendOffset: 180,
-                    truncateTickAt: 0,
+                    truncateTickAt: 10,
+                    renderTick: (tick) => RegularXTick(tick, data)
                 }}
-                axisRight={{}}
+                axisRight={{
+                    renderTick: (tick) => RegularYTick(tick, data)
+                }}
                 axisLeft={{
                     legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
                     legendPosition: 'start',
                     legendOffset: -60,
-                    tickValues: []
+                    tickValues: [],
                 }}
                 axisTop={{
                     renderTick: (tick) => CustomTick({ 
@@ -98,12 +101,9 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                 }}
                 tooltip={({ cell }) => (
                     <div className='tooltip'>
-                        <b>Row / Y</b>: {cell.data.origId}
+                        <b>X Answer</b>: {cell.data.origX}
                         <br/>
-                        <b>Column / X</b>: {cell.data.origX}
-                        <h3><b>Value</b>: {cell.formattedValue}</h3>
-                        <h5><b>Rational to X param</b>: {cell.data.yByX}%</h5>
-                        <h5><b>Rational to Y param</b>: {cell.data.yBySerie}%</h5>
+                        <b>Y Answer</b>: {cell.data.origId}
                     </div>
                 )}
                 colors={{ type: 'diverging', scheme: 'blues' }}

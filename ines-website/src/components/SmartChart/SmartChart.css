@@ -1,3 +1,6 @@
+.graph-container {
+    margin: 30px;
+}
 .graph-header {
     display: flex;
     flex-direction: row;
@@ -11,10 +14,17 @@
 
 .graph {
     background-color: white;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
 }
 
+.responses-sum-container {
+    display: flex;
+    align-items: center;
+}
 .responses-sum {
     background-color: white;
     padding: 6px 12px;
     border-radius: 20px;
+    margin-left: 8px;
 }
