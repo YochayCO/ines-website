@@ -35,6 +35,8 @@ And then to run the image:
 
 ## Deploy on server
 
+### Setup
+
 The server is based on a deprecated version of centos (centos7) and it has firewalls which prevent downloading docker normally. 
 We are therefore forced to install docker and its dependencies one-by-one, and this means going through "dependency hell" whenever we run into a bad/missing dependency.
 
@@ -70,7 +72,35 @@ Then:
 
 `systemctl docker start`
 
-`docker ps` should hopefully work now
+`docker ps` should hopefully work now.
+
+Then:
+
+Make sure the app is accessible from the outside world.
+What we did: redirect from the main website to the port.
+`...:80/playground` --> `...:8085/`
+
+If `/playground` is changed in the future: look for it in the app and update it too.
+
+### Update image
+
+In your local environment:
+```
+docker build -t ines-website-app:latest .
+docker save -o ines-website-app.tar ines-website-app:latest
+scp ines-website-app.tar  yochayc@132.66.66.57:~
+```
+In the server:
+```
+sudo docker stop ines-playground
+sudo docker rm ines-playground
+sudo docker rmi ines-website-app
+sudo docker load -i ines-website-app.tar 
+sudo docker run -d -p 8085:80 --name ines-playground ines-website-app:latest
+sudo docker ps
+sudo docker logs ines-playground
+```
+
 
 ## Scripts
 
