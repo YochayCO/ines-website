@@ -1,6 +1,6 @@
 function addPrefix (filename: string) {
     if (import.meta.env.PROD) {
-        return ['/playground', filename].join('')
+        return ['https://socsci4.tau.ac.il/playground', filename].join('')
     } else {
         return filename
     }
