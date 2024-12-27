@@ -5,6 +5,7 @@ import { Survey, QuestionItem } from "./survey";
 
 export type AnswerType = 'normal' | 'special'
 
+// TODO: Remove this along with boxplot component
 export interface GraphDatum extends BoxPlotDatum { group: string; } // Striter than general datum
 export type GraphData = GraphDatum[]
 
@@ -24,10 +25,6 @@ export type InitialBubbleGraphSerie = HeatMapSerie<HeatMapDatum, InitialBubbleGr
 
 
 export interface BubbleGraphDatum extends InitialBubbleGraphDatum { 
-    x: string; 
-    y: number; 
-    origX: string;
-    origId: string;
     yByX: number;
     yBySerie: number; 
     ansType: AnswerType;
@@ -45,3 +42,11 @@ export type SmartBubblePlotProps = SmartGraphProps & { y: QuestionItem; }
 
 export type BarGraphConfig = { isSpecialVisible: boolean; }
 export type BubbleGraphConfig = { isSpecialVisible: boolean; hiddenAnswers: string[]; }
+
+export function isBubbleGraphData(data: BubbleGraphSerie[] | BarGraphDatum[]): data is BubbleGraphSerie[] {
+    return 'origId' in data[0]
+}
+
+export function isBarGraphData(data: BubbleGraphSerie[] | BarGraphDatum[]): data is BarGraphDatum[] {
+    return 'group' in data[0];
+}

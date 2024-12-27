@@ -80,7 +80,6 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                     legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
                     legendPosition: 'start',
                     legendOffset: 180,
-                    truncateTickAt: 10,
                     renderTick: (tick) => RegularXTick(tick, data)
                 }}
                 axisRight={{

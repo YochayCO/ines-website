@@ -1,5 +1,6 @@
 import { ComputedDatum, ResponsiveBar } from '@nivo/bar' 
 import { BarGraphDatum } from '../../types/graph';
+import { RegularXTick } from '../BubblePlot/AxisTick';
 
 import './BarPlot.css'
 
@@ -69,6 +70,7 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                     legendPosition: 'start',
                     legendOffset: 180,
                     truncateTickAt: 0,
+                    renderTick: (tick) => RegularXTick(tick, data),
                 }}
                 axisLeft={{
                     tickSize: 5,

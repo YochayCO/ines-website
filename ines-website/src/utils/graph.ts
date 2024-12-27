@@ -12,6 +12,8 @@ import {
   InitialBubbleGraphSerie,
   BubbleGraphConfig,
   BarGraphConfig,
+  isBarGraphData,
+  isBubbleGraphData,
 } from '../types/graph'
 import SurveyDesign from './SurveyDesign'
 import { sortByRate } from './survey'
@@ -28,9 +30,14 @@ export function getAnswerFromLabel(graphData: BubbleGraphSerie[], label: string)
   return ans
 }
 
-export function getXLabel(graphData: BubbleGraphSerie[], index: number): string | undefined {
-  const answers = graphData[0].data.map((d: BubbleGraphDatum) => d.origX)
-  return answers[index]
+export function getXLabel(graphData: BubbleGraphSerie[] | BarGraphDatum[], index: number): string | undefined {
+  if (isBubbleGraphData(graphData)) {
+    const answers = graphData[0].data.map((d: BubbleGraphDatum) => d.origX)
+    return answers[index]
+  } else if (isBarGraphData(graphData)) {
+    const answers = graphData.map((d: BarGraphDatum) => d.origGroup)
+    return answers[index]
+  }
 }
 
 export function getYLabel(graphData: BubbleGraphSerie[], index: number): string | undefined {
