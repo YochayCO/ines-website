@@ -9,8 +9,11 @@ export type AnswerType = 'normal' | 'special'
 export interface GraphDatum extends BoxPlotDatum { group: string; } // Striter than general datum
 export type GraphData = GraphDatum[]
 
-export interface BarGraphDatum extends BarDatum { group: string; origGroup: string; }
-
+export interface BarGraphDatum extends BarDatum {
+    group: string; 
+    origGroup: string; 
+    effectiveN: number; 
+}
 
 export interface InitialBubbleGraphDatum extends HeatMapDatum { 
     x: string; 

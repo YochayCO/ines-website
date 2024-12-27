@@ -81,6 +81,11 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                     legendOffset: -50,
                     truncateTickAt: 0,
                 }}
+                tooltip={({ data }) => (
+                    <div className='tooltip'>
+                        <b>Number of responses</b>: {data.effectiveN}
+                    </div>
+                )}
                 colors={{ scheme: 'category10' }}
                 borderWidth={2}
                 borderColor={{

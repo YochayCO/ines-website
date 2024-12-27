@@ -15,7 +15,9 @@ export function getBubbleGraphData(
   const effectiveResponses = getBubbleGraphEffectiveN(graphData, options)
 
   return { graphData: graphData, effectiveResponses }
-}export function getBubbleGraphEffectiveN(
+}
+
+export function getBubbleGraphEffectiveN(
   graphData: BubbleGraphSerie[],
   options: BubbleGraphConfig
 ): number {
@@ -46,10 +48,9 @@ export function getBubbleGraphData(
 
   return effectiveN
 }
+
 // Add percentages to data
 // Sum up all the visible weights for each X and each serie (y param)
-
-
 export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[]): BubbleGraphSerie[] {
   const yAnswers = getBubbleGraphYAnswers(initialGraphData)
   const yNormalAnswers = getNormalValues(yAnswers)
@@ -160,6 +161,7 @@ export function buildInitialGraphData(
     return series
   }, [])
 }
+
 export function getBubbleGraphYAnswers(data: InitialBubbleGraphSerie[]): string[] {
   const answersSet: Set<string> = data.reduce((set: Set<string>, serie: InitialBubbleGraphSerie) => {
     set.add(serie.origId)

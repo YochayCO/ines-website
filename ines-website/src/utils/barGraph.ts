@@ -1,45 +1,87 @@
 import { sum, map } from "lodash";
 import { SmartGraphProps, BarGraphConfig, BarGraphDatum } from "../types/graph";
-import { getNormalValues, getLabel } from "./graph";
-import { sortByRate } from "./survey";
-import SurveyDesign from "./SurveyDesign";
+import { getNormalValues, getLabel, getWeight } from "./graph";
+import { isCellAValidAnswer, sortByRate } from "./survey";
+
+type InitialBarsData = Record<string, { effectiveN: number; totalWeight: number; }>;
 
 export function getBarGraphData(
   { survey, x }: SmartGraphProps,
   options: BarGraphConfig,
 ): { graphData: BarGraphDatum[]; effectiveResponses: number } {
-  // Calculate weights
-  const surveyDesign = new SurveyDesign(survey.data, survey.meta.weights?.all)
-  let weightedXs = surveyDesign.svytable(x.questionSurveyId)
-  const effectiveResponses = surveyDesign.effectiveResponses
-  
-  const allAnswers = Array.from(new Set(Object.keys(weightedXs)))
-  const normalAnswers = getNormalValues(allAnswers)
+    let initialBarsData = buildInitialGraphData({ survey, x })
 
-  // Filter if needed
-  if (!options.isSpecialVisible) {
-    // Object.fromEntries: ({ key: value }) => [key, value]
-    weightedXs = Object.fromEntries(
-      Object.entries(weightedXs).filter(([ans]) => normalAnswers.includes(ans))
-    )
-  }
+    const allAnswers = Array.from(new Set(Object.keys(initialBarsData)))
+    const normalAnswers = getNormalValues(allAnswers)
 
-  const totalXWeight = sum(Object.values(weightedXs))
-  
+    // Filter if needed
+    initialBarsData = cleanBarGraphData(initialBarsData, options, normalAnswers);
+
   // Convert to graph data
-  const barGraphData = map(weightedXs, (answerWeightedCount, ans) => {
-    return { 
-      group: getLabel(ans), 
-      origGroup: ans,
-      value: (answerWeightedCount / totalXWeight * 100).toFixed(2),
-      id: normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
+  const effectiveN = sum(Object.values(initialBarsData).map(bar => bar.effectiveN))
+  const barGraphData = enrichBarGraphData(initialBarsData, { normalAnswers })
+
+  return { graphData: barGraphData, effectiveResponses: effectiveN }
+}
+
+function cleanBarGraphData(initialBarsData: InitialBarsData, options: BarGraphConfig, normalAnswers: string[]) {
+    if (!options.isSpecialVisible) {
+        // Object.fromEntries: ({ key: value }) => [key, value]
+        initialBarsData = Object.fromEntries(
+            Object.entries(initialBarsData).filter(([ans]) => normalAnswers.includes(ans))
+        );
     }
-  })
+    return initialBarsData;
+}
 
-  // Sort by answer prefix
-  barGraphData.sort(
-    (a, b) => sortByRate(a.origGroup, b.origGroup)
-  )
+export function enrichBarGraphData(initialBarsData: InitialBarsData, options: { normalAnswers: string[] }): BarGraphDatum[] {    
+    const totalXWeight = sum(Object.values(initialBarsData).map(bar => bar.totalWeight))
+  
+    const barGraphData = map(initialBarsData, (bar, ans) => {
+        return { 
+          group: getLabel(ans), 
+          origGroup: ans,
+          effectiveN: bar.effectiveN,
+          value: (bar.totalWeight / totalXWeight * 100).toFixed(2),
+          id: options.normalAnswers.includes(ans) ? 'normal' as const : 'special' as const,
+        }
+      })
+    
+      // Sort by answer prefix
+      barGraphData.sort(
+        (a, b) => sortByRate(a.origGroup, b.origGroup)
+      )
 
-  return { graphData: barGraphData, effectiveResponses }
+      return barGraphData
+}
+
+export function buildInitialGraphData(
+    { survey, x }: SmartGraphProps
+): InitialBarsData {
+    return survey.data.reduce((bars: InitialBarsData, row) => {
+        const ans = row[x.questionSurveyId]
+        
+        if (!isCellAValidAnswer(ans)) return bars
+        
+        const weight = getWeight(row, survey.meta.weights?.all)
+
+        if (!bars[ans]) {
+            bars[ans] = { effectiveN: 0, totalWeight: 0 }
+        }
+
+        // Increment weight & effectiveN and go to next.
+        bars[ans].totalWeight += weight
+        bars[ans].effectiveN++
+        return bars
+    }, {})
+}
+
+// Unused ?
+export function getBarGraphAnswers (data: BarGraphDatum[]): string[] {
+    const answersSet = new Set<string>
+    data.forEach((d: BarGraphDatum) => {
+        answersSet.add(d.origGroup)
+    })
+
+    return Array.from(answersSet)
 }
