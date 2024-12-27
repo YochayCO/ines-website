@@ -1,7 +1,8 @@
 import { ReactNode, useEffect, useMemo, useState } from 'react';
 import { FormControlLabel, FormGroup, Switch } from '@mui/material';
 import { BarGraphDatum, BubbleGraphSerie, SmartGraphProps } from '../../types/graph';
-import { getBarGraphData, getBubbleGraphData } from '../../utils/graph';
+import { getBarGraphData } from '../../utils/barGraph';
+import { getBubbleGraphData } from '../../utils/bubbleGraph';
 import BarPlot from '../BarPlot/BarPlot';
 import BubblePlot from '../BubblePlot/BubblePlot';
 

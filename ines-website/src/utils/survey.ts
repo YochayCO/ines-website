@@ -64,3 +64,8 @@ export function sortByRate(ansA: string, ansB: string) {
     const [rateA, rateB] = [Number(getRate(ansA)), Number(getRate(ansB))]
     return rateA - rateB
 }
+
+// Null values and such
+export function isCellAValidAnswer (ans: unknown): boolean {
+    return (typeof ans === 'string' && ans.trim() !== '')
+}

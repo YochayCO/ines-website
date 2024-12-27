@@ -15,6 +15,7 @@ export interface BarGraphDatum extends BarDatum { group: string; origGroup: stri
 export interface InitialBubbleGraphDatum extends HeatMapDatum { 
     x: string; 
     y: number; 
+    effectiveY: number;
     origX: string;
     origId: string;
     yByX?: number;
