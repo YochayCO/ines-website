@@ -138,8 +138,7 @@ export function buildInitialGraphData(
     const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
     const weight = getWeight(
-      row, survey.meta.weights?.all, options.hiddenAnswers.includes(xAns)
-    )
+      { row, weightName: options.weightName, surveyWeights: survey.meta.weights, isHidden: options.hiddenAnswers.includes(xAns) }    )
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)

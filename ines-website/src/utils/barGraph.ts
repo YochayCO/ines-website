@@ -9,7 +9,7 @@ export function getBarGraphData(
   { survey, x }: SmartGraphProps,
   options: BarGraphConfig,
 ): { graphData: BarGraphDatum[]; effectiveResponses: number } {
-    let initialBarsData = buildInitialGraphData({ survey, x })
+    let initialBarsData = buildInitialGraphData({ survey, x }, options)
 
     const allAnswers = Array.from(new Set(Object.keys(initialBarsData)))
     const normalAnswers = getNormalValues(allAnswers)
@@ -56,14 +56,15 @@ export function enrichBarGraphData(initialBarsData: InitialBarsData, options: { 
 }
 
 export function buildInitialGraphData(
-    { survey, x }: SmartGraphProps
+    { survey, x }: SmartGraphProps,
+    options: BarGraphConfig
 ): InitialBarsData {
     return survey.data.reduce((bars: InitialBarsData, row) => {
         const ans = row[x.questionSurveyId]
         
         if (!isCellAValidAnswer(ans)) return bars
         
-        const weight = getWeight(row, survey.meta.weights?.all)
+        const weight = getWeight({ row, weightName: options.weightName, surveyWeights: survey.meta.weights })
 
         if (!bars[ans]) {
             bars[ans] = { effectiveN: 0, totalWeight: 0 }

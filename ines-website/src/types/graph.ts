@@ -1,7 +1,7 @@
 import { BarDatum } from "@nivo/bar";
 import { BoxPlotDatum } from "@nivo/boxplot"
 import { HeatMapDatum, HeatMapSerie } from "@nivo/heatmap";
-import { Survey, QuestionItem } from "./survey";
+import { Survey, QuestionItem, WeightName } from "./survey";
 
 export type AnswerType = 'normal' | 'special'
 
@@ -44,8 +44,12 @@ export interface SmartGraphProps {
 
 export type SmartBubblePlotProps = SmartGraphProps & { y: QuestionItem; }
 
-export type BarGraphConfig = { isSpecialVisible: boolean; }
-export type BubbleGraphConfig = { isSpecialVisible: boolean; hiddenAnswers: string[]; }
+export type BarGraphConfig = { isSpecialVisible: boolean; weightName: WeightName; }
+export type BubbleGraphConfig = { 
+    isSpecialVisible: boolean; 
+    hiddenAnswers: string[]; 
+    weightName: WeightName;
+}
 
 export function isBubbleGraphData(data: BubbleGraphSerie[] | BarGraphDatum[]): data is BubbleGraphSerie[] {
     return 'origId' in data[0]

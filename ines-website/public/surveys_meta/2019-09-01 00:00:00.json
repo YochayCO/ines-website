@@ -2,5 +2,6 @@
     "id": "2019-09-01 00:00:00",
     "weights": {
         "all": "weights_panel_1"
-    }
+    },
+    "sectorFieldName": "c149"
 }

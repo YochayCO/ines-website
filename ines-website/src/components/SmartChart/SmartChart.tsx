@@ -1,6 +1,7 @@
 import { ReactNode, useEffect, useMemo, useState } from 'react';
-import { FormControlLabel, FormGroup, Switch } from '@mui/material';
+import { FormControlLabel, FormGroup, Switch, ToggleButton, ToggleButtonGroup } from '@mui/material';
 import { BarGraphDatum, BubbleGraphSerie, SmartGraphProps } from '../../types/graph';
+import { WeightName } from '../../types/survey';
 import { getBarGraphData } from '../../utils/barGraph';
 import { getBubbleGraphData } from '../../utils/bubbleGraph';
 import BarPlot from '../BarPlot/BarPlot';
@@ -11,6 +12,7 @@ import './SmartChart.css'
 // A smart component that wraps all possible plots
 export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const [isSpecialVisible, setSpecialVisible] = useState(true)
+    const [weightName, setWeightName] = useState<WeightName>('all')
     const [hiddenAnswers, setHiddenAnswers] = useState<string[]>([])
 
     useEffect(() => {
@@ -18,6 +20,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     }, [survey, x, y, isSpecialVisible])
 
     const handleSpecialToggle = () => setSpecialVisible((currVisibility) => !currVisibility)
+    const handleWeightNameChange = (_event: React.MouseEvent<HTMLElement>, wName: WeightName) => setWeightName(wName)
     const handleXAnswerClick = (ans: string) => {
         if (hiddenAnswers.includes(ans)) {
             const newHiddenAnswers = hiddenAnswers.filter(a => a !== ans)
@@ -28,11 +31,11 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     }
     
     const { graphData, effectiveResponses } = useMemo(() => {
-        const options = { isSpecialVisible, hiddenAnswers }
+        const options = { isSpecialVisible, hiddenAnswers, weightName }
 
         if (y) return getBubbleGraphData({ survey, x, y }, options)
         return getBarGraphData({ survey, x }, options)
-    }, [survey, x, y, isSpecialVisible, hiddenAnswers])
+    }, [survey, x, y, isSpecialVisible, hiddenAnswers, weightName])
 
     const toggleButton = (
         <FormGroup className='toggle-button'>
@@ -43,6 +46,29 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
                 )}
             />
         </FormGroup>
+    )
+
+    const weightNameMenu = (
+        <div className='weight-toggler'>
+            Choose sector:
+            <ToggleButtonGroup
+                color="primary"
+                value={weightName}
+                exclusive
+                onChange={handleWeightNameChange}
+                aria-label="Weight select"
+            >
+                <ToggleButton
+                    value="arabs"
+                    disabled={!survey.meta.weights?.arabs || !survey.meta.sectorFieldName}
+                >Arabs</ToggleButton>
+                <ToggleButton value="all">All</ToggleButton>
+                <ToggleButton
+                    value="jews"
+                    disabled={!survey.meta.weights?.jews || !survey.meta.sectorFieldName}
+                >Jews</ToggleButton>
+            </ToggleButtonGroup>
+        </div>
     )
 
     const effectiveResponsesIndicator = (
@@ -79,6 +105,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         <div className='graph-container'>
             <div className='graph-header'>
                 {toggleButton}
+                {weightNameMenu}
                 {effectiveResponsesIndicator}
             </div>
             <div className='graph'>

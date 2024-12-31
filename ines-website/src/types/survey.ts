@@ -12,13 +12,12 @@ export interface QuestionItemOption extends QuestionItem {
     disabled?: boolean;
 }
 
+export type WeightName = 'all' | 'arabs' | 'jews'
+
 export interface SurveyMetaBase {
     id: string;
-    weights?: {
-        all?: string;
-        jews?: string;
-        arabs?: string;
-    };
+    weights?: Record<WeightName, string>;
+    sectorFieldName?: string;
     hiddenQuestionItems?: string[];
 }
 

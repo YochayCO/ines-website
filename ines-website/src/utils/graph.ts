@@ -5,7 +5,7 @@ import {
   isBarGraphData,
   isBubbleGraphData,
 } from '../types/graph'
-import { SurveyRow } from '../types/survey'
+import { SurveyRow, WeightName } from '../types/survey'
 
 function getRateAndLabel (ans: string): string[] {
   return ans.replace(/[\s\u200B\u200E\u200F\u202A-\u202E]+/g, ' ').split('. ') 
@@ -57,8 +57,23 @@ export function getNormalValues(answers: string[]): string[] {
   return answers.filter((ans) => rates.includes(Number(getRate(ans)))) 
 }
 
-export function getWeight (row: SurveyRow, weightKey?: string, isHidden?: boolean) {
+export function getWeight ({ row, weightName, surveyWeights, isHidden, sectorFieldName }: { 
+  row: SurveyRow;
+  weightName: WeightName;
+  surveyWeights?: Record<WeightName, string>;
+  isHidden?: boolean;
+  sectorFieldName?: string;
+}) {
+  const weightKey = surveyWeights?.[weightName]
   if (isHidden) return 0
+  if (!weightKey) return 1
 
-  return weightKey ? Number(row[weightKey]) : 1
+  // If selected weight name is not part of sector cell - the weight is 0 for this person. 
+  const isWrongSector = (
+    sectorFieldName && 
+    row[sectorFieldName].toLowerCase().indexOf(weightKey) === -1
+  )
+  if (['jews', 'arabs'].includes(weightKey) && isWrongSector) return 0
+
+  return Number(row[weightKey])
 }
