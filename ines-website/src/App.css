@@ -3,6 +3,9 @@
 }
 .app-header {
   margin: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
 .fullscreen-button {

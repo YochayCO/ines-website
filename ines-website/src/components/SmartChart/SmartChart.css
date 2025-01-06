@@ -1,5 +1,7 @@
 .graph-container {
     margin: 30px;
+    border: 1px solid #969696;
+    border-radius: 16px;
 }
 .graph-header {
     display: flex;
@@ -14,8 +16,7 @@
 
 .graph {
     background-color: white;
-    border-bottom-left-radius: 16px;
-    border-bottom-right-radius: 16px;
+    border-radius: inherit;
 }
 
 .responses-sum-container {

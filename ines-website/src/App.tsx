@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import FullscreenIcon from '@mui/icons-material/Fullscreen';
 import FullscreenExitIcon from '@mui/icons-material/FullscreenExit';
+import InfoExpander from './components/InfoExpander/InfoExpander';
 import Plotter from './components/Plotter/Plotter'
 
 import './App.css'
@@ -35,7 +36,7 @@ function App() {
     <div className='app'>
       <div className='app-header'>
         <h1>Playground</h1>
-        <h2>Plot away!</h2>
+        <InfoExpander />
       </div>
       <Plotter />
       {isFullscreen 

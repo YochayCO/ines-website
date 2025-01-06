@@ -1,0 +1,15 @@
+.image {
+    margin: 6px;
+}
+
+.image-and-description {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 6px 0;
+}
+
+.icon-in-text {
+    margin: 0 4px;
+    vertical-align: text-bottom;
+}
