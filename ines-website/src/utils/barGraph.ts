@@ -72,17 +72,10 @@ export function buildInitialGraphData(
 
         // Increment weight & effectiveN and go to next.
         bars[ans].totalWeight += weight
-        bars[ans].effectiveN++
+
+        if (weight) {
+            bars[ans].effectiveN++
+        }
         return bars
     }, {})
-}
-
-// Unused ?
-export function getBarGraphAnswers (data: BarGraphDatum[]): string[] {
-    const answersSet = new Set<string>
-    data.forEach((d: BarGraphDatum) => {
-        answersSet.add(d.origGroup)
-    })
-
-    return Array.from(answersSet)
 }

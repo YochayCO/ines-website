@@ -28,19 +28,16 @@ export function getBubbleGraphEffectiveN(
   const xAnswers = getBubbleGraphXAnswers(graphData)
   const xNormalAnswers = getNormalValues(xAnswers)
 
-  const isDatumTypeEffective = (d: BubbleGraphDatum) => {
+  const isAnsTypeEffective = (d: BubbleGraphDatum) => {
     return (
       options.isSpecialVisible ||
       (yNormalAnswers.includes(d.origId) && xNormalAnswers.includes(d.origX))
     )
   }
-  const isDatumHidden = (d: BubbleGraphDatum) => {
-    return options.hiddenAnswers.includes(d.origX)
-  }
 
   graphData.forEach(serie => {
     serie.data.forEach((d: BubbleGraphDatum) => {
-      if (isDatumTypeEffective(d) && !isDatumHidden(d)) {
+      if (isAnsTypeEffective(d)) {
         effectiveN += d.effectiveY
       }
     })
@@ -137,26 +134,32 @@ export function buildInitialGraphData(
 
     const serieId = getLabel(yAns)
     const xValue = getLabel(xAns)
-    const weight = getWeight(
-      { row, weightName: options.weightName, surveyWeights: survey.meta.weights, isHidden: options.hiddenAnswers.includes(xAns) }    )
+    const weight = getWeight({ row, 
+      weightName: options.weightName, 
+      surveyWeights: survey.meta.weights, 
+      isHidden: options.hiddenAnswers.includes(xAns)
+    })
+
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)
     if (!currSerie) {
-      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: weight, effectiveY: 1, origX: xAns, origId: yAns }] }]
+      const serie = [{ id: serieId, origId: yAns, data: [{ x: xValue, y: weight, effectiveY: weight ? 1 : 0, origX: xAns, origId: yAns }] }]
       return series.concat(serie)
     }
 
     // If x does not exist for series - create it and go to next.
     const currDatum = currSerie.data.find(({ x }) => x === xValue) as InitialBubbleGraphDatum | undefined
     if (currDatum === undefined) {
-      currSerie.data = currSerie.data.concat([{ x: xValue, y: weight, effectiveY: 1, origX: xAns, origId: yAns }])
+      currSerie.data = currSerie.data.concat([{ x: xValue, y: weight, effectiveY: weight ? 1 : 0, origX: xAns, origId: yAns }])
       return series
     }
 
     // If x-serie pair exist - increment voteCount and go to next.
     currDatum.y += weight
-    currDatum.effectiveY++
+    if (weight) {
+      currDatum.effectiveY++
+    }
     return series
   }, [])
 }

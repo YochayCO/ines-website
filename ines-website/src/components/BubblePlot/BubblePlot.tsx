@@ -51,19 +51,6 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
         return !!(ans && hiddenAnswers.includes(ans))
     }
 
-    if (!data.length) {
-        return (
-            <div className='empty-data-msg'>
-                There are no participants who answered both questions.
-                <br/>
-                If you chose 2022 Survey, maybe these questions were asked in different versions of the survey.
-                <br/>
-                Try exploring other questions.
-                We will make this issue easier to avoid in the future.
-            </div>
-        )
-    }
-
     return (
         <div className='bubbleplot-container'>
             <ResponsiveHeatMap

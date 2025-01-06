@@ -67,12 +67,13 @@ export function getWeight ({ row, weightName, surveyWeights, isHidden, sectorFie
   const weightKey = surveyWeights?.[weightName]
   if (isHidden) return 0
   if (!weightKey) return 1
+  if (!sectorFieldName) return Number(row[weightKey])
 
-  // If selected weight name is not part of sector cell - the weight is 0 for this person. 
-  const isWrongSector = (
-    sectorFieldName && 
-    row[sectorFieldName].toLowerCase().indexOf(weightKey) === -1
-  )
+  const sectorSingular = weightKey.slice(0, -1) // jew | arab
+  const sectorAns = row[sectorFieldName].toLowerCase() // 1. jewish | 2. arab
+  const isWrongSector = sectorAns.indexOf(sectorSingular) === -1 // jewish.includes(arab) ==> wrong
+
+  // if sector is partial and wrong sector: weight = 0
   if (['jews', 'arabs'].includes(weightKey) && isWrongSector) return 0
 
   return Number(row[weightKey])

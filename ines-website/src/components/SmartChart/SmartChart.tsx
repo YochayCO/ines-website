@@ -6,6 +6,7 @@ import { getBarGraphData } from '../../utils/barGraph';
 import { getBubbleGraphData } from '../../utils/bubbleGraph';
 import BarPlot from '../BarPlot/BarPlot';
 import BubblePlot from '../BubblePlot/BubblePlot';
+import { columnsNoOverlapMessage, noResultDefaultMessage, sectorNoResultMessage } from './EmptyChartMessages';
 
 import './SmartChart.css'
 
@@ -50,8 +51,9 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
 
     const weightNameMenu = (
         <div className='weight-toggler'>
-            Choose sector:
+            Sector:
             <ToggleButtonGroup
+                className='sector-select-group'
                 color="primary"
                 value={weightName}
                 exclusive
@@ -73,13 +75,24 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
 
     const effectiveResponsesIndicator = (
         <div className='responses-sum-container'>
-            Effective N:<div className='responses-sum'>{effectiveResponses}</div>
+            # of Responses:<div className='responses-sum'>{effectiveResponses}</div>
         </div>
     )
 
     let smartPlot: ReactNode
     
-    if (y) {
+    if (!effectiveResponses) {
+        // This is almost definitely a case of no-overlap between the two selected columns
+        if (y && !graphData.length) {
+            smartPlot = columnsNoOverlapMessage
+        // Heuristically, this means that the sector is the filter which empties the search.
+        } else if (weightName !== 'all') {
+            smartPlot = sectorNoResultMessage
+        // A more general message that does not hint that the sector is the issue
+        } else {
+            smartPlot = noResultDefaultMessage
+        }
+    } else if (y) {
         const visibleData = graphData as BubbleGraphSerie[]
         smartPlot = (
             <BubblePlot
