@@ -41,7 +41,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const toggleButton = (
         <FormGroup className='toggle-button'>
             <FormControlLabel 
-                label='Toggle special values visibility'
+                label={`Include "Don't know" answers`}
                 control={(
                     <Switch onChange={handleSpecialToggle} checked={isSpecialVisible} />
                 )}
@@ -109,7 +109,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
             <BarPlot
                 data={visibleData}
                 xTitle={`${x.englishDescription} / ${x.questionHebrewDescription}`}
-                yTitle='Percentage of voters'
+                yTitle='Share of respondents'
             />
         )
     }

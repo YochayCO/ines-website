@@ -93,7 +93,7 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                         <b>Y Answer</b>: {cell.data.origId}
                     </div>
                 )}
-                colors={{ type: 'diverging', scheme: 'blues' }}
+                colors={{ type: 'diverging', scheme: 'blues', divergeAt: 1 }}
                 borderColor={getBorderColor}
                 borderWidth={2}
                 labelTextColor={'black'}

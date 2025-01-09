@@ -1,6 +1,7 @@
 import { ComputedDatum, ResponsiveBar } from '@nivo/bar' 
 import { BarGraphDatum } from '../../types/graph';
 import { RegularXTick } from '../BubblePlot/AxisTick';
+import GraphQuestionTitle from '../GraphQuestionTitle/GraphQuestionTitle';
 
 import './BarPlot.css'
 
@@ -31,7 +32,7 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                 labelPosition='end'
                 labelOffset={10}
                 onClick={handleBarClick}
-                margin={{ top: 60, right: 160, bottom: 200, left: 60 }}
+                margin={{ top: 120, right: 160, bottom: 120, left: 90 }}
                 padding={0.12}
                 enableGridX
                 defs={[
@@ -62,14 +63,16 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                         id: 'special'
                     }
                 ]}
+                axisTop={{
+                    tickValues: [],
+                    legend: <GraphQuestionTitle className='axis-legend' text={xTitle} maxLength={90} />,
+                    legendPosition: 'start',
+                    legendOffset: -80,
+                }}
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 20,
-                    legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
-                    legendPosition: 'start',
-                    legendOffset: 180,
-                    truncateTickAt: 0,
                     renderTick: (tick) => RegularXTick(tick, data),
                 }}
                 axisLeft={{

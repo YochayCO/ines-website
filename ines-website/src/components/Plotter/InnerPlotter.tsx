@@ -18,12 +18,11 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
   }, [survey])
 
   const allQiOptions = getQiOptions(survey.meta)
-  const nonDemographyQiOptions = allQiOptions.filter((qi) => qi.type !== 'demography')
 
   const xQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === x)
-  const yQuestionItem = nonDemographyQiOptions.find(qi => qi.questionSurveyId === y)
+  const yQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === y)
 
-  const isGraphVisible = !!xQuestionItem && (xQuestionItem.type !== 'demography' || !!yQuestionItem)
+  const isGraphVisible = !!xQuestionItem
   
   return (
     <>
@@ -37,7 +36,7 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
         inputLabel='Select question for Y Axis' 
         value={y}
         onChange={setY}
-        questionItems={nonDemographyQiOptions}
+        questionItems={allQiOptions}
       />
       {isGraphVisible && (
         <SmartChart
