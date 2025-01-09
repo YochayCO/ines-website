@@ -3,17 +3,9 @@
     font-weight: 600;
 }
 
-text:has(> tspan.axis-legend), .axis-legend {
-    font: 15px sans-serif;
-}
-
 .tooltip {
     background-color: white;
     border: solid 1px gray;
     padding: 8px 16px;
     border-radius: 12px;
-}
-
-.tick-text {
-    font-size: 12px;
 }

@@ -48,9 +48,15 @@ export default function InfoExpander () {
                 </DialogTitle>
                 <DialogContent>
                     <DialogContentText id="alert-dialog-description">
-                        Choose a survey and 1-2 questions to display their distribution.
+                        The playground is an interactive interface for the{' '}
+                        <a href='https://socsci4.tau.ac.il/mu2/ines/data/our-data/'>INES data</a>.
+                        Follow the link to view the original data and learn more about how it was collected.
+                        <br/><br/><hr/><br/>
+                        Choose a survey and a question to display its distribution.
                         <br/>
-                        You can search a specific survey / question by typing - it will auto-complete.
+                        Choose two questions to display their common distribution.
+                        <br/><br/>
+                        You can search a specific survey / question by typing in the select box - it will auto-complete.
                         <br/><br/>
                         *Please use the playground only from your desktop browser.
                         <br/><br/>

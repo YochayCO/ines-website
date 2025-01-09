@@ -3,6 +3,8 @@ import { DatumValue } from '@nivo/core';
 import { getXLabel, getYLabel } from '../../utils/graph';
 import { BubbleGraphSerie, BarGraphDatum } from '../../types/graph';
 
+import './AxisTick.css'
+
 interface CustomClickProps extends AxisTickProps<string> {
     handleClick?: (label: string) => void;
     isHidden: boolean;

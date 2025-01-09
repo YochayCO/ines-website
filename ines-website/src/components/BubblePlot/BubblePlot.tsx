@@ -4,6 +4,7 @@ import { InheritedColorConfig } from '@nivo/colors'
 import { getAnswerFromLabel } from '../../utils/graph';
 import { BubbleGraphDatum, BubbleGraphSerie } from '../../types/graph';
 import { CustomTick, RegularXTick, RegularYTick } from './AxisTick';
+import GraphQuestionTitle from '../GraphQuestionTitle/GraphQuestionTitle';
 
 import './BubblePlot.css'
 
@@ -59,21 +60,18 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                 cellComponent='circle'
                 valueFormat={(num) => `${num}%`}
                 label={getLabel}
-                margin={{ top: 60, right: 160, bottom: 200, left: 90 }}
+                margin={{ top: 120, right: 300, bottom: 120, left: 90 }}
                 axisBottom={{
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 20,
-                    legend: <tspan className='axis-legend'>{xTitle}<title>{xTitle}</title></tspan>,
-                    legendPosition: 'start',
-                    legendOffset: 180,
                     renderTick: (tick) => RegularXTick(tick, data)
                 }}
                 axisRight={{
                     renderTick: (tick) => RegularYTick(tick, data)
                 }}
                 axisLeft={{
-                    legend: <tspan className='axis-legend'>{yTitle}<title>{yTitle}</title></tspan>,
+                    legend: <GraphQuestionTitle className='axis-legend' text={yTitle} maxLength={60} />,
                     legendPosition: 'start',
                     legendOffset: -60,
                     tickValues: [],
@@ -84,6 +82,9 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                         isHidden: isLabelHidden(tick.value), 
                         handleClick: handleXTickClick 
                     }),
+                    legend: <GraphQuestionTitle className='axis-legend' text={xTitle} maxLength={90} />,
+                    legendPosition: 'start',
+                    legendOffset: -80,
                 }}
                 tooltip={({ cell }) => (
                     <div className='tooltip'>
