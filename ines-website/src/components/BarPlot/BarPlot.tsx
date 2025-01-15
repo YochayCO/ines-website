@@ -1,6 +1,6 @@
 import { ComputedDatum, ResponsiveBar } from '@nivo/bar' 
 import { BarGraphDatum } from '../../types/graph';
-import { RegularXTick } from '../BubblePlot/AxisTick';
+import { RegularXTick } from '../AxisTick/AxisTick';
 import GraphQuestionTitle from '../GraphQuestionTitle/GraphQuestionTitle';
 
 import './BarPlot.css'

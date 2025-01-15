@@ -3,7 +3,7 @@ import { ComputedCell, HeatMapDatum, ResponsiveHeatMap } from '@nivo/heatmap'
 import { InheritedColorConfig } from '@nivo/colors'
 import { getAnswerFromLabel } from '../../utils/graph';
 import { BubbleGraphDatum, BubbleGraphSerie } from '../../types/graph';
-import { CustomTick, RegularXTick, RegularYTick } from './AxisTick';
+import { CustomTick, RegularXTick, RegularYTick } from '../AxisTick/AxisTick';
 import GraphQuestionTitle from '../GraphQuestionTitle/GraphQuestionTitle';
 
 import './BubblePlot.css'
