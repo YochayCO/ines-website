@@ -17,6 +17,11 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
     setY('')
   }, [survey])
 
+  const selectX = (newX: string) => {
+    setX(newX)
+    if (newX === '') setY('')
+  }
+
   const allQiOptions = getQiOptions(survey.meta)
 
   const xQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === x)
@@ -29,15 +34,17 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
       <QuestionSelect 
         inputLabel='Select question for X Axis' 
         value={x} 
-        onChange={setX}
+        onChange={selectX}
         questionItems={allQiOptions}
       />
-      <QuestionSelect 
-        inputLabel='Select question for Y Axis' 
-        value={y}
-        onChange={setY}
-        questionItems={allQiOptions}
-      />
+      {x && (
+        <QuestionSelect 
+          inputLabel='Select question for Y Axis' 
+          value={y}
+          onChange={setY}
+          questionItems={allQiOptions}
+        />
+      )}
       {isGraphVisible && (
         <SmartChart
           survey={survey}
