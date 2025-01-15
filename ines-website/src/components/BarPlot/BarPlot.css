@@ -4,7 +4,7 @@
 }
 
 text:has(> tspan.axis-legend), .axis-legend {
-    font: 15px sans-serif;
+    font: 15px Lato, "Open Sans Hebrew", Arial;
 }
 
 svg g > rect {

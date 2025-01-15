@@ -47,7 +47,7 @@ export default function InfoExpander () {
                     How to use the playground?
                 </DialogTitle>
                 <DialogContent>
-                    <DialogContentText id="alert-dialog-description">
+                    <DialogContentText id="alert-dialog-description" component='span'>
                         The playground is an interactive interface for the{' '}
                         <a href='https://socsci4.tau.ac.il/mu2/ines/data/our-data/'>INES data</a>.
                         Follow the link to view the original data and learn more about how it was collected.

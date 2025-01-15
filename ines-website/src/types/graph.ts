@@ -1,13 +1,8 @@
 import { BarDatum } from "@nivo/bar";
-import { BoxPlotDatum } from "@nivo/boxplot"
 import { HeatMapDatum, HeatMapSerie } from "@nivo/heatmap";
 import { Survey, QuestionItem, WeightName } from "./survey";
 
 export type AnswerType = 'normal' | 'special'
-
-// TODO: Remove this along with boxplot component
-export interface GraphDatum extends BoxPlotDatum { group: string; } // Striter than general datum
-export type GraphData = GraphDatum[]
 
 export interface BarGraphDatum extends BarDatum {
     group: string; 
