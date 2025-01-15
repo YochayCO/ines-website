@@ -6,7 +6,7 @@ import requests
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
 survey_options_filename = os.path.join(scriptpath, "../../src/assets/surveyOptions.json")
-question_index_file = os.path.join(scriptpath, "../../src/assets/question_index.xlsx")
+question_index_file = os.path.join(scriptpath, "./question_index.xlsx")
 question_items_folder = os.path.join(scriptpath, "../../public/question_items")
 
 stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
