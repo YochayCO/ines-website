@@ -1,0 +1,6 @@
+.demography {
+    background-color: rgba(250, 235, 215, 1);
+}
+.MuiPaper-root > .MuiAutocomplete-listbox .demography.MuiAutocomplete-option.Mui-focused {
+    background-color: rgba(250, 235, 215, 0.4);
+}

@@ -1,0 +1,12 @@
+.barplot-container {
+    height: 90dvh;
+    font-weight: 600;
+}
+
+text:has(> tspan.axis-legend), .axis-legend {
+    font: 15px Lato, "Open Sans Hebrew", Arial;
+}
+
+svg g > rect {
+    cursor: pointer;
+}

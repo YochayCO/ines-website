@@ -1,50 +1,127 @@
-# React + TypeScript + Vite
+# INES playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app was built using Vite (and NodeJS + NPM).
 
-Currently, two official plugins are available:
+### Language: `Typescript`
+### Framework: `React`
+### Graph Library: `nivo` (based on d3)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
 
-## Expanding the ESLint configuration
+Clone the project from the github repository.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Enter the folder.
 
-- Configure the top-level `parserOptions` property like this:
+Run the following commands:
+```
+npm install
+npm run dev
+```
+Open `localhost:5137` and enjoy the hmr.
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+## Building docker image
+
+Go to `ines-website` folder.
+
+Run the following commands to bulid a new image
+
+`npm run build`
+
+`docker build -t ines-website-app .`
+
+And then to run the image:
+
+`docker run -d -p 80:80 ines-website-app:latest`
+
+## Deploy on server
+
+### Setup
+
+The server is based on a deprecated version of centos (centos7) and it has firewalls which prevent downloading docker normally. 
+We are therefore forced to install docker and its dependencies one-by-one, and this means going through "dependency hell" whenever we run into a bad/missing dependency.
+
+Here are the main ones (use latest of centos-7 compatible files unless stated otherwise):
+* docker-ce-20.XXX
+  * docker-ce-cli
+    * docker-buildx-plugin
+    * docker-compose-plugin
+  * containerd.io
+    * libseccomp
+    * container-selinux
+  * docker-ce-rootless-extras-20.XXX
+    * fuse-overlayfs
+      * libfuse3.so.3 (=**fuse3-libs**)
+    * slirp4netns
+Note: `docker-ce-rootless-extras` & `docker-ce` are each other's dependencies and should be installed simultaniously.
+
+
+They can be installed from: 
+`https://download.docker.com/linux/centos/7/x86_64/stable/Packages/`
+`https://vault.centos.org/centos/7/extras/x86_64/Packages/`
+`https://vault.centos.org/7.9.2009/os/x86_64/Packages/`
+
+`rpm` + `grep` can help discover missing dependencies.
+
+`sudo yum install` can install the local files after they are moved to the server using `scp`
+
+I pray thou shall never have to go through this process
+
+Then:
+
+`systemctl docker enable`
+
+`systemctl docker start`
+
+`docker ps` should hopefully work now.
+
+Then:
+
+Make sure the app is accessible from the outside world.
+What we did: redirect from the main website to the port.
+`...:80/playground` --> `...:8085/`
+
+If `/playground` is changed in the future: look for it in the app and update it too.
+
+### Update image
+
+In your local environment:
+```
+docker build -t ines-website-app:latest .
+docker save -o ines-website-app.tar ines-website-app:latest
+scp ines-website-app.tar  yochayc@132.66.66.57:~
+```
+In the server:
+```
+sudo docker stop ines-playground
+sudo docker rm ines-playground
+sudo docker rmi ines-website-app
+sudo docker load -i ines-website-app.tar 
+sudo docker run -d -p 8085:80 --name ines-playground ines-website-app:latest
+sudo docker ps
+sudo docker logs ines-playground
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## Scripts
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+*Our main inputs:*
+
+## INES working file (index file for all survey questions)
+Lists all questions from all surveys by category (tab), where "דמוגרפיה" is demography and the rest are "real" questions
+
+For each question (row) and survey (column) the cell indicates what was the id of the question in that survey.
+
+### What we don't yet have
+- We don't yet have a mapping of each question and its type + scale.
+
+- The file does not give an indication regarding the weights.
+
+- It does not give an indication of 'special values', which are usually the same withing a survey but are not the same for all surveys.
+
+### How we make up for absent data (TODO)
+
+- The type + scale of the questions from the last 3 surveys are **hardcoded** to the survey meta json - `assets/surveys_meta/[survey_id].json`. The rest of the questions are **heuristically assumed to be categorial.**
+
+- Weigths exist only in the last few surveys, and they start with either `w_` or `weight_` (for example `w_panel1` or `w_jews_panel1`). They're **hardcoded** using this heuristic **to each survey meta json.**
+
+- Special values are treated like any other value

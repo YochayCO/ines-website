@@ -1,0 +1,520 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "b2",
+        "type": "demography",
+        "englishDescription": "respondent id"
+    },
+    {
+        "id": "2. תאריך",
+        "questionHebrewDescription": "תאריך",
+        "questionSurveyId": "c60",
+        "type": "demography",
+        "englishDescription": "day of interview"
+    },
+    {
+        "id": "4. מקום הראיון",
+        "questionHebrewDescription": "מקום הראיון",
+        "questionSurveyId": "c57",
+        "type": "demography",
+        "englishDescription": "place of interview"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "c30",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "c29",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "c32",
+        "type": "demography",
+        "englishDescription": "years of schooling"
+    },
+    {
+        "id": "16. באיזו ארץ נולדת?",
+        "questionHebrewDescription": "באיזו ארץ נולדת?",
+        "questionSurveyId": "c43",
+        "type": "demography",
+        "englishDescription": "country of birth"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "c45",
+        "type": "demography",
+        "englishDescription": "place of birth and father's place of birth"
+    },
+    {
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "c48",
+        "type": "demography",
+        "englishDescription": "year of emigration to israel"
+    },
+    {
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "c52",
+        "type": "demography",
+        "englishDescription": "how many children live with you?"
+    },
+    {
+        "id": "30. צפיפות בבית",
+        "questionHebrewDescription": "צפיפות בבית",
+        "questionSurveyId": "c50",
+        "type": "demography",
+        "englishDescription": "density of living conditions"
+    },
+    {
+        "id": "33. מהו מצבך המשפחתי?",
+        "questionHebrewDescription": "מהו מצבך המשפחתי?",
+        "questionSurveyId": "c36",
+        "type": "demography",
+        "englishDescription": "marital status"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "c20",
+        "type": "demography",
+        "englishDescription": "do you usually observe religious tradition?"
+    },
+    {
+        "id": "38. היכן נולד אביך?",
+        "questionHebrewDescription": "היכן נולד אביך?",
+        "questionSurveyId": "c44",
+        "type": "demography",
+        "englishDescription": "father's country of birth"
+    },
+    {
+        "id": "39. היכן נולדה אמך?",
+        "questionHebrewDescription": "היכן נולדה אמך?",
+        "questionSurveyId": "c47",
+        "type": "demography",
+        "englishDescription": "mother's country of birth"
+    },
+    {
+        "id": "43. באיזו ארץ נולד/ה בן/בת זוגך?",
+        "questionHebrewDescription": "באיזו ארץ נולד/ה בן/בת זוגך?",
+        "questionSurveyId": "c54",
+        "type": "demography",
+        "englishDescription": "spouse's country of birth"
+    },
+    {
+        "id": "44. מהי ההשכלה של בן/בת זוגך?",
+        "questionHebrewDescription": "מהי ההשכלה של בן/בת זוגך?",
+        "questionSurveyId": "c55",
+        "type": "demography",
+        "englishDescription": "spouse's education"
+    },
+    {
+        "id": "49. לאיזה מעמד חברתי אתה משייך את עצמך?",
+        "questionHebrewDescription": "לאיזה מעמד חברתי אתה משייך את עצמך?",
+        "questionSurveyId": "c22",
+        "type": "demography",
+        "englishDescription": "self ranking of social position"
+    },
+    {
+        "id": "51. אם כן, כמה ילדים?",
+        "questionHebrewDescription": "אם כן, כמה ילדים?",
+        "questionSurveyId": "c51",
+        "type": "demography",
+        "englishDescription": "number of children"
+    },
+    {
+        "id": "57. מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionHebrewDescription": "מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionSurveyId": "c40",
+        "type": "demography",
+        "englishDescription": "gross monthly income of household"
+    },
+    {
+        "id": "73. כמה שנים אביך למד בבית ספר או בכל מסגרת אחרת?",
+        "questionHebrewDescription": "כמה שנים אביך למד בבית ספר או בכל מסגרת אחרת?",
+        "questionSurveyId": "c33",
+        "type": "demography",
+        "englishDescription": "father's education"
+    },
+    {
+        "id": "74. כמה שנים אימך למדה בבית ספר או בכל מסגרת אחרת?",
+        "questionHebrewDescription": "כמה שנים אימך למדה בבית ספר או בכל מסגרת אחרת?",
+        "questionSurveyId": "c34",
+        "type": "demography",
+        "englishDescription": "mother's education"
+    },
+    {
+        "id": "75. מה המקצוע של ראש המשפחה?",
+        "questionHebrewDescription": "מה המקצוע של ראש המשפחה?",
+        "questionSurveyId": "c37",
+        "type": "demography",
+        "englishDescription": "head of family's occupation"
+    },
+    {
+        "id": "79. האם אתה חבר הסתדרות?",
+        "questionHebrewDescription": "האם אתה חבר הסתדרות?",
+        "questionSurveyId": "c23",
+        "type": "demography",
+        "englishDescription": "are you a member of the histadrut?"
+    },
+    {
+        "id": "81. מהי השפה העיקרית המדוברת בביתך?",
+        "questionHebrewDescription": "מהי השפה העיקרית המדוברת בביתך?",
+        "questionSurveyId": "c41",
+        "type": "demography",
+        "englishDescription": "language primarily spoken in your home"
+    },
+    {
+        "id": "11. האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionHebrewDescription": "האם אתה חבר, אוהד או פעיל של מפלגה כלשהי?",
+        "questionSurveyId": "b47",
+        "type": "category",
+        "englishDescription": "supporter, member or official of any party"
+    },
+    {
+        "id": "33. באיזו מידה אתה מתעניין בתוצאות הבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה מתעניין בתוצאות הבחירות לכנסת?",
+        "questionSurveyId": "c13",
+        "type": "category",
+        "englishDescription": "extent of interest in the knesset voting results"
+    },
+    {
+        "id": "3. עם איזה זרם פוליטי אתה מזדהה?",
+        "questionHebrewDescription": "עם איזה זרם פוליטי אתה מזדהה?",
+        "questionSurveyId": "c19",
+        "type": "category",
+        "englishDescription": "identification with political trend"
+    },
+    {
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "b51",
+        "type": "category",
+        "englishDescription": "the most important factor in determining knesset vote"
+    },
+    {
+        "id": "3. ישנם גורמים שונים עיקריים המביאים אדם להצביע למפלגה מסויימת. האם לדעתך יש גורם אחד בולט, הנראה לך כחשוב מכולם בקביעת הצבעתך?",
+        "questionHebrewDescription": "ישנם גורמים שונים עיקריים המביאים אדם להצביע למפלגה מסויימת. האם לדעתך יש גורם אחד בולט, הנראה לך כחשוב מכולם בקביעת הצבעתך?",
+        "questionSurveyId": "b50",
+        "type": "category",
+        "englishDescription": "identif.with party stand on issues-most import.factor in determ.knesset vote"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "b48",
+        "type": "category",
+        "englishDescription": "will you vote in next knesset elections?for which party?"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "c7",
+        "type": "category",
+        "englishDescription": "respondent's vote for knesset party in 1965"
+    },
+    {
+        "id": "172. עבור איזו רשימה תצביע לעירייה?",
+        "questionHebrewDescription": "עבור איזו רשימה תצביע לעירייה?",
+        "questionSurveyId": "b56",
+        "type": "category",
+        "englishDescription": "which party will you vote for for the municipality?"
+    },
+    {
+        "id": "173. עבור איזו רשימה הצבעת לעירייה בבחירות הקודמות?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת לעירייה בבחירות הקודמות?",
+        "questionSurveyId": "c8",
+        "type": "category",
+        "englishDescription": "respondent's vote for municipality party in 1965"
+    },
+    {
+        "id": "174. ישנם מספר גורמים עיקריים המביאים אדם להצביע למפלגה מסויימת. האם בין הגורמים האלה יש אחד בולט, הנראה לך כחשוב מכולם בהצבעתך לעירייה?",
+        "questionHebrewDescription": "ישנם מספר גורמים עיקריים המביאים אדם להצביע למפלגה מסויימת. האם בין הגורמים האלה יש אחד בולט, הנראה לך כחשוב מכולם בהצבעתך לעירייה?",
+        "questionSurveyId": "c4",
+        "type": "category",
+        "englishDescription": "identif.with party's position-most import.factor in determ.municip.vote"
+    },
+    {
+        "id": "175. איזה הוא הגורם שלדעתך חשיבותו הרבה ביותר משל האחרים בהצבעתך לעירייה?",
+        "questionHebrewDescription": "איזה הוא הגורם שלדעתך חשיבותו הרבה ביותר משל האחרים בהצבעתך לעירייה?",
+        "questionSurveyId": "c5",
+        "type": "category",
+        "englishDescription": "the most important factor in determining municipality vote"
+    },
+    {
+        "id": "176. האם הצבעת לעירייה בעד אותה רשימה עבורה הצבעת לכנסת?",
+        "questionHebrewDescription": "האם הצבעת לעירייה בעד אותה רשימה עבורה הצבעת לכנסת?",
+        "questionSurveyId": "b54",
+        "type": "category",
+        "englishDescription": "will you vote for the same party for the knesset and the municipality?"
+    },
+    {
+        "id": "183. יש הטוענים שאם הבוחר אינו מייחס חשיבות לתוצאות הבחירות, מוטב שלא יצביע בכלל. מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שאם הבוחר אינו מייחס חשיבות לתוצאות הבחירות, מוטב שלא יצביע בכלל. מה דעתך?",
+        "questionSurveyId": "c17",
+        "type": "category",
+        "englishDescription": "agreement-it's better not vote than vote but not think results are important"
+    },
+    {
+        "id": "194. באיזה אופן מסע הבחירות השפיע על החלטתך איך להצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזה אופן מסע הבחירות השפיע על החלטתך איך להצביע בבחירות לכנסת?",
+        "questionSurveyId": "c11",
+        "type": "category",
+        "englishDescription": "influence of electoral campaign on your voting decision for knesset"
+    },
+    {
+        "id": "71. מה לדעתך סיכויי הרשימה עבורה תצביע להיות בעלת השפעה ומשקל בכנסת הבאה?",
+        "questionHebrewDescription": "מה לדעתך סיכויי הרשימה עבורה תצביע להיות בעלת השפעה ומשקל בכנסת הבאה?",
+        "questionSurveyId": "b53",
+        "type": "category",
+        "englishDescription": "chance party you'll vote for will be influent./important in next knesset"
+    },
+    {
+        "id": "1. בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionHebrewDescription": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+        "questionSurveyId": "c26",
+        "type": "category",
+        "englishDescription": "concerning to the economic structure of the country-do you support socialist or"
+    },
+    {
+        "id": "83. עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionHebrewDescription": "עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionSurveyId": "c10",
+        "type": "category",
+        "englishDescription": "did you vote for the histadrut?for which party?"
+    },
+    {
+        "id": "5. האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionHebrewDescription": "האם לדעתך ממשלת ישראל צריכה או לא צריכה לדאוג לכך שהחיים הציבורים במדינה יתנהלו על פי המסורת הדתית היהודית?",
+        "questionSurveyId": "c25",
+        "type": "category",
+        "englishDescription": "should gov.ensure that public life is conduc.accord.to jewish relig.tradition?"
+    },
+    {
+        "id": "33. באיזו מידה היית תומך במדיניות תוקפנית מצד ישראל לגבי ארצות ערב?",
+        "questionHebrewDescription": "באיזו מידה היית תומך במדיניות תוקפנית מצד ישראל לגבי ארצות ערב?",
+        "questionSurveyId": "c27",
+        "type": "category",
+        "englishDescription": "extent of supporting an aggressive policy of israel towards the arab states"
+    },
+    {
+        "id": "54. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
+        "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
+        "questionSurveyId": "c16",
+        "type": "category",
+        "englishDescription": "agreement-few strong leaders more useful for state than all debates"
+    },
+    {
+        "id": "61. יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
+        "questionHebrewDescription": "יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
+        "questionSurveyId": "c14",
+        "type": "category",
+        "englishDescription": "agreement-elections do not actually affect policy"
+    },
+    {
+        "id": "20. האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionHebrewDescription": "האם אתה צופה בתשדירי הבחירות בטלוויזיה?",
+        "questionSurveyId": "b4",
+        "type": "category",
+        "englishDescription": "viewing of television electoral broadcasts"
+    },
+    {
+        "id": "22. האם ברצונך לראות יותר שידורי בחירות בטלוויזיה, כמו עכשיו או פחות?",
+        "questionHebrewDescription": "האם ברצונך לראות יותר שידורי בחירות בטלוויזיה, כמו עכשיו או פחות?",
+        "questionSurveyId": "b5",
+        "type": "category",
+        "englishDescription": "would you like see more/less tv electoral broadcasts?"
+    },
+    {
+        "id": "39. האם אתה עוקב אחרי הסקרים המתפרסמים לגבי הבחירות?",
+        "questionHebrewDescription": "האם אתה עוקב אחרי הסקרים המתפרסמים לגבי הבחירות?",
+        "questionSurveyId": "b41",
+        "type": "category",
+        "englishDescription": "reading opinion poll results in newspapers"
+    },
+    {
+        "id": "40. באיזו מידה אתה מאמין לסקרים אלו?",
+        "questionHebrewDescription": "באיזו מידה אתה מאמין לסקרים אלו?",
+        "questionSurveyId": "b42",
+        "type": "category",
+        "englishDescription": "faith in election polls"
+    },
+    {
+        "id": "41. האם לדעתך, לסקרים אלה יש או אין השפעה על הפוליטיקאים?",
+        "questionHebrewDescription": "האם לדעתך, לסקרים אלה יש או אין השפעה על הפוליטיקאים?",
+        "questionSurveyId": "b45",
+        "type": "category",
+        "englishDescription": "extent of these polls influence on the politicians"
+    },
+    {
+        "id": "42. האם לדעתך לסקרים אלה יש או אין השפעה על ציבור הבוחרים?",
+        "questionHebrewDescription": "האם לדעתך לסקרים אלה יש או אין השפעה על ציבור הבוחרים?",
+        "questionSurveyId": "b44",
+        "type": "category",
+        "englishDescription": "extent of these polls influence on the voting public"
+    },
+    {
+        "id": "52. לפניך כרטיס ובו סיבות שונות שצויינו ע\"י אנשים שנשאלו מדוע הם מסתכלים בשידורי בחירות בטלוויזיה, אנא ציין איזו מבין סיבות אלה נראת לך כעיקרית?",
+        "questionHebrewDescription": "לפניך כרטיס ובו סיבות שונות שצויינו ע\"י אנשים שנשאלו מדוע הם מסתכלים בשידורי בחירות בטלוויזיה, אנא ציין איזו מבין סיבות אלה נראת לך כעיקרית?",
+        "questionSurveyId": "b7",
+        "type": "category",
+        "englishDescription": "reasons for watching tv electoral broadcasts"
+    },
+    {
+        "id": "53. ובכרטיס זה שורת סיבות בגללן אנשים אינם מסתכלים בשידורי הבחירות בטלוויזיה, אנא ציין איזו נראת לך כסיבה העיקרית לאי הסתכלות בטלוויזיה?",
+        "questionHebrewDescription": "ובכרטיס זה שורת סיבות בגללן אנשים אינם מסתכלים בשידורי הבחירות בטלוויזיה, אנא ציין איזו נראת לך כסיבה העיקרית לאי הסתכלות בטלוויזיה?",
+        "questionSurveyId": "b9",
+        "type": "category",
+        "englishDescription": "reasons for avoiding tv electoral broadcasts"
+    },
+    {
+        "id": "74. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: לשמוע נימוקים על מנת שישמשו לי נשק בוויכוח פוליטי",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: לשמוע נימוקים על מנת שישמשו לי נשק בוויכוח פוליטי",
+        "questionSurveyId": "b10",
+        "type": "category",
+        "englishDescription": "watching tv to use arguments as ammunition in polit.debate-important factor?"
+    },
+    {
+        "id": "75. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להכיר את המנהיגים הפוליטיים",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להכיר את המנהיגים הפוליטיים",
+        "questionSurveyId": "b12",
+        "type": "category",
+        "englishDescription": "watching tv judge what political leaders are like-important factor?"
+    },
+    {
+        "id": "76. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להכיר את התוכניות הפוליטיות של המפלגות",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להכיר את התוכניות הפוליטיות של המפלגות",
+        "questionSurveyId": "b13",
+        "type": "category",
+        "englishDescription": "watching tv learn about the parties' political programs-important factor?"
+    },
+    {
+        "id": "77. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להבהיר לעצמי במי לבחור",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להבהיר לעצמי במי לבחור",
+        "questionSurveyId": "b15",
+        "type": "category",
+        "englishDescription": "watching tv help make up your mind how to vote-important factor?"
+    },
+    {
+        "id": "78. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת לעמוד מחדש את עמדת המפלגה שאני תומך בה",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת לעמוד מחדש את עמדת המפלגה שאני תומך בה",
+        "questionSurveyId": "b16",
+        "type": "category",
+        "englishDescription": "watching tv remind you of your party's strong points-important factor?"
+    },
+    {
+        "id": "79. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת לעזור לי להעריך את סיכויי ההצלחה של המפלגות",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת לעזור לי להעריך את סיכויי ההצלחה של המפלגות",
+        "questionSurveyId": "b18",
+        "type": "category",
+        "englishDescription": "watching tv judge who is likely to win the election-important factor?"
+    },
+    {
+        "id": "80. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להיות מעודכן במצב הפוליטי הכללי",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: על מנת להיות מעודכן במצב הפוליטי הכללי",
+        "questionSurveyId": "b19",
+        "type": "category",
+        "englishDescription": "watching tv keep up with the main issues of the day-important factor?"
+    },
+    {
+        "id": "81. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: אני נהנה מן המאבק והוויכוח הפוליטי",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: אני נהנה מן המאבק והוויכוח הפוליטי",
+        "questionSurveyId": "b21",
+        "type": "category",
+        "englishDescription": "watching tv enjoy election race and political debate-important factor?"
+    },
+    {
+        "id": "82. נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: כי זה השידור היחיד שאני יכול לקלוט בטלוויזיה באותו זמן",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת חשובה בעיניך: כי זה השידור היחיד שאני יכול לקלוט בטלוויזיה באותו זמן",
+        "questionSurveyId": "b22",
+        "type": "category",
+        "englishDescription": "watching tv-the only broadcast you can get at time-important factor?"
+    },
+    {
+        "id": "83. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: אינני מתעניין בפוליטיקה",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: אינני מתעניין בפוליטיקה",
+        "questionSurveyId": "b24",
+        "type": "category",
+        "englishDescription": "avoiding tv-not very interested in politics-important factor?"
+    },
+    {
+        "id": "84. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: מעדיף בידור בטלוויזיה",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: מעדיף בידור בטלוויזיה",
+        "questionSurveyId": "b25",
+        "type": "category",
+        "englishDescription": "avoiding tv-prefer entertainment on tv-important factor?"
+    },
+    {
+        "id": "85. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: אינני מאמין לטענות המפלגות",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: אינני מאמין לטענות המפלגות",
+        "questionSurveyId": "b28",
+        "type": "category",
+        "englishDescription": "avoiding tv-don't trust the parties' claims-important factor?"
+    },
+    {
+        "id": "86. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: משום שחלק מהמועמדים אינם מתייחסים ברצינות לקהל",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: משום שחלק מהמועמדים אינם מתייחסים ברצינות לקהל",
+        "questionSurveyId": "b29",
+        "type": "category",
+        "englishDescription": "avoiding tv-some candidates not take audience seriously-important factor?"
+    },
+    {
+        "id": "87. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: כבר החלטתי במי לבחור ואין לי צורך להסתכל",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: כבר החלטתי במי לבחור ואין לי צורך להסתכל",
+        "questionSurveyId": "b30",
+        "type": "category",
+        "englishDescription": "avoiding tv-already decided whom vote and there's no need-important factor?"
+    },
+    {
+        "id": "88. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: משום שלעיתים קרובות קשה לי להבין מה שהמועמדים רוצים להגיד",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: משום שלעיתים קרובות קשה לי להבין מה שהמועמדים רוצים להגיד",
+        "questionSurveyId": "b31",
+        "type": "category",
+        "englishDescription": "avoiding tv-can't understand what candidates are saying-important factor?"
+    },
+    {
+        "id": "89. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: אינני רוצה לפתוח את ביתי לתעמולה פוליטית",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: אינני רוצה לפתוח את ביתי לתעמולה פוליטית",
+        "questionSurveyId": "b33",
+        "type": "category",
+        "englishDescription": "avoiding tv-don't want open home to political propaganda-important factor?"
+    },
+    {
+        "id": "90. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: משום שאין להם שום דבר חדש לומר לי",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: משום שאין להם שום דבר חדש לומר לי",
+        "questionSurveyId": "b34",
+        "type": "category",
+        "englishDescription": "avoiding tv-broadcasts hardly say anything new-important factor?"
+    },
+    {
+        "id": "91. נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: כי אינני אוהב שהפוליטיקאים יסדרו אותי",
+        "questionHebrewDescription": "נעבור עתה לחוד, סיבה אחר סיבה שבגללן לא מסתכלים בשידורי הבחירות ולגבי כל אחת נבקש ממך לציין עד כמה היא נראת קובעת בעיניך: כי אינני אוהב שהפוליטיקאים יסדרו אותי",
+        "questionSurveyId": "b36",
+        "type": "category",
+        "englishDescription": "avoiding tv-dislike being 'got at' by politicians-important factor?"
+    },
+    {
+        "id": "92. איזה שידורי בחירות נראים לך מעניינים יותר?",
+        "questionHebrewDescription": "איזה שידורי בחירות נראים לך מעניינים יותר?",
+        "questionSurveyId": "b38",
+        "type": "category",
+        "englishDescription": "most interesting election broadcasts"
+    },
+    {
+        "id": "93. איזה שידורי בחירות נראים לך משכנעים יותר?",
+        "questionHebrewDescription": "איזה שידורי בחירות נראים לך משכנעים יותר?",
+        "questionSurveyId": "b39",
+        "type": "category",
+        "englishDescription": "most persuasive election broadcasts"
+    }
+]

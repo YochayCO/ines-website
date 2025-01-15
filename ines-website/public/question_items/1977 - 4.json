@@ -1,0 +1,205 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identity number"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "c24",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "c19",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "c20",
+        "type": "demography",
+        "englishDescription": "education"
+    },
+    {
+        "id": "18. אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionHebrewDescription": "אם לא נולד בארץ, באיזו שנה עלית ארצה?",
+        "questionSurveyId": "c30",
+        "type": "demography",
+        "englishDescription": "year of aliyah (immigration)"
+    },
+    {
+        "id": "28. מה מספר החדרים שיש לכם בבית?",
+        "questionHebrewDescription": "מה מספר החדרים שיש לכם בבית?",
+        "questionSurveyId": "c21",
+        "type": "demography",
+        "englishDescription": "number of rooms in dqwelling"
+    },
+    {
+        "id": "29. מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionHebrewDescription": "מה מספר הנפשות המתגוררות בבית? (כולל חיילים)",
+        "questionSurveyId": "c22",
+        "type": "demography",
+        "englishDescription": "number of persons living in household"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "c26",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "41. מהו מצבך התעסוקתי?",
+        "questionHebrewDescription": "מהו מצבך התעסוקתי?",
+        "questionSurveyId": "c27",
+        "type": "demography",
+        "englishDescription": "interviewee works"
+    },
+    {
+        "id": "42. מהו המצב התעסוקתי של בן/בת זוגך?",
+        "questionHebrewDescription": "מהו המצב התעסוקתי של בן/בת זוגך?",
+        "questionSurveyId": "c28",
+        "type": "demography",
+        "englishDescription": "spouse works"
+    },
+    {
+        "id": "57. מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionHebrewDescription": "מהי ההכנסה של משק הבית שלך מכל המקורות, אחרי ניכוי מיסים וניכויי חובה אחרים? ",
+        "questionSurveyId": "c25",
+        "type": "demography",
+        "englishDescription": "gross monthly income of entire household"
+    },
+    {
+        "id": "59. מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionHebrewDescription": "מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionSurveyId": "c23",
+        "type": "demography",
+        "englishDescription": "interviewee\"s gross monthly income"
+    },
+    {
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "c2",
+        "type": "category",
+        "englishDescription": "factors greatly influencing interviewee\"s vote"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "c16",
+        "type": "category",
+        "englishDescription": "party interviewee would vote for if elections held today"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "c14",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in the 1973 knesset elections"
+    },
+    {
+        "id": "30. עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "c15",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in the 1977 knesset elections"
+    },
+    {
+        "id": "158. בבחירות האחרונות אמרו שאנשים הצביעו בגלל יחסם למפלגה ולממשלה. איזה מהגורמים הבאים היה הגורם העיקרי אשר השפיע על הצבעתך בבחירות לכנסת?",
+        "questionHebrewDescription": "בבחירות האחרונות אמרו שאנשים הצביעו בגלל יחסם למפלגה ולממשלה. איזה מהגורמים הבאים היה הגורם העיקרי אשר השפיע על הצבעתך בבחירות לכנסת?",
+        "questionSurveyId": "c8",
+        "type": "category",
+        "englishDescription": "factor having greatest influence on interviewee\"s vote for the knesset"
+    },
+    {
+        "id": "159. מבין הבעיות העומדות בפני המדינה - איזו מהן היא בשבילך החשובה ביותר בהחלטתך איך להצביע בבחירות האחרונות לכנסת?",
+        "questionHebrewDescription": "מבין הבעיות העומדות בפני המדינה - איזו מהן היא בשבילך החשובה ביותר בהחלטתך איך להצביע בבחירות האחרונות לכנסת?",
+        "questionSurveyId": "c9",
+        "type": "category",
+        "englishDescription": "the problem facing the country that was most important for interviewee\"s decisio"
+    },
+    {
+        "id": "160. באיזו מידה אתה בטוח שבעתיד תמשיך לתמוך באותה מפלגה בה תמכת הפעם בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה בטוח שבעתיד תמשיך לתמוך באותה מפלגה בה תמכת הפעם בבחירות לכנסת?",
+        "questionSurveyId": "c12",
+        "type": "category",
+        "englishDescription": "to what extent interviewee is certain he will continue to support the same party"
+    },
+    {
+        "id": "57. באופן כללי, האם אתה מרוצה או לא מרוצה מתוצאות הבחירות?",
+        "questionHebrewDescription": "באופן כללי, האם אתה מרוצה או לא מרוצה מתוצאות הבחירות?",
+        "questionSurveyId": "c11",
+        "type": "category",
+        "englishDescription": "to what extent interviewee is satisfied with the knesset election results"
+    },
+    {
+        "id": "61. את מי מבין האישים הבאים היית רוצה לראות כראש ממשלה לאחר הבחירות לכנסת?",
+        "questionHebrewDescription": "את מי מבין האישים הבאים היית רוצה לראות כראש ממשלה לאחר הבחירות לכנסת?",
+        "questionSurveyId": "c10",
+        "type": "category",
+        "englishDescription": "interviewee\"s preference for prime minister"
+    },
+    {
+        "id": "83. עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionHebrewDescription": "עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionSurveyId": "c18",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in the last histadrut elections"
+    },
+    {
+        "id": "84. ולמי הצבעת בבחירות להסתדרות במערכת הקודמת לזו האחרונה?",
+        "questionHebrewDescription": "ולמי הצבעת בבחירות להסתדרות במערכת הקודמת לזו האחרונה?",
+        "questionSurveyId": "c17",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in the 1973 histadrut elections"
+    },
+    {
+        "id": "94. באיזו מידה ממשלה בראשות הליכוד תחזק או תחליש את המצב הכלכלי והחברתי במדינה?",
+        "questionHebrewDescription": "באיזו מידה ממשלה בראשות הליכוד תחזק או תחליש את המצב הכלכלי והחברתי במדינה?",
+        "questionSurveyId": "c5",
+        "type": "category",
+        "englishDescription": "to what extent a government headed by the likud will strengthen or weaken the co"
+    },
+    {
+        "id": "3. לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionHebrewDescription": "לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "c13",
+        "type": "category",
+        "englishDescription": "party position interviewee is closer to on foreign and security issues"
+    },
+    {
+        "id": "93. האם לדעתך יש או אין לעשות ויתור טריטוריאלי כלשהו ביו\"ש כדי להגיע להסכם שלום; אם כן, מהו הויתור הגדול ביותר שיש לעשות לדעתך?",
+        "questionHebrewDescription": "האם לדעתך יש או אין לעשות ויתור טריטוריאלי כלשהו ביו\"ש כדי להגיע להסכם שלום; אם כן, מהו הויתור הגדול ביותר שיש לעשות לדעתך?",
+        "questionSurveyId": "c7",
+        "type": "category",
+        "englishDescription": "the greatest amount of territory in the west bank that is to be given back in or"
+    },
+    {
+        "id": "109. באיזו מידה ממשלה בראשות הליכוד תקרב או תרחיק את השלום?",
+        "questionHebrewDescription": "באיזו מידה ממשלה בראשות הליכוד תקרב או תרחיק את השלום?",
+        "questionSurveyId": "c6",
+        "type": "category",
+        "englishDescription": "to what extent a government headed by the likud will improve or worsen the count"
+    },
+    {
+        "id": "54. האם לדעתך תעמולת הבחירות של הליכוד הייתה: ",
+        "questionHebrewDescription": "האם לדעתך תעמולת הבחירות של הליכוד הייתה: ",
+        "questionSurveyId": "c3",
+        "type": "category",
+        "englishDescription": "the success of the likud\"s election campaign"
+    },
+    {
+        "id": "55. האם לדעתך תעמולת הבחירות של המערך הייתה: ",
+        "questionHebrewDescription": "האם לדעתך תעמולת הבחירות של המערך הייתה: ",
+        "questionSurveyId": "c4",
+        "type": "category",
+        "englishDescription": "the success of the alignment\"s election campaign"
+    }
+]

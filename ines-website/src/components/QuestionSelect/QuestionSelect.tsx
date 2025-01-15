@@ -1,36 +1,38 @@
-import map from 'lodash/map'
+import { QuestionItemOption } from '../../types/survey'
+import CustomSelect from '../CustomSelect/CustomSelect'
 
-import Select, { SelectChangeEvent } from '@mui/material/Select'
-import FormControl from '@mui/material/FormControl'
-import InputLabel from '@mui/material/InputLabel'
-import MenuItem from '@mui/material/MenuItem'
-
-import { QuestionItem } from '../../assets/2022_web_meta'
+import './QuestionSelect.css'
 
 interface QuestionSelectProps {
     inputLabel: string; // label is the description / the question
     value: string; // value is the letter of the column
     onChange: (newValue: string) => void;
-    questionItems: QuestionItem[];
+    questionItems: QuestionItemOption[];
 }
 
 // A Select component for selecting a single question from a bunch of questions
-function QuestionSelect({ inputLabel, value, onChange, questionItems: questions }: QuestionSelectProps) {
-  const questionItems = map(questions, ({ column, description }) => {
-    return <MenuItem value={column} key={column}>{description}</MenuItem>
-  })
-  const handleChange = (event: SelectChangeEvent) => onChange(event.target.value as string)
-
+function QuestionSelect({ inputLabel, value, onChange, questionItems }: QuestionSelectProps) {
+  const options = questionItems.map(({ 
+    questionSurveyId,
+    questionHebrewDescription,
+    englishDescription,
+    type,
+    disabled
+  }) => ({ 
+    value: questionSurveyId, 
+    label: `${englishDescription} / ${questionHebrewDescription}`,
+    tooltipText: questionHebrewDescription,
+    className: type === 'demography' ? 'demography' : '',
+    disabled,
+  }))
+  
   return (
-    <>
-      <FormControl sx={{ m: 1, width: '100%' }}>
-        <InputLabel>{inputLabel}</InputLabel>
-        <Select value={value} onChange={handleChange}>
-          <MenuItem value=''><em>{inputLabel}</em></MenuItem>
-          {questionItems}
-        </Select>
-      </FormControl>
-    </>
+    <CustomSelect
+      inputLabel={inputLabel}
+      options={options}
+      value={value}
+      onChange={onChange}
+    />
   )
 }
 

@@ -1,0 +1,7 @@
+{
+    "id": "2020",
+    "weights": {
+        "all": "weights_panel_1"
+    },
+    "sectorFieldName": "sector"
+}

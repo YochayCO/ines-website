@@ -1,55 +1,42 @@
 import { useEffect, useState } from 'react'
-import map from 'lodash/map'
-import QuestionSelect from '../QuestionSelect/QuestionSelect'
 
-import { QuestionItem, SurveyMetadata } from '../../assets/2022_web_meta'
-import EXAMPLE_SURVEY_META from '../../assets/2022_web_meta.json'
-import SURVEY_PEOPLE_DATA_EXAMPLE from '../../assets/2022_web_people.json'
-import { PersonData } from '../../assets/2022_web_people'
+import SurveyOptions from '../../assets/surveyOptions.json'
+import { Survey } from '../../types/survey';
+import { fetchSurvey } from '../../utils/survey'
+import CustomSelect from '../CustomSelect/CustomSelect'
+import InnerPlotter from './InnerPlotter';
 
 import './Plotter.css'
 
-// TODO: replace examples with actual fetch actions
-const surveyMeta = EXAMPLE_SURVEY_META as SurveyMetadata
-const surveyPeople = SURVEY_PEOPLE_DATA_EXAMPLE as PersonData[]
-
 function Plotter() {
-  // x & y are the column letters of the selected questions
-  const [x, setX] = useState('')
-  const [y, setY] = useState('')
-  const [peopleData, setPeopleData] = useState<PersonData[]>([])
-
-  useEffect(() => {
-    // If one of the columns is unselected, remove the current graph
-    if (!x || !y) {
-      !!peopleData && setPeopleData([])
+  const [surveyId, setSurveyId] = useState<string>('')
+  const [survey, setSurvey] = useState<Survey | null>(null)
+  
+  async function updateSurvey (surveyId: string) {
+    if (!surveyId) {
+      setSurvey(null)
       return
     }
 
-    // TODO: fetch real data
-    setPeopleData(surveyPeople)
-  }, [x,y])
+    const survey = await fetchSurvey(surveyId)
+    setSurvey(survey)
+  }
 
-  const allQuestionItems: QuestionItem[] = map(surveyMeta.questions, (qi) => qi)
-  const quantityQuestionItems: QuestionItem[] = allQuestionItems.filter((qi) => qi.type == 'quantity')
+  useEffect(() => {
+    updateSurvey(surveyId)
+  }, [surveyId])
+
+  const surveyItems = SurveyOptions.map(({ id, title }) => ({ value: id, label: title }))
   
   return (
     <>
-      <h2>Plot away!</h2>
-      <QuestionSelect 
-        inputLabel='Select question for X Axis' 
-        value={x} 
-        onChange={setX}
-        questionItems={allQuestionItems}
+      <CustomSelect 
+        inputLabel='Select survey'
+        value={surveyId}
+        onChange={setSurveyId}
+        options={surveyItems}
       />
-      <QuestionSelect 
-        inputLabel='Select question for Y Axis' 
-        value={y}
-        onChange={setY}
-        questionItems={quantityQuestionItems}
-      />
-      {/* TODO: Graph will appear here */}
-      People Data: {peopleData?.length}
+      {!!survey && <InnerPlotter survey={survey} />}
     </>
   )
 }

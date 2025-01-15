@@ -1,0 +1,11 @@
+.bubbleplot-container {
+    height: 90dvh;
+    font-weight: 600;
+}
+
+.tooltip {
+    background-color: white;
+    border: solid 1px gray;
+    padding: 8px 16px;
+    border-radius: 12px;
+}

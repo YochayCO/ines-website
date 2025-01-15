@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src/assets/statas
+# public/question_items
+public/surveys_data
+.vercel
+*.tar

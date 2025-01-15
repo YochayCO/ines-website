@@ -1,0 +1,408 @@
+[
+    {
+        "id": "1. ID",
+        "questionHebrewDescription": "ID",
+        "questionSurveyId": "v1",
+        "type": "demography",
+        "englishDescription": "identity number"
+    },
+    {
+        "id": "9. גיל",
+        "questionHebrewDescription": "גיל",
+        "questionSurveyId": "f54",
+        "type": "demography",
+        "englishDescription": "age"
+    },
+    {
+        "id": "12. מגדר",
+        "questionHebrewDescription": "מגדר",
+        "questionSurveyId": "f52",
+        "type": "demography",
+        "englishDescription": "sex"
+    },
+    {
+        "id": "14. כמה שנים למדת במסגרת מסודרת?",
+        "questionHebrewDescription": "כמה שנים למדת במסגרת מסודרת?",
+        "questionSurveyId": "f53",
+        "type": "demography",
+        "englishDescription": "years of schooling"
+    },
+    {
+        "id": "17. ארץ לידה/מוצא אב",
+        "questionHebrewDescription": "ארץ לידה/מוצא אב",
+        "questionSurveyId": "f58",
+        "type": "demography",
+        "englishDescription": "place of birth/father's place of birth"
+    },
+    {
+        "id": "34. באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionHebrewDescription": "באיזו מידה אתה נוהג לשמור על המסורת הדתית?",
+        "questionSurveyId": "f56",
+        "type": "demography",
+        "englishDescription": "interviewee observes religious traditions"
+    },
+    {
+        "id": "46. תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionHebrewDescription": "תאר בצורה מפורטת את עיסוקך או את עבודתך העיקרית",
+        "questionSurveyId": "f57",
+        "type": "demography",
+        "englishDescription": "occupation"
+    },
+    {
+        "id": "59. מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionHebrewDescription": "מהי ההכנסה החודשית ברוטו שלך בלבד?",
+        "questionSurveyId": "f55",
+        "type": "demography",
+        "englishDescription": "gross monthly household income"
+    },
+    {
+        "id": "3. מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
+        "questionSurveyId": "f42",
+        "type": "category",
+        "englishDescription": "the first of the two most important problems the governmnent should take care of"
+    },
+    {
+        "id": "4. והבעיה השנייה הכי חשובה?",
+        "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
+        "questionSurveyId": "f43",
+        "type": "category",
+        "englishDescription": "the second problem government should take care of"
+    },
+    {
+        "id": "98. באיזו מידה הוטב או הורע מצבה של ישראל, באופן כללי, בעקבות מלחמת יום כיפור?",
+        "questionHebrewDescription": "באיזו מידה הוטב או הורע מצבה של ישראל, באופן כללי, בעקבות מלחמת יום כיפור?",
+        "questionSurveyId": "f2",
+        "type": "category",
+        "englishDescription": "to what extent israel's situation changed for better or for worse as a consequen"
+    },
+    {
+        "id": "99. באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: הממשלה",
+        "questionHebrewDescription": "באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: הממשלה",
+        "questionSurveyId": "f3",
+        "type": "category",
+        "englishDescription": "to what extent the government is responsible for the change in israel's situatio"
+    },
+    {
+        "id": "100. באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: הפיקוד הבכיר של צה\"ל",
+        "questionHebrewDescription": "באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: הפיקוד הבכיר של צה\"ל",
+        "questionSurveyId": "f4",
+        "type": "category",
+        "englishDescription": "to what extent the top echelon of the army is responsible for the change in isra"
+    },
+    {
+        "id": "101. באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: ארצות ערב",
+        "questionHebrewDescription": "באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: ארצות ערב",
+        "questionSurveyId": "f5",
+        "type": "category",
+        "englishDescription": "to what extent the arab countries are responsible for israel's present situation"
+    },
+    {
+        "id": "102. באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: המעצמות הגדולות",
+        "questionHebrewDescription": "באיזו מידה אחראי כל אחד מן הגורמים הבאים לשינוי שחל במצבנו: המעצמות הגדולות",
+        "questionSurveyId": "f6",
+        "type": "category",
+        "englishDescription": "to what extent the great powers are responsible for israel's present situation"
+    },
+    {
+        "id": "103. באיזו מידה אתה מאמין וסומך על עבודת הממשלה תחת מנהיגותה של הגב' גולדה מאיר במשך 4 השנים האחרונות?",
+        "questionHebrewDescription": "באיזו מידה אתה מאמין וסומך על עבודת הממשלה תחת מנהיגותה של הגב' גולדה מאיר במשך 4 השנים האחרונות?",
+        "questionSurveyId": "f41",
+        "type": "category",
+        "englishDescription": "to what extent interivewee believed and trusted the govt's work under golda meir"
+    },
+    {
+        "id": "23. האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "questionHebrewDescription": "האם לדעתך קיימים או לא קיימים הבדלים בעמדותיהן של המפלגות העיקריות בארץ בנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "f48",
+        "type": "category",
+        "englishDescription": "a difference exists between the alignment and the likud in their approach to for"
+    },
+    {
+        "id": "148. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: גולדה מאיר",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: גולדה מאיר",
+        "questionSurveyId": "f27",
+        "type": "category",
+        "englishDescription": "golda meir"
+    },
+    {
+        "id": "149. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: משה דיין",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: משה דיין",
+        "questionSurveyId": "f28",
+        "type": "category",
+        "englishDescription": "moshe dayan"
+    },
+    {
+        "id": "150. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: מנחם בגין",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: מנחם בגין",
+        "questionSurveyId": "f29",
+        "type": "category",
+        "englishDescription": "menachem begin"
+    },
+    {
+        "id": "151. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: פנחס ספיר",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: פנחס ספיר",
+        "questionSurveyId": "f30",
+        "type": "category",
+        "englishDescription": "pinchas sapir"
+    },
+    {
+        "id": "152. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: אריק שרון",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: אריק שרון",
+        "questionSurveyId": "f31",
+        "type": "category",
+        "englishDescription": "arik sharon"
+    },
+    {
+        "id": "153. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: חיים בר-לב",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: חיים בר-לב",
+        "questionSurveyId": "f32",
+        "type": "category",
+        "englishDescription": "haim bar-lev"
+    },
+    {
+        "id": "154. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: אריה אליאב",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: אריה אליאב",
+        "questionSurveyId": "f33",
+        "type": "category",
+        "englishDescription": "arieh (luba) eliav"
+    },
+    {
+        "id": "155. האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: מאיר פעיל",
+        "questionHebrewDescription": "האם מלחמת יום כיפור גרמה, באופן כללי, לשינוי דעתך על האישים הבאים: מאיר פעיל",
+        "questionSurveyId": "f34",
+        "type": "category",
+        "englishDescription": "meir pa'il"
+    },
+    {
+        "id": "232. מיהו לדעתך המועמד המתאים ביותר לכהונת ראש ממשלה?",
+        "questionHebrewDescription": "מיהו לדעתך המועמד המתאים ביותר לכהונת ראש ממשלה?",
+        "questionSurveyId": "f38",
+        "type": "category",
+        "englishDescription": "interviewee preference for prime minister"
+    },
+    {
+        "id": "233. מיהו לדעתך המועמד המתאים ביותר לכהונת שר הבטחון?",
+        "questionHebrewDescription": "מיהו לדעתך המועמד המתאים ביותר לכהונת שר הבטחון?",
+        "questionSurveyId": "f39",
+        "type": "category",
+        "englishDescription": "interviewee preference for defense minister"
+    },
+    {
+        "id": "234. מיהו לדעתך המועמד המתאים ביותר לכהונת שר החוץ?",
+        "questionHebrewDescription": "מיהו לדעתך המועמד המתאים ביותר לכהונת שר החוץ?",
+        "questionSurveyId": "f40",
+        "type": "category",
+        "englishDescription": "interviewee preference for foreign minister"
+    },
+    {
+        "id": "1. ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionHebrewDescription": "ישנם גורמים שונים בגללם אנשים יצביעו דווקא למפלגה מסוימת בכנסת. מבין הגורמים הבאים, מהוא הגורם העיקרי המשפיע עליך להצבעה למפלגה מסוימת?",
+        "questionSurveyId": "f17",
+        "type": "category",
+        "englishDescription": "main factor helping interviewee whom to vote for"
+    },
+    {
+        "id": "20. לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionHebrewDescription": "לו הבחירות לכנסת היו נערכות היום, עבור איזו רשימה היית מצביע?",
+        "questionSurveyId": "f50",
+        "type": "category",
+        "englishDescription": "party interviewee intends to vote for in coming knesset elections"
+    },
+    {
+        "id": "22. עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "עבור איזו רשימה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "f49",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in 1969 knesset elections"
+    },
+    {
+        "id": "48. באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה תשדירי הבחירות בטלוויזיה יעזרו לך להחליט עבור מי להצביע?",
+        "questionSurveyId": "f19",
+        "type": "category",
+        "englishDescription": "to what extent the election campaign will help interviewee whom to vote for"
+    },
+    {
+        "id": "49. באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה המודעות בעיתונים משפיעות על החלטתך עבור מי להצביע?",
+        "questionSurveyId": "f20",
+        "type": "category",
+        "englishDescription": "to what extent parties' ads in the press will help decide whom to vote for"
+    },
+    {
+        "id": "53. באיזו מידה אתה חושב שחוגי בית יעזרו לך להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שחוגי בית יעזרו לך להחליט בעד מי להצביע?",
+        "questionSurveyId": "f21",
+        "type": "category",
+        "englishDescription": "to what extent house meetings will help decide whom to vote for"
+    },
+    {
+        "id": "54. באיזו מידה אתה חושב שאסיפות יעזרו לך להחליט בעד מי להצביע?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שאסיפות יעזרו לך להחליט בעד מי להצביע?",
+        "questionSurveyId": "f22",
+        "type": "category",
+        "englishDescription": "to what extent general party meetings will help decide whom to vote for"
+    },
+    {
+        "id": "55. יש אנשים שלא מצביעים בבחירות מסיבה כזו או אחרת. האם אתה מתכוון להצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "יש אנשים שלא מצביעים בבחירות מסיבה כזו או אחרת. האם אתה מתכוון להצביע בבחירות לכנסת?",
+        "questionSurveyId": "f14",
+        "type": "category",
+        "englishDescription": "interviewee intends to vote in next knesset elections"
+    },
+    {
+        "id": "56. מה הסיבה שאינך מתכוון ללכת להצביע בבחירות הקרובות לכנסת?",
+        "questionHebrewDescription": "מה הסיבה שאינך מתכוון ללכת להצביע בבחירות הקרובות לכנסת?",
+        "questionSurveyId": "f16",
+        "type": "category",
+        "englishDescription": "reasons for not voting in next elections"
+    },
+    {
+        "id": "136. באיזו מידה אתה בטוח או שאינך בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionHebrewDescription": "באיזו מידה אתה בטוח או שאינך בטוח בעד מי תצביע בבחירות לכנסת?",
+        "questionSurveyId": "f15",
+        "type": "category",
+        "englishDescription": "to what extent interviewee is certain whom he is going to vote for"
+    },
+    {
+        "id": "167. האם שינית את החלטתך בעד איזו מפלגה להצביע בעקבות מלחמת יום כיפור?",
+        "questionHebrewDescription": "האם שינית את החלטתך בעד איזו מפלגה להצביע בעקבות מלחמת יום כיפור?",
+        "questionSurveyId": "f25",
+        "type": "category",
+        "englishDescription": "interviewee changed his mind about which party to vote for as a consequence of t"
+    },
+    {
+        "id": "186. האם אתה מתכונן להצביע בעד אותה מפלגה שבשבילה הצבעת בבחירות הקודמות לכנסת?",
+        "questionHebrewDescription": "האם אתה מתכונן להצביע בעד אותה מפלגה שבשבילה הצבעת בבחירות הקודמות לכנסת?",
+        "questionSurveyId": "f26",
+        "type": "category",
+        "englishDescription": "interviewee will vote for same party he voted for in 1969 knesset elections"
+    },
+    {
+        "id": "52. האם יש להקים היום ממשלת אחדות לאומית?",
+        "questionHebrewDescription": "האם יש להקים היום ממשלת אחדות לאומית?",
+        "questionSurveyId": "f9",
+        "type": "category",
+        "englishDescription": "there should be a national unity government now"
+    },
+    {
+        "id": "68. האם לדעתך מלחמת יום כיפור שינתה את סיכויי המערך בבחירות לכנסת לעומת אלו שהיו לפני המלחמה?",
+        "questionHebrewDescription": "האם לדעתך מלחמת יום כיפור שינתה את סיכויי המערך בבחירות לכנסת לעומת אלו שהיו לפני המלחמה?",
+        "questionSurveyId": "f35",
+        "type": "category",
+        "englishDescription": "the yom kippur war had an influence on the alignment's chances in knesset electi"
+    },
+    {
+        "id": "69. האם לדעתך מלחמת יום כיפור שינתה את סיכויי הליכוד בבחירות לכנסת לעומת אלו שהיו לפני המלחמה?",
+        "questionHebrewDescription": "האם לדעתך מלחמת יום כיפור שינתה את סיכויי הליכוד בבחירות לכנסת לעומת אלו שהיו לפני המלחמה?",
+        "questionSurveyId": "f36",
+        "type": "category",
+        "englishDescription": "the yom kippur war had an influence on the likud's chances in knesset elections"
+    },
+    {
+        "id": "70. האם לדעתך מלחמת יום כיפור שינתה את סיכויי הרשימות הבאות: מוקד, מר\"י, העולם הזה, שולמית אלוני, הפנתרים השחורים; לעומת אלו שהיו לפני המלחמה?",
+        "questionHebrewDescription": "האם לדעתך מלחמת יום כיפור שינתה את סיכויי הרשימות הבאות: מוקד, מר\"י, העולם הזה, שולמית אלוני, הפנתרים השחורים; לעומת אלו שהיו לפני המלחמה?",
+        "questionSurveyId": "f37",
+        "type": "category",
+        "englishDescription": "the yom kippur war influenced the chances of parties like moked,meri,shulamit al"
+    },
+    {
+        "id": "52. באיזו מידה הוכיח הליכוד כי הוא מסוגל או שאינו מסוגל להיות תחליף למערך בשלטון?",
+        "questionHebrewDescription": "באיזו מידה הוכיח הליכוד כי הוא מסוגל או שאינו מסוגל להיות תחליף למערך בשלטון?",
+        "questionSurveyId": "f46",
+        "type": "category",
+        "englishDescription": "to what extent the likud can substitute the labour party in government"
+    },
+    {
+        "id": "57. באיזו מידה אתה מעריך את הראיון שנתן חיים בר-לב לעיתונות חוץ כמעשה חיובי או שלילי?",
+        "questionHebrewDescription": "באיזו מידה אתה מעריך את הראיון שנתן חיים בר-לב לעיתונות חוץ כמעשה חיובי או שלילי?",
+        "questionSurveyId": "f11",
+        "type": "category",
+        "englishDescription": "haim bar-lev's interview with the foreign press is something positive or negativ"
+    },
+    {
+        "id": "58. האם לדעתך יש לקיים את הבחירות לכנסת ב-31 לדצמבר או לדחות אותן למועד מאוחר יותר?",
+        "questionHebrewDescription": "האם לדעתך יש לקיים את הבחירות לכנסת ב-31 לדצמבר או לדחות אותן למועד מאוחר יותר?",
+        "questionSurveyId": "f12",
+        "type": "category",
+        "englishDescription": "elections should be held on december 31st or should be postponed"
+    },
+    {
+        "id": "59. לכמה זמן, לדעתך, צריך לדחות את הבחירות?",
+        "questionHebrewDescription": "לכמה זמן, לדעתך, צריך לדחות את הבחירות?",
+        "questionSurveyId": "f13",
+        "type": "category",
+        "englishDescription": "period for which elections should be postponed"
+    },
+    {
+        "id": "83. עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionHebrewDescription": "עבור מי הצבעת בבחירות האחרונות להסתדרות?",
+        "questionSurveyId": "f51",
+        "type": "category",
+        "englishDescription": "party interviewee voted for in last histadrut elections"
+    },
+    {
+        "id": "3. לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionHebrewDescription": "לעמדה של מי אתה קרוב יותר בכל אחד מהנושאים הבאים: בטחון וטרור",
+        "questionSurveyId": "f47",
+        "type": "category",
+        "englishDescription": "party stand interviewee identifies with most on foreign and security issues"
+    },
+    {
+        "id": "133. באיזו מידה אתה חושב שהמדיניות של הממשלה בנושאי חוץ, בטחון ושלום (מאז מלחמת ששת הימים ועד מלחמת יום כיפור) הייתה מוצדקת?",
+        "questionHebrewDescription": "באיזו מידה אתה חושב שהמדיניות של הממשלה בנושאי חוץ, בטחון ושלום (מאז מלחמת ששת הימים ועד מלחמת יום כיפור) הייתה מוצדקת?",
+        "questionSurveyId": "f7",
+        "type": "category",
+        "englishDescription": "to what extent, from the six day war to the yom kippur war,gov.policy on foreign"
+    },
+    {
+        "id": "134. האם לדעתך בתקופה הנ\"ל הראתה הממשלה נכונות גבוהה או נמוכה לפשרות?",
+        "questionHebrewDescription": "האם לדעתך בתקופה הנ\"ל הראתה הממשלה נכונות גבוהה או נמוכה לפשרות?",
+        "questionSurveyId": "f8",
+        "type": "category",
+        "englishDescription": "in that period, to what extent the government showed readiness to compromise"
+    },
+    {
+        "id": "67. באיזו מידה מזיקה פוליטיזציה של צה\"ל לדמוקרטיה במדינה?",
+        "questionHebrewDescription": "באיזו מידה מזיקה פוליטיזציה של צה\"ל לדמוקרטיה במדינה?",
+        "questionSurveyId": "f10",
+        "type": "category",
+        "englishDescription": "to what extent politicization of the army is harmful to democracy"
+    },
+    {
+        "id": "68. האם לדעתך צריך להצביע לאופוזיציה, גם אם לא מסכימים עם כל דעותיה, כי חשוב שתהיה במדינה אופוזיציה חזקה?",
+        "questionHebrewDescription": "האם לדעתך צריך להצביע לאופוזיציה, גם אם לא מסכימים עם כל דעותיה, כי חשוב שתהיה במדינה אופוזיציה חזקה?",
+        "questionSurveyId": "f44",
+        "type": "category",
+        "englishDescription": "people should vote for the oppositon, even if they do not agree with it, since i"
+    },
+    {
+        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "questionSurveyId": "f45",
+        "type": "category",
+        "englishDescription": "the party in government has to be substituted even if it is doing a good job"
+    },
+    {
+        "id": "58. האם הייתה דרושה תעמולת בחירות לפני הבחירות?",
+        "questionHebrewDescription": "האם הייתה דרושה תעמולת בחירות לפני הבחירות?",
+        "questionSurveyId": "f18",
+        "type": "category",
+        "englishDescription": "it is necessary to have an election campaign today"
+    },
+    {
+        "id": "64. לקראת הבחירות לכנסת יהיו שידורים בטלוויזיה מטעם המפלגות. מי הוא המנהיג שהיית רוצה לראות ביותר בשידורים האלו?",
+        "questionHebrewDescription": "לקראת הבחירות לכנסת יהיו שידורים בטלוויזיה מטעם המפלגות. מי הוא המנהיג שהיית רוצה לראות ביותר בשידורים האלו?",
+        "questionSurveyId": "f23",
+        "type": "category",
+        "englishDescription": "leader interviewee would rather see in party advertisements on television"
+    },
+    {
+        "id": "68. איזה משתי הצורות הבאות של שידורי תעמולת הבחירות היית מעדיף?",
+        "questionHebrewDescription": "איזה משתי הצורות הבאות של שידורי תעמולת הבחירות היית מעדיף?",
+        "questionSurveyId": "f24",
+        "type": "category",
+        "englishDescription": "type of television ads for elections interviewee prefers"
+    }
+]
