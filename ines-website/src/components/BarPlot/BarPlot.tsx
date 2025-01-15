@@ -1,7 +1,7 @@
 import { ComputedDatum, ResponsiveBar } from '@nivo/bar' 
 import { BarGraphDatum } from '../../types/graph';
 import { RegularXTick } from '../AxisTick/AxisTick';
-import GraphQuestionTitle from '../GraphQuestionTitle/GraphQuestionTitle';
+import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
 
 import './BarPlot.css'
 
@@ -65,7 +65,7 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                 ]}
                 axisTop={{
                     tickValues: [],
-                    legend: <GraphQuestionTitle className='axis-legend' text={xTitle} maxLength={90} />,
+                    legend: <ClippedSvgText className='axis-legend' text={xTitle} maxLength={90} />,
                     legendPosition: 'start',
                     legendOffset: -80,
                 }}

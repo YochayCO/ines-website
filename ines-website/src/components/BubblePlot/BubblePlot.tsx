@@ -4,7 +4,7 @@ import { InheritedColorConfig } from '@nivo/colors'
 import { getAnswerFromLabel } from '../../utils/graph';
 import { BubbleGraphDatum, BubbleGraphSerie } from '../../types/graph';
 import { CustomTick, RegularXTick, RegularYTick } from '../AxisTick/AxisTick';
-import GraphQuestionTitle from '../GraphQuestionTitle/GraphQuestionTitle';
+import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
 
 import './BubblePlot.css'
 
@@ -71,7 +71,7 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                     renderTick: (tick) => RegularYTick(tick, data)
                 }}
                 axisLeft={{
-                    legend: <GraphQuestionTitle className='axis-legend' text={yTitle} maxLength={60} />,
+                    legend: <ClippedSvgText className='axis-legend' text={yTitle} maxLength={60} />,
                     legendPosition: 'start',
                     legendOffset: -60,
                     tickValues: [],
@@ -82,7 +82,7 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                         isHidden: isLabelHidden(tick.value), 
                         handleClick: handleXTickClick 
                     }),
-                    legend: <GraphQuestionTitle className='axis-legend' text={xTitle} maxLength={90} />,
+                    legend: <ClippedSvgText className='axis-legend' text={xTitle} maxLength={90} />,
                     legendPosition: 'start',
                     legendOffset: -80,
                 }}

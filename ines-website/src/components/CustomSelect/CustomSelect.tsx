@@ -21,7 +21,7 @@ interface CustomSelectProps {
 }
 
 // A Select component for selecting a single question from a bunch of questions
-function CustomSelect({ inputLabel, value, onChange, options: options, ...other }: CustomSelectProps) {
+function CustomSelect({ inputLabel, value, onChange, options, ...other }: CustomSelectProps) {
   const selectedOption = useMemo(() => options.find((option) => option.value === value) || null, [options, value])
   
   const handleChange = (_event: React.SyntheticEvent, option: CustomOption | null) => onChange(option?.value || '')
