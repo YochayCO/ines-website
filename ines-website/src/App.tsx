@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import FullscreenIcon from '@mui/icons-material/Fullscreen';
 import FullscreenExitIcon from '@mui/icons-material/FullscreenExit';
 import InfoExpander from './components/InfoExpander/InfoExpander';
@@ -9,21 +9,24 @@ import './App.css'
 function App() {
   const [isFullscreen, setFullscreen] = useState(false)
 
-  useEffect(() => {
-    if (document.fullscreenElement) {
-      document.exitFullscreen()
-    } else {
-      document.documentElement.requestFullscreen()
-    }
-  }, [isFullscreen])
-
   const toggleFullscreen = () => {
     if (!document.fullscreenEnabled) {
       console.log('fullscreen option not enabled')
       return
     }
 
-    setFullscreen((isFull) => !isFull)
+    // Avoiding useEffect because first render should not trigger fullscreen
+    setFullscreen((isFull) => {
+      if (isFull) {
+        // Should alread be full
+        if (document.fullscreenElement) document.exitFullscreen()
+          return false
+      } else {
+        // Should not be full
+        if (!document.fullscreenElement) document.documentElement.requestFullscreen()
+        return true
+      }
+    })
   }
 
   const fullscreenButtonProps = {
