@@ -16,6 +16,7 @@ export type WeightName = 'all' | 'arabs' | 'jews'
 
 export interface SurveyMetaBase {
     id: string;
+    dataLink: string;
     weights?: Record<WeightName, string>;
     sectorFieldName?: string;
     hiddenQuestionItems?: string[];

@@ -6,5 +6,6 @@
         "arabs": "w_arabs_panel1"
     },
     "sectorFieldName": "sector",
-    "hiddenQuestionItems": ["v8_code1", "v8_code2", "v8_code3"]
+    "hiddenQuestionItems": ["v8_code1", "v8_code2", "v8_code3"],
+    "dataLink": "https://socsci4.tau.ac.il/mu2/ines/data/our-data/#carousel_9cf0"
 }

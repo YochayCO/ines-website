@@ -1,5 +1,5 @@
 import { ReactNode, useEffect, useMemo, useState } from 'react';
-import { FormControlLabel, FormGroup, Switch, ToggleButton, ToggleButtonGroup } from '@mui/material';
+import { Button, FormControlLabel, FormGroup, Switch, ToggleButton, ToggleButtonGroup } from '@mui/material';
 import { BarGraphDatum, BubbleGraphSerie, SmartGraphProps } from '../../types/graph';
 import { WeightName } from '../../types/survey';
 import { getBarGraphData } from '../../utils/barGraph';
@@ -73,6 +73,18 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
         </div>
     )
 
+    const fullDataLink = (
+        <div className='full-data-btn-container'>
+            <Button
+                className='full-data-btn'
+                variant="outlined"
+                href={survey.meta.dataLink}
+                target='_blank'
+                rel='noreferrer'
+            >{'Full Data >>'}</Button>
+        </div>
+    )
+
     const effectiveResponsesIndicator = (
         <div className='responses-sum-container'>
             # of Responses:<div className='responses-sum'>{effectiveResponses}</div>
@@ -123,6 +135,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
             </div>
             <div className='graph'>
                 {smartPlot}
+                {fullDataLink}
             </div>
         </div>
     )

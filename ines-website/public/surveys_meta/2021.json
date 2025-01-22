@@ -3,5 +3,6 @@
     "weights": {
         "all": "weights_panel_1"
     },
-    "sectorFieldName": "sector"
+    "sectorFieldName": "sector",
+    "dataLink": "https://socsci4.tau.ac.il/mu2/ines/data/our-data/#carousel_ff67"
 }

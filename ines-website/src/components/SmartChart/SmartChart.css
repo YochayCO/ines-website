@@ -33,3 +33,13 @@
 .sector-select-group {
     margin-left: 6px;
 }
+
+
+.full-data-btn-container {
+    width: 1;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-root.MuiButton-outlined.full-data-btn {
+    margin: 24px;
+}
