@@ -86,17 +86,16 @@ If `/playground` is changed in the future: look for it in the app and update it 
 
 In your local environment:
 ```
-docker build -t ines-website-app:latest .
-docker save -o ines-website-app.tar ines-website-app:latest
-scp ines-website-app.tar  yochayc@132.66.66.57:~
+sudo ./build.sh [version]
 ```
+
 In the server:
 ```
-sudo docker stop ines-playground
-sudo docker rm ines-playground
-sudo docker rmi ines-website-app
-sudo docker load -i ines-website-app.tar 
-sudo docker run -d -p 8085:80 --name ines-playground ines-website-app:latest
+./deploy.sh [version]
+```
+
+You can verify the app is running with:
+```
 sudo docker ps
 sudo docker logs ines-playground
 ```
@@ -106,7 +105,7 @@ sudo docker logs ines-playground
 
 *Our main inputs:*
 
-## INES working file (index file for all survey questions)
+### INES working file (index file for all survey questions)
 Lists all questions from all surveys by category (tab), where "דמוגרפיה" is demography and the rest are "real" questions
 
 For each question (row) and survey (column) the cell indicates what was the id of the question in that survey.
@@ -125,3 +124,8 @@ For each question (row) and survey (column) the cell indicates what was the id o
 - Weigths exist only in the last few surveys, and they start with either `w_` or `weight_` (for example `w_panel1` or `w_jews_panel1`). They're **hardcoded** using this heuristic **to each survey meta json.**
 
 - Special values are treated like any other value
+
+### build & deploy scripts
+
+`build.sh` is in the root directory
+`deploy.sh` is in the root directory of the server. It can be easily edited from `src/scripts/deploy.sh`
