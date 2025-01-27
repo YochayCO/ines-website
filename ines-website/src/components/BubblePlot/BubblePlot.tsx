@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { PropertyAccessor } from '@nivo/core';
 import { ComputedCell, HeatMapDatum, ResponsiveHeatMap } from '@nivo/heatmap' 
 import { InheritedColorConfig } from '@nivo/colors'
@@ -17,6 +18,9 @@ interface BubblePlotProps {
 }
 
 export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAnswerClick }: BubblePlotProps) {
+    const [xSpacing, setXSpacing] = useState(0)
+    const [ySpacing, setYSpacing] = useState(0)
+
     const getLabel: PropertyAccessor<Omit<
         ComputedCell<HeatMapDatum & BubbleGraphDatum>, 
         "opacity" | "borderColor" | "label" | "labelTextColor" | "color"
@@ -34,7 +38,9 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
             return 'none';
         }
 
-        return d.data.ansType === 'normal' ? 'none' : 'yellow';
+        if (d.data.ansType === 'special') return '#ffff0070'
+        if (d.data.ansType === 'total') return '#1515ad50'
+        return '#47c04750' // Light green
     };
 
     const handleXTickClick = (label: string) => {
@@ -65,10 +71,19 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 20,
-                    renderTick: (tick) => RegularXTick(tick, data)
+                    renderTick: (tick) => {
+                        // Records the spacing between ticks when it changes
+                        // TODO: Find a tactick that is react-friendly
+                        if (tick.tickIndex === 0) setXSpacing(tick.x * 2)
+                        return RegularXTick(tick, data)
+                    },
                 }}
                 axisRight={{
-                    renderTick: (tick) => RegularYTick(tick, data)
+                    renderTick: (tick) => {
+                        // Records the spacing between ticks when it changes
+                        if (tick.tickIndex === 0) setYSpacing(tick.y * 2)
+                        return RegularYTick(tick, data)
+                    },
                 }}
                 axisLeft={{
                     legend: <ClippedSvgText className='axis-legend' text={yTitle} maxLength={60} />,
@@ -88,17 +103,30 @@ export default function BubblePlot({ data, xTitle, yTitle, hiddenAnswers, onXAns
                 }}
                 tooltip={({ cell }) => (
                     <div className='tooltip'>
+                        {cell.data.ansType === 'total' && <b>Total of </b>}
                         <b>X Answer</b>: {cell.data.origX}
-                        <br/>
-                        <b>Y Answer</b>: {cell.data.origId}
+                        {cell.data.ansType !== 'total' && (
+                            <>
+                                <br/>
+                                <b>Y Answer</b>: {cell.data.origId}
+                            </>
+                        )}
                     </div>
                 )}
-                colors={{ type: 'diverging', scheme: 'blues', divergeAt: 1 }}
+                colors={{ type: 'diverging', scheme: 'blues', divergeAt: 0.2 }}
                 borderColor={getBorderColor}
                 borderWidth={2}
                 labelTextColor={'black'}
                 motionConfig="stiff"
+                legends={[{
+                    anchor: 'bottom',
+                    translateY: -ySpacing,
+                    length: xSpacing * data[0].data.length,
+                    thickness: 6,
+                    direction: 'row',
+                    ticks: [],
+                }]}
             />
-        </div>
+            </div>
     );
 }

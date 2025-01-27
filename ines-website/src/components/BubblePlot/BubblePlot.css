@@ -9,3 +9,14 @@
     padding: 8px 16px;
     border-radius: 12px;
 }
+
+/* Together with nivo's colors - gives a good result */
+[data-testid*="cell."] > circle {
+    fill-opacity: 0.5;
+}
+
+/* Totals line style */
+.bubbleplot-container g:last-child > rect {
+    fill: #1515ad;
+    height: 1px;
+}

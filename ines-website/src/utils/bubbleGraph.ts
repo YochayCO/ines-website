@@ -14,7 +14,7 @@ export function getBubbleGraphData(
 
   const effectiveResponses = getBubbleGraphEffectiveN(graphData, options)
 
-  return { graphData: graphData, effectiveResponses }
+  return { graphData, effectiveResponses }
 }
 
 export function getBubbleGraphEffectiveN(
@@ -48,6 +48,7 @@ export function getBubbleGraphEffectiveN(
 
 // Add percentages to data
 // Sum up all the visible weights for each X and each serie (y param)
+// Create and concat "Totals" serie to data
 export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[]): BubbleGraphSerie[] {
   const yAnswers = getBubbleGraphYAnswers(initialGraphData)
   const yNormalAnswers = getNormalValues(yAnswers)
@@ -66,10 +67,10 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
     })
   })
 
-  const finalGraphData: BubbleGraphSerie[] = initialGraphData.map((serie, serieIndex) => {
+  const mainGraphData: BubbleGraphSerie[] = initialGraphData.map((serie) => {
     return {
       ...serie,
-      data: serie.data.map((datum: InitialBubbleGraphDatum, xIndex): BubbleGraphDatum => {
+      data: serie.data.map((datum: InitialBubbleGraphDatum): BubbleGraphDatum => {
         const isCellNormal = (
           yNormalAnswers.includes(serie.origId) &&
           xNormalAnswers.includes(datum.origX)
@@ -78,15 +79,32 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
         return {
           ...datum,
           y: Number((datum.y / weightSum * 100).toFixed(2)),
-          yByX: Number((datum.y / xWeights[xIndex] * 100).toFixed(2)),
-          yBySerie: Number((datum.y / serieWeights[serieIndex] * 100).toFixed(2)),
           ansType: isCellNormal ? 'normal' : 'special'
         }
       })
     }
   })
 
-  return finalGraphData
+  const totalsSerie: BubbleGraphSerie = {
+    id: 'Totals',
+    origId: 'Totals',
+    data: xAnswers.map((origX, xIndex) => {
+      const currXTotalWeight = xWeights[xIndex]
+
+      return {
+        x: getLabel(origX),
+        y: Number((currXTotalWeight / weightSum * 100).toFixed(2)),
+        ansType: 'total',
+        effectiveY: 0,
+        origX,
+        origId: 'Totals'
+      }
+    })
+  }
+
+  const finalData = mainGraphData.concat(totalsSerie)
+
+  return finalData
 }
 export function cleanBubbleGraphData(
   initialGraphData: InitialBubbleGraphSerie[],

@@ -2,7 +2,7 @@ import { BarDatum } from "@nivo/bar";
 import { HeatMapDatum, HeatMapSerie } from "@nivo/heatmap";
 import { Survey, QuestionItem, WeightName } from "./survey";
 
-export type AnswerType = 'normal' | 'special'
+export type AnswerType = 'normal' | 'special' | 'total'
 
 export interface BarGraphDatum extends BarDatum {
     group: string; 
@@ -16,16 +16,12 @@ export interface InitialBubbleGraphDatum extends HeatMapDatum {
     effectiveY: number;
     origX: string;
     origId: string;
-    yByX?: number;
-    yBySerie?: number
 }
 export type InitialBubbleGraphExtras = { origId: string; data: InitialBubbleGraphDatum[] }
 export type InitialBubbleGraphSerie = HeatMapSerie<HeatMapDatum, InitialBubbleGraphExtras>
 
 
 export interface BubbleGraphDatum extends InitialBubbleGraphDatum { 
-    yByX: number;
-    yBySerie: number; 
     ansType: AnswerType;
 }
 export type BubbleGraphExtras = { origId: string; data: BubbleGraphDatum[] }
