@@ -1,15 +1,45 @@
+.expander-description {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.MuiButtonBase-root.MuiIconButton-root.expander-btn {
+    margin-left: 6px;
+}
+
+.dialog-content h3 {
+    margin: 0 0 6px;
+    padding: 0;
+}
+
 .image {
     margin: 6px;
+    height: 68px;
+}
+
+.image.autocomplete-image {
+    height: 180px;
+    align-self: center;
+    border: 2px solid #d7e7f7;
+    border-radius: 10px;
 }
 
 .image-and-description {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 6px 0;
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+.image-and-description div {
+    align-self: start;
+}
+.image-and-description img {
+    align-self: end;
 }
 
 .icon-in-text {
     margin: 0 4px;
     vertical-align: text-bottom;
+}
+
+code {
+    margin: 0 2px;
 }
