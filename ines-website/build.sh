@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-SERVER="yochayc@132.66.66.57"
+SERVER="socsci"
 REMOTE_PATH="~/app-image-tars"
 IMAGE_NAME="ines-website-app"
 VERSION=$1
