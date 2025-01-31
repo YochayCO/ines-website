@@ -25,6 +25,7 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
         <div className='barplot-container'>
             <ResponsiveBar
                 data={data}
+                colorBy='id'
                 indexBy='group'
                 maxValue={100}
                 label={formattedLabel}
@@ -60,6 +61,34 @@ export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotPro
                         <b>Number of responses</b>: {data.effectiveN}
                     </div>
                 )}
+                defs={[
+                    {
+                        id: 'normal',
+                        type: 'linearGradient',
+                        colors: [
+                            { offset: 0, color: '#38bcb2' },
+                            { offset: 100, color: '#38bcb2' },
+                        ],
+                    },
+                    {
+                        id: 'special',
+                        type: 'linearGradient',
+                        colors: [
+                            { offset: 0, color: '#faf047' },
+                            { offset: 100, color: '#faf047' },
+                        ],
+                    }
+                ]}
+                fill={[
+                    {
+                        match: (d) => d.data.data.id === 'normal',
+                        id: 'normal'
+                    },
+                    {
+                        match: (d) => d.data.data.id === 'special',
+                        id: 'special'
+                    }
+                ]}
                 colors={{ scheme: 'category10' }}
                 borderWidth={2}
                 borderColor={{
