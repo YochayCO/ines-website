@@ -19,9 +19,11 @@ docker build -t $TAGGED_IMAGE_NAME .
 # Save the image to a tar file
 TAR_FILE="${IMAGE_NAME}-${VERSION}.tar"
 echo "Saving Docker image to $TAR_FILE..."
-sudo docker save -o $TAR_FILE $TAGGED_IMAGE_NAME &
+docker save -o $TAR_FILE $TAGGED_IMAGE_NAME &
 wait
 echo "Image saved to $TAR_FILE"
+
+git tag $VERSION
 
 # Transfer the image to the server
 echo "Transferring $TAR_FILE to the server..."
