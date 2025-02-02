@@ -1,5 +1,6 @@
 import { ReactNode, useEffect, useMemo, useState } from 'react';
 import { Button, FormControlLabel, FormGroup, Switch, ToggleButton, ToggleButtonGroup } from '@mui/material';
+import useScreenshotHandler from '../../hooks/useScreenshotHandler';
 import { BarGraphDatum, BubbleGraphSerie, SmartGraphProps } from '../../types/graph';
 import { WeightName } from '../../types/survey';
 import { getBarGraphData } from '../../utils/barGraph';
@@ -7,6 +8,7 @@ import { getBubbleGraphData } from '../../utils/bubbleGraph';
 import BarPlot from '../BarPlot/BarPlot';
 import BubblePlot from '../BubblePlot/BubblePlot';
 import { columnsNoOverlapMessage, noResultDefaultMessage, sectorNoResultMessage } from './EmptyChartMessages';
+import ScreenshotButton from '../ScreenshotButton/ScreenshotButton';
 
 import './SmartChart.css'
 
@@ -15,6 +17,7 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
     const [isSpecialVisible, setSpecialVisible] = useState(true)
     const [weightName, setWeightName] = useState<WeightName>('all')
     const [hiddenAnswers, setHiddenAnswers] = useState<string[]>([])
+    const { exportGraph, exportButtonRef, graphRef } = useScreenshotHandler()
 
     useEffect(() => {
         setHiddenAnswers([])
@@ -133,10 +136,11 @@ export default function SmartChart ({ survey, x, y }: SmartGraphProps) {
                 {weightNameMenu}
                 {effectiveResponsesIndicator}
             </div>
-            <div className='graph'>
+            <div id="graph" ref={graphRef}>
+                <ScreenshotButton exportGraph={exportGraph} exportButtonRef={exportButtonRef}  />
                 {smartPlot}
-                {fullDataLink}
             </div>
+            {fullDataLink}
         </div>
     )
 };

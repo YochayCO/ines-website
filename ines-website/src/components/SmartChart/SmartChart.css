@@ -14,9 +14,11 @@
     border-top-right-radius: 16px;
 }
 
-.graph {
+#graph {
+    position: relative;
     background-color: white;
     border-radius: inherit;
+    padding-top: 16px;
 }
 
 .responses-sum-container {
@@ -42,4 +44,11 @@
 }
 .MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-root.MuiButton-outlined.full-data-btn {
     margin: 24px;
+}
+
+#export-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
 }
