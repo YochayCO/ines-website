@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "v1",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "identity number"
     },
     {
@@ -11,6 +12,7 @@
         "questionHebrewDescription": "מקום הראיון",
         "questionSurveyId": "b159",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "locality of interview"
     },
     {
@@ -144,6 +146,7 @@
         "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
         "questionSurveyId": "b6",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "main problem government has to solve"
     },
     {

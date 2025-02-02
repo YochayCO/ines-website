@@ -1,4 +1,4 @@
-import { QuestionItemOption } from '../../types/survey'
+import { QuestionItem } from '../../types/survey'
 import CustomSelect from '../CustomSelect/CustomSelect'
 
 import './QuestionSelect.css'
@@ -7,7 +7,7 @@ interface QuestionSelectProps {
     inputLabel: string; // label is the description / the question
     value: string; // value is the letter of the column
     onChange: (newValue: string) => void;
-    questionItems: QuestionItemOption[];
+    questionItems: QuestionItem[];
 }
 
 // A Select component for selecting a single question from a bunch of questions

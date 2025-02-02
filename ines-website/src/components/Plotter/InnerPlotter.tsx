@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 
 import { Survey } from '../../types/survey';
-import { getQiOptions } from '../../utils/survey';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
 import SmartChart from '../SmartChart/SmartChart';
 
@@ -22,7 +21,7 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
     if (newX === '') setY('')
   }
 
-  const allQiOptions = getQiOptions(survey.meta)
+  const allQiOptions = survey.meta.questionItems
 
   const xQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === x)
   const yQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === y)

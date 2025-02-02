@@ -6,9 +6,6 @@ export interface QuestionItem {
     englishDescription: string
     questionSurveyId: string;
     type: QuestionType;
-}
-
-export interface QuestionItemOption extends QuestionItem {
     disabled?: boolean;
 }
 
@@ -19,7 +16,6 @@ export interface SurveyMetaBase {
     dataLink: string;
     weights?: Record<WeightName, string>;
     sectorFieldName?: string;
-    hiddenQuestionItems?: string[];
 }
 
 export interface SurveyMeta extends SurveyMetaBase {

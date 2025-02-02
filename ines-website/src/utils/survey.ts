@@ -1,18 +1,7 @@
 import Papa from 'papaparse'
-import { QuestionItemOption, Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
+import { QuestionItem, Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
 import { getRate } from './graph'
 import { fetchCSV, fetchJson } from './files'
-
-export function getQiOptions (meta: SurveyMeta): QuestionItemOption[] {
-    if (!meta.hiddenQuestionItems?.length) return meta.questionItems
-    
-    return meta.questionItems.map(qi => {
-        return {
-            ...qi,
-            disabled: meta.hiddenQuestionItems!.includes(qi.questionSurveyId),
-        }
-    })
-}
 
 async function fetchSurveyDataById(id: string): Promise<SurveyRows> {
     const surveyDataFile = `/surveys_data/${id}.csv`
@@ -34,10 +23,12 @@ async function fetchSurveyDataById(id: string): Promise<SurveyRows> {
 
 // TODO: really fetch when I know the data format
 async function getSurveyMetaById(id: string): Promise<SurveyMeta> {
-  const meta = await fetchJson(`/surveys_meta/${id}.json`)
-  const questionItems = await fetchJson(`/question_items/${id}.json`)
-  
-  return { ...(meta as SurveyMetaBase), questionItems } as SurveyMeta
+    const [meta, questionItems] = await Promise.all([
+        fetchJson(`/surveys_meta/${id}.json`),
+        fetchJson(`/question_items/${id}.json`)
+    ]);
+
+    return { ...(meta as SurveyMetaBase), questionItems: questionItems as QuestionItem[] };
 }
 
 export async function fetchSurvey(surveyId: string): Promise<Survey | null> {

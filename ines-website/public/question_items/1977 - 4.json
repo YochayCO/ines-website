@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "v1",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "identity number"
     },
     {

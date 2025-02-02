@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "v1",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "identity number"
     },
     {
@@ -60,6 +61,7 @@
         "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
         "questionSurveyId": "f42",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "the first of the two most important problems the governmnent should take care of"
     },
     {
@@ -67,6 +69,7 @@
         "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
         "questionSurveyId": "f43",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "the second problem government should take care of"
     },
     {

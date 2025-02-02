@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "a2",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "respondent id"
     },
     {
@@ -11,6 +12,7 @@
         "questionHebrewDescription": "תאריך",
         "questionSurveyId": "d32",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "day of interview"
     },
     {
@@ -18,6 +20,7 @@
         "questionHebrewDescription": "מקום הראיון",
         "questionSurveyId": "d29",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "place of interview"
     },
     {
@@ -172,6 +175,7 @@
         "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
         "questionSurveyId": "b23",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "the most important basic problem for israel today"
     },
     {
@@ -179,6 +183,7 @@
         "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
         "questionSurveyId": "b24",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "the second most important problem for israel today"
     },
     {
@@ -186,6 +191,7 @@
         "questionHebrewDescription": "והבעיה השלישית הכי חשובה?",
         "questionSurveyId": "b25",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "the third most important problem for israel today"
     },
     {

@@ -4,6 +4,7 @@
         "questionHebrewDescription": "מקום הראיון",
         "questionSurveyId": "v193",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "193. place of residence:"
     },
     {
@@ -214,6 +215,7 @@
         "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
         "questionSurveyId": "v8",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "8. what do you think is the most important problem the government should take ca"
     },
     {

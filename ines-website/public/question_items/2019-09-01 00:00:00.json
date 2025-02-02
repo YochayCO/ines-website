@@ -4,6 +4,7 @@
         "questionHebrewDescription": "תאריך",
         "questionSurveyId": "c_date_before",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": null
     },
     {
@@ -11,6 +12,7 @@
         "questionHebrewDescription": "תאריך פוסט בחירות",
         "questionSurveyId": "d_date_after",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": null
     },
     {

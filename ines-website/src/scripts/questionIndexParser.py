@@ -13,6 +13,12 @@ stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/si
 statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
 surveys_data_folder = os.path.join(scriptpath, "..", "..", "public/surveys_data")
 
+disabled_question_descriptions = [
+    "ID", "תאריך", "תאריך פוסט בחירות", "מקום הראיון", 
+    "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?", 
+    "והבעיה השנייה הכי חשובה?", "והבעיה השלישית הכי חשובה?"
+]
+
 def download_file(url: str, output_folder: str) -> str:
     """
     Downloads a file from a given URL and saves it in the specified output folder.
@@ -77,15 +83,21 @@ def create_question_items(question_index_file, excel_data, survey_options):
                 question_survey_id = row[orig_col]
 
                 # Skip if the cell is empty (question not asked in this survey)
-                if pd.notna(question_survey_id):
-                    # Create the questionItem object
-                    question_item = {
-                        "id": f"{row_index + 1}. {question_description}",  # id can also aid in sorting questions
-                        "questionHebrewDescription": question_description,
-                        "questionSurveyId": str(question_survey_id),  # Convert to string
-                        "type": question_type,
-                    }
-                    question_items_by_survey[col].append(question_item)
+                if pd.isna(question_survey_id):
+                    continue
+
+                # Create the questionItem object
+                question_item = {
+                    "id": f"{row_index + 1}. {question_description}",  # id can also aid in sorting questions
+                    "questionHebrewDescription": question_description,
+                    "questionSurveyId": str(question_survey_id),  # Convert to string
+                    "type": question_type,
+                }
+
+                is_disabled = question_description in disabled_question_descriptions
+                if is_disabled: question_item["disabled"] = "true"
+
+                question_items_by_survey[col].append(question_item)
     return question_items_by_survey
 
 def append_english_descriptions(question_items_by_survey, stata_filename: str, survey_id: str):

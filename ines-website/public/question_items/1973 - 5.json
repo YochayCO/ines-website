@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "v1",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "identity number"
     },
     {
@@ -11,6 +12,7 @@
         "questionHebrewDescription": "תאריך",
         "questionSurveyId": "h66",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "date of interview"
     },
     {
@@ -18,6 +20,7 @@
         "questionHebrewDescription": "מקום הראיון",
         "questionSurveyId": "h65",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "place of interview"
     },
     {

@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "resp_id",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "Respons Code"
     },
     {
@@ -11,6 +12,7 @@
         "questionHebrewDescription": "תאריך",
         "questionSurveyId": "date",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "Start Date"
     },
     {
@@ -18,7 +20,15 @@
         "questionHebrewDescription": "תאריך פוסט בחירות",
         "questionSurveyId": "date_after",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "Start Date"
+    },
+    {
+        "id": "5. סקטור",
+        "questionHebrewDescription": "סקטור",
+        "questionSurveyId": "sector",
+        "type": "demography",
+        "englishDescription": null
     },
     {
         "id": "9. גיל",
@@ -116,6 +126,7 @@
         "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
         "questionSurveyId": "v8c",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "In your opinion, what is the most important problem that the government has to d"
     },
     {

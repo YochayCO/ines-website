@@ -4,6 +4,7 @@
         "questionHebrewDescription": "ID",
         "questionSurveyId": "ID",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "ID"
     },
     {
@@ -11,6 +12,7 @@
         "questionHebrewDescription": "תאריך",
         "questionSurveyId": "date",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "date"
     },
     {
@@ -18,6 +20,7 @@
         "questionHebrewDescription": "תאריך פוסט בחירות",
         "questionSurveyId": "date_after",
         "type": "demography",
+        "disabled": "true",
         "englishDescription": "Start Date"
     },
     {
@@ -165,6 +168,7 @@
         "questionHebrewDescription": "מהי לדעתך הבעיה החשובה ביותר שעל הממשלה לטפל בה?",
         "questionSurveyId": "v8_code1",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "v8_code1"
     },
     {
@@ -172,6 +176,7 @@
         "questionHebrewDescription": "והבעיה השנייה הכי חשובה?",
         "questionSurveyId": "v8_code2",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "v8_code2"
     },
     {
@@ -179,6 +184,7 @@
         "questionHebrewDescription": "והבעיה השלישית הכי חשובה?",
         "questionSurveyId": "v8_code3",
         "type": "category",
+        "disabled": "true",
         "englishDescription": "v8_code3"
     },
     {
