@@ -14,17 +14,36 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  max-width: 100%;
 }
 
-.logos img {
+.logos > a {
   max-height: 120px;
   height: auto;
+  max-width: 48%;
 }
 
-.ines-logo {
-  max-width: 14%;
+.logos > a > img {
+  max-width: 100%;
 }
 
-.carrd-logo {
-  max-width: 84%;
+.mobile-info {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .logos > a {
+    max-width: 100%;
+  }
+
+  .mobile-info {
+    display: flex;
+    padding: 16px;
+    background-color: #fadcd7;
+    border-radius: 16px;
+    align-items: center;
+    gap: 16px;
+  }
 }

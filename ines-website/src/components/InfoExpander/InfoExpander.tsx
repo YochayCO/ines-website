@@ -94,7 +94,7 @@ export default function InfoExpander ({ children }: InfoExpanderProps) {
                         <br/><br/>
                         <h3>Want to report a bug?</h3>
                         All credits and complaints go to the developer:{' '}
-                        <a href='mailto:yochayc@mail.tau.ac.il'>Yochay Cohen-Or</a>
+                        <a href='mailto:yochayc@mail.tau.ac.il' target='_blank'>Yochay Cohen-Or</a>
                     </DialogContentText>
                 </DialogContent>
                 <DialogActions>
