@@ -1,0 +1,24 @@
+.graph-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    padding: 12px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.responses-sum-container {
+    display: flex;
+    align-items: center;
+}
+.responses-sum {
+    background-color: white;
+    padding: 6px 12px;
+    border-radius: 20px;
+    margin-left: 8px;
+}
+
+.sector-select-group {
+    margin-left: 6px;
+}

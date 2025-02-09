@@ -7,20 +7,13 @@ import './BarPlot.css'
 
 interface BarPlotProps { 
     data: BarGraphDatum[];
-    onBarClick?: (group: string) => void;
     xTitle: string;
     yTitle: string;
+    handleBarClick: (bar: ComputedDatum<BarGraphDatum>) => void;
+    formattedLabel: (bar: ComputedDatum<BarGraphDatum>) => string;
 }
 
-export default function BarPlot({ data, onBarClick, xTitle, yTitle }: BarPlotProps) {
-    const handleBarClick = (bar: ComputedDatum<BarGraphDatum>) => {
-        onBarClick?.(bar.indexValue as string)
-    }
-
-    const formattedLabel = (datum: ComputedDatum<BarGraphDatum>): string => {
-        return `${datum.formattedValue}%`
-    }
-
+export default function BarPlot({ data, xTitle, yTitle, handleBarClick, formattedLabel }: BarPlotProps) {
     return (
         <div className='barplot-container'>
             <ResponsiveBar

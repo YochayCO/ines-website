@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react'
 
 import { Survey } from '../../types/survey';
+import SmartBarPlot from '../BarPlot/SmartBarPlot';
+import SmartBubblePlot from '../BubblePlot/SmartBubblePlot';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
-import SmartChart from '../SmartChart/SmartChart';
 
 import './Plotter.css'
 
@@ -27,6 +28,15 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
   const yQuestionItem = allQiOptions.find(qi => qi.questionSurveyId === y)
 
   const isGraphVisible = !!xQuestionItem
+
+  let smartPlot: JSX.Element | null = null
+  if (!isGraphVisible) {
+    smartPlot = null
+  } else if (yQuestionItem) {
+    smartPlot = <SmartBubblePlot survey={survey} x={xQuestionItem} y={yQuestionItem} />
+  } else {
+    smartPlot = <SmartBarPlot survey={survey} x={xQuestionItem} />
+  }
   
   return (
     <>
@@ -44,13 +54,7 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
           questionItems={allQiOptions}
         />
       )}
-      {isGraphVisible && (
-        <SmartChart
-          survey={survey}
-          x={xQuestionItem}
-          y={yQuestionItem}
-        />
-      )}
+      {smartPlot}
     </>
   )
 }

@@ -1,4 +1,5 @@
 import { QuestionItem } from '../../types/survey'
+import { getQuestionTitle } from '../../utils/survey';
 import CustomSelect from '../CustomSelect/CustomSelect'
 
 import './QuestionSelect.css'
@@ -20,7 +21,7 @@ function QuestionSelect({ inputLabel, value, onChange, questionItems }: Question
     disabled
   }) => ({ 
     value: questionSurveyId, 
-    label: `${englishDescription} / ${questionHebrewDescription}`,
+    label: getQuestionTitle(englishDescription, questionHebrewDescription),
     tooltipText: questionHebrewDescription,
     className: type === 'demography' ? 'demography' : '',
     disabled,

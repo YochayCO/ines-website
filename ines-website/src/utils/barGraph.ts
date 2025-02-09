@@ -1,12 +1,17 @@
 import { sum, map } from "lodash";
-import { SmartGraphProps, BarGraphConfig, BarGraphDatum } from "../types/graph";
+import { BarGraphConfig, BarGraphDatum } from '../types/graph';
 import { getNormalValues, getLabel, getWeight } from "./graph";
 import { isCellAValidAnswer, sortByRate } from "./survey";
+import { Survey, QuestionItem } from "../types/survey";
 
+interface SmartBarPlotProps {
+    survey: Survey;
+    x: QuestionItem;
+}
 type InitialBarsData = Record<string, { effectiveN: number; totalWeight: number; }>;
 
 export function getBarGraphData(
-  { survey, x }: SmartGraphProps,
+  { survey, x }: SmartBarPlotProps,
   options: BarGraphConfig,
 ): { graphData: BarGraphDatum[]; effectiveResponses: number } {
     let initialBarsData = buildInitialGraphData({ survey, x }, options)
@@ -56,7 +61,7 @@ export function enrichBarGraphData(initialBarsData: InitialBarsData, options: { 
 }
 
 export function buildInitialGraphData(
-    { survey, x }: SmartGraphProps,
+    { survey, x }: SmartBarPlotProps,
     options: BarGraphConfig
 ): InitialBarsData {
     return survey.data.reduce((bars: InitialBarsData, row) => {

@@ -2,6 +2,8 @@ import Papa from 'papaparse'
 import { QuestionItem, Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
 import { getRate } from './graph'
 import { fetchCSV, fetchJson } from './files'
+import { SmartBubblePlotProps } from './bubbleGraph'
+import { SmartBarPlotProps } from '../types/graph'
 
 async function fetchSurveyDataById(id: string): Promise<SurveyRows> {
     const surveyDataFile = `/surveys_data/${id}.csv`
@@ -59,4 +61,33 @@ export function sortByRate(ansA: string, ansB: string) {
 // Null values and such
 export function isCellAValidAnswer (ans: unknown): boolean {
     return (typeof ans === 'string' && ans.trim() !== '')
+}
+
+export function getBubbleGraphAnswers({ survey, x: xQuestionItem, y: yQuestionItem }: SmartBubblePlotProps) {
+  const { x, y } = survey.data.reduce((sets, row) => {
+    const xAns = row[xQuestionItem.questionSurveyId];
+    const yAns = row[yQuestionItem.questionSurveyId];
+
+    if (!isCellAValidAnswer(xAns) || !isCellAValidAnswer(yAns)) return sets;
+
+    return { x: sets.x.add(xAns), y: sets.y.add(yAns) };
+  }, { x: new Set<string>(), y: new Set<string>() });
+
+  return { xAnswers: Array.from(x).sort(sortByRate), yAnswers: Array.from(y).sort(sortByRate) };
+}
+
+export function getBarGraphAnswers({ survey, x: xQuestionItem }: SmartBarPlotProps) {
+    const xSet = survey.data.reduce((set, row) => {
+        const xAns = row[xQuestionItem.questionSurveyId];
+
+        if (!isCellAValidAnswer(xAns)) return set;
+
+        return set.add(xAns);
+    }, new Set<string>());
+  
+    return Array.from(xSet).sort(sortByRate);
+}
+
+export function getQuestionTitle(englishDescription: string, hebrewDescription: string): string {
+    return `${englishDescription} / ${hebrewDescription}`
 }
