@@ -57,7 +57,7 @@ export default function BubblePlot({
                 axisRight={{
                     renderTick: (tick) => {
                         // Records the spacing between ticks when it changes
-                        if (tick.tickIndex === 0) xAxis.setSpacing(tick.y * 2)
+                        if (tick.tickIndex === 0) yAxis.setSpacing(tick.y * 2)
                         return RegularYTick(tick, graphData)
                     },
                 }}
@@ -104,7 +104,7 @@ export default function BubblePlot({
                     anchor: 'bottom',
                     translateY: -yAxis.spacing,
                     length: xAxis.spacing * graphData[0].data.length,
-                    thickness: 6,
+                    thickness: 0,
                     direction: 'row',
                     ticks: [],
                 }]}
