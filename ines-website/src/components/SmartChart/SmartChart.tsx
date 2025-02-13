@@ -26,23 +26,24 @@ const SmartChart = ({ children, surveyMeta, chartType, graphMeta, isGraphEmpty, 
     const { exportGraph, exportButtonRef, graphRef } = useScreenshotHandler()
     const { numOfEffectiveResponses } = graphMeta
 
-    let smartPlot: ReactNode
-    
+    const isColumnsNoOverlap = (chartType === 'bubble' && isGraphEmpty)
+
+    const smartPlot = isColumnsNoOverlap ? null : children
+
+    let warningMessage = null
     if (!numOfEffectiveResponses) {
         // This is almost definitely a case of no-overlap between the two selected columns
-        if (chartType === 'bubble' && isGraphEmpty) {
-            smartPlot = columnsNoOverlapMessage
+        if (isColumnsNoOverlap) {
+            warningMessage = columnsNoOverlapMessage
         // Heuristically, this means that the sector is the filter which empties the search.
         } else if (graphCommons.weightName !== 'all') {
-            smartPlot = sectorNoResultMessage
+            warningMessage = sectorNoResultMessage
         // A more general message that does not hint that the sector is the issue
         } else {
-            smartPlot = noResultDefaultMessage
+            warningMessage = noResultDefaultMessage
         }
-    } else {
-        smartPlot = children
-    }
-
+    } 
+    
     const graphHeaderProps = {
         surveyMeta,
         numOfEffectiveResponses,
@@ -55,6 +56,7 @@ const SmartChart = ({ children, surveyMeta, chartType, graphMeta, isGraphEmpty, 
             <div id="graph" ref={graphRef}>
                 <ScreenshotButton exportGraph={exportGraph} exportButtonRef={exportButtonRef}  />
                 {smartPlot}
+                {warningMessage}
             </div>
             <GraphFooter dataLink={surveyMeta.dataLink} />
         </div>

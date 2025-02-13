@@ -15,10 +15,11 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         ComputedCell<HeatMapDatum & BubbleGraphDatum>, 
         "opacity" | "borderColor" | "label" | "labelTextColor" | "color"
     >, string> = (d) => {
-        if (d.data.disabled) {
+        if (d.data.disabled || d.value === null) {
             return ''
         }
-        return d.formattedValue || ''
+
+        return `${Number.parseFloat(d.value.toFixed(2))}%`
     }
     const getBorderColor: InheritedColorConfig<Omit<
         ComputedCell<HeatMapDatum & BubbleGraphDatum>,

@@ -4,6 +4,8 @@ import { Survey, QuestionItem } from "../types/survey";
 import { getLabel, getNormalValues, getWeight } from "./graph";
 import { isCellAValidAnswer, sortByRate } from "./survey";
 
+const HACK_NUM_AGAINST_GRAPH_DISAPPEAR = 0.000000001
+
 export interface SmartBubblePlotProps {
     survey: Survey;
     x: QuestionItem;
@@ -62,9 +64,9 @@ export function getBubbleGraphEffectiveN(graphData: BubbleGraphSerie[]): number 
 // Sum up all the visible weights for each X and each serie (y param)
 // Create and concat "Totals" serie to data
 export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[], options: BubbleGraphConfig, answersData: AnswersData): BubbleGraphSerie[] {
-  let totalWeight = 0
-  const serieWeights = Array.from(initialGraphData, () => 0)
-  const xWeights = Array.from(answersData.xAnswers, () => 0)
+  let totalWeight = HACK_NUM_AGAINST_GRAPH_DISAPPEAR
+  const serieWeights = Array.from(initialGraphData, () => HACK_NUM_AGAINST_GRAPH_DISAPPEAR)
+  const xWeights = Array.from(answersData.xAnswers, () => HACK_NUM_AGAINST_GRAPH_DISAPPEAR)
 
   initialGraphData.forEach((serie, serieIndex) => {
     serie.data.forEach((datum: InitialBubbleGraphDatum, xIndex) => {
@@ -85,18 +87,20 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
           answersData.yNormalAnswers.includes(serie.origId) &&
           answersData.xNormalAnswers.includes(datum.origX)
         )
-        const effectiveWeight = datum.disabled ? 0 : Number((datum.y / totalWeight * 100).toFixed(2))
+        const effectiveWeight = datum.disabled ? 0 : Number((datum.y / totalWeight * 100)) + HACK_NUM_AGAINST_GRAPH_DISAPPEAR
 
         return {
           ...datum,
           y: effectiveWeight,
-          yByX: Number((datum.y / xWeights[xIndex] * 100).toFixed(2)),
-          yBySerie: Number((datum.y / serieWeights[serieIndex] * 100).toFixed(2)),
+          yByX: Number((datum.y / xWeights[xIndex] * 100)),
+          yBySerie: Number((datum.y / serieWeights[serieIndex] * 100)),
           ansType: isCellNormal ? 'normal' : 'special',
         }
       })
     }
   })
+
+  if (!mainGraphData.length) return mainGraphData
 
   const displayedXAnswers = options.isSpecialDisplayed ? answersData.xAnswers : answersData.xNormalAnswers
   const totalsSerie: BubbleGraphSerie = {
@@ -104,9 +108,9 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
     origId: 'Totals',
     data: displayedXAnswers.map((origX, xIndex) => {
       const currXTotalWeight = xWeights[xIndex]
-      const y = Number((currXTotalWeight / totalWeight * 100).toFixed(2))
+      const y = Number((currXTotalWeight / totalWeight * 100))
       const isDisabled = isResponseDisabled(options, origX, "Totals")
-      const displayedY = isDisabled ? 0 : y
+      const displayedY = isDisabled ? 0 : y + HACK_NUM_AGAINST_GRAPH_DISAPPEAR
 
       return {
         x: getLabel(origX),

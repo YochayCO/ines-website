@@ -38,9 +38,8 @@ export default function BubblePlot({
         <div className='bubbleplot-container'>
             <ResponsiveHeatMap
                 data={graphData}
-                sizeVariation={{ sizes: [0.5, 1]}}
+                sizeVariation={{ sizes: [0.45, 0.9]}}
                 cellComponent='circle'
-                valueFormat={(num) => `${num}%`}
                 label={getLabel}
                 margin={{ top: 120, right: 300, bottom: 120, left: 90 }}
                 axisBottom={{
