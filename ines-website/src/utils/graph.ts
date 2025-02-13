@@ -11,8 +11,15 @@ function getRateAndLabel (ans: string): string[] {
   return ans.replace(/[\s\u200B\u200E\u200F\u202A-\u202E]+/g, ' ').split('. ') 
 }
 
-export function getAnswerFromLabel(graphData: BubbleGraphSerie[], label: string): string | undefined {
+export function getAnswerFromXLabel(graphData: BubbleGraphSerie[], label: string): string | undefined {
   const answers = graphData[0].data.map((d: BubbleGraphDatum) => d.origX)
+  const ans = answers.find(ans => getLabel(ans) === label)
+
+  return ans
+}
+
+export function getAnswerFromYLabel(graphData: BubbleGraphSerie[], label: string): string | undefined {
+  const answers = graphData.map((serie) => serie.origId)
   const ans = answers.find(ans => getLabel(ans) === label)
 
   return ans

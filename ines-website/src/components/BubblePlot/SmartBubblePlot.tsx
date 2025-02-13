@@ -4,7 +4,7 @@ import { InheritedColorConfig } from '@nivo/colors'
 
 import useBubbleGraph from '../../hooks/useBubbleGraph';
 import { BubbleGraphDatum, SmartBubblePlotProps } from '../../types/graph';
-import { getAnswerFromLabel } from '../../utils/graph';
+import { getAnswerFromXLabel, getAnswerFromYLabel } from '../../utils/graph';
 import BubblePlot from './BubblePlot';
 import SmartChart from '../SmartChart/SmartChart';
 
@@ -15,7 +15,7 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         ComputedCell<HeatMapDatum & BubbleGraphDatum>, 
         "opacity" | "borderColor" | "label" | "labelTextColor" | "color"
     >, string> = (d) => {
-        if (xAxis.hiddenAnswers.includes(d.data.origX)) {
+        if (d.data.disabled) {
             return ''
         }
         return d.formattedValue || ''
@@ -24,7 +24,7 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         ComputedCell<HeatMapDatum & BubbleGraphDatum>,
         "borderColor"
     >> = (d) => {
-        if (xAxis.hiddenAnswers.includes(d.data.origX)) {
+        if (d.data.disabled) {
             return 'none';
         }
 
@@ -34,19 +34,29 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
     };
 
     const handleXTickClick = (label: string) => {
-        const ans = getAnswerFromLabel(graphData, label)
+        const ans = getAnswerFromXLabel(graphData, label)
         
         if (!ans) return
-        
-        // Avoids clearing the whole graph
-        if (!xAxis.hiddenAnswers.includes(ans) && graphData[0].data.length === xAxis.hiddenAnswers.length + 1) return
 
         xAxis.handleAnswerToggle(ans)
     }
 
     const isXLabelHidden = (label: string) => {
-        const ans = getAnswerFromLabel(graphData, label)
+        const ans = getAnswerFromXLabel(graphData, label)
         return !!(ans && xAxis.hiddenAnswers.includes(ans))
+    }
+
+    const handleYTickClick = (label: string) => {
+        const ans = getAnswerFromYLabel(graphData, label)
+        
+        if (!ans) return
+
+        yAxis.handleAnswerToggle(ans)
+    }
+
+    const isYLabelHidden = (label: string) => {
+        const ans = getAnswerFromYLabel(graphData, label)
+        return !!(ans && yAxis.hiddenAnswers.includes(ans))
     }
 
     const bubblePlotProps = {
@@ -57,6 +67,8 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         getBorderColor,
         handleXTickClick,
         isXLabelHidden,
+        handleYTickClick,
+        isYLabelHidden,
     }
 
     return <SmartChart

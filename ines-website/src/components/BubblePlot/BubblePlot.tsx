@@ -4,7 +4,7 @@ import { InheritedColorConfig } from '@nivo/colors'
 
 import { QuestionAxis } from '../../hooks/useQuestionAxis';
 import { BubbleGraphDatum, BubbleGraphSerie } from '../../types/graph';
-import { CustomTick, RegularXTick, RegularYTick } from '../AxisTick/AxisTick';
+import { CustomXTick, CustomYTick, RegularXTick, RegularYTick } from '../AxisTick/AxisTick';
 import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
 
 import './BubblePlot.css'
@@ -23,6 +23,8 @@ interface BubblePlotProps {
     >>;
     handleXTickClick: (label: string) => void;
     isXLabelHidden: (label: string) => boolean;
+    handleYTickClick: (label: string) => void;
+    isYLabelHidden: (label: string) => boolean;
 }
 
 export default function BubblePlot({ 
@@ -33,6 +35,8 @@ export default function BubblePlot({
     getBorderColor,
     handleXTickClick,
     isXLabelHidden,
+    handleYTickClick,
+    isYLabelHidden,
 }: BubblePlotProps) {
     return (
         <div className='bubbleplot-container'>
@@ -51,37 +55,43 @@ export default function BubblePlot({
                         // Records the spacing between ticks when it changes
                         // TODO: Find a tactic that is react-friendly
                         if (tick.tickIndex === 0) xAxis.setSpacing(tick.x * 2)
-                        return RegularXTick(tick, graphData)
+                        return <RegularXTick tick={tick} data={graphData} />
                     },
                 }}
                 axisRight={{
                     renderTick: (tick) => {
                         // Records the spacing between ticks when it changes
                         if (tick.tickIndex === 0) yAxis.setSpacing(tick.y * 2)
-                        return RegularYTick(tick, graphData)
+                        return <RegularYTick tick={tick} data={graphData} />
                     },
                 }}
                 axisLeft={{
                     legend: <ClippedSvgText className='axis-legend' text={yAxis.title} maxLength={60} />,
                     legendPosition: 'start',
                     legendOffset: -60,
-                    tickValues: [],
-                    // TODO: add ticks like those in top legend
-                    // renderTick: (tick) => CustomTick({ 
-                    //     ...tick, 
-                    //     isHidden: isLabelHidden(tick.value, 'y'), 
-                    //     handleClick: handleYTickClick,
-                    // }),
+                    renderTick: (tick) => (
+                        <CustomYTick
+                            tick={{
+                                ...tick,
+                                disabled: isYLabelHidden(tick.value),
+                                handleClick: handleYTickClick,
+                            }}
+                        />
+                    ),
                 }}
                 axisTop={{
-                    renderTick: (tick) => CustomTick({ 
-                        ...tick, 
-                        isHidden: isXLabelHidden(tick.value/* , 'x' */), 
-                        handleClick: handleXTickClick,
-                    }),
                     legend: <ClippedSvgText className='axis-legend' text={xAxis.title} maxLength={90} />,
                     legendPosition: 'start',
                     legendOffset: -80,
+                    renderTick: (tick) => (
+                        <CustomXTick
+                            tick={{
+                                ...tick,
+                                disabled: isXLabelHidden(tick.value),
+                                handleClick: handleXTickClick,
+                            }}
+                        />
+                    ),
                 }}
                 tooltip={({ cell }) => (
                     <div className='tooltip'>

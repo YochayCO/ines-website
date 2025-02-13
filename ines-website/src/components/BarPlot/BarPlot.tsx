@@ -38,7 +38,7 @@ export default function BarPlot({ data, xTitle, yTitle, handleBarClick, formatte
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 20,
-                    renderTick: (tick) => RegularXTick(tick, data),
+                    renderTick: (tick) => <RegularXTick tick={tick} data={data} />,
                 }}
                 axisLeft={{
                     tickSize: 5,

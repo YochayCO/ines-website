@@ -14,6 +14,7 @@ export interface InitialBubbleGraphDatum extends HeatMapDatum {
     x: string; 
     y: number;
     numOfResponses: number;
+    disabled: boolean;
     origX: string;
     origId: string;
 }
@@ -21,7 +22,6 @@ export type InitialBubbleGraphExtras = { origId: string; data: InitialBubbleGrap
 export type InitialBubbleGraphSerie = HeatMapSerie<HeatMapDatum, InitialBubbleGraphExtras>
 
 export interface BubbleGraphDatum extends InitialBubbleGraphDatum {
-    isDisabled: boolean;
     yByX: number;
     yBySerie: number;
     ansType: AnswerType;
@@ -33,7 +33,8 @@ export interface GraphMeta { numOfEffectiveResponses: number; }
 
 export type BubbleGraphConfig = { 
     isSpecialDisplayed: boolean; 
-    hiddenAnswers: string[]; 
+    disabledXAnswers: string[]; 
+    disabledYAnswers: string[]; 
     weightName: WeightName;
 }
 

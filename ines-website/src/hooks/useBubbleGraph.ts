@@ -29,9 +29,9 @@ function useBubbleGraph(
     }, [isSpecialDisplayed])
 
     const { data: graphData, meta: graphMeta } = useMemo(() => {
-        const options = { isSpecialDisplayed, hiddenAnswers: xAxis.hiddenAnswers, weightName }
+        const options = { isSpecialDisplayed, disabledXAnswers: xAxis.hiddenAnswers, disabledYAnswers: yAxis.hiddenAnswers, weightName }
         return getBubbleGraphData({ survey, x, y }, options)
-    }, [survey, x, y, isSpecialDisplayed, xAxis.hiddenAnswers, weightName])
+    }, [survey, x, y, isSpecialDisplayed, xAxis.hiddenAnswers, yAxis.hiddenAnswers, weightName])
 
     return { xAxis, yAxis, graphData, graphMeta, graphCommons }
 }

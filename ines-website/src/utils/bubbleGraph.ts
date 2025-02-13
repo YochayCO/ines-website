@@ -48,7 +48,7 @@ export function getBubbleGraphEffectiveN(graphData: BubbleGraphSerie[]): number 
 
   graphData.forEach(serie => {
     serie.data.forEach((d: BubbleGraphDatum) => {
-      const shouldCountDatumResponses = d.ansType !== 'total' && !d.isDisabled
+      const shouldCountDatumResponses = d.ansType !== 'total' && !d.disabled
       if (shouldCountDatumResponses) {
         effectiveN += d.numOfResponses
       }
@@ -56,10 +56,6 @@ export function getBubbleGraphEffectiveN(graphData: BubbleGraphSerie[]): number 
   })
 
   return effectiveN
-}
-
-function isDatumDisabled(datum: InitialBubbleGraphDatum, options: BubbleGraphConfig): boolean {
-  return (options.hiddenAnswers.includes(datum.origX))
 }
 
 // Add percentages to data
@@ -72,8 +68,8 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
 
   initialGraphData.forEach((serie, serieIndex) => {
     serie.data.forEach((datum: InitialBubbleGraphDatum, xIndex) => {
-      // Answer should not affect weight if it is disabled (hidden)
-      if (isDatumDisabled(datum, options)) return
+      // Datum should not affect weight if it is disabled
+      if (datum.disabled) return
 
       totalWeight += datum.y
       serieWeights[serieIndex] += datum.y
@@ -89,11 +85,10 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
           answersData.yNormalAnswers.includes(serie.origId) &&
           answersData.xNormalAnswers.includes(datum.origX)
         )
-        const effectiveWeight = isDatumDisabled(datum, options) ? 0 : Number((datum.y / totalWeight * 100).toFixed(2))
+        const effectiveWeight = datum.disabled ? 0 : Number((datum.y / totalWeight * 100).toFixed(2))
 
         return {
           ...datum,
-          isDisabled: isDatumDisabled(datum, options),
           y: effectiveWeight,
           yByX: Number((datum.y / xWeights[xIndex] * 100).toFixed(2)),
           yBySerie: Number((datum.y / serieWeights[serieIndex] * 100).toFixed(2)),
@@ -110,7 +105,7 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
     data: displayedXAnswers.map((origX, xIndex) => {
       const currXTotalWeight = xWeights[xIndex]
       const y = Number((currXTotalWeight / totalWeight * 100).toFixed(2))
-      const isDisabled = options.hiddenAnswers.includes(origX)
+      const isDisabled = isResponseDisabled(options, origX, "Totals")
       const displayedY = isDisabled ? 0 : y
 
       return {
@@ -118,7 +113,7 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
         y: displayedY,
         ansType: 'total',
         numOfResponses: 0,
-        isDisabled,
+        disabled: isDisabled,
         yByX: 100,
         yBySerie: displayedY,
         origX,
@@ -143,9 +138,18 @@ export function cleanBubbleGraphData(
   initialGraphData.forEach(serie => {
     const existingXValues = serie.data.map((d: InitialBubbleGraphDatum) => d.origX)
     const newXs = difference(answersData.xAnswers, existingXValues)
-    const newDatums: InitialBubbleGraphDatum[] = newXs.map(
-      origX => ({ x: getLabel(origX), y: 0, numOfResponses: 0, origX, origId: serie.origId })
-    )
+    const newDatums: InitialBubbleGraphDatum[] = newXs.map(origX => {
+      const isDatumDisabled = isResponseDisabled(options, origX, serie.origId)
+
+      return ({
+        x: getLabel(origX),
+        y: 0,
+        numOfResponses: 0,
+        disabled: isDatumDisabled,
+        origX,
+        origId: serie.origId
+      })
+  })
 
     const data: InitialBubbleGraphDatum[] = concat(serie.data, newDatums)
     serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
@@ -186,12 +190,19 @@ export function buildInitialGraphData(
       surveyWeights: survey.meta.weights, 
     })
     const binaryDisplayIndicator = (weight === 0) ? 0 : 1
-
+    const isDisabled = isResponseDisabled(options, xAns, yAns)
 
     // If series does not exist - create it and go to next.
     const currSerie = series.find((ser) => ser.id === serieId)
     if (!currSerie) {
-      const datumData = [{ x: xValue, y: weight, numOfResponses: binaryDisplayIndicator, origX: xAns, origId: yAns }]
+      const datumData = [{ 
+        x: xValue,
+        y: weight, 
+        numOfResponses: binaryDisplayIndicator, 
+        disabled: isDisabled, 
+        origX: xAns, 
+        origId: yAns
+      }]
       const serie = [{ id: serieId, origId: yAns, data: datumData }]
       return series.concat(serie)
     }
@@ -199,7 +210,14 @@ export function buildInitialGraphData(
     // If x does not exist for series - create it and go to next.
     const currDatum = currSerie.data.find(({ x }) => x === xValue) as InitialBubbleGraphDatum | undefined
     if (currDatum === undefined) {
-      const datumData = [{ x: xValue, y: weight, numOfResponses: binaryDisplayIndicator, origX: xAns, origId: yAns }]
+      const datumData = [{ 
+        x: xValue,
+        y: weight,
+        numOfResponses: binaryDisplayIndicator,
+        disabled: isDisabled,
+        origX: xAns,
+        origId: yAns
+      }]
       currSerie.data = currSerie.data.concat(datumData) as InitialBubbleGraphDatum[]
       return series
     }
@@ -210,6 +228,10 @@ export function buildInitialGraphData(
     
     return series
   }, [])
+}
+
+function isResponseDisabled(options: BubbleGraphConfig, xAns: string, yAns: string) {
+  return options.disabledXAnswers.includes(xAns) || options.disabledYAnswers.includes(yAns);
 }
 
 export function getBubbleGraphYAnswers(data: InitialBubbleGraphSerie[]): string[] {
