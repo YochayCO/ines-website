@@ -5,6 +5,7 @@ import { getQuestionTitle } from '../utils/survey';
 export interface QuestionAxis {
     hiddenAnswers: string[];
     handleAnswerToggle: (ans: string) => void;
+    resetHiddenAnswers: () => void;
     spacing: number;
     setSpacing: (spacing: number) => void;
     title: string;
@@ -15,9 +16,9 @@ function useQuestionAxis(allAnswers: string[], questionItem: QuestionItem): Ques
     const [spacing, setSpacing] = useState(0)
     const title = getQuestionTitle(questionItem.englishDescription, questionItem.questionHebrewDescription)
 
-    useEffect(() => {
-        setHiddenAnswers([])
-    }, [allAnswers])
+    const resetHiddenAnswers = () => setHiddenAnswers([])
+
+    useEffect(resetHiddenAnswers, [allAnswers])
 
     const handleAnswerToggle = (ans: string) => {
         if (hiddenAnswers.includes(ans)) {
@@ -27,7 +28,7 @@ function useQuestionAxis(allAnswers: string[], questionItem: QuestionItem): Ques
         }
     }
 
-    return { hiddenAnswers, handleAnswerToggle, spacing, setSpacing, title }
+    return { hiddenAnswers, handleAnswerToggle, resetHiddenAnswers, spacing, setSpacing, title }
 }
 
 export default useQuestionAxis

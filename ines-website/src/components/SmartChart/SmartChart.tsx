@@ -1,6 +1,7 @@
 import { ReactNode } from 'react';
 import { GraphCommons } from '../../hooks/useGraphCommons';
 import useScreenshotHandler from '../../hooks/useScreenshotHandler';
+import { GraphMeta } from '../../types/graph';
 import { QuestionItem, SurveyMeta } from '../../types/survey';
 import { columnsNoOverlapMessage, noResultDefaultMessage, sectorNoResultMessage } from './EmptyChartMessages';
 import GraphHeader from './GraphHeader';
@@ -15,23 +16,24 @@ interface SmartChartProps {
     x: QuestionItem;
     y?: QuestionItem; 
     chartType: 'bar' | 'bubble';
-    effectiveResponses: number;
-    isDataEmpty: boolean;
-    graphOptions: GraphCommons;
+    graphMeta: GraphMeta;
+    isGraphEmpty: boolean;
+    graphCommons: GraphCommons;
 }
 
 // A hoc to wrap the graph
-const SmartChart = ({ children, surveyMeta, chartType, effectiveResponses, isDataEmpty, graphOptions }: SmartChartProps) => {
+const SmartChart = ({ children, surveyMeta, chartType, graphMeta, isGraphEmpty, graphCommons }: SmartChartProps) => {
     const { exportGraph, exportButtonRef, graphRef } = useScreenshotHandler()
+    const { numOfEffectiveResponses } = graphMeta
 
     let smartPlot: ReactNode
     
-    if (!effectiveResponses) {
+    if (!numOfEffectiveResponses) {
         // This is almost definitely a case of no-overlap between the two selected columns
-        if (chartType === 'bubble' && isDataEmpty) {
+        if (chartType === 'bubble' && isGraphEmpty) {
             smartPlot = columnsNoOverlapMessage
         // Heuristically, this means that the sector is the filter which empties the search.
-        } else if (graphOptions.weightName !== 'all') {
+        } else if (graphCommons.weightName !== 'all') {
             smartPlot = sectorNoResultMessage
         // A more general message that does not hint that the sector is the issue
         } else {
@@ -43,8 +45,8 @@ const SmartChart = ({ children, surveyMeta, chartType, effectiveResponses, isDat
 
     const graphHeaderProps = {
         surveyMeta,
-        effectiveResponses,
-        graphOptions,
+        numOfEffectiveResponses,
+        graphCommons,
     }
 
     return (

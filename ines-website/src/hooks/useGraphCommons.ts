@@ -2,18 +2,18 @@ import { useState } from 'react';
 import { WeightName } from '../types/survey';
 
 export interface GraphCommons {
-    isSpecialVisible: boolean;
+    isSpecialDisplayed: boolean;
     setSpecialVisible: React.Dispatch<React.SetStateAction<boolean>>;
     weightName: WeightName;
     setWeightName: React.Dispatch<React.SetStateAction<WeightName>>;
 }
 
 function useGraphCommons(): GraphCommons {
-    const [isSpecialVisible, setSpecialVisible] = useState(true)
+    const [isSpecialDisplayed, setSpecialVisible] = useState(true)
     const [weightName, setWeightName] = useState<WeightName>('all')
 
     return { 
-        isSpecialVisible, 
+        isSpecialDisplayed, 
         setSpecialVisible, 
         weightName, 
         setWeightName, 

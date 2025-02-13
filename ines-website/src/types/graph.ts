@@ -12,8 +12,8 @@ export interface SmartBubblePlotProps {
 
 export interface InitialBubbleGraphDatum extends HeatMapDatum { 
     x: string; 
-    y: number; 
-    effectiveY: number;
+    y: number;
+    numOfResponses: number;
     origX: string;
     origId: string;
 }
@@ -21,6 +21,7 @@ export type InitialBubbleGraphExtras = { origId: string; data: InitialBubbleGrap
 export type InitialBubbleGraphSerie = HeatMapSerie<HeatMapDatum, InitialBubbleGraphExtras>
 
 export interface BubbleGraphDatum extends InitialBubbleGraphDatum {
+    isDisabled: boolean;
     yByX: number;
     yBySerie: number;
     ansType: AnswerType;
@@ -28,8 +29,10 @@ export interface BubbleGraphDatum extends InitialBubbleGraphDatum {
 export type BubbleGraphExtras = { origId: string; data: BubbleGraphDatum[] }
 export type BubbleGraphSerie = HeatMapSerie<HeatMapDatum, BubbleGraphExtras>
 
+export interface GraphMeta { numOfEffectiveResponses: number; }
+
 export type BubbleGraphConfig = { 
-    isSpecialVisible: boolean; 
+    isSpecialDisplayed: boolean; 
     hiddenAnswers: string[]; 
     weightName: WeightName;
 }
@@ -45,7 +48,7 @@ export interface BarGraphDatum extends BarDatum {
     effectiveN: number; 
 }
 
-export type BarGraphConfig = { isSpecialVisible: boolean; weightName: WeightName; }
+export type BarGraphConfig = { isSpecialDisplayed: boolean; weightName: WeightName; }
 
 export function isBubbleGraphData(data: BubbleGraphSerie[] | BarGraphDatum[]): data is BubbleGraphSerie[] {
     return 'origId' in data[0]

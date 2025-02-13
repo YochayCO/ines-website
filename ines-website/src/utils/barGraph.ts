@@ -13,7 +13,7 @@ type InitialBarsData = Record<string, { effectiveN: number; totalWeight: number;
 export function getBarGraphData(
   { survey, x }: SmartBarPlotProps,
   options: BarGraphConfig,
-): { graphData: BarGraphDatum[]; effectiveResponses: number } {
+): { graphData: BarGraphDatum[]; numOfEffectiveResponses: number } {
     let initialBarsData = buildInitialGraphData({ survey, x }, options)
 
     const allAnswers = Array.from(new Set(Object.keys(initialBarsData)))
@@ -26,12 +26,12 @@ export function getBarGraphData(
   const effectiveN = sum(Object.values(initialBarsData).map(bar => bar.effectiveN))
   const barGraphData = enrichBarGraphData(initialBarsData, { normalAnswers })
 
-  return { graphData: barGraphData, effectiveResponses: effectiveN }
+  return { graphData: barGraphData, numOfEffectiveResponses: effectiveN }
 }
 
 function cleanBarGraphData(initialBarsData: InitialBarsData, options: BarGraphConfig, normalAnswers: string[]) {
-    if (!options.isSpecialVisible) {
-        // Object.fromEntries: ({ key: value }) => [key, value]
+    if (!options.isSpecialDisplayed) {
+        // Object.fromEntries = ({ key: value }) => [key, value]
         initialBarsData = Object.fromEntries(
             Object.entries(initialBarsData).filter(([ans]) => normalAnswers.includes(ans))
         );

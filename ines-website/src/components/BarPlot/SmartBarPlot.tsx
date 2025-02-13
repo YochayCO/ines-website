@@ -5,7 +5,7 @@ import BarPlot from './BarPlot';
 import SmartChart from '../SmartChart/SmartChart';
 
 export default function SmartBarPlot({ survey, x }: SmartBarPlotProps) {
-    const { xAxis, graphData, effectiveResponses, graphOptions } = useBarGraph({ survey, x })
+    const { xAxis, graphData, graphMeta, graphCommons } = useBarGraph({ survey, x })
     const handleBarClick = (bar: ComputedDatum<BarGraphDatum>) => {
         xAxis.handleAnswerToggle(bar.indexValue as string)
     }
@@ -26,9 +26,9 @@ export default function SmartBarPlot({ survey, x }: SmartBarPlotProps) {
         children={<BarPlot {...barPlotProps} />} 
         surveyMeta={survey.meta} 
         x={x} 
-        isDataEmpty={!graphData.length} 
+        isGraphEmpty={!graphData.length} 
         chartType='bar' 
-        effectiveResponses={effectiveResponses} 
-        graphOptions={graphOptions}
+        graphMeta={graphMeta} 
+        graphCommons={graphCommons}
     />
 }

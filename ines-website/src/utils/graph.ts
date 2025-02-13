@@ -57,15 +57,13 @@ export function getNormalValues(answers: string[]): string[] {
   return answers.filter((ans) => rates.includes(Number(getRate(ans)))) 
 }
 
-export function getWeight ({ row, weightName, surveyWeights, isHidden, sectorFieldName }: { 
+export function getWeight ({ row, weightName, surveyWeights, sectorFieldName }: { 
   row: SurveyRow;
   weightName: WeightName;
   surveyWeights?: Record<WeightName, string>;
-  isHidden?: boolean;
   sectorFieldName?: string;
 }) {
   const weightKey = surveyWeights?.[weightName]
-  if (isHidden) return 0
   if (!weightKey) return 1
   if (!sectorFieldName || weightName === 'all') return Number(row[weightKey]) // If sector does not exist or matter - just use the weight
 

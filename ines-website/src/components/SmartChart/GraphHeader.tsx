@@ -6,24 +6,24 @@ import { SurveyMeta } from "../../types/survey";
 import './GraphHeader.css'
 
 export interface GraphHeaderProps {
-    graphOptions: GraphCommons;
+    graphCommons: GraphCommons;
     surveyMeta: SurveyMeta;
-    effectiveResponses: number;
+    numOfEffectiveResponses: number;
 }
 
 export default function GraphHeader ({ 
-    graphOptions,
+    graphCommons,
     surveyMeta, 
-    effectiveResponses 
+    numOfEffectiveResponses 
 }: GraphHeaderProps) {
-    const { handleSpecialToggle, handleWeightNameChange } = useGraphHeader(graphOptions)
+    const { handleSpecialToggle, handleWeightNameChange } = useGraphHeader(graphCommons)
     
     const toggleButton = (
         <FormGroup className='toggle-button'>
             <FormControlLabel 
                 label={`Include "Don't know" answers`}
                 control={(
-                    <Switch onChange={handleSpecialToggle} checked={graphOptions.isSpecialVisible} />
+                    <Switch onChange={handleSpecialToggle} checked={graphCommons.isSpecialDisplayed} />
                 )}
             />
         </FormGroup>
@@ -35,7 +35,7 @@ export default function GraphHeader ({
             <ToggleButtonGroup
                 className='sector-select-group'
                 color="primary"
-                value={graphOptions.weightName}
+                value={graphCommons.weightName}
                 exclusive
                 onChange={handleWeightNameChange}
                 aria-label="Weight select"
@@ -53,9 +53,9 @@ export default function GraphHeader ({
         </div>
     )
 
-    const effectiveResponsesIndicator = (
+    const numOfEffectiveResponsesIndicator = (
         <div className='responses-sum-container'>
-            # of Responses:<div className='responses-sum'>{effectiveResponses}</div>
+            # of Responses:<div className='responses-sum'>{numOfEffectiveResponses}</div>
         </div>
     )
     
@@ -63,7 +63,7 @@ export default function GraphHeader ({
         <div className='graph-header'>
             {toggleButton}
             {weightNameMenu}
-            {effectiveResponsesIndicator}
+            {numOfEffectiveResponsesIndicator}
         </div>
     )
 }

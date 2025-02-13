@@ -9,7 +9,7 @@ import BubblePlot from './BubblePlot';
 import SmartChart from '../SmartChart/SmartChart';
 
 export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) {
-    const { xAxis, yAxis, graphData, effectiveResponses, graphOptions } = useBubbleGraph({ survey, x, y })
+    const { xAxis, yAxis, graphData, graphMeta, graphCommons } = useBubbleGraph({ survey, x, y })
 
     const getLabel: PropertyAccessor<Omit<
         ComputedCell<HeatMapDatum & BubbleGraphDatum>, 
@@ -64,9 +64,9 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         surveyMeta={survey.meta}
         x={x}
         y={y}
-        isDataEmpty={!graphData.length}
+        isGraphEmpty={!graphData.length}
         chartType='bubble'
-        effectiveResponses={effectiveResponses}
-        graphOptions={graphOptions}
+        graphMeta={graphMeta}
+        graphCommons={graphCommons}
     />
 }

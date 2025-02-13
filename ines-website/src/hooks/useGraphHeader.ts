@@ -12,7 +12,9 @@ export interface GraphHeaderHook {
 
 function useGraphHeader({ setSpecialVisible, setWeightName }: GraphHeaderProps): GraphHeaderHook {
     const handleSpecialToggle = () => setSpecialVisible((currVisibility) => !currVisibility)
-    const handleWeightNameChange = (_event: React.MouseEvent<HTMLElement>, wName: WeightName) => setWeightName(wName)
+    const handleWeightNameChange = (_event: React.MouseEvent<HTMLElement>, wName: WeightName | null) => {
+        if (wName) setWeightName(wName) // Avoid toggling off the sector
+    }
 
     return { handleSpecialToggle, handleWeightNameChange }
 }
