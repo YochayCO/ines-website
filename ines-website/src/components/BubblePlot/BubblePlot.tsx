@@ -22,9 +22,9 @@ interface BubblePlotProps {
         "borderColor"
     >>;
     handleXTickClick: (label: string) => void;
-    isXLabelHidden: (label: string) => boolean;
+    isXLabelDisabled: (label: string) => boolean;
     handleYTickClick: (label: string) => void;
-    isYLabelHidden: (label: string) => boolean;
+    isYLabelDisabled: (label: string) => boolean;
 }
 
 export default function BubblePlot({ 
@@ -34,9 +34,9 @@ export default function BubblePlot({
     getLabel,
     getBorderColor,
     handleXTickClick,
-    isXLabelHidden,
+    isXLabelDisabled,
     handleYTickClick,
-    isYLabelHidden,
+    isYLabelDisabled,
 }: BubblePlotProps) {
     return (
         <div className='bubbleplot-container'>
@@ -73,7 +73,7 @@ export default function BubblePlot({
                         <CustomYTick
                             tick={{
                                 ...tick,
-                                disabled: isYLabelHidden(tick.value),
+                                disabled: isYLabelDisabled(tick.value),
                                 handleClick: handleYTickClick,
                             }}
                         />
@@ -87,7 +87,7 @@ export default function BubblePlot({
                         <CustomXTick
                             tick={{
                                 ...tick,
-                                disabled: isXLabelHidden(tick.value),
+                                disabled: isXLabelDisabled(tick.value),
                                 handleClick: handleXTickClick,
                             }}
                         />

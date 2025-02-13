@@ -3,32 +3,32 @@ import { QuestionItem } from '../types/survey';
 import { getQuestionTitle } from '../utils/survey';
 
 export interface QuestionAxis {
-    hiddenAnswers: string[];
+    disabledAnswers: string[];
     handleAnswerToggle: (ans: string) => void;
-    resetHiddenAnswers: () => void;
+    resetDisabledAnswers: () => void;
     spacing: number;
     setSpacing: (spacing: number) => void;
     title: string;
 }
 
 function useQuestionAxis(allAnswers: string[], questionItem: QuestionItem): QuestionAxis {
-    const [hiddenAnswers, setHiddenAnswers] = useState<string[]>([])
+    const [disabledAnswers, setDisabledAnswers] = useState<string[]>([])
     const [spacing, setSpacing] = useState(0)
     const title = getQuestionTitle(questionItem.englishDescription, questionItem.questionHebrewDescription)
 
-    const resetHiddenAnswers = () => setHiddenAnswers([])
+    const resetDisabledAnswers = () => setDisabledAnswers([])
 
-    useEffect(resetHiddenAnswers, [allAnswers])
+    useEffect(resetDisabledAnswers, [allAnswers])
 
     const handleAnswerToggle = (ans: string) => {
-        if (hiddenAnswers.includes(ans)) {
-            setHiddenAnswers(hiddenAnswers.filter(a => a !== ans));
+        if (disabledAnswers.includes(ans)) {
+            setDisabledAnswers(disabledAnswers.filter(a => a !== ans));
         } else {
-            setHiddenAnswers(hiddenAnswers.concat(ans));
+            setDisabledAnswers(disabledAnswers.concat(ans));
         }
     }
 
-    return { hiddenAnswers, handleAnswerToggle, resetHiddenAnswers, spacing, setSpacing, title }
+    return { disabledAnswers, handleAnswerToggle, resetDisabledAnswers, spacing, setSpacing, title }
 }
 
 export default useQuestionAxis

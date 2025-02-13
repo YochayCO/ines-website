@@ -23,15 +23,15 @@ function useBubbleGraph(
     const yAxis = useQuestionAxis(yAnswers, y)
 
     useEffect(() => {
-        xAxis.resetHiddenAnswers()
-        yAxis.resetHiddenAnswers()
+        xAxis.resetDisabledAnswers()
+        yAxis.resetDisabledAnswers()
     // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [isSpecialDisplayed])
 
     const { data: graphData, meta: graphMeta } = useMemo(() => {
-        const options = { isSpecialDisplayed, disabledXAnswers: xAxis.hiddenAnswers, disabledYAnswers: yAxis.hiddenAnswers, weightName }
+        const options = { isSpecialDisplayed, disabledXAnswers: xAxis.disabledAnswers, disabledYAnswers: yAxis.disabledAnswers, weightName }
         return getBubbleGraphData({ survey, x, y }, options)
-    }, [survey, x, y, isSpecialDisplayed, xAxis.hiddenAnswers, yAxis.hiddenAnswers, weightName])
+    }, [survey, x, y, isSpecialDisplayed, xAxis.disabledAnswers, yAxis.disabledAnswers, weightName])
 
     return { xAxis, yAxis, graphData, graphMeta, graphCommons }
 }

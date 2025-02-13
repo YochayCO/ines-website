@@ -17,7 +17,7 @@ export function getBubbleGraphData(
 ): { data: BubbleGraphSerie[]; meta: GraphMeta }  {
   
   // Transforms each row into its datum. 
-  // Weights are calculated even if they will be hidden, but only if they will be "displayed"
+  // Weights are calculated even if they are disabled, but only if they will be "displayed"
   let initialGraphData = buildInitialGraphData(surveyProps, options)
 
   // Creating answers once, to avoid recalculation
@@ -34,7 +34,7 @@ export function getBubbleGraphData(
   initialGraphData = cleanBubbleGraphData(initialGraphData, options, answersData)
   
   // Add percentages, answer types and Totals row.
-  // disabled/hidden datums will NOT be used in percentage calculations
+  // disabled datums will NOT be used in percentage calculations
   const graphData = enrichBubbleGraphData(initialGraphData, options, answersData)
 
   // Calculate graph metadata - number of effective responses

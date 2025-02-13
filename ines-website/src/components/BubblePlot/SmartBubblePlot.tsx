@@ -41,9 +41,9 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         xAxis.handleAnswerToggle(ans)
     }
 
-    const isXLabelHidden = (label: string) => {
+    const isXLabelDisabled = (label: string) => {
         const ans = getAnswerFromXLabel(graphData, label)
-        return !!(ans && xAxis.hiddenAnswers.includes(ans))
+        return !!(ans && xAxis.disabledAnswers.includes(ans))
     }
 
     const handleYTickClick = (label: string) => {
@@ -54,9 +54,9 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         yAxis.handleAnswerToggle(ans)
     }
 
-    const isYLabelHidden = (label: string) => {
+    const isYLabelDisabled = (label: string) => {
         const ans = getAnswerFromYLabel(graphData, label)
-        return !!(ans && yAxis.hiddenAnswers.includes(ans))
+        return !!(ans && yAxis.disabledAnswers.includes(ans))
     }
 
     const bubblePlotProps = {
@@ -66,9 +66,9 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         getLabel,
         getBorderColor,
         handleXTickClick,
-        isXLabelHidden,
+        isXLabelDisabled,
         handleYTickClick,
-        isYLabelHidden,
+        isYLabelDisabled,
     }
 
     return <SmartChart
