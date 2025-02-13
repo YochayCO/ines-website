@@ -21,10 +21,8 @@ interface BubblePlotProps {
         ComputedCell<HeatMapDatum & BubbleGraphDatum>,
         "borderColor"
     >>;
-    handleXTickClick: (label: string) => void;
-    isXLabelDisabled: (label: string) => boolean;
-    handleYTickClick: (label: string) => void;
-    isYLabelDisabled: (label: string) => boolean;
+    handleTickClick: (label: string, dimension: 'x' | 'y') => void;
+    isLabelDisabled: (label: string, dimension: 'x' | 'y') => boolean;
 }
 
 export default function BubblePlot({ 
@@ -33,10 +31,8 @@ export default function BubblePlot({
     yAxis,
     getLabel,
     getBorderColor,
-    handleXTickClick,
-    isXLabelDisabled,
-    handleYTickClick,
-    isYLabelDisabled,
+    handleTickClick,
+    isLabelDisabled,
 }: BubblePlotProps) {
     return (
         <div className='bubbleplot-container'>
@@ -73,8 +69,8 @@ export default function BubblePlot({
                         <CustomYTick
                             tick={{
                                 ...tick,
-                                disabled: isYLabelDisabled(tick.value),
-                                handleClick: handleYTickClick,
+                                disabled: isLabelDisabled(tick.value, 'y'),
+                                handleClick: (tick) => handleTickClick(tick, 'y'),
                             }}
                         />
                     ),
@@ -87,8 +83,8 @@ export default function BubblePlot({
                         <CustomXTick
                             tick={{
                                 ...tick,
-                                disabled: isXLabelDisabled(tick.value),
-                                handleClick: handleXTickClick,
+                                disabled: isLabelDisabled(tick.value, 'x'),
+                                handleClick: (tick) => handleTickClick(tick, 'x'),
                             }}
                         />
                     ),

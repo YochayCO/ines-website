@@ -33,30 +33,24 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         return '#47c04750' // Light green
     };
 
-    const handleXTickClick = (label: string) => {
-        const ans = getAnswerFromXLabel(graphData, label)
+    const handleTickClick = (label: string, dimension: 'x' | 'y') => {
+        const ans = dimension === 'x' 
+            ? getAnswerFromXLabel(graphData, label)
+            : getAnswerFromYLabel(graphData, label)
         
         if (!ans) return
 
-        xAxis.handleAnswerToggle(ans)
+        const axis = dimension === 'x' ? xAxis : yAxis
+
+        axis.handleAnswerToggle(ans)
     }
 
-    const isXLabelDisabled = (label: string) => {
-        const ans = getAnswerFromXLabel(graphData, label)
-        return !!(ans && xAxis.disabledAnswers.includes(ans))
-    }
-
-    const handleYTickClick = (label: string) => {
-        const ans = getAnswerFromYLabel(graphData, label)
-        
-        if (!ans) return
-
-        yAxis.handleAnswerToggle(ans)
-    }
-
-    const isYLabelDisabled = (label: string) => {
-        const ans = getAnswerFromYLabel(graphData, label)
-        return !!(ans && yAxis.disabledAnswers.includes(ans))
+    const isLabelDisabled = (label: string, dimension: 'x' | 'y') => {
+        const ans = dimension === 'x' 
+            ? getAnswerFromXLabel(graphData, label)
+            : getAnswerFromYLabel(graphData, label)
+        const axis = dimension === 'x' ? xAxis : yAxis
+        return !!(ans && axis.disabledAnswers.includes(ans))
     }
 
     const bubblePlotProps = {
@@ -65,10 +59,8 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
         yAxis,
         getLabel,
         getBorderColor,
-        handleXTickClick,
-        isXLabelDisabled,
-        handleYTickClick,
-        isYLabelDisabled,
+        handleTickClick,
+        isLabelDisabled,
     }
 
     return <SmartChart
