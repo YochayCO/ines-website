@@ -2,8 +2,6 @@ import { useMemo } from 'react'
 import { Autocomplete, Box, TextField } from '@mui/material'
 import cx from 'classnames'
 
-import './CustomSelect.css'
-
 interface CustomOption { 
   value: string; 
   label: string; 
@@ -21,7 +19,7 @@ interface CustomSelectProps {
 }
 
 // A Select component for selecting a single question from a bunch of questions
-function CustomSelect({ inputLabel, value, onChange, options, ...other }: CustomSelectProps) {
+function CustomSelect({ className, inputLabel, value, onChange, options, ...other }: CustomSelectProps) {
   const selectedOption = useMemo(() => options.find((option) => option.value === value) || null, [options, value])
   
   const handleChange = (_event: React.SyntheticEvent, option: CustomOption | null) => onChange(option?.value || '')
@@ -29,7 +27,7 @@ function CustomSelect({ inputLabel, value, onChange, options, ...other }: Custom
   return (
     <>
       <Autocomplete
-        className='selectbox'
+        className={className}
         sx={{ m: 1, width: 1 }}
         options={options}
         renderInput={(params) => <TextField {...params} label={inputLabel} />}

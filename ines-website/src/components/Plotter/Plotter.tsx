@@ -5,6 +5,7 @@ import { Survey } from '../../types/survey';
 import { fetchSurvey } from '../../utils/survey'
 import CustomSelect from '../CustomSelect/CustomSelect'
 import InnerPlotter from './InnerPlotter';
+import SelectContainer from './SelectContainer';
 
 import './Plotter.css'
 
@@ -30,12 +31,14 @@ function Plotter() {
   
   return (
     <>
-      <CustomSelect 
-        inputLabel='Select survey'
-        value={surveyId}
-        onChange={setSurveyId}
-        options={surveyItems}
-      />
+      <SelectContainer>
+        <CustomSelect 
+          inputLabel='Select survey'
+          value={surveyId}
+          onChange={setSurveyId}
+          options={surveyItems}
+        />
+      </SelectContainer>
       {!!survey && <InnerPlotter survey={survey} />}
     </>
   )
