@@ -7,7 +7,7 @@ import {
 } from '../types/graph'
 import { SurveyRow, WeightName } from '../types/survey'
 
-function getRateAndLabel (ans: string): string[] {
+export function getRateAndLabel (ans: string): string[] {
   return ans.replace(/[\s\u200B\u200E\u200F\u202A-\u202E]+/g, ' ').split('. ') 
 }
 

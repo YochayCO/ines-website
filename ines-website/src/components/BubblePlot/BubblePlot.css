@@ -14,6 +14,9 @@
 [data-testid*="cell."] > circle {
     fill-opacity: 0.5;
 }
+[data-testid*="cell.Totals"] > circle {
+    fill: rgb(0, 128, 0);
+}
 
 /* Totals line style */
 .bubbleplot-container g:last-child > rect {

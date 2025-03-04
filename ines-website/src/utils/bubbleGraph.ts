@@ -4,7 +4,7 @@ import { Survey, QuestionItem } from "../types/survey";
 import { getLabel, getNormalValues, getWeight } from "./graph";
 import { isCellAValidAnswer, sortByRate } from "./survey";
 
-const HACK_NUM_AGAINST_GRAPH_DISAPPEAR = 0.000000001
+const HACK_NUM_AGAINST_GRAPH_DISAPPEARANCE = 0.000000001
 
 export interface SmartBubblePlotProps {
     survey: Survey;
@@ -63,10 +63,14 @@ export function getBubbleGraphEffectiveN(graphData: BubbleGraphSerie[]): number 
 // Add percentages to data
 // Sum up all the visible weights for each X and each serie (y param)
 // Create and concat "Totals" serie to data
-export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[], options: BubbleGraphConfig, answersData: AnswersData): BubbleGraphSerie[] {
-  let totalWeight = HACK_NUM_AGAINST_GRAPH_DISAPPEAR
-  const serieWeights = Array.from(initialGraphData, () => HACK_NUM_AGAINST_GRAPH_DISAPPEAR)
-  const xWeights = Array.from(answersData.xAnswers, () => HACK_NUM_AGAINST_GRAPH_DISAPPEAR)
+export function enrichBubbleGraphData(
+  initialGraphData: InitialBubbleGraphSerie[], 
+  options: BubbleGraphConfig, 
+  answersData: AnswersData
+): BubbleGraphSerie[] {
+  let totalWeight = HACK_NUM_AGAINST_GRAPH_DISAPPEARANCE
+  const serieWeights = initialGraphData.map(() => HACK_NUM_AGAINST_GRAPH_DISAPPEARANCE)
+  const xWeights = answersData.xAnswers.map(() => HACK_NUM_AGAINST_GRAPH_DISAPPEARANCE)
 
   initialGraphData.forEach((serie, serieIndex) => {
     serie.data.forEach((datum: InitialBubbleGraphDatum, xIndex) => {
@@ -87,7 +91,7 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
           answersData.yNormalAnswers.includes(serie.origId) &&
           answersData.xNormalAnswers.includes(datum.origX)
         )
-        const effectiveWeight = datum.disabled ? 0 : Number((datum.y / totalWeight * 100)) + HACK_NUM_AGAINST_GRAPH_DISAPPEAR
+        const effectiveWeight = datum.disabled ? 0 : Number((datum.y / totalWeight * 100)) + HACK_NUM_AGAINST_GRAPH_DISAPPEARANCE
 
         return {
           ...datum,
@@ -102,24 +106,28 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
 
   if (!mainGraphData.length) return mainGraphData
 
+  const maxWeight = getMaxDatumWeight(mainGraphData)
+  const maxTotalWeight = Math.max(...xWeights)
   const displayedXAnswers = options.isSpecialDisplayed ? answersData.xAnswers : answersData.xNormalAnswers
   const totalsSerie: BubbleGraphSerie = {
     id: 'Totals',
     origId: 'Totals',
     data: displayedXAnswers.map((origX, xIndex) => {
       const currXTotalWeight = xWeights[xIndex]
-      const y = Number((currXTotalWeight / totalWeight * 100))
       const isDisabled = isResponseDisabled(options, origX, "Totals")
-      const displayedY = isDisabled ? 0 : y + HACK_NUM_AGAINST_GRAPH_DISAPPEAR
+      // Total datum weight is proportional to the maximumm regular datum weight
+      const datumWeight = isDisabled ? 0 : currXTotalWeight * maxWeight / maxTotalWeight
+      // The actual percentage is calculated normally and stored in yBySerie
+      const yLabel = isDisabled ? 0 : Number((currXTotalWeight / totalWeight * 100)) + HACK_NUM_AGAINST_GRAPH_DISAPPEARANCE
 
       return {
         x: getLabel(origX),
-        y: displayedY,
+        y: datumWeight,
         ansType: 'total',
         numOfResponses: 0,
         disabled: isDisabled,
         yByX: 100,
-        yBySerie: displayedY,
+        yBySerie: yLabel,
         origX,
         origId: 'Totals'
       }
@@ -129,6 +137,13 @@ export function enrichBubbleGraphData(initialGraphData: InitialBubbleGraphSerie[
   const finalData = mainGraphData.concat(totalsSerie)
 
   return finalData
+}
+
+function getMaxDatumWeight(mainGraphData: BubbleGraphSerie[]) {
+  const weights = mainGraphData.map(serie => serie.data.map((d) => d.y)).flat().filter((y) => y !== null && y !== undefined)
+  const maxWeight = Math.max(...weights)
+
+  return maxWeight
 }
 
 // This is seperate from build method because "normal" answers needs answers to exist already:

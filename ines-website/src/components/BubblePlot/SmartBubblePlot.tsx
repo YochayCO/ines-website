@@ -19,6 +19,12 @@ export default function SmartBubblePlot({ survey, x, y }: SmartBubblePlotProps) 
             return ''
         }
 
+        // Total row y values are proportional to the total of the x values
+        // But their real value is stored in yBySerie, and should be the presented label
+        if (d.data.ansType === 'total') {
+            return `${Number.parseFloat(d.data.yBySerie.toFixed(2))}%`
+        }
+
         return `${Number.parseFloat(d.value.toFixed(2))}%`
     }
     const getBorderColor: InheritedColorConfig<Omit<

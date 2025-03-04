@@ -1,6 +1,6 @@
 import Papa from 'papaparse'
 import { QuestionItem, Survey, SurveyMeta, SurveyMetaBase, SurveyRows } from '../types/survey'
-import { getRate } from './graph'
+import { getRateAndLabel } from './graph'
 import { fetchCSV, fetchJson } from './files'
 import { SmartBubblePlotProps } from './bubbleGraph'
 import { SmartBarPlotProps } from '../types/graph'
@@ -54,8 +54,17 @@ export async function fetchSurvey(surveyId: string): Promise<Survey | null> {
 }
 
 export function sortByRate(ansA: string, ansB: string) {
-    const [rateA, rateB] = [Number(getRate(ansA)), Number(getRate(ansB))]
+    const [rateAStr, labelA] = getRateAndLabel(ansA)
+    const [rateBStr, labelB] = getRateAndLabel(ansB)
+
+    // Case where there is no rate - still sort but by label
+    if (!labelA && !labelB) {
+        return rateAStr.localeCompare(rateBStr)
+    }
+
+    const [rateA, rateB] = [Number(rateAStr), Number(rateBStr)]
     return rateA - rateB
+
 }
 
 // Null values and such
