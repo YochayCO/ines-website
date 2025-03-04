@@ -35,4 +35,4 @@ echo "Done. Go to the server and run the deploy.sh script."
 # ssh ${SERVER} "bash -s" < ./deploy.sh $VERSION
 
 # Clean up local tar file
-mv $TAR_FILE /app-image-tars
+mv $TAR_FILE ./app-image-tars
