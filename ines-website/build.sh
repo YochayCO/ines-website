@@ -32,9 +32,7 @@ scp $TAR_FILE ${SERVER}:${REMOTE_PATH}/
 echo "Done. Go to the server and run the deploy.sh script."
 
 # # Deploy the image on the server
-# echo "Deploying version $VERSION on the server..."
 # ssh ${SERVER} "bash -s" < ./deploy.sh $VERSION
 
-# # Clean up local tar file
-# rm $TAR_FILE
-# echo "Deployment of version $VERSION completed."
+# Clean up local tar file
+mv $TAR_FILE /app-image-tars
