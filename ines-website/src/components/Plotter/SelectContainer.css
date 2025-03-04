@@ -1,4 +1,4 @@
-.select-container > * {
-    margin: 6px 72px;
+.select-container {
     width: calc(100% - 144px);
+    margin: 6px auto;
 }

@@ -28,7 +28,6 @@ function CustomSelect({ className, inputLabel, value, onChange, options, ...othe
     <>
       <Autocomplete
         className={className}
-        sx={{ m: 1, width: 1 }}
         options={options}
         renderInput={(params) => <TextField {...params} label={inputLabel} />}
         renderOption={({ key, ...optionProps }, option) => (
