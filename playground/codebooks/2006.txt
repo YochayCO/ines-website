@@ -1,0 +1,3431 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 2006
+
+                                                           CONTENTS
+
+****    Case Identification
+
+      CASEID             Case ID
+      id_svv_2           Respondent's ID in all consecutive surveys
+
+****    Pre-Election Survey
+
+      a6                 Israeli condition in general
+      a7                 The way government handles problems
+      a8                 Most important problem for government
+      a10                Economic situation in past 3 years
+      a11                Personal economic situation in past year
+      a12                National security today
+      a13                National security in last 5 years
+      a14                National security in next 5 years
+      a15                Territories should be exchanged for peace
+      a16                Israel should decide on borders and unilaterally withdraw
+      a17                Chances of Olmert's disengagement
+      a18                Chances of peace between Israel and Arabs in next 3 years
+      a19                Chances of war in next 3 years
+      a20                Chances of peace agreement
+      a21                Evaluation of Arab aspirations
+      a22                Peace agreement to conclude Arab-Israeli conflict
+      a23                To prevent war with arab states Israel should
+      a24                Are you worried about being injured by Arabs
+
+****    Likely Direction of Development of Israel
+
+      a25                The most important value (not asked of Arabs)
+      a26                The second most important value
+      a27                The third most important value
+      a28                The fourth most important value
+
+****    Threat of Different Issues
+
+      a29                Threat of returning territories for peace
+      a30                Threat of enemies having biological weapons
+      a31                Threat of no democracy in Israel
+      a32                Threat of disengagement from Palestinians
+      a33                Threat of enemies having nuclear weapons
+      a34                Threat of Palestinian state
+      a35                Threat of continued intifada
+      a36                Threat of war with Syria
+      a37                Democracy or Halacha (not asked of Arabs)
+      a38                Goverment should or shoudn't interfere
+      a39                Law or security
+      a40                Establishment of a Pal. state as part of permanent settlement
+      a41                Arab neighborhoods of Jerusalem
+      a42                Returning Golan
+      a43                Evacuating in judea and Samaria
+      a44                Public life according to Halacha
+      a45                Israel's economic structure (socialist or capitalist)
+
+****    Agree/Disagree with the Different Statements
+
+      a46                Democracy as a best system
+      a47                Politicians tend not to consider the opinion of the citizen
+      a48                No matter who you vote for
+      a49                Stop the peace process
+      a50                Return territories for peace
+      a51                Encourage the emigration of arabs
+      a53                Talking about political issues
+      a54                Affect government policy
+
+****    Personal Status
+
+      a55                Your personal status Today
+      a56                Your personal status 5 years ago
+      a57                Your personal status 5 years from now
+      a58                Satisfaction with the way Israeli democracy functions
+
+****    Support/Rejection of a Group or a Person
+
+      a59                Support: Kadima
+      a60                Support: Avoda
+      a61                Support: Likud
+      a62                Support: Meretz
+      a63                Support: Ihud Leumi - Mafdal
+      a64                Support: Israel Beiteinu
+      a65                Support: Shas
+      a66                Your favorite party
+      a68                Support: Olmert
+      a69                Support: Peretz
+      a70                Support: Netanyahu
+      a71                Support: Peres
+      a72                Support: Yishai
+      a73                Support: Sharon
+      a74                Support: Liberman
+      a75                Support: Beilin
+      a76                Support: Eylon
+      a77                Support: Sharanskiy
+      a78                Party leaders to deal best with economy
+      a79                In second place
+      a80                Party leaders to deal best with the social problems
+      a81                In second place
+      a82                Party leaders to deal best with foreign and security issues in Israel
+      a83                In second place
+
+****    Party Differences
+
+      a84                Party differences on the following issue:Jerusalem
+      a85                Party differences on the following issue:Economy
+      a86                Party differences on the following issue:Social policy
+      a87                Party differences on the following issue:State and Religion
+      a88                Party differences on the following issue:'Peace and Territories
+      a89                Party differences on the following issue:Terror
+      a90                The most important reason to vote for a party
+
+****    Influence of Different Issues on Vote
+
+      a91                Influence the following have on your vote:Jerusalem
+      a92                Influence the following have on your vote:'Economy
+      a93                Influence the following have on your vote:Social policy
+      a94                Influence the following have on your vote:State and religion
+      a95                Influence the following have on your vote:Peace and territories
+      a96                Influence the following have on your vote:Terror
+      a97                Influence the following have on your vote:Corruption
+      b6                 Greatest effect on your voting
+
+****    Ranking on a Right/Left Political Scale
+
+      b7                 Self-ranking on a right/left political scale
+      b11                Ranking on a right/left political scale:Likud
+      b13                Ranking on a right/left political scale:Avoda
+      b15                Ranking on a right/left political scale:Kadima
+      b17                Ranking on a right/left political scale:Shas
+      b19                Ranking on a right/left political scale:Ihud-Leumi Mafdal
+      b21                Ranking on a right/left political scale:Israel Beiteinu
+      b23                Ranking on a right/left political scale:Meretz
+
+****    State expenditures on Different Issues
+
+      b25                Willingness to pay more taxes
+      b26                State expenditures on Education
+      b27                State expenditures on Ecology
+      b28                State expenditures on Yeshivot and religious institutes
+      b29                State expenditures on Health
+      b30                State expenditures on Security
+      b31                State expenditures on Welfare payments
+      b32                State expenditures on Settlements
+      b33                State expenditures on Arab sector
+      b34                State expenditures on Creating jobs
+      b35                State expenditures on Roads and car accidents
+
+****    Most/Less Suitable Characteristic of the Party
+
+      b36                Most suitable characteristic of the party: Standing for principles in negotiations
+      b37                Least suitable characteristic of the party: Standing for principles in negotiations
+      b38                Most suitable characteristic of the party: Keep the democratic regime
+      b39                Least suitable characteristic of the party: Keep the democratic regime
+      b40                Most suitable characteristic of the party: True peace with arabs
+      b41                Least suitable characteristic of the party: True peace with arabs
+      b42                Most suitable characteristic of the party: Handle terrorism
+      b43                Least suitable characteristic of the party: Handle terrorism
+      b44                Most suitable characteristic of the party: Ensure a jewish majority
+      b45                Least suitable characteristic of the party: Ensure a jewish majority
+      b46                Most suitable characteristic of the party: Involved in corruprion
+      b47                Least suitable characteristic of the party: Involved in corruprion
+      b48                Most suitable characteristic of the party: Will decrease social gaps
+      b49                Least suitable characteristic of the party: Will decrease social gaps
+      b50                Most suitable characteristic of the party: Leadership abilites
+      b51                Least suitable characteristic of the party: Leadership abilites
+      b52                Most suitable characteristic of the party: Reliable
+      b53                Least suitable characteristic of the party: Reliable
+      b54                Most suitable characteristic of the party: Prefers the country
+      b55                Least suitable characteristic of the party: Prefers the country
+      b56                Most suitable characteristic of the party: Good Negotiating
+      b57                Least suitable characteristic of the party: Good Negotiating Skills
+      b58                Most suitable characteristic of the party: Will protect rule of law
+      b59                Least suitable characteristic of the party: Will protect rule of law
+      b60                Issues at the center of campaign
+      b61                With which political tendency do you identify
+      b62                Self-ranking on a right/left political scale
+
+****    Newspaper/TV
+
+      b63                Frequency of reading daily newspaper
+      b64                Newspaper usually read
+      b66                News on TV
+      b67                Which TV channel
+      b69                Election campaign broadcasts on TV
+      b70                Sites of political parties
+      b71                Which paties' sites
+
+****    Chance the Party to be in the Next Government
+
+      b72                Supporter or member of any party
+      b73                Respondent party vote if elections were held today
+      b75                Likelihood of Kadima to be in the coalition
+      b78                Likelihood of Avoda to be in the coalition
+      b81                Likelihood of Likud to be in the coalition
+      b84                Likelihood of the party he said he will vote for
+      b87                Number of seats you think Kadima will win
+      b89                Number of seats you think Avoda will win
+      b91                Number of seats you think Likud will win
+      b93                Number of seats you think the party you vote will win
+
+****    Different Coalitions after the Elections
+
+      c6                 Chances for Kadima-Labor coalition
+      c9                 Chances for Kadima-Likud coalition
+      c12                Chances for Kadima-Likud-Haredim coalition
+      c15                Chances for Kadima-Labor-Haredim coalition
+      c18                Chances for Kadima-Likud-Right coalition
+      c21                Chances for Kadima-Labor-Meretz coalition
+      c24                Chances for Kadima-Labor-Likud-Right parties and Haredim coalition
+      c27                Will support Kadima-Labor coalition
+      c28                Will support Kadima-Likud coalition
+      c29                Will support Kadima-Likud-Haredim coalition
+      c30                Will support Kadima-Labor-Haredim coalition
+      c31                Will support Kadima-Likud-Right coalition
+      c32                Will support Kadima-Labor-Meretz coalition
+      c33                Will support Kadima-Labor-Likud-Right parties and Haredim coalition
+      c34                Preferable coalition
+
+****    Previous Elections
+
+      c36                Respondent vote for PM if elections for PM were held
+      c38                Respondent party vote if elections for PM were also held
+      c40                Vote in 2003 elections
+      c42                Vote for PM in 2001 elections
+
+****    Self-identity
+
+      c43                Self-identity for Jews (first)
+      c44                Self-identity for Jews (second)
+      c45                Self-identity for Jews (third)
+      c46                Self-identity for Jews (fourth)
+      c47                Self-identity for Arabs (first)
+      c48                Self-identity for Arabs (second)
+      c49                Self-identity for Arabs (third)
+      c50                Self-identity for Arabs (fourth)
+      c51                Minimum threshold for representation in the Knesset
+      c52                Percentage of the government's budget that goes to security
+      c53                The Knesset's chairman
+
+****    Rersonal and Household Details
+
+      c54                Age
+      c56                Religious observance
+      c57                Country of birth
+      c60                Year of immigration
+      c62                Russian immigrant after 1989 (not for Arabs)
+      c63                City in former USSR (only for immigrants from the former USSR)
+      c65                Nationality in passport in USSR (only for immigrants from the former USSR)
+      c67                Friends in Israel (only for immigrants from the former USSR)
+      c68                Russian party participation in elections (only for immigrants from the former USSR)
+      c69                Father's country of birth (not for Arabs)
+      c72                Mother's country of birth (not for Arabs)
+      c75                Years of schooling
+      c77                Academic degree
+      c78                Profession
+      c80                Monthly family expenditure (relative to average of 9,300 NIS)
+      c81                Are you worried about losing your job?
+      c82                Rooms in dwelling
+      c84                Number of persons in household
+      c86                Social class (self identified)
+      c87                Religion
+      c88                Religious self-definition (not for Arabs)
+      c89                Sex
+      c90                Locality of residency
+      c93                Language of the interview
+      c94                Version of questionnaire
+      day                Day of interview
+      month              Month of interview
+      origin             Origin in categories
+
+****    Post-Election Survey
+
+      d5                 Voted in the last Knesset elections
+      d6                 List voted for in the last Knesset elections
+      d8                 Favored coalition
+      d10                Pleased with election results
+      d11                When did you finally decide to vote for the party?
+      d13                Frequency of watching parties' election campaign spots on TV
+      d14                Contact by a party or group during the campaign
+
+****    Reason for not Vote
+
+      d15                Reason for not vote: No difference between the parties
+      d16                Reason for not voted: It was clear who would win
+      d17                Reason for not voted: It makes no difference for whom you vote because nothing changes
+      d18                Reason for not voted: The public is sick of politics and politicians
+      d19                Reason for not voted: People felt they did not have for whom to vote
+      d20                Reason for not voted: People don't care, they're apathetic
+      d21                The most important reason for not voted
+      d23                Opinions about what the elections were about
+      d24                Disengagement plan and the future of the settlements in the territories
+      d25                Elections were about: Corruption of the politicians
+      d26                Elections were about: Dealling with security challenges
+      d27                Elections were a protest against the establishment
+      d28                Main opinions on what the elections were about
+      d29                Election as referendum on Olmert's plan
+      d30                Israel Beiteinu primarily represents immigrants from the former USSR
+      d31                Age
+      d33                Religion
+      d34                Years of schooling
+      d36                Sex
+      d37                Language of the interview
+      d38                Day of interview
+      d40                Month of interview
+      sevev              Wave
+
+=========================================================================================
+
+****    Case Identification
+
+      CASEID             Case ID
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      id_svv_2           Respondent's ID in all consecutive surveys
+
+              Data type: numeric
+              Record/columns: 1/5-8
+
+****    Pre-Election Survey
+
+      a6                 Israeli condition in general
+
+              6. In your opinion, what is Israel's general situation?
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  So so
+                  4  Not good
+                  5  Bad
+
+              Data type: numeric
+              Record/column: 1/9
+
+      a7                 The way government handles problems
+
+              7. What do you think about the way the government is handling the problems that exist in Israel today?
+
+              VALUE  LABEL
+                  1  Very good way
+                  2  Good way
+                  3  Bad way
+                  4  Very badly
+
+              Data type: numeric
+              Record/column: 1/10
+
+      a8                 Most important problem for government
+
+              8. What do you think is the most important problem the government must take care of?
+
+              Data type: numeric
+              Record/columns: 1/11-12
+
+      a10                Economic situation in past 3 years
+
+              10. Do you think that the economic situation in the past 3 years has improved, didn't change, or got worse?
+
+              VALUE  LABEL
+                  1  Improved a lot
+                  2  Improved a bit
+                  3  Didn't change
+                  4  Got a bit worse
+                  5  Got much worse
+
+              Data type: numeric
+              Record/column: 1/13
+
+      a11                Personal economic situation in past year
+
+              11. And what about your own personal economic status? Would you say that for the past year your personal status:
+
+              VALUE  LABEL
+                  1  Improved a lot
+                  2  Improved a bit
+                  3  Didn't change
+                  4  Got a bit worse
+                  5  Got much worse
+
+              Data type: numeric
+              Record/column: 1/14
+
+      a12                National security today
+
+              Here is a 9 step ladder that depicts where the country might be in terms of national security. The top of the ladder is 9 and that is the best possible situation that you can think of and 1 is the worst. One which rank do you think the country is?
+
+              VALUE  LABEL
+                  1  Worst situation
+                  9  Best situation
+
+              Data type: numeric
+              Record/column: 1/15
+
+      a13                National security in last 5 years
+
+              Here is a 9 step ladder that depicts where the country might be in terms of national security. The top of the ladder is 9 and that is the best possible situation that you can think of and 1 is the worst. One which rank do you think the country is?
+
+              VALUE  LABEL
+                  1  Worst situation
+                  9  Best situation
+
+              Data type: numeric
+              Record/column: 1/16
+
+      a14                National security in next 5 years
+
+              Here is a 9 step ladder that depicts where the country might be in terms of national security. The top of the ladder is 9 and that is the best possible situation that you can think of and 1 is the worst. One which rank do you think the country is?
+
+              VALUE  LABEL
+                  1  Worst situation
+                  9  Best situation
+
+              Data type: numeric
+              Record/column: 1/17
+
+      a15                Territories should be exchanged for peace
+
+              15. In a peace agreement with the Palestinians, should Israel agree or disagree to a territorial compromise and to the evacuation of settlements in Judea and Samaria?
+
+              VALUE  LABEL
+                  1  Should definitely agree
+                  2  Should agree
+                  3  Should disagree
+                  4  Should definitely disagree
+
+              Data type: numeric
+              Record/column: 1/18
+
+      a16                Israel should decide on borders and unilaterally withdraw
+
+              16. And if it would not be possible to achieve a peace agreement with the Palestinians in the next few years, should Israel undertake another unilateral separation?
+
+              VALUE  LABEL
+                  1  Yes definitely
+                  2  Yes
+                  3  No
+                  4  Definitely no
+
+              Data type: numeric
+              Record/column: 1/19
+
+      a17                Chances of Olmert's disengagement
+
+              17. If Ehud Olmert will be elected prime minister, what are the chances odds that he would undertake unilateral separation in Judea and Samaria?
+
+              VALUE  LABEL
+                  1  Great odds
+                  2  Medium odds
+                  3  Low odds
+                  4  No chance
+
+              Data type: numeric
+              Record/columns: 1/20-21
+
+      a18                Chances of peace between Israel and Arabs in next 3 years
+
+              18. What are the odds that the peace between Israel and the Arab states will grow stronger in the next 3 years?
+
+              VALUE  LABEL
+                  1  Great odds
+                  2  Medium odds
+                  3  Low odds
+                  4  Very low odds
+
+              Data type: numeric
+              Record/column: 1/22
+
+      a19                Chances of war in next 3 years
+
+              19. And what are the odds for a war to break out between Israel and an Arab state in the next 3 years?
+
+              VALUE  LABEL
+                  1  Great odds
+                  2  Medium odds
+                  3  Low odds
+                  4  Very low odds
+
+              Data type: numeric
+              Record/columns: 1/23-24
+
+      a20                Chances of peace agreement
+
+              20. Do you think it is possible to achieve a peace agreement with the Palestinians?
+
+              VALUE  LABEL
+                  1  Yes definitely
+                  2  I think so
+                  3  I don’t think so
+                  4  Definitely no
+
+              Data type: numeric
+              Record/column: 1/25
+
+      a21                Evaluation of Arab aspirations
+
+              21. What do you think are the aspirations of the in the long run?
+
+              VALUE  LABEL
+                  1  Return part of territories occupied in the six days war
+                  2  Return all the territories occupied in the six days war
+                  3  To conquer the state of Israel
+                  4  Conquer the state of Israel and to destroy a significant part of the Jewish population in Israel
+
+              Data type: numeric
+              Record/column: 1/26
+
+      a22                Peace agreement to conclude Arab-Israeli conflict
+
+              22. If there will be a peace agreement with the Palestinians and the Arab states, do you think the Israeli – Arab conflict will come to an end?
+
+              VALUE  LABEL
+                  1  I'm sure it will come to an end
+                  2  I think it will come to an end
+                  3  I think it won't come to an end
+                  4  I'm sure it won't come to an end
+
+              Data type: numeric
+              Record/column: 1/27
+
+      a23                To prevent war with arab states Israel should
+
+              23. What should Israel stress in order to avoid war with an Arab state?
+
+              VALUE  LABEL
+                  1  Having peace talks
+                  2  Strengthening its military might
+                  3  Peace talks and military might
+                  4  No one
+
+              Data type: numeric
+              Record/column: 1/28
+
+      a24                Are you worried about being injured by Arabs
+
+              24. To what extent are you worried or not worried that you or a member of your family could be injured in your daily life?
+
+              VALUE  LABEL
+                  1  Very worried
+                  2  Worried
+                  3  Not worried
+                  4  Not worried at all
+
+              Data type: numeric
+              Record/column: 1/29
+
+****    Likely Direction of Development of Israel
+
+      a25                The most important value (not asked of Arabs)
+
+              25,26,27,28. (Not asked of Arabs) If we think of the likely direction of development of Israel, there are four important values that conflict with each other to a certain extent but which are important to various people to varying degrees. Of these four values, which one is the most important one for you? And what's the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/30
+
+      a26                The second most important value
+
+              25,26,27,28. (Not asked of Arabs) If we think of the likely direction of development of Israel, there are four important values that conflict with each other to a certain extent but which are important to various people to varying degrees. Of these four values, which one is the most important one for you? And what's the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/31
+
+      a27                The third most important value
+
+              25,26,27,28. (Not asked of Arabs) If we think of the likely direction of development of Israel, there are four important values that conflict with each other to a certain extent but which are important to various people to varying degrees. Of these four values, which one is the most important one for you? And what's the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/32
+
+      a28                The fourth most important value
+
+              25,26,27,28. (Not asked of Arabs) If we think of the likely direction of development of Israel, there are four important values that conflict with each other to a certain extent but which are important to various people to varying degrees. Of these four values, which one is the most important one for you? And what's the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/33
+
+****    Threat of Different Issues
+
+      a29                Threat of returning territories for peace
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/34
+
+      a30                Threat of enemies having biological weapons
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/35
+
+      a31                Threat of no democracy in Israel
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/36
+
+      a32                Threat of disengagement from Palestinians
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/37
+
+      a33                Threat of enemies having nuclear weapons
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/38
+
+      a34                Threat of Palestinian state
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/39
+
+      a35                Threat of continued intifada
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/40
+
+      a36                Threat of war with Syria
+
+              To what extent do you consider each of the following situations as a threat?
+
+              VALUE  LABEL
+                  1  Not at all threatening
+                  7  Very threatening
+
+              Data type: numeric
+              Record/column: 1/41
+
+      a37                Democracy or Halacha (not asked of Arabs)
+
+              37. (not asked of Arabs): There are situations in which there is a contradiction between democracy and halacha (Jewish religious law). In the case of such a contradiction, should the principles of democracy be favored, or should the commandments of Jewish halacha be followed?
+
+              VALUE  LABEL
+                  1  The principles of democracy should always be followed
+                  2  It depends
+                  3  Halacha should always be followed
+
+              Data type: numeric
+              Record/column: 1/42
+
+      a38                Goverment should or shoudn't interfere
+
+              38. Some think that the government should make sure that everybody has a job and a decent standard of living. Others think that the government shouldn't interfere and should let everyone take care of himself. What do you think?
+
+              VALUE  LABEL
+                  1  The government should make sure
+                  2  It depends
+                  3  The government shouldn't interfere
+
+              Data type: numeric
+              Record/column: 1/43
+
+      a39                Law or security
+
+              39. There are situations in which there is a contradiction between the rule of law and national security interests. In the case of such a contradiction, should the rule of law prevail or should national security interests prevail?
+
+              VALUE  LABEL
+                  1  The rule of law should prevail
+                  2  It depends
+                  3  National security interests should prevail
+
+              Data type: numeric
+              Record/column: 1/44
+
+      a40                Establishment of a Pal. state as part of permanent settlement
+
+              40. Do you think Israel should agree or disagree to the establishment of a Palestinian state in Judea, Samaria, and the Gaza strip as part of a permanent settlement?
+
+              VALUE  LABEL
+                  1  Should definitely agree
+                  2  I think should agree
+                  3  I think should not agree
+                  4  Should definitely not agree
+
+              Data type: numeric
+              Record/column: 1/45
+
+      a41                Arab neighborhoods of Jerusalem
+
+              41. As part of a permanent settlement with the Palestinians, should Israel be prepared to give up or should it retain the Arab neighborhoods of Jerusalem in order to reach such a settlement?
+
+              VALUE  LABEL
+                  1  Definitely give up
+                  2  Give up
+                  3  Retaine
+                  4  Definitely retain
+                  5  Internationl juresdiction
+
+              Data type: numeric
+              Record/column: 1/46
+
+      a42                Returning Golan
+
+              42. Should Israel return to Syria territories in the Golan in return for a peace treaty and security arrangements acceptable to the IDF?
+
+              VALUE  LABEL
+                  1  No
+                  2  Israel should return a small part of the Golan
+                  3  Israel should return a significant part of the Golan
+                  4  Israel should return all of the Golan Heights
+
+              Data type: numeric
+              Record/column: 1/47
+
+      a43                Evacuating in judea and Samaria
+
+              43. And what is your opinion regarding the evacuation of Jewish settlements in Judea, Samaria, and Gaza as part of a permanent agreement?
+
+              VALUE  LABEL
+                  1  Nothing should be evacuated
+                  2  I am prepared to evacuate small and isolated settlements
+                  3  I am willing to evacuate all the settlements including the large blocs of settlements
+
+              Data type: numeric
+              Record/column: 1/48
+
+      a44                Public life according to Halacha
+
+              44. (not asked of Arabs): Do you think the Israeli government should or should not see to it that public life in Israel be conducted according to Jewish religious tradition?
+
+              VALUE  LABEL
+                  1  Should definitely see to it
+                  2  Maybe should see to it
+                  3  I do not think the government should see to it
+                  4  The government should definitely not see to it
+
+              Data type: numeric
+              Record/column: 1/49
+
+      a45                Israel's economic structure (socialist or capitalist)
+
+              45. Regarding the economic structure of life in Israel, do you support a more socialist approach or a more capitalist one?
+
+              VALUE  LABEL
+                  1  Definitely capitalist
+                  2  More capitalist than socialist
+                  3  More socialist than capitalist
+                  4  Definitely socialist
+                  5  Socialist and capitalist
+                  6  Other
+
+              Data type: numeric
+              Record/column: 1/50
+
+****    Agree/Disagree with the Different Statements
+
+      a46                Democracy as a best system
+
+              To what extent do you agree or disagree with the following statements? 46. Even if there are problems in democracy, it's still the best political system
+
+              VALUE  LABEL
+                  1  Definitely disagree
+                  2  Disagree
+                  3  Agree
+                  4  Definitely agree
+
+              Data type: numeric
+              Record/column: 1/51
+
+      a47                Politicians tend not to consider the opinion of the citizen
+
+              To what extent do you agree or disagree with the following statements? 47. A politician tends not to consider the opinion of the simple citizen
+
+              VALUE  LABEL
+                  1  Definitely disagree
+                  2  Disagree
+                  3  Agree
+                  4  Definitely agree
+
+              Data type: numeric
+              Record/column: 1/52
+
+      a48                No matter who you vote for
+
+              To what extent do you agree or disagree with the following statements? 48. No matter who you vote for, it won’t change anything
+
+              VALUE  LABEL
+                  1  Definitely disagree
+                  2  Disagree
+                  3  Agree
+                  4  Definitely agree
+
+              Data type: numeric
+              Record/column: 1/53
+
+      a49                Stop the peace process
+
+              To what extent do you agree or disagree with the following statements? 49. The peace process must be stopped even at the a risk of another war
+
+              VALUE  LABEL
+                  1  Definitely disagree
+                  2  Disagree
+                  3  Agree
+                  4  Definitely agree
+
+              Data type: numeric
+              Record/column: 1/54
+
+      a50                Return territories for peace
+
+              To what extent do you agree or disagree with the following statements? 50. Territories should be returned in exchange for peace
+
+              VALUE  LABEL
+                  1  Definitely disagree
+                  2  Disagree
+                  3  Agree
+                  4  Definitely agree
+
+              Data type: numeric
+              Record/column: 1/55
+
+      a51                Encourage the emigration of arabs
+
+              To what extent do you agree or disagree with the following statements? 51. The government should encourage the emigration of Arabs from Israel
+
+              VALUE  LABEL
+                  1  Definitely disagree
+                  2  Disagree
+                  3  Agree
+                  4  Definitely agree
+
+              Data type: numeric
+              Record/column: 1/56
+
+      a53                Talking about political issues
+
+              53. To what extent do you talk with your friends and family about political issues?
+
+              VALUE  LABEL
+                  1  A great amount
+                  2  A certain amount
+                  3  A small amount
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/57
+
+      a54                Affect government policy
+
+              54. To what extent can you and your friends effect government policy?
+
+              VALUE  LABEL
+                  1  A great amount
+                  2  A certain amount
+                  3  A small amount
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/58
+
+****    Personal Status
+
+      a55                Your personal status Today
+
+              Here you have a 9 stages scale describing different situations a person can be on. The top of the ladder is 9 and that is the best possible situation that you can think of and 1 is the worst. On which rank would you place yourself?
+
+              VALUE  LABEL
+                  1  Worst
+                  9  Best
+
+              Data type: numeric
+              Record/column: 1/59
+
+      a56                Your personal status 5 years ago
+
+              Here you have a 9 stages scale describing different situations a person can be on. The top of the ladder is 9 and that is the best possible situation that you can think of and 1 is the worst. On which rank would you place yourself?
+
+              VALUE  LABEL
+                  1  Worst
+                  9  Best
+
+              Data type: numeric
+              Record/column: 1/60
+
+      a57                Your personal status 5 years from now
+
+              Here you have a 9 stages scale describing different situations a person can be on. The top of the ladder is 9 and that is the best possible situation that you can think of and 1 is the worst. On which rank would you place yourself?
+
+              VALUE  LABEL
+                  1  Worst
+                  9  Best
+
+              Data type: numeric
+              Record/column: 1/61
+
+      a58                Satisfaction with the way Israeli democracy functions
+
+              58. Generally speaking, to what extent are you satisfied or dissatisfied with the way Israeli democracy functions?
+
+              VALUE  LABEL
+                  1  Very dissatisfied
+                  2  Dissatisfied
+                  3  Satisfied
+                  4  Very satisfied
+
+              Data type: numeric
+              Record/column: 1/62
+
+****    Support/Rejection of a Group or a Person
+
+      a59                Support: Kadima
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/63-64
+
+      a60                Support: Avoda
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/65-66
+
+      a61                Support: Likud
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/67-68
+
+      a62                Support: Meretz
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/69-70
+
+      a63                Support: Ihud Leumi - Mafdal
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/71-72
+
+      a64                Support: Israel Beiteinu
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/73-74
+
+      a65                Support: Shas
+
+              Here is a scale from 1 to 10 to express support or rejection of a group or a person. '1' describes strong rejection/ hate, and '10' describes strong support/ love.
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/75-76
+
+      a66                Your favorite party
+
+              66. In sum, among these parties, which one do you support most?
+
+              VALUE  LABEL
+                 59  Kadima
+                 60  Avoda
+                 61  Likud
+                 62  Meretz
+                 63  Ihud Leumi Mafdal
+                 64  Israel Beitenu
+                 65  Shas
+                 66  Another Party
+                 67  No Favorite Party
+
+              Data type: numeric
+              Record/columns: 1/77-78
+
+      a68                Support: Olmert
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/79-80
+
+      a69                Support: Peretz
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/81-82
+
+      a70                Support: Netanyahu
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/83-84
+
+      a71                Support: Peres
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/85-86
+
+      a72                Support: Yishai
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/87-88
+
+      a73                Support: Sharon
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/89-90
+
+      a74                Support: Liberman
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/91-92
+
+      a75                Support: Beilin
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/93-94
+
+      a76                Support: Eylon
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/95-96
+
+      a77                Support: Sharanskiy
+
+              VALUE  LABEL
+                  1  Hate/rejection
+                 10  Love/support
+
+              Data type: numeric
+              Record/columns: 1/97-98
+
+      a78                Party leaders to deal best with economy
+
+              78 – 79. Who do you think will deal best with the economic problems of Israel: Kadima leaders, the Likud leaders, to Labor's leaders? Who is in second place?
+
+              VALUE  LABEL
+                  1  Kadima leaders
+                  2  Likud leaders
+                  3  Avoda leaders
+                  4  All of them to the same deggree
+                  5  None of them
+                  6  Another party
+
+              Data type: numeric
+              Record/column: 1/99
+
+      a79                In second place
+
+              79 – 79. Who do you think will deal best with the economic problems of Israel: Kadima leaders, the Likud leaders, to Labor's leaders? Who is in second place?
+
+              VALUE  LABEL
+                  1  Kadima leaders
+                  2  Likud leaders
+                  3  Avoda leaders
+                  4  All of them to the same deggree
+                  5  None of them
+                  6  Another party
+
+              Data type: numeric
+              Record/column: 1/100
+
+      a80                Party leaders to deal best with the social problems
+
+              80 – 81. And regarding the social problems in Israel?
+
+              VALUE  LABEL
+                  1  Kadima leaders
+                  2  Likud leaders
+                  3  Avoda leaders
+                  4  All of them to the same deggree
+                  5  None of them
+                  6  Another party
+
+              Data type: numeric
+              Record/column: 1/101
+
+      a81                In second place
+
+              81 – 81. And regarding the social problems in Israel?
+
+              VALUE  LABEL
+                  1  Kadima leaders
+                  2  Likud leaders
+                  3  Avoda leaders
+                  4  All of them to the same deggree
+                  5  None of them
+                  6  Another party
+
+              Data type: numeric
+              Record/column: 1/102
+
+      a82                Party leaders to deal best with foreign and security issues in Israel
+
+              82 – 83. And regarding the foreign and security issues in Israel?
+
+              VALUE  LABEL
+                  1  Kadima leaders
+                  2  Likud leaders
+                  3  Avoda leaders
+                  4  All of them to the same deggree
+                  5  None of them
+                  6  Another party
+
+              Data type: numeric
+              Record/column: 1/103
+
+      a83                In second place
+
+              83 – 83. And regarding the foreign and security issues in Israel?
+
+              VALUE  LABEL
+                  1  Kadima leaders
+                  2  Likud leaders
+                  3  Avoda leaders
+                  4  All of them to the same deggree
+                  5  None of them
+                  6  Another party
+
+              Data type: numeric
+              Record/column: 1/104
+
+****    Party Differences
+
+      a84                Party differences on the following issue:Jerusalem
+
+              Do you think there are or are not differences among the parties on the following issues?
+
+              VALUE  LABEL
+                  1  Great differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/105
+
+      a85                Party differences on the following issue:Economy
+
+              Do you think there are or are not differences among the parties on the following issues?
+
+              VALUE  LABEL
+                  1  Great differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/106
+
+      a86                Party differences on the following issue:Social policy
+
+              Do you think there are or are not differences among the parties on the following issues?
+
+              VALUE  LABEL
+                  1  Great differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/107
+
+      a87                Party differences on the following issue:State and Religion
+
+              Do you think there are or are not differences among the parties on the following issues?
+
+              VALUE  LABEL
+                  1  Great differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/108
+
+      a88                Party differences on the following issue:'Peace and Territories
+
+              Do you think there are or are not differences among the parties on the following issues?
+
+              VALUE  LABEL
+                  1  Great differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/109
+
+      a89                Party differences on the following issue:Terror
+
+              Do you think there are or are not differences among the parties on the following issues?
+
+              VALUE  LABEL
+                  1  Great differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/110
+
+      a90                The most important reason to vote for a party
+
+              90. There are different factors that bring people to vote for a certain party for the Knesset. Among the 4 following factors, which is the main factor that influences your vote for a certain party?
+
+              VALUE  LABEL
+                  1  Identifying with the party
+                  2  The party's candidates for the Knesset
+                  3  The party's stand on certain issues
+                  4  The political status of the party in the coalition or in the opposition
+                  5  Family voting
+                  6  Rabbi will say
+                  7  Party leader
+                  8  None of them
+                  9  All
+
+              Data type: numeric
+              Record/column: 1/111
+
+****    Influence of Different Issues on Vote
+
+      a91                Influence the following have on your vote:Jerusalem
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/112
+
+      a92                Influence the following have on your vote:'Economy
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/113
+
+      a93                Influence the following have on your vote:Social policy
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/114
+
+      a94                Influence the following have on your vote:State and religion
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/115
+
+      a95                Influence the following have on your vote:Peace and territories
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/116
+
+      a96                Influence the following have on your vote:Terror
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/117
+
+      a97                Influence the following have on your vote:Corruption
+
+              To what extent do each of the following issues effect or not effect your voting?
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  Some
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/118
+
+      b6                 Greatest effect on your voting
+
+              6. Among the following issues, which will have the greatest effect on your voting in the coming elections – the political process with the Palestinians, the defense situation in Israel, the socio-economic situation, relationships between the religious and non-religious, corruption and the rule of law, or the unity of the people?
+
+              VALUE  LABEL
+                  1  Political process with the Palestinians
+                  2  Defence situation
+                  3  Socio-economic situation
+                  4  Relationships between religious and nonreligious
+                  5  Corruption and the rule of law
+                  6  The unity of the people
+                  7  Other
+                  8  Do not know
+                  9  More than one answer
+
+              Data type: numeric
+              Record/column: 1/119
+
+****    Ranking on a Right/Left Political Scale
+
+      b7                 Self-ranking on a right/left political scale
+
+              7. There is a lot of talk about left and right in politics. How would you rank yourself from 0 to 10, 0 means left and 10 means right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/120-121
+
+      b11                Ranking on a right/left political scale:Likud
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/122-123
+
+      b13                Ranking on a right/left political scale:Avoda
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/124-125
+
+      b15                Ranking on a right/left political scale:Kadima
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/126-127
+
+      b17                Ranking on a right/left political scale:Shas
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/128-129
+
+      b19                Ranking on a right/left political scale:Ihud-Leumi Mafdal
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/130-131
+
+      b21                Ranking on a right/left political scale:Israel Beiteinu
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/132-133
+
+      b23                Ranking on a right/left political scale:Meretz
+
+              How would you rate the following parties on the left-right scale from 0 to 10, 0 stands for left, and 10 stands for right and 5 is in the middle.
+
+              VALUE  LABEL
+                  0  Left
+                 10  Right
+
+              Data type: numeric
+              Record/columns: 1/134-135
+
+****    State expenditures on Different Issues
+
+      b25                Willingness to pay more taxes
+
+              Would you be willing or would you not be willing to have taxes raised, so that you would have to pay more taxes, in order for the country to be able to deal with the problems it faces?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/136
+
+      b26                State expenditures on Education
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/137
+
+      b27                State expenditures on Ecology
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/138
+
+      b28                State expenditures on Yeshivot and religious institutes
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/139
+
+      b29                State expenditures on Health
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/140
+
+      b30                State expenditures on Security
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/141
+
+      b31                State expenditures on Welfare payments
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/142
+
+      b32                State expenditures on Settlements
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/143
+
+      b33                State expenditures on Arab sector
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/144
+
+      b34                State expenditures on Creating jobs
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/145
+
+      b35                State expenditures on Roads and car accidents
+
+              Should the country spend more money, less money or the same as it does today on the following issues:
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  The same as today
+
+              Data type: numeric
+              Record/column: 1/146
+
+****    Most/Less Suitable Characteristic of the Party
+
+      b36                Most suitable characteristic of the party: Standing for principles in negotiations
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will stand for its principles in negotiations on territory and peace
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/147
+
+      b37                Least suitable characteristic of the party: Standing for principles in negotiations
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will stand for its principles in negotiations on territory and peace
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/148
+
+      b38                Most suitable characteristic of the party: Keep the democratic regime
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party the will keep the democratic regime in the
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/149
+
+      b39                Least suitable characteristic of the party: Keep the democratic regime
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party the will keep the democratic regime in the
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/150
+
+      b40                Most suitable characteristic of the party: True peace with arabs
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will lead to a true peace with the Arabs
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/151
+
+      b41                Least suitable characteristic of the party: True peace with arabs
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will lead to a true peace with the Arabs
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/152
+
+      b42                Most suitable characteristic of the party: Handle terrorism
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will handle terrorism successfully
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/153
+
+      b43                Least suitable characteristic of the party: Handle terrorism
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will handle terrorism successfully
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/154
+
+      b44                Most suitable characteristic of the party: Ensure a jewish majority
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will ensure a Jewish majority in the state
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/155
+
+      b45                Least suitable characteristic of the party: Ensure a jewish majority
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will ensure a Jewish majority in the state
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/156
+
+      b46                Most suitable characteristic of the party: Involved in corruprion
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that is involved in corruption
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/157
+
+      b47                Least suitable characteristic of the party: Involved in corruprion
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that is involved in corruption
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/158
+
+      b48                Most suitable characteristic of the party: Will decrease social gaps
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will decrease social gaps
+
+              VALUE  LABEL
+                  1  Most suitable Kadima
+                  2  Most suitable Likud
+                  3  Most suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/159
+
+      b49                Least suitable characteristic of the party: Will decrease social gaps
+
+              Below is a list of different characteristics of parties. Please indicate which characteristic is most suitable to Kadima, Labor or Likud? Do not read 4 and 5 to those who answer 1, 2 or 3 and ask to whom do these characteristics suit the least? A party that will decrease social gaps
+
+              VALUE  LABEL
+                  1  Least suitable Kadima
+                  2  Least suitable Likud
+                  3  Least suitable Avoda
+                  4  Suits all the same
+                  5  Doesn't suit any of them
+
+              Data type: numeric
+              Record/column: 1/160
+
+      b50                Most suitable characteristic of the party: Leadership abilites
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Leadership abilities
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/161
+
+      b51                Least suitable characteristic of the party: Leadership abilites
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Leadership abilities
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/162
+
+      b52                Most suitable characteristic of the party: Reliable
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Reliable
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/163
+
+      b53                Least suitable characteristic of the party: Reliable
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Reliable
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/164
+
+      b54                Most suitable characteristic of the party: Prefers the country
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Prefers the country's good to other interests
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/165
+
+      b55                Least suitable characteristic of the party: Prefers the country
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Prefers the country's good to other interests
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/166
+
+      b56                Most suitable characteristic of the party: Good Negotiating
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Good negotiating capability
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/167
+
+      b57                Least suitable characteristic of the party: Good Negotiating Skills
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Good negotiating capability
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/168
+
+      b58                Most suitable characteristic of the party: Will protect rule of law
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Will protect rule of law
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/169
+
+      b59                Least suitable characteristic of the party: Will protect rule of law
+
+              Below is a list of characteristics of leaders. Please tell which politician suits the characteristic best: Ehud Ulmert, Binyamin Netanyahu or Amir Peretz? Do not read 4 and 5. To those who said 1, 2 or 3, ask to whom this characteristic suits the least. Will protect rule of law
+
+              VALUE  LABEL
+                  1  Olmert
+                  2  Netanyahu
+                  3  Peretz
+                  4  All
+                  5  None
+
+              Data type: numeric
+              Record/column: 1/170
+
+      b60                Issues at the center of campaign
+
+              60. Among the following issues, which in your opinion is at the center of the election campaign? Are these elections mainly about the political process with the Palestinians, or the defense situation, or the socio-economic situation, the religious- nonreligious relationships, corruption and the rule by law or the unity of the people? (Read answers 1-3 in changing order).
+
+              VALUE  LABEL
+                  1  Peace process with the Palestinians
+                  2  The security situation
+                  3  Socio-economic situation
+                  4  Relationships between religious and nonreligious
+                  5  Corruption and the rule of law
+                  6  The unity of the people
+                  7  Other
+                  8  Do not know
+                  9  More than one answer
+
+              Data type: numeric
+              Record/column: 1/171
+
+      b61                With which political tendency do you identify
+
+              61. With which political tendency do you identify?
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious
+                  7  None of them
+
+              Data type: numeric
+              Record/column: 1/172
+
+      b62                Self-ranking on a right/left political scale
+
+              62. There is a lot of talk on right and left in politics. Where would you rank yourself on the scale left-right where 1 is the extreme right and 7 is the left?
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/173
+
+****    Newspaper/TV
+
+      b63                Frequency of reading daily newspaper
+
+              63. Do you read a daily newspaper every day?
+
+              VALUE  LABEL
+                  1  Almost never
+                  2  Every now and then
+                  3  Approximately once a week
+                  4  Twice or three times a week
+                  5  One daily newspaper almost once a day
+                  6  More than one newspaper amost every day
+
+              Data type: numeric
+              Record/column: 1/174
+
+      b64                Newspaper usually read
+
+              64. Which newspaper do you usually read, which is your main newspaper? (do not read)
+
+              Data type: numeric
+              Record/columns: 1/175-176
+
+      b66                News on TV
+
+              66. Do you usually watch the news on TV?
+
+              VALUE  LABEL
+                  1  Almost never
+                  2  Not so often
+                  3  Once a week or so
+                  4  2-3 times a week
+                  5  At least once a day
+                  6  More than once a day
+
+              Data type: numeric
+              Record/column: 1/177
+
+      b67                Which TV channel
+
+              67. And which TV channel do you usually watch? (do not read)
+
+              VALUE  LABEL
+                  1  Channel 1
+                  2  Channel 2
+                  3  Channel 9 (Israel+)
+                  4  Channel 10
+                  5  RTVI
+                  6  Al-Jazira
+                  7  MBC
+                  8  Other
+                  9  More than one in Hebrew
+                 10  ORT (Russian)
+                 11  CNN
+                 12  RTVI and Israel+
+                 13  RTVI and/or Israel+ and Hebrew channel
+                 14  Israel+ and ORT
+                 15  Euronews
+                 16  More than one in Arabic
+                 17  More thane one in Arabic and Hebrew
+                 18  El-Manar
+                 19  BBC
+                 20  TV-5 (France)
+                 21  NTV (Russian)
+
+              Data type: numeric
+              Record/columns: 1/178-179
+
+      b69                Election campaign broadcasts on TV
+
+              69. Do you usually watch the election campaign broadcasts on TV?(for interviews before the beginning of broadcasts (March 7, 2006): Do you intend to watch the campaign broadcasts on TV?)
+
+              VALUE  LABEL
+                  1  Every day
+                  2  Usually
+                  3  Sometimes
+                  4  Not very often
+                  5  Never
+
+              Data type: numeric
+              Record/column: 1/180
+
+      b70                Sites of political parties
+
+              70. Do you surf sites of political parties?
+
+              VALUE  LABEL
+                  1  Do not surf the internet at all
+                  2  Surf but not sites of parties
+                  3  Surf once in a while the sites of parties
+                  4  Yes quite often
+
+              Data type: numeric
+              Record/column: 1/181
+
+      b71                Which paties' sites
+
+              71. Those who answered 3 or 4 ask: Which parties' sites do you surf?
+
+              VALUE  LABEL
+                  1  The ones which I support
+                  2  Only parties which I dislike
+                  3  All kinds of parties
+
+              Data type: numeric
+              Record/column: 1/182
+
+****    Chance the Party to be in the Next Government
+
+      b72                Supporter or member of any party
+
+              72. Are you a member, supporter, or an activist of any of the parties?
+
+              VALUE  LABEL
+                  1  Not a supporter or an activist in any of the parties
+                  2  Supporter of a party but not a member
+                  3  Member
+                  4  Active member
+                  5  A member and hold a position in a party
+
+              Data type: numeric
+              Record/column: 1/183
+
+      b73                Respondent party vote if elections were held today
+
+              73. If the elections for Knesset were held today, for which party would you vote for? (do not read answers)
+
+              VALUE  LABEL
+                  1  Kadima
+                  2  Likud
+                  3  Avoda
+                  4  Yisrael Beitenu (Liberman)
+                  5  Ihud Leumi-Mafdal
+                  6  Yahadut Ha Tora
+                  7  Shas
+                  8  Meretz
+                  9  Shinui
+                 10  Hetz (Poraz)
+                 11  The Green Party
+                 12  Ale Yarok
+                 13  The Pensioners
+                 14  Hazit Leumit Yehudit (Marzel)
+                 15  Herut
+                 16  Tafnit
+                 17  Balad
+                 18  Raam-Taal
+                 19  Hadash
+                 20  Zionut Hadasha
+                 21  Daam
+                 22  Lehem
+                 96  Blank  ballot
+                 97  Undecided
+                 98  Do not intend to vote
+                 99  Refuse to answer
+
+              Data type: numeric
+              Record/columns: 1/184-185
+
+      b75                Likelihood of Kadima to be in the coalition
+
+              And now we would like to ask you about the chance of each one of the following parties to be a member of the coalition after the elections. Here you have a scale between 0 to 10, where 10 means you think there is no chance the party will be a member of the coalition, 50 means that the party's chances are half and half, and 100 means that it will certainly be a member of the coalition. What's the chance that Kadima will be in the next government?
+
+              Data type: numeric
+              Record/columns: 1/186-188
+
+      b78                Likelihood of Avoda to be in the coalition
+
+              And now we would like to ask you about the chance of each one of the following parties to be a member of the coalition after the elections. Here you have a scale between 0 to 10, where 10 means you think there is no chance the party will be a member of the coalition, 50 means that the party's chances are half and half, and 100 means that it will certainly be a member of the coalition. The Labor?
+
+              Data type: numeric
+              Record/columns: 1/189-191
+
+      b81                Likelihood of Likud to be in the coalition
+
+              And now we would like to ask you about the chance of each one of the following parties to be a member of the coalition after the elections. Here you have a scale between 0 to 10, where 10 means you think there is no chance the party will be a member of the coalition, 50 means that the party's chances are half and half, and 100 means that it will certainly be a member of the coalition. The Likud?
+
+              Data type: numeric
+              Record/columns: 1/192-194
+
+      b84                Likelihood of the party he said he will vote for
+
+              And now we would like to ask you about the chance of each one of the following parties to be a member of the coalition after the elections. Here you have a scale between 0 to 10, where 10 means you think there is no chance the party will be a member of the coalition, 50 means that the party's chances are half and half, and 100 means that it will certainly be a member of the coalition. And (the party he said he will vote for in the previous question)
+
+              Data type: numeric
+              Record/columns: 1/195-197
+
+      b87                Number of seats you think Kadima will win
+
+              And what about the number of MKs these parties will have in the next Knesset? How many MKs will…have? Kadima?
+
+              Data type: numeric
+              Record/columns: 1/198-200
+
+      b89                Number of seats you think Avoda will win
+
+              And what about the number of MKs these parties will have in the next Knesset? How many MKs will…have? Labor?
+
+              Data type: numeric
+              Record/columns: 1/201-203
+
+      b91                Number of seats you think Likud will win
+
+              And what about the number of MKs these parties will have in the next Knesset? How many MKs will…have? Likud?
+
+              Data type: numeric
+              Record/columns: 1/204-206
+
+      b93                Number of seats you think the party you vote will win
+
+              And what about the number of MKs these parties will have in the next Knesset? How many MKs will…have? And (the party he said he will vote for in the previous question)
+
+              Data type: numeric
+              Record/columns: 1/207-209
+
+****    Different Coalitions after the Elections
+
+      c6                 Chances for Kadima-Labor coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/210-212
+
+      c9                 Chances for Kadima-Likud coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/213-215
+
+      c12                Chances for Kadima-Likud-Haredim coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/216-218
+
+      c15                Chances for Kadima-Labor-Haredim coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/219-221
+
+      c18                Chances for Kadima-Likud-Right coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/222-224
+
+      c21                Chances for Kadima-Labor-Meretz coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/225-227
+
+      c24                Chances for Kadima-Labor-Likud-Right parties and Haredim coalition
+
+              And now we want to ask you about the chances of different coalitions after the elections. On a scale of 0 to 100, 0 means you give no chance for a certain coalition, 50 means that the coalition's chances are half and half, and 100 means that you are sure this coalition will exist. Naturally you can give any number between 0 to 100. On such a scale, what are the chances that after the elections, there will be a coalition between:
+
+              Data type: numeric
+              Record/columns: 1/228-230
+
+      c27                Will support Kadima-Labor coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/231-232
+
+      c28                Will support Kadima-Likud coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/233-234
+
+      c29                Will support Kadima-Likud-Haredim coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/235-237
+
+      c30                Will support Kadima-Labor-Haredim coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/238-240
+
+      c31                Will support Kadima-Likud-Right coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/241-243
+
+      c32                Will support Kadima-Labor-Meretz coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/244-245
+
+      c33                Will support Kadima-Labor-Likud-Right parties and Haredim coalition
+
+              And how supportive would you be of the following coalitions after the elections (read the coalitions in a different order) on a 10 point scale where '1' means strong rejection and '10' means strong support, and the rest are levels in between:
+
+              VALUE  LABEL
+                  1  Reject
+                 10  Support
+
+              Data type: numeric
+              Record/columns: 1/246-248
+
+      c34                Preferable coalition
+
+              34. And in the final analysis, among these possibilities, which would you prefer?
+
+              VALUE  LABEL
+                 27  Kadima-Avoda
+                 28  Kadima-Likud
+                 29  Kadima-Likud-Haredim
+                 30  Kadima-Avoda-Haredim
+                 31  Kadima-Likud-Right
+                 32  Kadima-Avoda-Meretz
+                 33  Memshelet Ahdut Leumit
+                 34  Kadima-Avoda-Liberman
+                 35  Kadima-Avoda-Likud-Liberman
+                 36  Kadima-Likud-Liberman
+                 37  Likud-Avoda
+                 38  Kadima-Avoda-Likud
+                 39  Likud-Right-Haredim
+                 40  Kadima-Avoda-Merets-Arabs
+                 41  Likud-Avoda-Haredim
+                 42  Kadima-small parties
+
+              Data type: numeric
+              Record/columns: 1/249-250
+
+****    Previous Elections
+
+      c36                Respondent vote for PM if elections for PM were held
+
+              36. And if there were two ballots in the coming elections, one for Prime Minister and one for the Knesset, for whom would you vote for Prime Minister?
+
+              VALUE  LABEL
+                  1  Peretz
+                  2  Olmert
+                  3  Netanyahu
+                  4  Other
+                  5  Blank ballot
+                  6  Don't know
+                  7  Wouldn't vote
+                  9  Refuse
+                 10  Peres
+                 11  Liberman
+                 12  Sharanskiy
+                 13  Dery
+                 14  Ishai
+                 15  Porush
+                 16  Gafni
+                 17  Ami Ayalon
+                 18  Ramon
+                 19  Uzi Landau
+                 20  Ariel Sharon
+                 21  Eitam
+                 22  Feiglin
+                 23  Sarid
+                 24  Beilin
+                 25  Marzel
+                 26  Livni
+                 27  Bishara
+                 28  Tibi
+                 29  Taleb Sane
+                 30  Eli Landau
+                 31  Poraz
+                 32  M. Elyahu
+                 33  Beni Begin
+                 34  Uzi Dayan
+                 35  Mofaz
+                 36  Barak
+
+              Data type: numeric
+              Record/columns: 1/251-252
+
+      c38                Respondent party vote if elections for PM were also held
+
+              38. And for the Knesset? (for the interviewer: use the code in question 73)
+
+              VALUE  LABEL
+                  1  Kadima
+                  2  Likud
+                  3  Avoda
+                  4  Liberman
+                  5  Ihud Leumi-Mafdal
+                  6  Yahadut Ha Tora
+                  7  Shas
+                  8  Meretz
+                  9  Shinui
+                 10  Hetz (Poraz)
+                 11  Green Party
+                 12  Ale Yarok
+                 13  Pensioners
+                 14  Hazit Leumit Yehudit (Marzel)
+                 15  Herut
+                 16  Tafnit
+                 17  Balad
+                 18  Raam
+                 19  Hadash
+                 96  Blank ballot
+                 97  Undecided
+                 98  Do not intend to vote
+                 99  Refuse to answer
+
+              Data type: numeric
+              Record/columns: 1/253-254
+
+      c40                Vote in 2003 elections
+
+              40. For which party did you vote in the previous elections in 2003? (do not read the answers)
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Avoda-Meimad
+                  3  Shinui
+                  4  Meretz
+                  5  Ihud Leumi
+                  6  Mafdal
+                  7  Yahadut Hatora
+                  8  Shas
+                  9  Am Ehad
+                 10  Israel Bealiya
+                 11  Green party
+                 12  Balad
+                 13  Raam
+                 14  Hadash
+                 15  Another
+                 16  Ale Yarok
+                 17  Hazit Leumit Yehudit (Marzel)
+                 18  Herut
+                 19  Daam
+                 90  Don't remember
+                 96  Blank ballot
+                 97  Didn't vote although had the right to vote
+                 98  Didn't vote  / did not have the right to vote
+                 99  Refuse to answer
+
+              Data type: numeric
+              Record/columns: 1/255-256
+
+      c42                Vote for PM in 2001 elections
+
+              42. For whom did you vote for prime minister in 2001?
+
+              VALUE  LABEL
+                  1  Barak
+                  2  Sharon
+                  3  Blank ballot
+                  4  Didn't vote although had the right to vote
+                  5  Didn't vote  / did not have the right to vote
+                  6  Don't remember
+                  9  Refuse to answer
+
+              Data type: numeric
+              Record/column: 1/257
+
+****    Self-identity
+
+      c43                Self-identity for Jews (first)
+
+              (for Jews) Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ashkenazi/Sfaradi
+                  4  Religious/Secular
+                  5  Russian
+
+              Data type: numeric
+              Record/column: 1/258
+
+      c44                Self-identity for Jews (second)
+
+              (for Jews) Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ashkenazi/Sfaradi
+                  4  Religious/Secular
+                  5  Russian
+
+              Data type: numeric
+              Record/column: 1/259
+
+      c45                Self-identity for Jews (third)
+
+              (for Jews) Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ashkenazi/Sfaradi
+                  4  Religious/Secular
+
+              Data type: numeric
+              Record/column: 1/260
+
+      c46                Self-identity for Jews (fourth)
+
+              (for Jews) Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ashkenazi/Sfaradi
+                  4  Religious/Secular
+
+              Data type: numeric
+              Record/column: 1/261
+
+      c47                Self-identity for Arabs (first)
+
+              (for Arabs): Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Palestinian
+                  3  Arab
+                  4  Muslim/Christian/Druze
+
+              Data type: numeric
+              Record/column: 1/262
+
+      c48                Self-identity for Arabs (second)
+
+              (for Arabs): Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Palestinian
+                  3  Arab
+                  4  Muslim/Christian/Druze
+
+              Data type: numeric
+              Record/column: 1/263
+
+      c49                Self-identity for Arabs (third)
+
+              (for Arabs): Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Palestinian
+                  3  Arab
+                  4  Muslim/Christian/Druze
+
+              Data type: numeric
+              Record/column: 1/264
+
+      c50                Self-identity for Arabs (fourth)
+
+              (for Arabs): Which of the following concepts best defines your identity? (read) and the second? And the third? And the fourth?
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Palestinian
+                  3  Arab
+                  4  Muslim/Christian/Druze
+
+              Data type: numeric
+              Record/column: 1/265
+
+      c51                Minimum threshold for representation in the Knesset
+
+              51. To the best of your knowledge, what is the minimum threshold for representation in the Knesset?
+
+              VALUE  LABEL
+                  1  2%
+                  2  Wrong answer
+                  8  Don't know
+
+              Data type: numeric
+              Record/column: 1/266
+
+      c52                Percentage of the government's budget that goes to security
+
+              52. To the best of your knowledge, what percentage of the government's budget goes to security? (don't read answers)
+
+              VALUE  LABEL
+                  1  Less than 10%
+                  2  Between 10%-40%
+                  3  Between 40%-75%
+                  4  More than 75%
+                  8  Do not know
+
+              Data type: numeric
+              Record/column: 1/267
+
+      c53                The Knesset's chairman
+
+              53. To the best of your knowledge, who is the Knesset's chairman? (do not read answers)
+
+              VALUE  LABEL
+                  1  Rivlin
+                  2  Wrong answer
+                  8  Do not know
+
+              Data type: numeric
+              Record/column: 1/268
+
+****    Rersonal and Household Details
+
+      c54                Age
+
+              54. How old are you?
+
+              Data type: numeric
+              Record/columns: 1/269-270
+
+      c56                Religious observance
+
+              56. To what extent do you observe religious tradition?
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little bit
+                  3  A lot
+                  4  I observe all of it
+
+              Data type: numeric
+              Record/column: 1/271
+
+      c57                Country of birth
+
+              57. (not for Arabs): Where were you born? (write a state) (if in the former USSR, write the name of the republic)
+
+              Data type: numeric
+              Record/columns: 1/272-273
+
+      c60                Year of immigration
+
+              60-61. (not for Arabs): for those who were not born here: When did you come to Israel?
+
+              Data type: numeric
+              Record/columns: 1/274-275
+
+      c62                Russian immigrant after 1989 (not for Arabs)
+
+              62. (not for Arabs): for the interviewer: if R came from the USSR after 1989, circle: 1. from the USSR
+
+              VALUE  LABEL
+                  1  New immigrant
+
+              Data type: numeric
+              Record/column: 1/276
+
+      c63                City in former USSR (only for immigrants from the former USSR)
+
+              63. (only for immigrants from the former USSR): in what city did you live before you came to Israel?
+
+              VALUE  LABEL
+                  1  Moscow
+                  2  St.Perersburg
+                  3  Large cities in Euro-Russia
+                  4  Small cities in Euro-Russia
+                  5  Large cities in Asian-Russia
+                  6  Small cities in Asian-Russia
+                  7  Birobidjan & Habarovsk
+                  8  Russian Kavkazian autonomies
+                  9  Kiev and large cities in East/South Ukraine
+                 10  Towns in East/South Ukraine
+                 11  West/Central Ukrainian towns
+                 12  Kishinev
+                 13  Rest of Moldavia
+                 14  Minsk
+                 15  Rest of Belorussia
+                 16  Yerevan
+                 17  Rest of Armenia
+                 18  Baku
+                 19  Rest of Azerbaijan
+                 20  Tbilisi
+                 21  Rest of Georgia
+                 22  Tashkent
+                 23  Almaty
+                 24  Rest of Kazahstan
+                 25  Turkmenistan, Tajikistan, Kirgyzstan
+                 26  Samarkand
+                 27  Riga
+                 28  Rest of Latvia
+                 29  Vilnius
+                 30  Rest of Lithuania
+                 31  Tallin
+                 32  Rest of Estonia
+                 33  Uzbek's towns
+
+              Data type: numeric
+              Record/columns: 1/277-278
+
+      c65                Nationality in passport in USSR (only for immigrants from the former USSR)
+
+              65. (only for immigrants from the former USSR): what was the nationality written in your internal Soviet passport?
+
+              VALUE  LABEL
+                  1  Jewish
+                  2  Other
+                  3  Nothing
+                  4  No passport
+                  5  Don't remember
+                 10  Russian
+                 11  Ukrainian
+                 12  Moldavian
+                 13  Yakutian
+                 14  Gorskiy Evrei
+                 15  Armenian
+                 16  Belorussian
+                 17  Mordovi
+
+              Data type: numeric
+              Record/columns: 1/279-280
+
+      c67                Friends in Israel (only for immigrants from the former USSR)
+
+              67. (only for immigrants from the former USSR): Regarding your friends in Israel, would you say that most of them are:
+
+              VALUE  LABEL
+                  1  New immigrant
+                  2  Veterans
+                  3  Half and half
+
+              Data type: numeric
+              Record/column: 1/281
+
+      c68                Russian party participation in elections (only for immigrants from the former USSR)
+
+              68. (only for immigrants from the former USSR): would you like to see a Russian party participating in the coming elections?
+
+              VALUE  LABEL
+                  1  Of course
+                  2  I think so
+                  3  I don't think so
+                  4  Of course not
+
+              Data type: numeric
+              Record/column: 1/282
+
+      c69                Father's country of birth (not for Arabs)
+
+              69. (not for Arabs): where was your father born? (write the name of the state): if in the USSR, write the name of the republic)
+
+              Data type: numeric
+              Record/columns: 1/283-285
+
+      c72                Mother's country of birth (not for Arabs)
+
+              72. (not for Arabs): where was your mother born? (write the name of the state): if in the USSR, write the name of the republic)
+
+              Data type: numeric
+              Record/columns: 1/286-288
+
+      c75                Years of schooling
+
+              75. How many years did you study? (including elementary school)
+
+              Data type: numeric
+              Record/columns: 1/289-290
+
+      c77                Academic degree
+
+              77. (for those who finished 12 years and more): Do you have an academic degree?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/291
+
+      c78                Profession
+
+              78. Describe your profession or your main job (if R is not working, his last job) (to the interviewer: be specific as you can: not just a doctor but an eye doctor etc.)
+
+              Data type: character
+              Record/columns: 1/292-293
+
+      c80                Monthly family expenditure (relative to average of 9,300 NIS)
+
+              80. The average monthly expenditure for a family of 4 people was NIS 9,300 last month. Does your family spend:
+
+              VALUE  LABEL
+                  1  Much more
+                  2  A little more
+                  3  About the average
+                  4  A little less
+                  5  Much less
+
+              Data type: numeric
+              Record/columns: 1/294-295
+
+      c81                Are you worried about losing your job?
+
+              81. Are you worried of losing your job?
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little worried
+                  3  Very worried
+                  4  Lost job lately and looking for one
+                  5  Not working and not looking for a job
+
+              Data type: numeric
+              Record/columns: 1/296-297
+
+      c82                Rooms in dwelling
+
+              82. How many rooms do you have in your house?
+
+              Data type: numeric
+              Record/columns: 1/298-299
+
+      c84                Number of persons in household
+
+              84. How many people are living in the house? (including soldiers):
+
+              Data type: numeric
+              Record/columns: 1/300-301
+
+      c86                Social class (self identified)
+
+              86. What is your social class?
+
+              VALUE  LABEL
+                  1  High
+                  2  Medium-high
+                  3  Medium
+                  4  Low
+
+              Data type: numeric
+              Record/column: 1/302
+
+      c87                Religion
+
+              87. Religion
+
+              VALUE  LABEL
+                  1  Jewish
+                  2  Muslim
+                  3  Christian
+                  4  Druze
+                  5  No religion
+
+              Data type: numeric
+              Record/columns: 1/303-304
+
+      c88                Religious self-definition (not for Arabs)
+
+              88. (not for Arabs): How would you define yourself?
+
+              VALUE  LABEL
+                  1  Secular
+                  2  Traditional
+                  3  Religious
+                  4  Haredi
+
+              Data type: numeric
+              Record/column: 1/305
+
+      c89                Sex
+
+              89. Gender
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/306
+
+      c90                Locality of residency
+
+              90. Place of residency
+
+              Data type: numeric
+              Record/columns: 1/307-309
+
+      c93                Language of the interview
+
+              92. Language of the interview
+
+              VALUE  LABEL
+                  1  Hebrew
+                  2  Arab
+                  3  Russian
+
+              Data type: numeric
+              Record/column: 1/310
+
+      c94                Version of questionnaire
+
+              VALUE  LABEL
+                  1  Blue
+                  2  Red
+                  3  Orange
+
+              Data type: numeric
+              Record/column: 1/311
+
+      day                Day of interview
+
+              Data type: numeric
+              Record/columns: 1/312-313
+
+      month              Month of interview
+
+              Data type: numeric
+              Record/column: 1/314
+
+      origin             Origin in categories
+
+              VALUE  LABEL
+                  1  North Africa
+                  2  Asia
+                  3  Eastern Europe
+                  4  West and Central Europe
+                  5  America Australia South Africa
+                  6  Israel Israel
+                  7  Israel North Africa
+                  8  Israel Asia
+                  9  Israel Eastern Europe
+                 10  Israel West Central Europe
+                 11  Israel America Australia South Africa
+
+              Data type: numeric
+              Record/columns: 1/316-317
+
+****    Post-Election Survey
+
+      d5                 Voted in the last Knesset elections
+
+              5. Did you vote in the last Knesset elections?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/318
+
+      d6                 List voted for in the last Knesset elections
+
+              6. For which list did you vote in the last Knesset elections? (do not read answers)
+
+              VALUE  LABEL
+                  1  Kadima
+                  2  Likud
+                  3  Avoda
+                  4  Israel Beiteinu (Liberman)
+                  5  Ihud Leumi + Mafdal
+                  6  Yahadut Ha'tora
+                  7  Shas
+                  8  Meretz/Yachad
+                  9  Shinui (Levental)
+                 10  Hetz (Poraz)
+                 11  Green Party
+                 12  Green Leaf
+                 13  Pensioners
+                 14  Hazit Leumit Yehudit (Marzel)
+                 15  Herut (Kleiner)
+                 16  Tafnit (Dayan)
+                 17  Balad
+                 18  Raam – Taal
+                 19  Hadash
+                 20  Lehem
+                 21  War on banks
+                 95  Other
+                 96  Blank ballot
+                 99  Refused to answer
+
+              Data type: numeric
+              Record/columns: 1/319-320
+
+      d8                 Favored coalition
+
+              8. And among the following coalitions, which coalition do you favor? (Interviewer: record the exact answer)
+
+              Data type: numeric
+              Record/columns: 1/321-322
+
+      d10                Pleased with election results
+
+              10. In general, are you pleased or not pleased with the election results?
+
+              VALUE  LABEL
+                  1  Very pleased
+                  2  Pleased
+                  3  Not very pleased
+                  4  Not pleased at all
+
+              Data type: numeric
+              Record/column: 1/323
+
+      d11                When did you finally decide to vote for the party?
+
+              11. When did you finally decide to vote for ...... (mention the party name voted for from question 6. If R said in question 5 that R would not vote, ask when the final decision was made not to vote)
+
+              VALUE  LABEL
+                  1  Election day
+                  2  2-3 days before the elections
+                  3  A week before the elections
+                  4  A month before the elections
+                  5  A few months before the elections
+                  6  From the beginning I knew what I would do
+                  8  Do not remember
+                  9  Not Israeli citezen/Was abroad at elections day
+                 10  When Kadima was established
+                 11  When foundnd out about the party of pensioners
+                 12  When Amir Peretz was elected as a leader
+                 13  When undrestood the elections' results
+                 14  When Ariel Sharon fell ill
+                 15  When Liberman left Ihud Haleumi
+                 16  When rabbi told for whom to vote
+                 17  When Likud split
+                 18  When corruption affair was published
+                 19  After Netanyahu activated economic cutbacks
+                 20  When Netanyahu was elected as a leader
+                 21  When Olmert declared convergence plan
+                 22  When Ihud Haleumi united with Mafdal
+                 23  When watched elections campaign broadcasts on TV
+                 24  When Sheli Yahimovich joined Avoda
+                 25  When Yosef Segal joined Israel Beiteinu
+                 26  When husband told for whom to vote
+                 27  When Shimon Peres joined Kadima
+                 28  When Sharon accomplished separation program
+
+              Data type: numeric
+              Record/columns: 1/324-325
+
+      d13                Frequency of watching parties' election campaign spots on TV
+
+              13. How often did you watch the parties' election campaign spots on television?
+
+              VALUE  LABEL
+                  1  Every evening
+                  2  Almost every evening
+                  3  A few times
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/326
+
+      d14                Contact by a party or group during the campaign
+
+              14. Were you contact by a party or group during the campaign in an effort to convince you how to vote?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/327
+
+****    Reason for not Vote
+
+      d15                Reason for not vote: No difference between the parties
+
+              In the last elections many fewer voters participated than in the past. I will list a number of possible reasons for this and I will ask you to tell me how important or unimportant each of these reasons is to explain why people did not vote. 15. No difference between the parties
+
+              VALUE  LABEL
+                  1  Extremely not important
+                  2  Not important
+                  3  Not certain
+                  4  Important
+                  5  Very important
+
+              Data type: numeric
+              Record/column: 1/328
+
+      d16                Reason for not voted: It was clear who would win
+
+              In the last elections many fewer voters participated than in the past. I will list a number of possible reasons for this and I will ask you to tell me how important or unimportant each of these reasons is to explain why people did not vote. 16. It was clear who would win
+
+              VALUE  LABEL
+                  1  Extremely not important
+                  2  Not important
+                  3  Not certain
+                  4  Important
+                  5  Very important
+
+              Data type: numeric
+              Record/column: 1/329
+
+      d17                Reason for not voted: It makes no difference for whom you vote because nothing changes
+
+              In the last elections many fewer voters participated than in the past. I will list a number of possible reasons for this and I will ask you to tell me how important or unimportant each of these reasons is to explain why people did not vote. 17. It makes no difference for whom you vote because nothing changes
+
+              VALUE  LABEL
+                  1  Extremely not important
+                  2  Not important
+                  3  Not certain
+                  4  Important
+                  5  Very important
+
+              Data type: numeric
+              Record/column: 1/330
+
+      d18                Reason for not voted: The public is sick of politics and politicians
+
+              In the last elections many fewer voters participated than in the past. I will list a number of possible reasons for this and I will ask you to tell me how important or unimportant each of these reasons is to explain why people did not vote. 18. The public is sick of politics and politicians
+
+              VALUE  LABEL
+                  1  Extremely not important
+                  2  Not important
+                  3  Not certain
+                  4  Important
+                  5  Very important
+
+              Data type: numeric
+              Record/column: 1/331
+
+      d19                Reason for not voted: People felt they did not have for whom to vote
+
+              In the last elections many fewer voters participated than in the past. I will list a number of possible reasons for this and I will ask you to tell me how important or unimportant each of these reasons is to explain why people did not vote. 19. People felt they did not have for whom to vote
+
+              VALUE  LABEL
+                  1  Extremely not important
+                  2  Not important
+                  3  Not certain
+                  4  Important
+                  5  Very important
+
+              Data type: numeric
+              Record/column: 1/332
+
+      d20                Reason for not voted: People don't care, they're apathetic
+
+              In the last elections many fewer voters participated than in the past. I will list a number of possible reasons for this and I will ask you to tell me how important or unimportant each of these reasons is to explain why people did not vote. 20. People don't care, they're apathetic
+
+              VALUE  LABEL
+                  1  Extremely not important
+                  2  Not important
+                  3  Not certain
+                  4  Important
+                  5  Very important
+
+              Data type: numeric
+              Record/column: 1/333
+
+      d21                The most important reason for not voted
+
+              21. And among those reasons, which in your opinion was the most important for the low turnout?(Interviewer: Review answers 15-20 in a varying order)
+
+              VALUE  LABEL
+                 15  No difference between the parties
+                 16  It was clear who would win
+                 17  It makes no difference for whom you vote because nothing changes
+                 18  The public is sick of politics and politicians
+                 19  People felt they did not have for whom to vote
+                 20  People don't care, they're apathetic
+                 21  No leader
+                 22  Laziness to go to the polling station
+                 23  Place of polling station unknown
+                 24  New immigrants were not told about elections
+                 90  Unknown
+                 95  Several reasons
+                 99  None of the reasons
+
+              Data type: numeric
+              Record/columns: 1/334-335
+
+      d23                Opinions about what the elections were about
+
+              23. There are many opinions about what these elections were about. I will read some sentences with different ideas about this. To what extent do you agree or disagree with each of these statements?
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  2  Disagree
+                  3  Not certain
+                  4  Agree
+                  5  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/336
+
+      d24                Disengagement plan and the future of the settlements in the territories
+
+              24. About the disengagement plan and the future of the settlements in the territories
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  2  Disagree
+                  3  Not certain
+                  4  Agree
+                  5  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/337
+
+      d25                Elections were about: Corruption of the politicians
+
+              25. About the corruption of the politicians
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  2  Disagree
+                  3  Not certain
+                  4  Agree
+                  5  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/338
+
+      d26                Elections were about: Dealling with security challenges
+
+              26. About who will deal better with security challenges (Hamas election, the threat from Iran)
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  2  Disagree
+                  3  Not certain
+                  4  Agree
+                  5  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/339
+
+      d27                Elections were a protest against the establishment
+
+              27. The elections were a protest against the establishment
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  2  Disagree
+                  3  Not certain
+                  4  Agree
+                  5  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/340
+
+      d28                Main opinions on what the elections were about
+
+              28. In sum, what were these elections about in your opinion (only one response) (Interviewer: Review answers 23-27 in a varying order)
+
+              VALUE  LABEL
+                  1  Political topic (Disengagement, negotiations with the Palestinians)
+                  2  The security topic
+                  3  The economic-social topic
+                  4  Corruption
+                  7  Other
+                  8  All the topics
+                  9  None
+
+              Data type: numeric
+              Record/column: 1/341
+
+      d29                Election as referendum on Olmert's plan
+
+              29. In your opinion, should these elections be seen or should they not be seen as a referendum on Olmert's plan for another disengagement in Judea and Samaria that will determine the border with the Palestinians?
+
+              VALUE  LABEL
+                  1  The elections should definitely be seen as a referendum on these matters
+                  2  The elections can be seen as a referendum on these matters
+                  3  The elections cannot be seen as a referendum on these matters
+                  4  Tefinitely the elections should not be seen as a referendum on these matters
+
+              Data type: numeric
+              Record/column: 1/342
+
+      d30                Israel Beiteinu primarily represents immigrants from the former USSR
+
+              30. Do you think that the Israel Beiteinu party is primarily
+
+              VALUE  LABEL
+                  1  A party that represents immigrants from the former Soviet Union
+                  2  Not that
+
+              Data type: numeric
+              Record/column: 1/343
+
+      d31                Age
+
+              31. How old are you?
+
+              Data type: numeric
+              Record/columns: 1/344-345
+
+      d33                Religion
+
+              33. Religion
+
+              VALUE  LABEL
+                  1  Jewish
+                  2  Muslim
+                  3  Christian
+                  4  Druze
+                  5  No religion
+
+              Data type: numeric
+              Record/column: 1/346
+
+      d34                Years of schooling
+
+              34. How many years did you study? (including elementary school)
+
+              Data type: numeric
+              Record/columns: 1/347-348
+
+      d36                Sex
+
+              36. Gender
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/349
+
+      d37                Language of the interview
+
+              37. Language of the interview
+
+              VALUE  LABEL
+                  1  Hebrew
+                  2  Arab
+                  3  Russian
+
+              Data type: numeric
+              Record/column: 1/350
+
+      d38                Day of interview
+
+              Data type: numeric
+              Record/columns: 1/351-352
+
+      d40                Month of interview
+
+              VALUE  LABEL
+                  2  February
+                  3  March
+                  4  April
+
+              Data type: numeric
+              Record/column: 1/353
+
+      sevev              Wave
+
+              VALUE  LABEL
+                  1  Wave1:February,28-March,14
+                  2  Wave2:March,13-March,23
+
+              Data type: numeric
+              Record/column: 1/354
+
+      
