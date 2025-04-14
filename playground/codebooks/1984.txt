@@ -1,0 +1,1675 @@
+
+                                                           CODEBOOK
+
+
+                                                 Election Study 1984
+
+                                                           CONTENTS
+
+      v1                 Identity number
+      v2                 General situation in Israel today
+      v3                 Way the government handles the nations problems
+      v4                 The main problem the government has to take care of
+      v5                 Differences exist in party stands on issue mentioned above
+      v6                 Party best able to handle this issue
+      v8                 Proposals for a long term settlement of Judea, Samaria and Gaza Strip problem
+      v9                 Of two proposals, which interviewee most agrees to
+      v10                Territorial concession should be made in Judea and Samaria
+      v11                Increase/decrease civil rights for territories' inhabitants as long as a settlement for Judea and Samaria is not reached
+      v12                Differences exist in party stands on the issue of territorial concession
+      v13                To what extent territorial concessions issue will influence the results of the coming Knesset elections
+      v14                To what extent the territories issue will influence intervieweess vote in the coming Knesset elections
+      v15                Party best reflecting interviewee's stand on the territories issue
+      v16                Way government handles the nation's economic problems
+      v17                To what extent inflation issue will influence the results of the coming Knesset elections
+      v18                To what extent the inflation issue will influence interviewee's vote in coming Knesset elections
+      v19                Differences exist in party stands on the economic issue
+      v20                Party best relecting interviewee's stand on the ecnomic issue
+      v21                Party stand interviewee is closest to on economic issues,Alignments's or Likud's
+      v22                Party stand interviewee is closest to on defense and foreign affairs, Alignment or Likud
+      v23                The Alignment team or the Likud team will better handle the nation's economic problems
+      v24                The Alignment team or the Likud team will better handle the nation's foreign affairs and defense problems
+      v25                All in all, the Alignment team or the Likud team will better handle the nation's problems
+      v26                Acceptable that the Histadrut has established enterprises like Koor, Solel Boneh, supermarkets, etc.
+      v27                In terms of the economic structure of the country, supports a socialist or a capitalist approach
+
+****    STATEMENTS TO WHICH INTERVIEWEE AGREES/DISAGREES
+
+      v29                Democracy is the best form of government
+      v30                Politicians tend not to take into account the opinion of the man in the street
+      v31                Lighter punishments should be given to Jews that break the law when acting against Arabs than to Arabs when acting against Jews
+      v32                A few strong leaders could do the country more good than all the laws and debates
+      v33                The belief in freedom of expression for all people, regardless of their opinions
+      v34                There are situations in which it seems better for people to take the law into their own hands
+      v35                It would be best to tear down all the institutions and begin anew
+      v36                Main factor influencing interviewee's vote
+      v37                Family members vote like interviewee in Knesset elections
+      v38                Friends vote like interviewee in Knesset elections
+      v39                Co-workers vote like interviewee in Knesset elections
+      v40                To what extent interviewee and friends can influence government policy
+      v41                The public's votes can actually change government or state policy
+
+****    POLITICAL RATING ON GRADED SCALE (1) EXTREME RIGHT TO (7) EXTREME LEFT
+
+      v43                Interviewee's general self-evaluation
+      v44                Interviewee's stand on defense and foreign affairs
+      v45                Interviewee's stand on economic problems
+
+****    INTERVIEWEE'S CONCEPTION OF THE IDEAL POLITICAL PARTY GRADED SCALE 1-7
+
+      v47                Conception of the ideal political party
+      v48                Conception of the ideal political party
+      v49                Conception of the ideal political party
+      v50                Conception of the ideal political party
+      v51                Conception of the ideal political party
+      v52                Conception of the ideal political party
+      v53                Conception of the ideal political party
+      v54                Conception of the ideal political party
+      v55                Conception of the ideal political party
+
+****    INTERVIEWEE EVALUATION OF THE ALIGNMENT ON GRADED SCALE 1-7
+
+      v57                Evaluation of the alignment
+      v58                Evaluation of the alignment
+      v59                Evaluation of the alignment
+      v60                Evaluation of the alignment
+      v61                Evaluation of the alignment
+      v62                Evaluation of the alignment
+      v63                Evaluation of the alignment
+      v64                Evaluation of the alignment
+      v65                Evaluation of the alignment
+      v66                Evaluation of the alignment
+      v67                Evaluation of the alignment
+
+****    INTERVIEWEE EVALUATION OF THE LIKUD ON GRADED SCALE 1-7
+
+      v69                Evaluation of the Likud
+      v70                Evaluation of the Likud
+      v71                Evaluation of the Likud
+      v72                Evaluation of the Likud
+      v73                Evaluation of the Likud
+      v74                Evaluation of the Likud
+      v75                Evaluation of the Likud
+      v76                Evaluation of the Likud
+      v77                Evaluation of the Likud
+      v78                Evaluation of the Likud
+      a2                 Evaluation of the Likud
+
+****    PARTY CHARACTERIZATIONS SUITING ALIGNMENT OR LIKUD
+
+      a4                 Party with experienced leaders
+      a5                 Party that gives suitable representation to Sephardim
+      a6                 Party that ensures the country's future
+      a7                 Party that ensures a Jewish majority in the country
+      a8                 Party that reduces the ethnic gap between Sephardim and Ashkenazim
+      a9                 Party that contributed to the building of the country
+      a10                Party that cultivates self-respect for Sephardim
+      a11                Party that will know how to stand firm in negotiations over the territories and for peace
+      a12                Party that appoints suitable people to key positions,regardless of their ethnic background
+      a13                Party that will know how to get out of Lebanon and ensure the Northern border
+      a14                Party that uses Sephardim for political needs
+      a15                Party that will keep the democratic regime in the country
+      a16                To what extent interviewee believes there is ethnic-based discrimination in Israel
+      a17                To what extent interviewee has personally suffered from ethnic discrimination
+      a19                Alignment or Likud responsible for violence
+      a20                Alignment or Likud responsible for emigration from Israel (Yeridah)
+      a21                Alignment or Likud responsible for high inflation
+      a22                Alignment or Likud responsible for low moral standards (corruption)
+      a23                Alignment or Likud responsible for crime in the country
+      a24                Alignment or Likud responsible for ethnic gap
+
+****    INTERVIEWEE REACTION SCALE TO PUBLIC FIGURES, GROUPS OF PEOPLE OR POLITICAL GROUPS, FROM SUPPORT (10) TO REPULSION (0)
+
+      a26                Alignment
+      a27                Likud
+      a28                Shimon Peres
+      a29                Yitzhak Shamir
+      a30                Arabs
+      a31                Ariel Sharon
+      a32                The religious (orthodox)
+      a33                Ashkenazim
+      a34                David Levy
+      a35                Yitzhak Navon
+      a36                Sephardim
+      a37                Yitzhak Rabin
+      a38                Menachem Begin
+      a39                Gush Emunim
+      a40                Peace Now
+      a41                Party interviewee would vote for if elections held today
+      a42                To what extent interviewee is sure of his vote
+      a43                Party interviewee will vote for if not for above mentioned party
+      a44                Second choice
+      a45                Party interviewee voted for in last Knesset elections (June 1981)
+      a46                Party interviewee voted for in last Histadrut elections-1981
+      a47                Interviewee defines himself as Ashkenazi or Sephardi
+      a48                Interviewee observes religious traditions
+      a49                Place of birth/father's place of birth
+      a50                Year of immigration (Aliyah)
+      a51                Interviewee supports a party, is a party member and/or a paid functionary
+      a52                Political tendency interviewee identifies with
+      a53                Years of schooling
+      a54                Age
+      a55                Average family monthly expenditure as compared with 4 in Israel
+      a56                Social class
+      a57                Housing density
+      a58                Sex
+      a59                Works outside of household
+      a60                Interviewee's description of role at work
+      a61                To what extent interviewee believes his place of work is better/worse than similar places of work in the same field
+      a62                To what extent the management in interviewee's place of work takes workers into consideration
+      a63                If there is national management, to what extent it takes workers into consideration
+      a64                To what extent interviewee's working conditions and salary are better or worse than in similar places of work in the same field
+      a65                Locality of interview
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/2-5
+
+      v2                 General situation in Israel today
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not good
+                  5  Bad
+
+              Data type: numeric
+              Record/column: 1/6
+
+      v3                 Way the government handles the nations problems
+
+              VALUE  LABEL
+                  2  Well
+                  3  Not so well
+                  4  Not well at all
+
+              Data type: numeric
+              Record/column: 1/7
+
+      v4                 The main problem the government has to take care of
+
+              VALUE  LABEL
+                  0  Other
+                  1  Security
+                  2  Economy
+                  3  Social inequality
+                  4  Peace
+                  5  Young couples
+                  6  Inflation
+                  7  Immigrant absorption
+                  8  Education
+                  9  Lack of leadership
+
+              Data type: numeric
+              Record/column: 1/8
+
+      v5                 Differences exist in party stands on issue mentioned above
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences at all
+
+              Data type: numeric
+              Record/column: 1/9
+
+      v6                 Party best able to handle this issue
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael
+                 05  Morasha
+                 06  Tami
+                 07  Yachad (Ezer Weizman)
+                 08  Shinui
+                 09  Ratz
+                 10  Tehiya
+                 11  Ometz
+                 12  Hadash
+                 13  Other party
+                 14  Does not know
+
+              Data type: numeric
+              Record/columns: 1/10-11
+
+      v8                 Proposals for a long term settlement of Judea, Samaria and Gaza Strip problem
+
+              VALUE  LABEL
+                  1  Return of Judea, Samari and Gaza for peace
+                  2  Annexation of Judea, Samaria and Gaza
+                  3  Status quo, keeping situation as is
+
+              Data type: numeric
+              Record/column: 1/13
+
+      v9                 Of two proposals, which interviewee most agrees to
+
+              VALUE  LABEL
+                  1  Return of Judea, Samari and Gaza for peace
+                  2  Annexation of Judea, Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 1/14
+
+      v10                Territorial concession should be made in Judea and Samaria
+
+              VALUE  LABEL
+                  1  No part should be conceded
+                  2  Only a small part should be conceded
+                  3  A part should be conceded
+                  4  Almost all should be conceded
+                  5  All should be conceded to achieve peace
+
+              Data type: numeric
+              Record/column: 1/15
+
+      v11                Increase/decrease civil rights for territories' inhabitants as long as a settlement for Judea and Samaria is not reached
+
+              VALUE  LABEL
+                  1  Increase rights, incl. Knesset vote
+                  2  Increase rights, not incl. Knesset vote
+                  3  Leave the situation as it is
+                  4  Decrease civil rights
+
+              Data type: numeric
+              Record/column: 1/16
+
+      v12                Differences exist in party stands on the issue of territorial concession
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences at all
+
+              Data type: numeric
+              Record/column: 1/17
+
+      v13                To what extent territorial concessions issue will influence the results of the coming Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/18
+
+      v14                To what extent the territories issue will influence intervieweess vote in the coming Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/19
+
+      v15                Party best reflecting interviewee's stand on the territories issue
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael
+                 05  Morasha
+                 06  Tami
+                 07  Yachad (Ezer Weizman)
+                 08  Shinui
+                 09  Ratz
+                 10  Tehiya
+                 11  Ometz
+                 12  Hadash
+                 13  Other party
+                 14  Does not know
+
+              Data type: numeric
+              Record/columns: 1/20-21
+
+      v16                Way government handles the nation's economic problems
+
+              VALUE  LABEL
+                  2  Well
+                  3  So-so
+                  4  Not so well
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/22
+
+      v17                To what extent inflation issue will influence the results of the coming Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/23
+
+      v18                To what extent the inflation issue will influence interviewee's vote in coming Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/24
+
+      v19                Differences exist in party stands on the economic issue
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences at all
+
+              Data type: numeric
+              Record/column: 1/25
+
+      v20                Party best relecting interviewee's stand on the ecnomic issue
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael
+                 05  Morasha
+                 06  Tami
+                 07  Yachad (Ezer Weizman)
+                 08  Shinui
+                 09  Ratz
+                 10  Tehiya
+                 11  Ometz
+                 12  Hadash
+                 13  Other party
+                 14  Does not know
+
+              Data type: numeric
+              Record/columns: 1/26-27
+
+      v21                Party stand interviewee is closest to on economic issues,Alignments's or Likud's
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Other party
+
+              Data type: numeric
+              Record/column: 1/28
+
+      v22                Party stand interviewee is closest to on defense and foreign affairs, Alignment or Likud
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Other party
+
+              Data type: numeric
+              Record/column: 1/29
+
+      v23                The Alignment team or the Likud team will better handle the nation's economic problems
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/30
+
+      v24                The Alignment team or the Likud team will better handle the nation's foreign affairs and defense problems
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/31
+
+      v25                All in all, the Alignment team or the Likud team will better handle the nation's problems
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/32
+
+      v26                Acceptable that the Histadrut has established enterprises like Koor, Solel Boneh, supermarkets, etc.
+
+              VALUE  LABEL
+                  1  Certainly acceptable
+                  2  Acceptable
+                  3  Not acceptable
+                  4  Not at all acceptable
+
+              Data type: numeric
+              Record/column: 1/33
+
+      v27                In terms of the economic structure of the country, supports a socialist or a capitalist approach
+
+              VALUE  LABEL
+                  1  Certainly capitalist
+                  2  Capitalist
+                  3  Socialist
+                  4  Certainly socialist
+
+              Data type: numeric
+              Record/column: 1/34
+
+****    STATEMENTS TO WHICH INTERVIEWEE AGREES/DISAGREES
+
+      v29                Democracy is the best form of government
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/35
+
+      v30                Politicians tend not to take into account the opinion of the man in the street
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/36
+
+      v31                Lighter punishments should be given to Jews that break the law when acting against Arabs than to Arabs when acting against Jews
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/37
+
+      v32                A few strong leaders could do the country more good than all the laws and debates
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/38
+
+      v33                The belief in freedom of expression for all people, regardless of their opinions
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/39
+
+      v34                There are situations in which it seems better for people to take the law into their own hands
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/40
+
+      v35                It would be best to tear down all the institutions and begin anew
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Not sure
+                  4  Does not agree
+                  5  Certainly does not agree
+
+              Data type: numeric
+              Record/column: 1/41
+
+      v36                Main factor influencing interviewee's vote
+
+              VALUE  LABEL
+                  1  Identifies with party
+                  2  Party's candidate for prime minister
+                  3  Party's stand on specific issues
+                  4  Party's place in govt. or opposition
+
+              Data type: numeric
+              Record/column: 1/42
+
+      v37                Family members vote like interviewee in Knesset elections
+
+              VALUE  LABEL
+                  1  All of them do
+                  2  A large portion of them do
+                  3  A small portion of them do
+                  4  None of them do
+                  5  Does not know how they vote
+
+              Data type: numeric
+              Record/column: 1/43
+
+      v38                Friends vote like interviewee in Knesset elections
+
+              VALUE  LABEL
+                  1  All of them do
+                  2  A large portion of them do
+                  3  A small portion of them do
+                  4  None of them do
+                  5  Does not know how they vote
+
+              Data type: numeric
+              Record/column: 1/44
+
+      v39                Co-workers vote like interviewee in Knesset elections
+
+              VALUE  LABEL
+                  1  All of them do
+                  2  A large portion of them do
+                  3  A small portion of them do
+                  4  None of them do
+                  5  Does not know how they vote
+
+              Data type: numeric
+              Record/column: 1/45
+
+      v40                To what extent interviewee and friends can influence government policy
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/46
+
+      v41                The public's votes can actually change government or state policy
+
+              VALUE  LABEL
+                  1  Can change policy to a great extent
+                  2  Can change policy to a certain extent
+                  3  Cannot change policy to a certain extent
+                  4  Cannot change policy to a great extent
+
+              Data type: numeric
+              Record/column: 1/47
+
+****    POLITICAL RATING ON GRADED SCALE (1) EXTREME RIGHT TO (7) EXTREME LEFT
+
+      v43                Interviewee's general self-evaluation
+
+              VALUE  LABEL
+                  1  Extreme right
+                  7  Extreme left
+
+              Data type: numeric
+              Record/column: 1/48
+
+      v44                Interviewee's stand on defense and foreign affairs
+
+              VALUE  LABEL
+                  1  Extreme right
+                  7  Extreme left
+
+              Data type: numeric
+              Record/column: 1/49
+
+      v45                Interviewee's stand on economic problems
+
+              VALUE  LABEL
+                  1  Extreme right
+                  7  Extreme left
+
+              Data type: numeric
+              Record/column: 1/50
+
+****    INTERVIEWEE'S CONCEPTION OF THE IDEAL POLITICAL PARTY GRADED SCALE 1-7
+
+      v47                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Young
+                  7  Old
+
+              Data type: numeric
+              Record/column: 1/51
+
+      v48                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/52
+
+      v49                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Right-wing
+                  7  Left-wing
+
+              Data type: numeric
+              Record/column: 1/53
+
+      v50                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Out-dated
+                  7  Innovative
+
+              Data type: numeric
+              Record/column: 1/54
+
+      v51                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Middle class
+                  7  Working class
+
+              Data type: numeric
+              Record/column: 1/55
+
+      v52                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Sephardic
+                  7  Ashkenazi
+
+              Data type: numeric
+              Record/column: 1/56
+
+      v53                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Cares mainly for itself
+                  7  Cares mainly for citizen
+
+              Data type: numeric
+              Record/column: 1/57
+
+      v54                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Inexperienced
+                  7  Experienced
+
+              Data type: numeric
+              Record/column: 1/58
+
+      v55                Conception of the ideal political party
+
+              VALUE  LABEL
+                  1  Dovish, moderate
+                  7  Hawkish, immoderate
+
+              Data type: numeric
+              Record/column: 1/59
+
+****    INTERVIEWEE EVALUATION OF THE ALIGNMENT ON GRADED SCALE 1-7
+
+      v57                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Young
+                  7  Old
+
+              Data type: numeric
+              Record/column: 1/60
+
+      v58                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/61
+
+      v59                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Right-wing
+                  7  Left-wing
+
+              Data type: numeric
+              Record/column: 1/62
+
+      v60                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Out-dated
+                  7  Innovative
+
+              Data type: numeric
+              Record/column: 1/63
+
+      v61                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Middle class
+                  7  Working class
+
+              Data type: numeric
+              Record/column: 1/64
+
+      v62                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Sephardic
+                  7  Ashkenazi
+
+              Data type: numeric
+              Record/column: 1/65
+
+      v63                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Cares mainly for itself
+                  7  Cares mainly for citizen
+
+              Data type: numeric
+              Record/column: 1/66
+
+      v64                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Honest
+                  7  Dishonest
+
+              Data type: numeric
+              Record/column: 1/67
+
+      v65                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Inexperienced
+                  7  Experienced
+
+              Data type: numeric
+              Record/column: 1/68
+
+      v66                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Not trustworthy
+                  7  Trustworthy
+
+              Data type: numeric
+              Record/column: 1/69
+
+      v67                Evaluation of the alignment
+
+              VALUE  LABEL
+                  1  Dovish, moderate
+                  7  Hawkish, immoderate
+
+              Data type: numeric
+              Record/column: 1/70
+
+****    INTERVIEWEE EVALUATION OF THE LIKUD ON GRADED SCALE 1-7
+
+      v69                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Young
+                  7  Old
+
+              Data type: numeric
+              Record/column: 1/71
+
+      v70                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/72
+
+      v71                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Right-wing
+                  7  Left-wing
+
+              Data type: numeric
+              Record/column: 1/73
+
+      v72                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Out-dated
+                  7  Innovative
+
+              Data type: numeric
+              Record/column: 1/74
+
+      v73                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Middle class
+                  7  Working class
+
+              Data type: numeric
+              Record/column: 1/75
+
+      v74                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Sephardic
+                  7  Ashkenazi
+
+              Data type: numeric
+              Record/column: 1/76
+
+      v75                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Cares mainly for itself
+                  7  Cares mainly for citizen
+
+              Data type: numeric
+              Record/column: 1/77
+
+      v76                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Honest
+                  7  Dishonest
+
+              Data type: numeric
+              Record/column: 1/78
+
+      v77                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Inexperienced
+                  7  Experienced
+
+              Data type: numeric
+              Record/column: 1/79
+
+      v78                Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Not trustworthy
+                  7  Trustworthy
+
+              Data type: numeric
+              Record/column: 1/80
+
+      a2                 Evaluation of the Likud
+
+              VALUE  LABEL
+                  1  Dovish, moderate
+                  7  Hawkish, immoderate
+
+              Data type: numeric
+              Record/column: 2/6
+
+****    PARTY CHARACTERIZATIONS SUITING ALIGNMENT OR LIKUD
+
+      a4                 Party with experienced leaders
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/7
+
+      a5                 Party that gives suitable representation to Sephardim
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/8
+
+      a6                 Party that ensures the country's future
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/9
+
+      a7                 Party that ensures a Jewish majority in the country
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/10
+
+      a8                 Party that reduces the ethnic gap between Sephardim and Ashkenazim
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/11
+
+      a9                 Party that contributed to the building of the country
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/12
+
+      a10                Party that cultivates self-respect for Sephardim
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/13
+
+      a11                Party that will know how to stand firm in negotiations over the territories and for peace
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/14
+
+      a12                Party that appoints suitable people to key positions,regardless of their ethnic background
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/15
+
+      a13                Party that will know how to get out of Lebanon and ensure the Northern border
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/16
+
+      a14                Party that uses Sephardim for political needs
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/17
+
+      a15                Party that will keep the democratic regime in the country
+
+              VALUE  LABEL
+                  1  Suits Alignment better
+                  2  Suits Likud better
+                  3  Suits both equally
+                  4  Suits neither
+
+              Data type: numeric
+              Record/column: 2/18
+
+      a16                To what extent interviewee believes there is ethnic-based discrimination in Israel
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Medium extent
+                  4  Small extent
+                  5  Not at all/almost not at all
+
+              Data type: numeric
+              Record/column: 2/19
+
+      a17                To what extent interviewee has personally suffered from ethnic discrimination
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Medium extet
+                  4  Small extent
+                  5  Not at all/almost not at all
+
+              Data type: numeric
+              Record/column: 2/20
+
+****    ALIGNMENT OR LIKUD RESPONSIBLE FOR FOLLOWING PHENOMENA IN ISRAEL
+
+      a19                Alignment or Likud responsible for violence
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 2/21
+
+      a20                Alignment or Likud responsible for emigration from Israel (Yeridah)
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 2/22
+
+      a21                Alignment or Likud responsible for high inflation
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 2/23
+
+      a22                Alignment or Likud responsible for low moral standards (corruption)
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 2/24
+
+      a23                Alignment or Likud responsible for crime in the country
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 2/25
+
+      a24                Alignment or Likud responsible for ethnic gap
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 2/26
+
+****    INTERVIEWEE REACTION SCALE TO PUBLIC FIGURES, GROUPS OF PEOPLE OR POLITICAL GROUPS, FROM SUPPORT (10) TO REPULSION (0)
+
+      a26                Alignment
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/27
+
+      a27                Likud
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/28
+
+      a28                Shimon Peres
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/29
+
+      a29                Yitzhak Shamir
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/30
+
+      a30                Arabs
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/31
+
+      a31                Ariel Sharon
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/32
+
+      a32                The religious (orthodox)
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/33
+
+      a33                Ashkenazim
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/34
+
+      a34                David Levy
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/35
+
+      a35                Yitzhak Navon
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/36
+
+      a36                Sephardim
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/37
+
+      a37                Yitzhak Rabin
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/38
+
+      a38                Menachem Begin
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/39
+
+      a39                Gush Emunim
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/40
+
+      a40                Peace Now
+
+              VALUE  LABEL
+                  1  1 Repulsion
+                 10  10 Support
+
+              Data type: numeric
+              Record/column: 2/41
+
+      a41                Party interviewee would vote for if elections held today
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael+Shas
+                 05  Morasha
+                 06  Tami
+                 07  Yachad (Ezer Weizman)
+                 08  Shinui
+                 09  Ratz
+                 10  Tehiya
+                 11  Hadash(Rakah)
+                 12  Flato Sharon
+                 13  Lova Eliav
+                 14  Ometz
+                 15  Ben Porat
+                 16  Ethnic party
+                 17  Other party
+                 18  Will cast a blank ballot
+                 19  Undecided
+                 20  Would not vote,even if present in Israel
+
+              Data type: numeric
+              Record/columns: 2/42-43
+
+      a42                To what extent interviewee is sure of his vote
+
+              VALUE  LABEL
+                  1  Absolutely sure
+                  2  Thinks so/not sure
+                  3  Not at all sure
+
+              Data type: numeric
+              Record/column: 2/44
+
+      a43                Party interviewee will vote for if not for above mentioned party
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael+Shas
+                 05  Morasha
+                 06  Tami
+                 07  Yachad (Ezer Weizman)
+                 08  Shinui
+                 09  Ratz
+                 10  Tehiya
+                 11  Hadash(Rakah)
+                 12  Flato Sharon
+                 13  Lova Eliav
+                 14  Ometz
+                 15  Ben Porat
+                 16  Ethnic party
+                 17  Other party
+                 18  Will cast a blank ballot
+                 19  Undecided
+                 20  Would not vote,even if present in Israel
+
+              Data type: numeric
+              Record/columns: 2/45-46
+
+      a44                Second choice
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael+Shas
+                 05  Morasha
+                 06  Tami
+                 07  Yachad (Ezer Weizman)
+                 08  Shinui
+                 09  Ratz
+                 10  Tehiya
+                 11  Hadash(Rakah)
+                 12  Flato Sharon
+                 13  Lova Eliav
+                 14  Ometz
+                 15  Ben Porat
+                 16  Ethnic party
+                 17  Other party
+                 18  Will cast a blank ballot
+                 19  Undecided
+                 20  Would not vote,even if present in Israel
+
+              Data type: numeric
+              Record/columns: 2/49-50
+
+      a45                Party interviewee voted for in last Knesset elections (June 1981)
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Likud
+                 03  National Religious Party
+                 04  Agudat Yisrael/A.Y. Workers
+                 05  Tami
+                 06  Telem
+                 07  Shinui
+                 08  Ratz
+                 09  Tehiya
+                 10  Sheli
+                 11  Other party
+                 12  Not eligible to vote
+                 13  Did not vote, eligible to vote
+
+              Data type: numeric
+              Record/columns: 2/51-52
+
+      a46                Party interviewee voted for in last Histadrut elections-1981
+
+              VALUE  LABEL
+                 01  Alignment
+                 02  Religious Worker
+                 03  Likud or Shlomzion
+                 04  Independent Liberals
+                 05  Democratic Movement for Change
+                 06  Shai
+                 07  Panthers
+                 08  Sheli
+                 09  Rakach
+                 10  Other party
+                 11  Was not in the country
+                 12  Did not vote, was in the country
+                 13  Not a Histadrut member
+
+              Data type: numeric
+              Record/columns: 2/53-54
+
+      a47                Interviewee defines himself as Ashkenazi or Sephardi
+
+              VALUE  LABEL
+                  1  Ashkenazi
+                  2  Sephardi
+                  3  Neither
+
+              Data type: numeric
+              Record/column: 2/55
+
+      a48                Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  1  Observes completely
+                  2  Observes to a great extent
+                  3  Observes to a small extent
+                  4  Does not observe them at all, secular
+
+              Data type: numeric
+              Record/column: 2/56
+
+      a49                Place of birth/father's place of birth
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+
+              Data type: numeric
+              Record/column: 2/57
+
+      a50                Year of immigration (Aliyah)
+
+              VALUE  LABEL
+                  1  Born in Israel
+                  2  Before 1948
+                  3  1948-1954
+                  4  1955-1960
+                  5  1961-1966
+                  6  1967-1972
+                  7  1973-1977
+                  8  1978-1979
+                  9  1980+
+
+              Data type: numeric
+              Record/column: 2/58
+
+      a51                Interviewee supports a party, is a party member and/or a paid functionary
+
+              VALUE  LABEL
+                  1  Member and paid functionary
+                  2  Member and unpaid
+                  3  Member without a function
+                  4  Supports a party only
+                  5  Does not support a particular party
+
+              Data type: numeric
+              Record/column: 2/59
+
+      a52                Political tendency interviewee identifies with
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religous
+                  7  Does not identify with any tendency
+
+              Data type: numeric
+              Record/column: 2/60
+
+      a53                Years of schooling
+
+              VALUE  LABEL
+                  1  None
+                  2  Up to 4 years
+                  3  5-8 years
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+, without academic degree
+                  8  Full university education
+
+              Data type: numeric
+              Record/column: 2/61
+
+      a54                Age
+
+              Data type: numeric
+              Record/columns: 2/62-63
+
+      a55                Average family monthly expenditure as compared with 4 in Israel
+
+              VALUE  LABEL
+                  1  Way below average
+                  2  Somewhat below average
+                  3  Average
+                  4  Somewhat above average
+                  5  Way above average
+
+              Data type: numeric
+              Record/column: 2/64
+
+      a56                Social class
+
+              VALUE  LABEL
+                  1  Upper middle or upper class
+                  2  Middle class
+                  3  Working class
+                  4  Lower class
+                  5  Does not belong to any class
+
+              Data type: numeric
+              Record/column: 2/65
+
+      a57                Housing density
+
+              Data type: numeric
+              Record/column: 2/66
+
+      a58                Sex
+
+              VALUE  LABEL
+                  1  Female
+                  2  Male
+
+              Data type: numeric
+              Record/column: 2/67
+
+      a59                Works outside of household
+
+              VALUE  LABEL
+                  1  Works outside of household
+                  2  Does not work oustide of household
+
+              Data type: numeric
+              Record/column: 2/68
+
+      a60                Interviewee's description of role at work
+
+              Data type: numeric
+              Record/column: 2/69
+
+      a61                To what extent interviewee believes his place of work is better/worse than similar places of work in the same field
+
+              VALUE  LABEL
+                  1  Better
+                  2  Same
+                  3  Worse
+
+              Data type: numeric
+              Record/column: 2/70
+
+      a62                To what extent the management in interviewee's place of work takes workers into consideration
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To a certain extent
+                  4  To a small extent
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 2/71
+
+      a63                If there is national management, to what extent it takes workers into consideration
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To a certain extent
+                  4  To a small extet
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 2/72
+
+      a64                To what extent interviewee's working conditions and salary are better or worse than in similar places of work in the same field
+
+              VALUE  LABEL
+                  1  Better
+                  2  Same
+                  3  Worse
+
+              Data type: numeric
+              Record/column: 2/73
+
+      a65                Locality of interview
+
+              VALUE  LABEL
+                  1  Tel-Aviv
+                  2  Jerusalem
+                  3  Haifa
+                  4  Beer Sheva
+                  5  Ramat Gan
+                  6  Bnei Braq
+                  7  Hertzliya
+                  8  Holon
+                  9  Petah Tikva
+                 10  Netania
+                 11  Rishon Le-Tzion
+                 12  Pardes Hana
+                 13  Tiberia
+                 14  Ramla
+                 15  Ashdod
+                 16  Acco
+                 17  Yavne
+                 18  Rosh Ha-Ain
+                 19  Raanana
+                 20  Qiryat Yam
+                 21  Afula
+                 22  Beit Shean
+                 23  Beit Shemesh
+                 24  Dimona
+                 25  Kefar Biyalik
+                 26  Avital
+                 27  Mavo Beitar
+                 28  Shaar Efraim
+                 29  Neve Yerek
+                 30  Gilat
+
+              Data type: numeric
+              Record/columns: 2/74-75
+
+      

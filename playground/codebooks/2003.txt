@@ -1,0 +1,2002 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 2003
+
+                                                           CONTENTS
+
+****    General
+
+      A6                 Israel's condition in general
+      A7                 The way government handles problems
+      A8                 Most important problem for government
+      A10                Personal economic situation
+
+****    Attitude towards the Palestinian issue
+
+      A11                Territories should be exchanged for peace
+      A12                A Palestinian State should be established
+      A13                A fence of separation should be built
+      A14                Israel should negotiate with the Palestinians even if terror persists
+      A15                Israel should decide on borders and unilaterally withdraw
+      A16                Settlements should be vacated except for large blocks
+      A17                The Arabs from the territories should be transferred
+      A18                Arabs who are Israeli citizens should be transferred
+      A19                Prevent war by talks or military power
+      A20                Peace agreement to conclude Arab-Israeli conflict
+      A21                Evaluation of Arab aspirations
+      A22                Are you worried about being injured by Arabs
+
+****    Ranking 4 significant values
+
+      A23                The most important value
+      A24                The second most important value
+      A25                The third most important value
+      A26                The fourth most important value
+
+****    Support for political persons/groups
+
+      A27                Support for the Labour party
+      A28                Support for the Likud
+      A29                Support for Meretz
+      A30                Support for the National Religious Party
+      A31                Support for Shinui
+      A32                Support for the National Union
+      A33                Support for Shas
+      A34                Support for Israel B'Aliyah
+      A35                Support for Amram Mitzna
+      A36                Support for Ariel Sharon
+      A37                Support for Arabs
+
+****    Identify with party regarding peace and security
+
+      A38                Identification with Labour's peace and security policies
+      A39                Identification with Likud's peace and security policies
+      A40                Identification with Shinui's peace and security policies
+
+****    Identify with party regarding economic issues
+
+      A41                Identification with Labour's economic policies
+      A42                Identification with Likud's economic policies
+      A43                Identification with Shinui's economic policies
+
+****    Identify with party regarding religion and State
+
+      A44                Identification with Labour's religion and State policies
+      A45                Identification with Likud's religion and State policies
+      A46                Identification with Shinui's religion and State policies
+      A47                Party leaders to deal best with economy
+      A48                Party leaders to deal best with security
+      A49                Self-ranking on a right/left political scale
+
+****    Party differences on national issues
+
+      A50                Party differences on the following issue:Jerusalem
+      A51                Party differences on the following issue:Economy
+      A52                Party differences on the following issue:Social policy
+      A53                Party differences on the following issue:Religion and State
+      A54                Party differences on the following issue:Peace and territories
+      A55                Party differences on the following issue:Terror
+      A56                The most important reason to vote for a party
+
+****    Influence the following issues have on your vote
+
+      A57                Influence the following have on your vote: Jerusalem
+      A58                Influence the following have on your vote: Economics
+      A59                Influence the following have on your vote: Social Policy
+      A60                Influence the following have on your vote: Religion and State
+      A61                Influence the following have on your vote: Peace and territories
+      A62                Influence the following have on your vote: Terror
+      A63                Influence the following have on your vote: Corruption
+      A64                Influence the following have on your vote: Willingness to pay more taxes
+
+****    Should the State spend more/less money in the following domains
+
+      A65                State expenditures on education should be:
+      A66                State expenditures on ecology should be:
+      A67                State expenditures on religious institutions and yeshivot should be:
+      A68                State expenditures on health should be:
+      A69                State expenditures on security should be:
+      A70                State expenditures on unemployment benefits should be:
+      A71                State expenditures on settlements should be:
+      A72                State expenditures on the Arab sector should be:
+      A73                State expenditures on job creation should be:
+      A74                Discussing political issues with family/friends
+      A75                Influence you and your friends have on government policy
+      A76                Should public life be conducted according to Halacha?
+      A77                A capitalist or socialist Israeli economy
+
+****    Parties attributes
+
+      A78                Party to negotiate issues of territories and peace
+      A79                Party to preserve democratic regime
+      A80                Party to lead to true peace
+      A81                Party to deal with terror
+      A82                Party to bring about separation from the Palestinians
+      A83                Corrupt party
+      A84                Party to decrease social gaps
+
+****    Leaders attributes
+
+      A85                Leadership qualities
+      A86                Credible
+      A87                Prefers State interests over others
+      A88                Ability to handle negotiations
+      A89                Will preserve the rule of law
+
+****    Likelihood for parties to be in the coalition
+
+      B7                 Likelihood for the Likud to be in the coalition (%)
+      B10                Likelihood for the Labour party to be in the coalition (%)
+      B13                Likelihood for Meretz to be in the coalition (%)
+      B16                Likelihood for the National Religious Party to be in the coalition (%)
+      B19                Likelihood for Shinui to be in the coalition (%)
+      B22                Likelihood for the National Union to be in the coalition (%)
+      B25                Likelihood for Shas to be in the coalition (%)
+      B28                Likelihood for Israel B'Aliyah to be in the coalition (%)
+
+****    Number of seats you think the parties will win
+
+      B31                Number of seats you think the Likud will win
+      B33                Number of seats you think the Labour party will win
+      B35                Number of seats you think Meretz will win
+      B37                Number of seats you think the National Religious Party will win
+      B39                Number of seats you think Shinui will win
+      B41                Number of seats you think the National Union will win
+      B43                Number of seats you think Shas will win
+      B45                Number of seats you think Israel B'Aliyah will win
+
+****    Prospects for the following coalitions
+
+      B47                A Likud-right-religious coalition
+      B50                A Likud-Labour-Shinui coalition
+      B53                A Labour-Meretz-Arabs coalition
+      B56                A national unity government
+
+****    Preference for each of the following coalitions
+
+      B59                A Likud-right-religious coalition
+      B60                A Likud-Labour-Shinui coalition
+      B61                A Labour-Meretz-Arabs coalition
+      B62                A national unity government
+      B63                Respondent party vote if elections were held today
+      B65                Respondent vote for PM if elections for PM were held
+      B66                Respondent party vote if elections for PM were also held
+      B68                Vote in 2001 elections for PM
+      B69                Vote in 1999 elections for PM
+      B70                Vote in 1999 Knesset elections
+      B72                Supporter or member of any party
+      B73                Political identification
+
+****    Respondent's demographic details
+
+      B74                Age
+      B76                Religious observance
+      B77                Place of birth
+      B79                Year of immigration
+      B81                Russian immigrant, since 1988
+      B82                Years of schooling
+      B84                Academic degree
+      B85                Monthly family expenditure (relative to average of 9,300 NIS)
+      B86                Are you worried about losing your job?
+      B87                Rooms in dwelling
+      B88                Number of persons in household
+      B89                Social class (self identified)
+      B90                Religion (for the Arab sample)
+      B91                Religious self-definition
+      B92                Sex
+      B6                 Frequency of reading daily newspaper
+      B96                Day of interview
+      B98                Month of interview
+      B99                Questionnaire version
+
+****    Respondent's computed variables
+
+      WAVE               Sample wave
+      JEW                Sample group
+
+=========================================================================================
+
+****    General
+
+      A6                 Israel's condition in general
+
+              What do you think of Israel's condition in general?
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  Neither good nor bad
+                  4  Bad
+                  5  Very bad
+
+              Data type: numeric
+              Record/column: 1/6
+
+
+      A7                 The way government handles problems
+
+              What do you think of the way the government is handling the country's problems?
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Not very well
+                  4  Not well at all
+
+              Data type: numeric
+              Record/column: 1/7
+
+
+      A8                 Most important problem for government
+
+              What is the most important problem facing the government today
+
+              VALUE  LABEL
+                  1  Security in general
+                  2  Palestinian territories
+                  4  Settlements in territories
+                  5  Palestinian terror
+                  8  International terror
+                  9  Iraqi threat, missiles
+                 10  Foreign policy, negotiations for peace
+                 13  Economy
+                 14  Stop inflation
+                 15  Economic growth end of decline
+                 16  Reducing unemployment
+                 17  General internal affairs
+                 18  Reduce social gap
+                 20  Education
+                 21  Health
+                 24  Traffic accidents
+                 25  Immigrant absorption
+                 26  Environment
+                 27  Religious character of state
+                 28  Religious-secular relations
+                 29  Israeli Arabs
+                 31  Corruption of rule of law
+                 32  Democracy, civil rights
+                 33  Form of government
+                 34  Improve govt performance
+                 35  Unity
+                 36  Everything
+
+              Data type: numeric
+              Record/columns: 1/8-9
+
+
+      A10                Personal economic situation
+
+              What about your personal economic situation? Would you say that in the last year your personal economic situation:
+
+              VALUE  LABEL
+                  1  Improved greatly
+                  2  Improved
+                  3  Did not change
+                  4  A little worse
+                  5  Much worse
+
+              Data type: numeric
+              Record/column: 1/10
+
+****    Attitude towards the Palestinian issue
+
+      A11                Territories should be exchanged for peace
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/11
+
+
+      A12                A Palestinian State should be established
+
+              The establishment of a Palestinian state in the territories as part of a peace settlement
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/12
+
+
+      A13                A fence of separation should be built
+
+              To separate us from the Palestinians - asked only in the first survey
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/13
+
+
+      A14                Israel should negotiate with the Palestinians even if terror persists
+
+              Asked only in the first survey
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/14
+
+
+      A15                Israel should decide on borders and unilaterally withdraw
+
+              Asked only in the first survey
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/15
+
+
+      A16                Settlements should be vacated except for large blocks
+
+              As part of a peace agreement - asked only in the first survey
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/16
+
+      A17                The Arabs from the territories should be transferred
+
+              Asked only in the first survey
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/17
+
+
+      A18                Arabs who are Israeli citizens should be transferred
+
+              Asked only in the first survey
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 1/18
+
+
+      A19                Prevent war by talks or military power
+
+              What should Israel stress to avoid another war with the Arabs?
+
+              VALUE  LABEL
+                  1  Concentrate on peace talks
+                  2  Increase military strength
+
+              Data type: numeric
+              Missing-data code: 3
+              Record/column: 1/19
+
+
+      A20                Peace agreement to conclude Arab-Israeli conflict
+
+              Would a peace agreement with the Palestinians indicate an end to the Israeli-Arab conflict?
+
+              VALUE  LABEL
+                  1  The conflict would definitely be concluded
+                  2  The conflict would be concluded
+                  3  The conflict would not be concluded
+                  4  The conflict would definitely not be concluded
+
+              Data type: numeric
+              Record/column: 1/20
+
+
+      A21                Evaluation of Arab aspirations
+
+              VALUE  LABEL
+                  1  To regain some of the territories lost in the Six Days war
+                  2  To regain all the territories lost in the Six Days war
+                  3  To conquer the State of Israel
+                  4  To conquer the country&kill large portion of Jews in Israel
+
+              Data type: numeric
+              Record/column: 1/21
+
+
+      A22                Are you worried about being injured by Arabs
+
+              To what extent are you worried that you or a member of your family might become a victim of a terrorist attack?
+
+              VALUE  LABEL
+                  1  Very worried
+                  2  Worried
+                  3  Not worried
+                  4  Not at all worried
+
+              Data type: numeric
+              Record/column: 1/22
+
+****    Ranking 4 significant values
+
+      A23                The most important value
+
+              Of these four values that conflict to some extent, which is the most important to you?-asked only in the first survey-not for Arab sample
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democratic state
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/23
+
+
+      A24                The second most important value
+
+              Of these four values that conflict to some extent, which is the second most important to you?-asked only in the first survey-not for Arab sample
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democratic state
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/24
+
+
+      A25                The third most important value
+
+              Of these four values that conflict to some extent, which is the third most important to you?-asked only in the first survey-not for Arab sample
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democratic state
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/25
+
+
+      A26                The fourth most important value
+
+              Of these four values that conflict to some extent, which is the fourth most important to you?-asked only in the first survey-not for Arab sample
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democratic state
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/26
+
+****    Support for political persons/groups
+
+      A27                Support for the Labour party
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for the Labour party
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/27-28
+
+
+      A28                Support for the Likud
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for the Likud
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/29-30
+
+
+      A29                Support for Meretz
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Meretz
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/31-32
+
+
+      A30                Support for the National Religious Party
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for the National Religious Party
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/33-34
+
+
+      A31                Support for Shinui
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Shinui
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/35-36
+
+
+      A32                Support for the National Union
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for the National Union
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/37-38
+
+
+      A33                Support for Shas
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Shas
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/39-40
+
+      A34                Support for Israel B'Aliyah
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Israel B'Aliyah
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/41-42
+
+
+      A35                Support for Amram Mitzna
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Amram Mitzna
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/43-44
+
+
+      A36                Support for Ariel Sharon
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Ariel Sharon
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/45-46
+
+
+      A37                Support for Arabs
+
+              On a scale from 1-10, express your support (love) or rejection (hate) for Arabs
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Love
+
+              Data type: numeric
+              Record/columns: 1/47-48
+
+****    Identify with party regarding peace and security
+
+      A38                Identification with Labour's peace and security policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to the Labour party on issues of peace and security?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/49-50
+
+
+      A39                Identification with Likud's peace and security policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to the Likud on issues of peace and security?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/51-52
+
+
+      A40                Identification with Shinui's peace and security policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to Shinui on issues of peace and security?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/53-54
+
+****    Identify with party regarding economic issues
+
+      A41                Identification with Labour's economic policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to the Labour party on economic issues?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/55-56
+
+
+      A42                Identification with Likud's economic policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to the Likud on economic issues?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/57-58
+
+
+      A43                Identification with Shinui's economic policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to Shinui on economic issues?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/59-60
+
+****    Identify with party regarding religion and State
+
+      A44                Identification with Labour's religion and State policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to the Labour party on issues of religion and State?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/61-62
+
+
+      A45                Identification with Likud's religion and State policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to the Likud on issues of religion and State?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/63-64
+
+
+      A46                Identification with Shinui's religion and State policies
+
+              On a scale from 1-10, how far (1) or close (10) are you to Shinui on issues of religion and State?
+
+              VALUE  LABEL
+                  1  Far
+                 10  Close
+
+              Data type: numeric
+              Record/columns: 1/65-66
+
+
+      A47                Party leaders to deal best with economy
+
+              Who will deal better with the state's economic problems, the Likud leaders or those of Labour?
+
+              VALUE  LABEL
+                  1  Likud leaders
+                  2  Labor leaders
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/67
+
+
+      A48                Party leaders to deal best with security
+
+              And with foreign and security matters, who will deal better with them?
+
+              VALUE  LABEL
+                  1  Likud leaders
+                  2  Labor leaders
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/68
+
+
+      A49                Self-ranking on a right/left political scale
+
+              On a scale from 1 (right) to 7 (left) where would you rank yourself?
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/69
+
+****    Party differences on national issues
+
+      A50                Party differences on the following issue:Jerusalem
+
+              In your opinion are there differences in the positions of the large parties on the Jerusalem issue?
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Some differences
+                  4  Small differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/70
+
+
+      A51                Party differences on the following issue:Economy
+
+              In your opinion are there differences in the positions of the large parties on economic issues?
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Some differences
+                  4  Small differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/71
+
+
+      A52                Party differences on the following issue:Social policy
+
+              In your opinion are there differences in the positions of the large parties on social policy?
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Some differences
+                  4  Small differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/72
+
+
+      A53                Party differences on the following issue:Religion and State
+
+              In your opinion are there differences in the positions of the large parties on religion and State issues?
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Some differences
+                  4  Small differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/73
+
+
+      A54                Party differences on the following issue:Peace and territories
+
+              In your opinion are there differences in the positions of the large parties on peace and territories issues?
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Some differences
+                  4  Small differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/74
+
+      A55                Party differences on the following issue:Terror
+
+              In your opinion are there differences in the positions of the large parties on terror issues?
+
+              VALUE  LABEL
+                  1  Very great differences
+                  2  Great differences
+                  3  Some differences
+                  4  Small differences
+                  5  Almost no differences
+
+              Data type: numeric
+              Record/column: 1/75
+
+
+      A56                The most important reason to vote for a party
+
+              Of the following four factors, what is the most important factor for you in determining your choice?
+
+              VALUE  LABEL
+                  1  Identification with the party
+                  2  The party's candidates
+                  3  The platform/position on certain issues
+                  4  Whether the party is in government or in the opposition
+
+              Data type: numeric
+              Record/column: 1/76
+
+****    Influence the following issues have on your vote
+
+      A57                Influence the following have on your vote: Jerusalem
+
+              To what extent will the Jerusalem issue influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/77
+
+
+      A58                Influence the following have on your vote: Economics
+
+              To what extent will economics influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/78
+
+
+      A59                Influence the following have on your vote: Social Policy
+
+              To what extent will social policy influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/79
+
+
+      A60                Influence the following have on your vote: Religion and State
+
+              To what extent will religion and State issues influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/80
+
+
+      A61                Influence the following have on your vote: Peace and territories
+
+              To what extent will peace and territories issues influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/81
+
+
+      A62                Influence the following have on your vote: Terror
+
+              To what extent will terror issues influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/82
+
+      A63                Influence the following have on your vote: Corruption
+
+              To what extent will corruption influence or not influence your vote choice?
+
+              VALUE  LABEL
+                  1  Very great extent
+                  2  Great extent
+                  3  Certain extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/83
+
+
+      A64                Influence the following have on your vote: Willingness to pay more taxes
+
+              Do you agree or disagree that taxes should be raised and that you will pay more tax to deal with the problems the state faces? Asked only in second survey
+
+              VALUE  LABEL
+                  1  Agree
+                  2  Disagree
+
+              Data type: numeric
+              Record/column: 1/84
+
+****    Should the State spend more/less money in the following domains
+
+      A65                State expenditures on education should be:
+
+              Should the state spend more, less, or the same amount as now on education? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/85
+
+
+      A66                State expenditures on ecology should be:
+
+              Should the state spend more, less, or the same amount as now on preserving nature and ecology? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/86
+
+
+      A67                State expenditures on religious institutions and yeshivot should be:
+
+              Should the state spend more, less, or the same amount as now on religious institutions and yeshivot? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/87
+
+
+      A68                State expenditures on health should be:
+
+              Should the state spend more, less, or the same amount as now on health? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/88
+
+
+      A69                State expenditures on security should be:
+
+              Should the state spend more, less, or the same amount as now on security? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/89
+
+
+      A70                State expenditures on unemployment benefits should be:
+
+              Should the state spend more, less, or the same amount as now on aid to the unemployed? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/90
+
+      A71                State expenditures on settlements should be:
+
+              Should the state spend more, less, or the same amount as now on settlements in the territories? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/91
+
+
+      A72                State expenditures on the Arab sector should be:
+
+              Should the state spend more, less, or the same amount as now on the Arab sector? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/92
+
+
+      A73                State expenditures on job creation should be:
+
+              Should the state spend more, less, or the same amount as now on creating jobs? Asked only in second survey
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same as now
+
+              Data type: numeric
+              Missing-data code: 9
+              Record/column: 1/93
+
+
+      A74                Discussing political issues with family/friends
+
+              To what extent do you discuss political issues with your friends and family?
+
+              VALUE  LABEL
+                  1  Great extent
+                  2  Certain extent
+                  3  Not very much
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/94
+
+
+      A75                Influence you and your friends have on government policy
+
+              To what extent can you and your friends influence government policy?
+
+              VALUE  LABEL
+                  1  Great extent
+                  2  Certain extent
+                  3  Not very much
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/95
+
+
+      A76                Should public life be conducted according to Halacha?
+
+              Should the government of Israel see to it that public affairs are conducted in accordance with Jewish religious tradition?
+
+              VALUE  LABEL
+                  1  Definitely
+                  2  Perhaps
+                  3  No
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/96
+
+      A77                A capitalist or socialist Israeli economy
+
+              Regarding economic matters, do you support a socialist or a capitalist approach?
+
+              VALUE  LABEL
+                  1  Definitely capitalist
+                  2  Capitalist
+                  3  Socialist
+                  4  Definitely socialist
+
+              Data type: numeric
+              Record/column: 1/97
+
+
+****    Parties attributes
+
+      A78                Party to negotiate issues of territories and peace
+
+              Is Labour or Likud a party that will know how to negotiate issues of territories and peace?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/98
+
+
+      A79                Party to preserve democratic regime
+
+              Is Labour or Likud a party that will preserve the State's democratic regime?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/99
+
+
+      A80                Party to lead to true peace
+
+              Is Labour or Likud a party that will lead to true peace with the Arabs?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/100
+
+
+      A81                Party to deal with terror
+
+              Is Labour or Likud a party that will know how to deal with terror?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/101
+
+
+      A82                Party to bring about separation from the Palestinians
+
+              Is Labour or Likud a party that will be able to bring about separation between Israel and the Palestinians?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/102
+
+
+      A83                Corrupt party
+
+              Is Labour or Likud a party that has corruption in it?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/103
+
+      A84                Party to decrease social gaps
+
+              Is Labour or Likud a party that will decrease social gaps?
+
+              VALUE  LABEL
+                  1  Labour
+                  2  Likud
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/104
+
+
+****    Leaders attributes
+
+      A85                Leadership qualities
+
+              Is the trait leadership ability more appropriate in describing Sharon or Mitzna?
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Mitzna
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/105
+
+
+      A86                Credible
+
+              Is the trait credible more appropriate in describing Sharon or Mitzna?
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Mitzna
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/106
+
+
+      A87                Prefers State interests over others
+
+              Is the trait prefers the good of the state over other considerations more appropriate in describing Sharon or Mitzna?
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Mitzna
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/107
+
+
+      A88                Ability to handle negotiations
+
+              Is the trait ability to handle negotiations more appropriate in describing Sharon or Mitzna?
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Mitzna
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/108
+
+
+      A89                Will preserve the rule of law
+
+              Is the trait will preserve the rule of law more appropriate in describing Sharon or Mitzna?
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Mitzna
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/109
+
+****    Likelihood for parties to be in the coalition
+
+      B7                 Likelihood for the Likud to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that the Likud will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/116-118
+
+
+      B10                Likelihood for the Labour party to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that the Labour party will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/119-121
+
+
+      B13                Likelihood for Meretz to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that Meretz will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/122-124
+
+
+      B16                Likelihood for the National Religious Party to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that the National Religious Party will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/125-127
+
+
+      B19                Likelihood for Shinui to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that Shinui will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/128-130
+
+
+      B22                Likelihood for the National Union to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that the National Union will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/131-133
+
+
+      B25                Likelihood for Shas to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that Shas will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/134-136
+
+
+      B28                Likelihood for Israel B'Aliyah to be in the coalition (%)
+
+              On a scale from 0 -100, how likely is it that Israel B'Aliyah will be in the governing coalition? Asked only in first survey
+
+              Data type: numeric
+              Record/columns: 1/137-139
+
+****    Number of seats you think the parties will win
+
+      B31                Number of seats you think the Likud will win
+
+              How many seats will the Likud win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/140-141
+
+
+      B33                Number of seats you think the Labour party will win
+
+              How many seats will the Labour party win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/142-143
+
+
+      B35                Number of seats you think Meretz will win
+
+              How many seats will Meretz win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/144-145
+
+
+      B37                Number of seats you think the National Religious Party will win
+
+              How many seats will the National Religious Party win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/146-147
+
+
+      B39                Number of seats you think Shinui will win
+
+              How many seats will Shinui win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/148-149
+
+
+      B41                Number of seats you think the National Union will win
+
+              How many seats will the National Union win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/150-151
+
+
+      B43                Number of seats you think Shas will win
+
+              How many seats will Shas win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/152-153
+
+
+      B45                Number of seats you think Israel B'Aliyah will win
+
+              How many seats will Isarel B'Aliyah win in the coming elections? Asked only in second survey
+
+              Data type: numeric
+              Record/columns: 1/154-155
+
+****    Prospects for the following coalitions
+
+      B47                A Likud-right-religious coalition
+
+              On a scale from 0 -100, what are the chances that a Likud-right-religious coalition will finally be set up?
+
+              Data type: numeric
+              Record/columns: 1/156-158
+
+
+      B50                A Likud-Labour-Shinui coalition
+
+              On a scale from 0 -100, what are the chances that a Likud-Labour-Shinui coalition will finally be set up?
+
+              Data type: numeric
+              Record/columns: 1/159-161
+
+
+      B53                A Labour-Meretz-Arabs coalition
+
+              On a scale from 0 -100, what are the chances that a Labour-Meretz-Arabs coalition will finally be set up?
+
+              Data type: numeric
+              Record/columns: 1/162-164
+
+
+      B56                A national unity government
+
+              On a scale from 0 -100, what are the chances that a national unity government will finally be set up?
+
+              Data type: numeric
+              Record/columns: 1/165-167
+
+****    Preference for each of the following coalitions
+
+      B59                A Likud-right-religious coalition
+
+              To what extent do you favour a Likud-right-religious coalition government after the elections?
+
+              VALUE  LABEL
+                  1  Very much against
+                  2  Somewhat against 
+                  3  So-so
+                  4  Somewhat in favour 
+                  5  Very much in favour
+
+              Data type: numeric
+              Record/column: 1/168
+
+
+      B60                A Likud-Labour-Shinui coalition
+
+              To what extent do you favour a Likud-Labour-Shinui coalition government after the elections?
+
+              VALUE  LABEL
+                  1  Very much against
+                  2  Somewhat against 
+                  3  So-so
+                  4  Somewhat in favour 
+                  5  Very much in favour
+
+              Data type: numeric
+              Record/column: 1/169
+
+
+      B61                A Labour-Meretz-Arabs coalition
+
+              To what extent do you favour a Labour-Meretz-Arabs coalition government after the elections?
+
+              VALUE  LABEL
+                  1  Very much against
+                  2  Somewhat against 
+                  3  So-so
+                  4  Somewhat in favour 
+                  5  Very much in favour
+
+              Data type: numeric
+              Record/column: 1/170
+
+
+      B62                A national unity government
+
+              To what extent do you favour a national unity government after the elections?
+
+              VALUE  LABEL
+                  1  Very much against
+                  2  Somewhat against 
+                  3  So-so
+                  4  Somewhat in favour 
+                  5  Very much in favour
+
+              Data type: numeric
+              Record/column: 1/171
+
+      B63                Respondent party vote if elections were held today
+
+              In this election we will vote only for the Knesset and not with two ballots. If the Knesset elections were held today, for which list would you vote?
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Labor
+                  3  Shinui
+                  4  Meretz
+                  5  National union
+                  6  National Religious Party
+                  7  Yahadut Hatora
+                  8  Shas
+                  9  Israel Acheret
+                 10  Israel bAliya
+                 11  Am Ehad
+                 12  Green leaf
+                 13  Herut
+                 14  Tzomet
+                 15  Gesher
+                 16  Greens
+                 17  Lehava
+                 18  Lidar
+                 19  Moreshet avot
+                 20  Male rights
+                 21  Ahavat israel
+                 22  Citizen and state
+                 23  Democratic action
+                 24  Natl progressive
+                 25  Center
+                 26  Zaam
+                 27  Balad
+                 28  Raam
+                 29  Chadash
+                 96  Blank ballot
+                 97  No decision
+                 98  Will not vote
+
+              Data type: numeric
+              Record/columns: 1/172-173
+
+
+      B65                Respondent vote for PM if elections for PM were held
+
+              And if you did have two ballots, one for the prime minister and one for the Knesset, for whom would you vote?
+
+              VALUE  LABEL
+                  1  Mitzna
+                  2  Sharon
+                  3  Blank ballot
+                  4  No decision
+                  5  Will not vote
+
+              Data type: numeric
+              Record/column: 1/174
+
+      B66                Respondent party vote if elections for PM were also held
+
+              And for the Knesset?
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Labor
+                  3  Shinui
+                  4  Meretz
+                  5  National union
+                  6  National Religious Party
+                  7  Yahadut Hatora
+                  8  Shas
+                  9  Israel Acheret
+                 10  Israel bAliya
+                 11  Am Ehad
+                 12  Green leaf
+                 13  Herut
+                 14  Tzomet
+                 15  Gesher
+                 16  Greens
+                 17  Lehava
+                 18  Lidar
+                 19  Moreshet avot
+                 20  Male rights
+                 21  Ahavat israel
+                 22  Citizen and state
+                 23  Democratic action
+                 24  Natl progressive
+                 25  Center
+                 26  Zaam
+                 27  Balad
+                 28  Raam
+                 29  Chadash
+                 96  Blank ballot
+                 97  No decision
+                 98  Will not vote
+
+              Data type: numeric
+              Record/columns: 1/175-176
+
+
+      B68                Vote in 2001 elections for PM
+
+              Who did you vote for prime minister in 2001?
+
+              VALUE  LABEL
+                  1  Barak
+                  2  Sharon
+                  3  Blank ballot
+                  4  I did not vote even though I had the right to vote
+                  5  I did not vote because I did not have the right to vote
+
+              Data type: numeric
+              Record/column: 1/177
+
+
+      B69                Vote in 1999 elections for PM
+
+              Who did you vote for prime minister in 1999?
+
+              VALUE  LABEL
+                  1  Barak
+                  2  Netanyahu
+                  3  Blank ballot
+                  4  I did not vote even though I had the right to vote
+                  5  I did not vote because I did not have the right to vote
+
+              Data type: numeric
+              Record/column: 1/178
+
+      B70                Vote in 1999 Knesset elections
+
+              For which party did you vote in the Knesset elections of 1999?
+
+              VALUE  LABEL
+                  1  One Israel
+                  2  Likud
+                  3  The National Union
+                  4  Shinui
+                  5  Israel Beytenu
+                  6  Israel B'aliyah
+                  7  The Third Way
+                  8  Meretz
+                  9  Center
+                 10  National Religious Party
+                 11  Shas
+                 12  Am Ehad
+                 14  Tzomet
+                 15  Acher
+                 16  Balad
+                 17  Raam
+                 18  Chadash
+                 19  Yahadut HaTorah
+                 96  Blank ballot
+                 97  I did not vote even though I had the right to vote
+                 98  I did not vote because I did not have the right to vote
+
+              Data type: numeric
+              Record/columns: 1/179-180
+
+
+      B72                Supporter or member of any party
+
+              Do you support a political party or are you active in one?
+
+              VALUE  LABEL
+                  1  No, neither support nor active
+                  2  I support a party but am not active
+                  3  I am a member of a party
+                  4  I am an active member of a party
+                  5  I am an active member with a position in a party
+
+              Data type: numeric
+              Record/column: 1/181
+
+
+      B73                Political identification
+
+              With which political tendency do you identify?
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious
+                  7  None
+
+              Data type: numeric
+              Record/column: 1/182
+
+****    Respondent's demographic details
+
+      B74                Age
+
+              How old are you?
+
+              Data type: numeric
+              Record/columns: 1/183-184
+
+
+      B76                Religious observance
+
+              To what extent do you observe a religious tradition?
+
+              VALUE  LABEL
+                  1  Observe none 
+                  2  Observe somewhat
+                  3  Observe to a great extent
+                  4  Observe all details
+
+              Data type: numeric
+              Record/column: 1/185
+
+
+      B77                Place of birth
+
+              Continent of birth (and father’s continent of birth for Israeli-born)
+
+              VALUE  LABEL
+                  1  North Africa
+                  2  Asia
+                  3  East Europe
+                  4  West and Central Europe
+                  5  America, Australia, South Africa
+                  6  Israel, father Israel
+                  7  Israel, father North Africa
+                  8  Israel, father Asia
+                  9  Israel, father East Europe
+                 10  Israel, father West of Central Europe
+                 11  Israel, father America, Australia, South Africa
+
+              Data type: numeric
+              Record/columns: 1/186-187
+
+
+      B79                Year of immigration
+
+              (only for Jews)
+
+              Data type: numeric
+              Record/columns: 1/188-189
+
+
+      B81                Russian immigrant, since 1988
+
+              VALUE  LABEL
+                  1  Yes
+
+              Data type: numeric
+              Record/column: 1/190
+
+
+      B82                Years of schooling
+
+              Years of education
+
+              Data type: numeric
+              Record/columns: 1/191-192
+
+
+      B84                Academic degree
+
+              Do you have a college degree? (For those with 12 years and more)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/193
+
+      B85                Monthly family expenditure (relative to average of 9,300 NIS)
+
+              The monthly expenditure for a family of 4 was 9,300 shekel last month. Based on your expenses and the size of your family, do you spend:
+
+              VALUE  LABEL
+                  1  Much more than average
+                  2  A little above average
+                  3  Average
+                  4  Below average
+                  5  Much below average
+
+              Data type: numeric
+              Record/column: 1/194
+
+
+      B86                Are you worried about losing your job?
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A bit
+                  3  Very worried
+                  4  I lost my job recently and am looking for a job
+                  5  I dont work and am not looking for a job
+
+              Data type: numeric
+              Record/column: 1/195
+
+
+      B87                Rooms in dwelling
+
+              Number of rooms in your house
+
+              Data type: numeric
+              Record/column: 1/196
+
+
+      B88                Number of persons in household
+
+              Number of people in your house, including soldiers
+
+              Data type: numeric
+              Record/column: 1/197
+
+
+      B89                Social class (self identified)
+
+              To which social class do you belong?
+
+              VALUE  LABEL
+                  1  Upper class
+                  2  Middle upper
+                  3  Middle
+                  4  Lower
+
+              Data type: numeric
+              Record/column: 1/198
+
+
+      B90                Religion (for the Arab sample)
+
+              Are you Muslim, Christian or Druze? (for the Arab sample)
+
+              VALUE  LABEL
+                  1  Muslim
+                  2  Christian
+                  3  Druze
+
+              Data type: numeric
+              Record/column: 1/199
+
+
+      B91                Religious self-definition
+
+              How would you define yourself?
+
+              VALUE  LABEL
+                  1  Secular
+                  2  Traditional
+                  3  Religious
+                  4  Haredi
+
+              Data type: numeric
+              Record/column: 1/200
+
+      B92                Sex
+
+              Gender
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/201
+
+
+      B6                 Frequency of reading daily newspaper
+
+              Do you read a daily newspaper?
+
+              VALUE  LABEL
+                  1  Never
+                  2  Rarely
+                  3  Once a week
+                  4  2-3 times a week
+                  5  Almost every day
+                  6  More than one paper every day
+
+              Data type: numeric
+              Record/column: 1/115
+
+
+      B96                Day of interview
+
+              Date of interview - day
+
+              Data type: numeric
+              Record/columns: 1/205-206
+
+
+      B98                Month of interview
+
+              Date of interview - month
+
+              Data type: numeric
+              Record/column: 1/207
+
+
+      B99                Questionnaire version
+
+              VALUE  LABEL
+                  1  a Hebrew
+                  2  b Hebrew
+                  3  a Arabic
+                  4  b Arabic
+                  5  a Russian
+                  6  b Russian
+
+              Data type: numeric
+              Record/column: 1/208
+
+****    Respondent's computed variables
+
+      WAVE               Sample wave
+
+              Data type: numeric
+              Record/column: 1/213
+
+      JEW                Sample group
+
+              VALUE  LABEL
+                  0  Arab
+                  1  Jew
+
+              Data type: numeric
+              Record/column: 1/214
+      

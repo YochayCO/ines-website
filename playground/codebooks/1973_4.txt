@@ -1,0 +1,916 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 1973, phase 4
+
+                                                           CONTENTS
+
+****    December 1973
+
+      v1                 Identity number
+      g2                 The first of the two most important problems the government has to take care of
+      g3                 The second problem
+      g4                 Interviewee is satisfied with way election campaign for Knesset is being conducted
+      g5                 To what extent election campaign has helped interviewee decide whom to vote for
+      g6                 To what extent present election campaign helps to better understand the political problems of the country
+      g7                 To what extent present election campaign helps to better know the parties' stands on political issues
+      g8                 To what extent present election campaign helps to better know the political leaders
+      g9                 To what extent present election campaign helps to better understand how democracy works
+      g10                To what extent present election campaign helps give your children a political education
+      g11                To what extent present election campaign helps interviewee know with which political party he identifies most
+      g12                In general, interviewee reads more about political matters during election time
+      g13                Interviewee reads advertisements by party(ies) with which he identifies
+      g14                Interviewee reads advertisements by parties with which he does not identify
+      g15                To what extent party advertisements help interviewee decide whom to vote for
+      g16                Interviewee has heard party ads on radio
+      g17                If yes, party whose ads interviewee mainly heard
+      g18                To what extent the radio ads helped interviewee decide whom to vote for
+      g19                Interviewee sees party ads on television
+      g20                If yes, party whose ads interviewee mainly sees
+      g21                To what extent television advertisements help interviewee decide whom to vote for
+      g22                Main reason for watching television advertisements
+      g23                Main reason for not watching television advertisements
+      g24                In their campaigns, the parties deal with the country's most important issues
+      g25                Interviewee believes what parties say during the election campaign
+      g26                To what extent interviewee is interested in the election campaign because of its similarity to a sports competition
+      g27                Interviewee is active in present election campaign
+      g28                To what extent interviewee takes advice from his/her wife/husband on whom to vote for
+      g29                It is harder today than before the war to find someone close to ask for advice on whom to vote for
+      g30                Interviewee takes into consideration her husband's wish when deciding whom to vote for (for women only)
+      g31                Interviewee thinks most of his friends are voting for the same party as he is voting for
+      g32                Spouse votes like interviewee
+      g33                To what extent can interviewee and friends influence government policy
+      g34                To what extent the elections have an influence on govt. policy
+      g35                Interviewee wants to influence government policy
+      g36                Interviewee thinks his vote will influence the result of the Knesset election
+      g37                Interviewee intends to vote in the coming elections
+      g38                To what extent interviewee is certain about whom to vote for
+      g39                When interviewee decided/will decide whom to vote for
+      g40                The Yom Kippur War made interviewee change his mind whom to vote for
+      g41                Interviewee intends to vote for same party he voted for in 1969 Knesset elections
+      g42                If the voter does not support a specific party he should not vote
+      g43                Main reason why interviewee intends to vote
+      g44                It is important to interviewee to participate in the Knesset elections
+      g45                The act of voting is more important or the choosing of a party is more important
+      g46                The way the government is handling affairs now will help Israel achieve peace
+      g47                The way the government is handling affairs now will lead Israel to surrender
+      g48                The committee formed to investigate events of war will have a concrete influence on future govt. action on foreign and security matters
+      g49                A National Unity Government should be formed today
+      g50                The party in government should be replaced even if it is doing a good job
+      g51                To what extent the Likud can be a substitute for the Labour Party in government
+      g52                Party position on foreign and security affairs interviewee identifies with most
+      g53                A difference exists between the Likud's and the Alignment's approach to foreign and security affairs
+      g54                The best candidate for Prime Minister
+      g55                Party interviewee voted for in 1969 elections
+      g56                Party interviewee intends to vote for in the coming election
+      g57                Party interviewee voted for in last Histadrut elections
+      g58                Interviewee is a supporter, member and/or office-holder in a party
+      g59                Sex
+      g60                Interviewee's husband is in the army
+      g61                Years of schooling
+      g62                Age
+      g63                Total gross monthly income for household
+      g64                Interviewee observes religious traditions
+      g65                Occupation
+      g66                Place of birth/father's place of birth
+      g67                Place of interview
+      g68                Date of interview
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      g2                 The first of the two most important problems the government has to take care of
+
+              VALUE  LABEL
+                  1  Security
+                  2  Peace
+                  3  Economy
+                  4  Immigration and absorption
+                  5  Education
+                  6  Social inequality
+                  7  Housing for young couples
+                  8  Other domestic problems
+
+              Data type: numeric
+              Record/column: 1/5
+
+      g3                 The second problem
+
+              VALUE  LABEL
+                  1  Security
+                  2  Peace
+                  3  Economy
+                  4  Immigration and absorption
+                  5  Education
+                  6  Social inequality
+                  7  Housing for young couples
+                  8  Other domestic problems
+
+              Data type: numeric
+              Record/column: 1/6
+
+      g4                 Interviewee is satisfied with way election campaign for Knesset is being conducted
+
+              VALUE  LABEL
+                  1  Very satisfied
+                  2  Satisfied
+                  3  Not so satisfied
+                  4  Not at all satisfied
+
+              Data type: numeric
+              Record/column: 1/7
+
+      g5                 To what extent election campaign has helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/8
+
+      g6                 To what extent present election campaign helps to better understand the political problems of the country
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/9
+
+      g7                 To what extent present election campaign helps to better know the parties' stands on political issues
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/10
+
+      g8                 To what extent present election campaign helps to better know the political leaders
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/11
+
+      g9                 To what extent present election campaign helps to better understand how democracy works
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/12
+
+      g10                To what extent present election campaign helps give your children a political education
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/13
+
+      g11                To what extent present election campaign helps interviewee know with which political party he identifies most
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/14
+
+      g12                In general, interviewee reads more about political matters during election time
+
+              VALUE  LABEL
+                  1  Much more
+                  2  More
+                  3  Less
+                  4  Much less
+
+              Data type: numeric
+              Record/column: 1/15
+
+      g13                Interviewee reads advertisements by party(ies) with which he identifies
+
+              VALUE  LABEL
+                  1  Yes, everyday
+                  2  Often
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/16
+
+      g14                Interviewee reads advertisements by parties with which he does not identify
+
+              VALUE  LABEL
+                  1  Yes, everyday
+                  2  Often
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/17
+
+      g15                To what extent party advertisements help interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/18
+
+      g16                Interviewee has heard party ads on radio
+
+              VALUE  LABEL
+                  1  Yes, everyday
+                  2  Often
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/19
+
+      g17                If yes, party whose ads interviewee mainly heard
+
+              VALUE  LABEL
+                 01  Independent Liberals
+                 02  Alignment
+                 03  Poalei Agudat Yisrael
+                 04  National Religious Party
+                 05  Agudat Yisrael
+                 06  Moked
+                 07  Rakach
+                 08  Meri
+                 09  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlactit
+                 13  Free Center
+                 14  Other
+                 15  Several parties
+
+              Data type: numeric
+              Record/columns: 1/20-21
+
+      g18                To what extent the radio ads helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/22
+
+      g19                Interviewee sees party ads on television
+
+              VALUE  LABEL
+                  1  Yes, every evening
+                  2  Often
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/23
+
+      g20                If yes, party whose ads interviewee mainly sees
+
+              VALUE  LABEL
+                 01  Independent Liberals
+                 02  Alignment
+                 03  Poalei Agudat Yisrael
+                 04  National Religious Party
+                 05  Agudat Yisrael
+                 06  Moked
+                 07  Rakach
+                 08  Meri
+                 09  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free Center
+                 14  Other
+                 15  Several parties
+
+              Data type: numeric
+              Record/columns: 1/24-25
+
+      g21                To what extent television advertisements help interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/26
+
+      g22                Main reason for watching television advertisements
+
+              VALUE  LABEL
+                  1  To hear arguments for political debates
+                  2  To get to know the political leaders
+                  3  To get to know parties' polit. platforms
+                  4  To help decide whom to vote for
+                  5  Renew identification w/supported party
+                  6  To help evaluate chances of diff.parties
+                  7  To be up to date w/political situation
+                  8  Enjoys political struggle, discussions
+                  9  This is the only transmission on TV
+
+              Data type: numeric
+              Record/column: 1/27
+
+      g23                Main reason for not watching television advertisements
+
+              VALUE  LABEL
+                  1  Disinterest in politics
+                  2  Prefers entertainment programs
+                  3  Does not believe what parties say
+                  4  Some parties do not take public seriousl
+                  5  Already knows party he is voting for
+                  6  Sometimes hard to understand ads
+                  7  Not want to open home to poli.propaganda
+                  8  The parties have nothing new to say
+                  9  Not like being deceived by politicians
+
+              Data type: numeric
+              Record/column: 1/28
+
+      g24                In their campaigns, the parties deal with the country's most important issues
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/29
+
+      g25                Interviewee believes what parties say during the election campaign
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/30
+
+      g26                To what extent interviewee is interested in the election campaign because of its similarity to a sports competition
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/31
+
+      g27                Interviewee is active in present election campaign
+
+              VALUE  LABEL
+                  1  Very active
+                  2  Active
+                  3  Not so active
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/32
+
+      g28                To what extent interviewee takes advice from his/her wife/husband on whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/33
+
+      g29                It is harder today than before the war to find someone close to ask for advice on whom to vote for
+
+              VALUE  LABEL
+                  1  It's much harder today
+                  2  It's harder today
+                  3  It's just as hard today
+                  4  It's easier today
+                  5  It's much easier today
+
+              Data type: numeric
+              Record/column: 1/34
+
+      g30                Interviewee takes into consideration her husband's wish when deciding whom to vote for (for women only)
+
+              VALUE  LABEL
+                  1  Certainly yes
+                  2  Thinks so
+                  3  Does not think so
+                  4  Absolutely not
+                  5  Husband doesn't know party she votes for
+                  6  Does not matter to husband which party
+                  7  The interviewee is a man
+
+              Data type: numeric
+              Record/column: 1/35
+
+      g31                Interviewee thinks most of his friends are voting for the same party as he is voting for
+
+              VALUE  LABEL
+                  1  Most of them are
+                  2  Most of them are not
+                  3  Does not know
+
+              Data type: numeric
+              Record/column: 1/36
+
+      g32                Spouse votes like interviewee
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Not married
+
+              Data type: numeric
+              Record/column: 1/37
+
+      g33                To what extent can interviewee and friends influence government policy
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/38
+
+      g34                To what extent the elections have an influence on govt. policy
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/39
+
+      g35                Interviewee wants to influence government policy
+
+              VALUE  LABEL
+                  1  Wants to influence
+                  2  Certainly wants to influence
+                  3  Does not want to so much
+                  4  Does not at all want to
+
+              Data type: numeric
+              Record/column: 1/40
+
+      g36                Interviewee thinks his vote will influence the result of the Knesset election
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/41
+
+      g37                Interviewee intends to vote in the coming elections
+
+              VALUE  LABEL
+                  1  Certainly yes
+                  2  Thinks so
+                  3  Does not think so
+                  4  Absolutely not
+
+              Data type: numeric
+              Record/column: 1/42
+
+      g38                To what extent interviewee is certain about whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+                  5  Will not vote
+
+              Data type: numeric
+              Record/column: 1/43
+
+      g39                When interviewee decided/will decide whom to vote for
+
+              VALUE  LABEL
+                  1  A long time ago
+                  2  Since the war
+                  3  At the beginning of the elec. campaign
+                  4  Today
+                  5  Will decide in a few days
+                  6  Will decide on election day
+                  7  Will not vote
+
+              Data type: numeric
+              Record/column: 1/44
+
+      g40                The Yom Kippur War made interviewee change his mind whom to vote for
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Hesitant
+
+              Data type: numeric
+              Record/column: 1/45
+
+      g41                Interviewee intends to vote for same party he voted for in 1969 Knesset elections
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Did not vote then
+
+              Data type: numeric
+              Record/column: 1/46
+
+      g42                If the voter does not support a specific party he should not vote
+
+              VALUE  LABEL
+                  1  He should not vote
+                  2  He should cast a blank ballot
+                  3  He has to vote for some party
+
+              Data type: numeric
+              Record/column: 1/47
+
+      g43                Main reason why interviewee intends to vote
+
+              VALUE  LABEL
+                  1  Opportunity to identify w/polit. leaders
+                  2  To behave like my friends
+                  3  To identify with party he supports
+                  4  To influence which party will be in govt
+                  5  To feel part of the people & the country
+                  6  To express views on political matters
+                  7  Enjoys participating in the happy event
+                  8  To fulfill duty towards country
+                  9  To protest against the government
+
+              Data type: numeric
+              Record/column: 1/48
+
+      g44                It is important to interviewee to participate in the Knesset elections
+
+              VALUE  LABEL
+                  1  Very important
+                  2  Important
+                  3  Not so important
+                  4  Not at all important
+
+              Data type: numeric
+              Record/column: 1/49
+
+      g45                The act of voting is more important or the choosing of a party is more important
+
+              VALUE  LABEL
+                  1  The act of voting is more important
+                  2  Choosing a party is more important
+
+              Data type: numeric
+              Record/column: 1/50
+
+      g46                The way the government is handling affairs now will help Israel achieve peace
+
+              VALUE  LABEL
+                  1  Absolutely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely disagrees
+
+              Data type: numeric
+              Record/column: 1/51
+
+      g47                The way the government is handling affairs now will lead Israel to surrender
+
+              VALUE  LABEL
+                  1  Absolutely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely disagrees
+
+              Data type: numeric
+              Record/column: 1/52
+
+      g48                The committee formed to investigate events of war will have a concrete influence on future govt. action on foreign and security matters
+
+              VALUE  LABEL
+                  1  Absolutely yes
+                  2  Thinks so
+                  3  Does not think so
+                  4  Absolutely not
+
+              Data type: numeric
+              Record/column: 1/53
+
+      g49                A National Unity Government should be formed today
+
+              VALUE  LABEL
+                  1  Absolutely yes
+                  2  Thinks so
+                  3  Does not think so
+                  4  Absolutely not
+
+              Data type: numeric
+              Record/column: 1/54
+
+      g50                The party in government should be replaced even if it is doing a good job
+
+              VALUE  LABEL
+                  1  Absolutley agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely disagrees
+
+              Data type: numeric
+              Record/column: 1/55
+
+      g51                To what extent the Likud can be a substitute for the Labour Party in government
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/56
+
+      g52                Party position on foreign and security affairs interviewee identifies with most
+
+              VALUE  LABEL
+                  1  The Alignment's
+                  2  The Likud's
+                  3  The Left's
+
+              Data type: numeric
+              Record/column: 1/57
+
+      g53                A difference exists between the Likud's and the Alignment's approach to foreign and security affairs
+
+              VALUE  LABEL
+                  1  A very big difference
+                  2  A big difference
+                  3  A small difference
+                  4  No difference
+
+              Data type: numeric
+              Record/column: 1/58
+
+      g54                The best candidate for Prime Minister
+
+              VALUE  LABEL
+                  1  Golda Meir
+                  2  Moshe Dayan
+                  3  Menachem Begin
+                  4  Pinchas Sapir
+                  5  Abba Eban
+                  6  Haim Bar-Lev
+                  7  Yigal Allon
+                  8  Other from the coalition parties
+                  9  Other from the opposition parties
+
+              Data type: numeric
+              Record/column: 1/59
+
+      g55                Party interviewee voted for in 1969 elections
+
+              VALUE  LABEL
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Poalei Agudat Yisrael
+                  6  National Religious Party
+                  7  Agudat Yisrael
+                  8  HaOlam HaZeh
+                  9  Reshima Mamlachtit
+                 10  Israeli Communist Party
+                 11  Rakach
+                 12  Other
+                 13  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/60-61
+
+      g56                Party interviewee intends to vote for in the coming election
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Independent Liberals
+                  3  Alignment
+                  4  Poalei Agudat Yisrael/Agudat Yisrael
+                  5  National Religious Party
+                  6  Meri
+                  7  Moked
+                  8  Rakach
+                  9  Shulamit Aloni
+                 10  Israeli Democrats
+                 11  Other
+
+              Data type: numeric
+              Record/columns: 1/62-63
+
+      g57                Party interviewee voted for in last Histadrut elections
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Independent Liberals
+                  3  Alignment
+                  4  Religious Worker
+                  5  Meri
+                  6  Moked
+                  7  Rakach
+                  8  Israeli Democrats
+                  9  Other
+                 10  Not a Hisadrut member
+                 11  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/64-65
+
+      g58                Interviewee is a supporter, member and/or office-holder in a party
+
+              VALUE  LABEL
+                  1  Member and paid worker
+                  2  Member and voluntary worker
+                  3  Member
+                  4  Supporter
+                  5  Does not support any specific party
+
+              Data type: numeric
+              Record/column: 1/66
+
+      g59                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/67
+
+      g60                Interviewee's husband is in the army
+
+              VALUE  LABEL
+                  1  He has been for two months
+                  2  He has been for one month
+                  3  He has been for two weeks
+                  4  He has been for less than two weeks
+                  5  He is not in the army
+                  6  Not married
+
+              Data type: numeric
+              Record/column: 1/68
+
+      g61                Years of schooling
+
+              VALUE  LABEL
+                  1  No schooling
+                  2  Up to 4 years
+                  3  5-8 years
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+ without University degree
+                  8  Full University education
+
+              Data type: numeric
+              Record/column: 1/69
+
+      g62                Age
+
+              VALUE  LABEL
+                  1  20-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 1/70
+
+      g63                Total gross monthly income for household
+
+              VALUE  LABEL
+                  1  0-599 IL/month
+                  2  600-799
+                  3  800-999
+                  4  1000-1249
+                  5  1250-1499
+                  6  1500-1749
+                  7  1750-1999
+                  8  2000-2499
+                  9  2500+
+
+              Data type: numeric
+              Record/column: 1/71
+
+      g64                Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  1  Observes them thoroughly
+                  2  Observes most of them
+                  3  Observes some of them
+                  4  Does not observe them at all
+
+              Data type: numeric
+              Record/column: 1/72
+
+      g65                Occupation
+
+              VALUE  LABEL
+                  1  Free professional with University degree
+                  2  Free professional without Univ. degree
+                  3  Manager/business owner with 11+ workers
+                  4  Manager/business owner with 3-10 workers
+                  5  Manager/business owner with 0-2 workers
+                  6  Skilled worker
+                  7  Unskilled worker
+                  8  Student
+                  9  Housewife
+
+              Data type: numeric
+              Record/column: 1/73
+
+      g66                Place of birth/father's place of birth
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/74
+
+      g67                Place of interview
+
+              VALUE  LABEL
+                  1  Jerusalem
+                  2  Tel-Aviv area
+                  3  Haifa area
+
+              Data type: numeric
+              Record/column: 1/75
+
+      g68                Date of interview
+
+              VALUE  LABEL
+                  1  Wednesday, December 19, 1973
+                  2  Thursday, December 20, 1973
+                  3  Friday, December 21, 1973
+
+              Data type: numeric
+              Record/column: 1/76
+

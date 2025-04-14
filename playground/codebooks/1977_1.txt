@@ -1,0 +1,1748 @@
+
+                                                           CODEBOOK
+
+
+                                                   Election Study 1977, phase 1
+
+                                                           CONTENTS
+
+      v1                 Identity number
+      v2                 Place of interview
+      v3                 Date of interview
+      v4                 General situation in Israel today
+      v5                 Way government handles problems of present situation
+      v6                 Main problem government has to take care of
+      v7                 Differences in party stands on this issue
+      v8                 Differences are clear to interviewee
+      v9                 Party that will best handle this issue
+      v10                To what extent Israel should be ready to talk with P.L.O.
+      v11                Maximum Israel has to give up in Judea and Samaria to achieve peace agreement
+      v12                Differences in party stands on territories issue
+      v13                Differences are clear to interviewee
+      v14                To what extent giving back territories will influence election results
+      v15                To what extent will territories issue influence interviewee's vote
+      v16                Party best representing interviewee stand on territory issue
+      v17                Interviewee will vote for different party if party changes its stand on territories issue
+      v18                To what extent the corruption issue will influence election results
+      v19                To what extent corruption issue will influence interviewee's vote
+      v20                Way government handles the economic problems of Israel
+      v21                Differences in party stands on economic issues
+      v22                Differences are clear to interviewee
+      v23                To what extent economy issue will influence election results
+      v24                To what extent economy issue will influence interviewee's vote
+      v25                Party best representing interviewee stand on economy issue
+      v26                Interviewee's knowledge of proposal for a change in the electoral system
+      v27                Existing electoral system should be kept or changed according to this proposal
+      v28                To what extent interviewee discusses politics with family
+      v29                To what extent interviewee discusses politics with friends
+      v30                Family members vote like interviewee
+      v31                Friends vote like interviewee
+      v32                To what extent interviewee/friends can influence policy making
+      v33                To what extent votes affect policy
+      v34                Politicians take into consideration what the 'man in the street' thinks
+      v35                To what extent interviewee interested in influencing policy
+      v36                A district electoral system will increase/decrease interviewee's ability to affect policy
+      v37                Main factor influencing interviewee's party choice
+
+****    ARGUMENTS CONVINVING ENOUGH TO VOTE FOR THE LIKUD
+
+      v39                It is important to give a new element the opportunity to try its strength in government to vote For the Likud
+      v40                The Likud has good leaders
+      v41                The Likud proposes a refreshing new leadership
+      v42                The Likud's policy will increase the chances for peace
+      v43                The Likud will know how to stand firmly during negotiations over peace and the territories
+      v44                The Likud will better handle the economic/social problems
+      v45                The Likud will be more effective in stopping corruption in Israel
+      v46                The Likud institutions are democratic
+      v47                The Alignment's leaders cannot be trusted
+      v48                The Likud is the least of all evils
+      v49                The Alignment's leaders have contributed to the corruption in Israel
+      v50                The Alignment and the DMC do not have a clear foreign and security policy
+      v51                The Likud will help interviewee get a better job or a promotion
+      v52                The Likud will help interviewee with personal problems such as, housing, getting help from government offices, etc.
+
+****    ARGUMENTS CONVINCING ENOUGH TO VOTE FOR THE ALIGNMENT
+
+      v54                The Alignment has experience in government
+      v55                The Alignment has good leaders
+      v56                The Alignment proposes a refreshing new leadership
+      v57                The Alignment's policy will increase the chances for peace
+      v58                The Alignment's flexibility on the subject of the territories may bring us peace
+      v59                The Alignment can better handle the economic/social problems
+      v60                The Alignment will be more effective in stopping the corruption in Israel
+      v61                The Alignment is for a change in the electoral system
+      v62                The Alignment is renewing itself and becoming more democratic
+      v63                The Alignment is the least of all evils
+      v64                Concern about the Likud's extremism
+      v65                The DMC is just like the Alignment, so why try something new
+      v66                The Likud and the DMC do not have experienced leaders
+      v67                The Alignment will help interviewee get a better job or a promotion
+      v68                The Alignment will help interviewee with personal problems such as housing, getting help from government offices, etc.
+
+****    ARGUMENTS CONVINCING ENOUGH TO VOTE FOR THE DMC
+
+      v70                It is important to let a new element try its strength in government for the DMC
+      v71                The DMC has good leaders
+      v72                The DMC offers a refreshing new leadership
+      v74                The DMC's policy will increase the chances for peace
+      v75                The DMC's policy on the occupied territories may bring peace
+      v76                The DMC can better handle the economic/social problems
+      v77                The DMC will be more effective in stopping corruption
+      v78                The DMC is for a change in the electoral system
+      v79                The DMC is a democratic movement
+      v80                The DMC is the least of all evils
+      v81                The Alignment and the Likud are all the same
+      v82                The DMC has the ability to bring real change to the country
+      v83                Alignment and Likud leaders have contributed to corruption in the country
+      v84                Neither the Likud or the Alignment can improve life in this country
+      v85                The DMC will help interviewee get a better job or promotion
+      v86                The DMC will help interviewee with personal problems such as, housing, getting help from government officies, etc.
+      v87                Interviewee will change vote if party he supports changes its position on an issue that seems important to him
+      v88                Interviewee will still vote for same party if the candidate he supports does not have a place or is not included in the party list
+
+****    THE TWO GROUPS INTERVIEWEE WOULD LIKE TO HAVE A LARGER REPRESENTATION IN THE PARTY HE INTENDS TO VOTE FOR
+
+      v90                The first of the two groups
+      v91                The second of the two groups
+      v92                Some say if Mapam leaves the Alignment it will influence election results.results
+      v93                The competition inside the Labour Party strengthened or weakened the party
+      v94                The competition inside the Labour Party strengthened or weakened its democratic character
+      v95                The Alignment's strongest competitor (interviewee opinion)
+      v96                The government of Israel has to make sure that the public life of the country is in accordance with Jewish tradition
+      v97                Interviewee supports a more capitalistic or a more socialistic approach for the country's economic structure
+      v98                To what extent election campaign will help interviewee decide whom to vote for
+      v99                Interviewee's preference for Prime Minister after the elections
+      v100               To what extent interviewee is certain whom he will vote for in the coming elections
+      v101               The party interviewee thinks will form the next government
+      v102               Party interviewee would like to see form the next government
+      v103               Interviewee is closer to which party's position on foreign and security affairs
+      v104               Political tendency interviewee identifies with
+      v105               Party interviewee voted for in 1973 elections
+      v106               Party interviewee voted for in the 1969 elections, 8 yrs ago
+      v107               Party interviewee would vote for if elections held today For party codes, see codebook in file
+      v108               Interviewee would vote for Labour Party or Mapam if the Alignment were to split
+      v109               Interviewee is a member of the Histadrut
+      v110               Interviewee supports a specific party/is a member or office-holder in one of the parties
+      v111               Sex
+      v112               Education
+      v113               Number of rooms in dwelling
+      v114               Number of persons in household
+      v115               Interviewee's gross monthly income
+      v116               Age
+      v117               Gross monthly income of entire household
+      v118               Interviewee's social class
+      v119               Marital status
+      v120               Interviewee observes religious traditions
+      v121               Interviewee works
+      v122               Spouse works
+      v123               Place of birth: interviewee/interviewee's father
+      v124               Year of Aliya (immigration)
+      v125               Interviewee has a phone at home
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/1-5
+
+      v2                 Place of interview
+
+              VALUE  LABEL
+                  1  Jerusalem
+                  2  Tel Aviv
+                  3  Haifa
+                  4  Ramat Gan
+                  5  Givatayim
+                  6  Bnei Brak
+                  7  Holon
+                  8  Bat Yam
+                  9  Beer Sheva
+
+              Data type: numeric
+              Record/column: 1/6
+
+      v3                 Date of interview
+
+              VALUE  LABEL
+                  1  Thursday, 3.3.77
+                  2  Friday, 4.3.77
+                  3  Sunday, 6.3.77
+                  4  Monday, 7.3.77
+                  5  Tuesday, 8.3.77
+                  6  Wednesday, 9.3.77
+
+              Data type: numeric
+              Record/column: 1/7
+
+      v4                 General situation in Israel today
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not good
+                  5  Not good at all
+
+              Data type: numeric
+              Record/column: 1/8
+
+      v5                 Way government handles problems of present situation
+
+              VALUE  LABEL
+                  0  No answer
+                  1  It is handling them very well
+                  2  It is handling them well
+                  3  Not so well
+                  4  Not well at all
+
+              Data type: numeric
+              Record/column: 1/9
+
+      v6                 Main problem government has to take care of
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security
+                  2  Economy
+                  3  Social inequality
+                  4  Peace
+                  5  Young couples
+                  6  Changing the electoral system
+                  7  Immigrants absorption
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/10
+
+      v7                 Differences in party stands on this issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences
+
+              Data type: numeric
+              Record/column: 1/11
+
+      v8                 Differences are clear to interviewee
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very clear
+                  2  Clear
+                  3  Not so clear
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/12
+
+      v9                 Party that will best handle this issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Rarty
+                  7  Meri
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Labor Party
+                 16  Mapam
+                 17  Other
+                 18  No party will be able to handle it
+                 19  Does not know
+
+              Data type: numeric
+              Record/columns: 1/13-14
+
+      v10                To what extent Israel should be ready to talk with P.L.O.
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/15
+
+      v11                Maximum Israel has to give up in Judea and Samaria to achieve peace agreement
+
+              VALUE  LABEL
+                  0  No answer
+                  1  All of Judea and Samaria
+                  2  Almost all of it
+                  3  A part of it
+                  4  A small part of it
+                  5  Nothing at all
+
+              Data type: numeric
+              Record/column: 1/16
+
+      v12                Differences in party stands on territories issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences
+
+              Data type: numeric
+              Record/column: 1/17
+
+      v13                Differences are clear to interviewee
+
+              VALUE  LABEL
+                  1  Very clear
+                  2  Clear
+                  3  Not so clear
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/18
+
+      v14                To what extent giving back territories will influence election results
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/19
+
+      v15                To what extent will territories issue influence interviewee's vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/20
+
+      v16                Party best representing interviewee stand on territory issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Meri
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Labor Party
+                 16  Mapam
+                 17  Other
+                 18  No party will be able to handle it
+                 19  Does not know
+
+              Data type: numeric
+              Record/columns: 1/21-22
+
+      v17                Interviewee will vote for different party if party changes its stand on territories issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly will
+                  2  Thinks so
+                  3  Does not think so
+                  4  Certainly not
+                  5  Has not decided whom to vote for yet
+
+              Data type: numeric
+              Record/column: 1/23
+
+      v18                To what extent the corruption issue will influence election results
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/24
+
+      v19                To what extent corruption issue will influence interviewee's vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/25
+
+      v20                Way government handles the economic problems of Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very well
+                  2  Well
+                  3  Well enough
+                  4  Not so well
+                  5  Not well at all
+
+              Data type: numeric
+              Record/column: 1/26
+
+      v21                Differences in party stands on economic issues
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences
+
+              Data type: numeric
+              Record/column: 1/27
+
+      v22                Differences are clear to interviewee
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very clear
+                  2  Clear
+                  3  Not so clear
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/28
+
+      v23                To what extent economy issue will influence election results
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/29
+
+      v24                To what extent economy issue will influence interviewee's vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/30
+
+      v25                Party best representing interviewee stand on economy issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Meri
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Labor Party
+                 16  Mapam
+                 17  Other
+                 18  No party will be able to handle it
+                 19  Does not know
+
+              Data type: numeric
+              Record/columns: 1/31-32
+
+      v26                Interviewee's knowledge of proposal for a change in the electoral system
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Knows details of the proposal
+                  2  Knows general lines
+                  3  Knows very little about it
+                  4  Knows nothing about it
+
+              Data type: numeric
+              Record/column: 1/33
+
+      v27                Existing electoral system should be kept or changed according to this proposal
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Present system should certainly be kept
+                  2  Present system should be kept
+                  3  System should be changed as proposed
+                  4  Should certainly be changed as proposed
+                  5  Has no opinion on the subject
+                  6  Supports change to regional elections
+
+              Data type: numeric
+              Record/column: 1/34
+
+      v28                To what extent interviewee discusses politics with family
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/35
+
+      v29                To what extent interviewee discusses politics with friends
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/36
+
+      v30                Family members vote like interviewee
+
+              VALUE  LABEL
+                  0  No answer
+                  1  They all do
+                  2  Most of them do
+                  3  Some of them do
+                  4  None of them do
+                  5  Does not know how they vote
+
+              Data type: numeric
+              Record/column: 1/37
+
+      v31                Friends vote like interviewee
+
+              VALUE  LABEL
+                  0  No answer
+                  1  They all do
+                  2  Most of them do
+                  3  Some of them do
+                  4  None of them do
+                  5  Does not know how they vote
+
+              Data type: numeric
+              Record/column: 1/38
+
+      v32                To what extent interviewee/friends can influence policy making
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/39
+
+      v33                To what extent votes affect policy
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/40
+
+      v34                Politicians take into consideration what the 'man in the street' thinks
+
+              VALUE  LABEL
+                  0  No answer
+                  1  They don't take it into consideration
+                  2  They do only to a small extent
+                  3  They do to a certain extent
+                  4  They do to a great extent
+
+              Data type: numeric
+              Record/column: 1/41
+
+      v35                To what extent interviewee interested in influencing policy
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/42
+
+      v36                A district electoral system will increase/decrease interviewee's ability to affect policy
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Increase to a great extent
+                  2  Increase to a certain extent
+                  3  Increase to a small extent
+                  4  Decrease to a small extent
+                  5  Decrease to a certain extent
+                  6  Decrease to a great extent
+                  7  It won't make a difference
+                  8  Does not know
+
+              Data type: numeric
+              Record/column: 1/43
+
+      v37                Main factor influencing interviewee's party choice
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Identification with the party
+                  2  The party's candidate
+                  3  Party's stand on specific issues
+                  4  Its being in government/in opposition
+
+              Data type: numeric
+              Record/column: 1/44
+
+      v39                It is important to give a new element the opportunity to try its strength in government to vote For the Likud
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/45
+
+      v40                The Likud has good leaders
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/46
+
+      v41                The Likud proposes a refreshing new leadership
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/47
+
+      v42                The Likud's policy will increase the chances for peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/48
+
+      v43                The Likud will know how to stand firmly during negotiations over peace and the territories
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/49
+
+      v44                The Likud will better handle the economic/social problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/50
+
+      v45                The Likud will be more effective in stopping corruption in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/51
+
+      v46                The Likud institutions are democratic
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/52
+
+      v47                The Alignment's leaders cannot be trusted
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/53
+
+      v48                The Likud is the least of all evils
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/54
+
+      v49                The Alignment's leaders have contributed to the corruption in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/55
+
+      v50                The Alignment and the DMC do not have a clear foreign and security policy
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/56
+
+      v51                The Likud will help interviewee get a better job or a promotion
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/57
+
+      v52                The Likud will help interviewee with personal problems such as, housing, getting help from government offices, etc.
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/58
+
+      v54                The Alignment has experience in government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/59
+
+      v55                The Alignment has good leaders
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/60
+
+      v56                The Alignment proposes a refreshing new leadership
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/61
+
+      v57                The Alignment's policy will increase the chances for peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/62
+
+      v58                The Alignment's flexibility on the subject of the territories may bring us peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/63
+
+      v59                The Alignment can better handle the economic/social problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/64
+
+      v60                The Alignment will be more effective in stopping the corruption in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/65
+
+      v61                The Alignment is for a change in the electoral system
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/66
+
+      v62                The Alignment is renewing itself and becoming more democratic
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/67
+
+      v63                The Alignment is the least of all evils
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/68
+
+      v64                Concern about the Likud's extremism
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/69
+
+      v65                The DMC is just like the Alignment, so why try something new
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/70
+
+      v66                The Likud and the DMC do not have experienced leaders
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/71
+
+      v67                The Alignment will help interviewee get a better job or a promotion
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/72
+
+      v68                The Alignment will help interviewee with personal problems such as housing, getting help from government offices, etc.
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/73
+
+      v70                It is important to let a new element try its strength in government for the DMC
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/74
+
+      v71                The DMC has good leaders
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/75
+
+      v72                The DMC offers a refreshing new leadership
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/76
+
+      v74                The DMC's policy will increase the chances for peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/82
+
+      v75                The DMC's policy on the occupied territories may bring peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/83
+
+      v76                The DMC can better handle the economic/social problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/84
+
+      v77                The DMC will be more effective in stopping corruption
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/85
+
+      v78                The DMC is for a change in the electoral system
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/86
+
+      v79                The DMC is a democratic movement
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/87
+
+      v80                The DMC is the least of all evils
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/88
+
+      v81                The Alignment and the Likud are all the same
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/89
+
+      v82                The DMC has the ability to bring real change to the country
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/90
+
+      v83                Alignment and Likud leaders have contributed to corruption in the country
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/91
+
+      v84                Neither the Likud or the Alignment can improve life in this country
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/92
+
+      v85                The DMC will help interviewee get a better job or promotion
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/93
+
+      v86                The DMC will help interviewee with personal problems such as, housing, getting help from government officies, etc.
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/94
+
+      v87                Interviewee will change vote if party he supports changes its position on an issue that seems important to him
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly will
+                  2  Thinks so
+                  3  Does not think so
+                  4  Certainly will not
+                  5  Will not vote at all
+                  6  Does not intend to vote anyway
+                  7  Does not support any specific party
+
+              Data type: numeric
+              Record/column: 1/95
+
+      v88                Interviewee will still vote for same party if the candidate he supports does not have a place or is not included in the party list
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly will
+                  2  Thinks so
+                  3  Thinks he will vote for another party
+                  4  Will certainly vote for another party
+                  5  Will not vote at all
+                  6  Does not intend to vote anyway
+                  7  Does not have a candidate
+                  8  Does not support any specific party
+
+              Data type: numeric
+              Record/column: 1/96
+
+      v90                The first of the two groups
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Young people
+                  2  Women
+                  3  Oriental Jews
+                  4  Intellectuals
+                  5  Workers
+                  6  Army people
+                  7  Businessmen
+                  8  New immigrants
+                  9  No group
+
+              Data type: numeric
+              Record/column: 1/99
+
+      v91                The second of the two groups
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Young people
+                  2  Women
+                  3  Oriental Jews
+                  4  Intellectuals
+                  5  Workers
+                  6  Army people
+                  7  Businessmen
+                  8  New immigrants
+                  9  No second group
+
+              Data type: numeric
+              Record/column: 1/100
+
+      v92                Some say if Mapam leaves the Alignment it will influence election results.results
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/101
+
+      v93                The competition inside the Labour Party strengthened or weakened the party
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Strengthened very much
+                  2  Strengthened it
+                  3  Strengthened a little
+                  4  Weakened a little
+                  5  Weakened it
+                  6  Weakened it very much
+                  7  Neither strengthened nor weakened
+                  8  Does not know
+
+              Data type: numeric
+              Record/column: 1/102
+
+      v94                The competition inside the Labour Party strengthened or weakened its democratic character
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Strengthened it very much
+                  2  Strengthened it
+                  3  Strengthened a little
+                  4  Weakened a little
+                  5  Weakened it
+                  6  Weakened it very much
+                  7  Neither strengthened nor weakened
+                  8  Does not know
+
+              Data type: numeric
+              Record/column: 1/103
+
+      v95                The Alignment's strongest competitor (interviewee opinion)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  DMC
+
+              Data type: numeric
+              Record/column: 1/104
+
+      v96                The government of Israel has to make sure that the public life of the country is in accordance with Jewish tradition
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  Interviewee thinks so
+                  3  Interviewee does not think so
+                  4  Certainly not
+                  5  Does not know
+
+              Data type: numeric
+              Record/column: 1/105
+
+      v97                Interviewee supports a more capitalistic or a more socialistic approach for the country's economic structure
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely capitalistic
+                  2  More capitalistic than socialistic
+                  3  More socialistic than capitalistic
+                  4  Asolutely socialistic
+                  5  Does not know
+
+              Data type: numeric
+              Record/column: 1/106
+
+      v98                To what extent election campaign will help interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/107
+
+      v99                Interviewee's preference for Prime Minister after the elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Itzhak Rabin
+                  2  Menachem Begin
+                  3  Shimon Peres
+                  4  Abba Eban
+                  5  Golda Meir
+                  6  Yigal Yadin
+                  7  Yigal Alon
+                  8  Arik Sharon
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/108
+
+      v100               To what extent interviewee is certain whom he will vote for in the coming elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/109
+
+      v101               The party interviewee thinks will form the next government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Meri
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Labor Party
+                 16  Mapam
+                 17  Other
+                 18  Does not know
+                 19  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/110-111
+
+      v102               Party interviewee would like to see form the next government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Meri
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Labor Party
+                 16  Mapam
+                 17  Other
+                 18  Has not decided yet
+                 19  Does not know
+                 20  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/112-113
+
+      v103               Interviewee is closer to which party's position on foreign and security affairs
+
+              VALUE  LABEL
+                  0  No answer
+                  1  The Alignment's
+                  2  The Likud's
+                  3  The Left's
+
+              Data type: numeric
+              Record/column: 1/114
+
+      v104               Political tendency interviewee identifies with
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Religious
+                  6  Does not identify with specific tendency
+
+              Data type: numeric
+              Record/column: 1/115
+
+      v105               Party interviewee voted for in 1973 elections
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Likud
+                 02  Independent Liberals
+                 03  Alignment
+                 04  Religious Front
+                 05  NRP
+                 06  Meri
+                 07  Moked
+                 08  Rakach
+                 09  Shulamit Aloni
+                 10  Israeli Democrats (Panthers)
+                 11  Other
+                 12  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/116-117
+
+      v106               Party interviewee voted for in the 1969 elections, 8 yrs ago
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignmet
+                  5  Poalei Agudat Israel
+                  6  NRP
+                  7  Agudat Israel
+                  8  HaOlam HaZeh
+                  9  Reshima Mamlachtit
+                 10  Israeli Communist Party
+                 11  Rakach
+                 12  Other
+                 13  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/118-119
+
+      v107               Party interviewee would vote for if elections held today For party codes, see codebook in file
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Meri
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Labor Party
+                 16  Mapam
+                 17  Other
+                 18  Will not vote for the Knesset
+                 19  Has not decided yet
+                 20  Does not know
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/120-121
+
+      v108               Interviewee would vote for Labour Party or Mapam if the Alignment were to split
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Mapam
+                  2  Labour Party
+                  3  Neither of them
+
+              Data type: numeric
+              Record/column: 1/122
+
+      v109               Interviewee is a member of the Histadrut
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/123
+
+      v110               Interviewee supports a specific party/is a member or office-holder in one of the parties
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Member and paid worker
+                  2  Member and voluntary worker
+                  3  Member only
+                  4  Supporter only
+                  5  Does not support any specific party
+
+              Data type: numeric
+              Record/column: 1/124
+
+      v111               Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/125
+
+      v112               Education
+
+              VALUE  LABEL
+                  1  No schooling
+                  2  Up to 4 years
+                  3  5-8
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+, without University degree
+                  8  Full University education
+
+              Data type: numeric
+              Record/column: 1/126
+
+      v113               Number of rooms in dwelling
+
+              VALUE  LABEL
+                  1  One room
+                  2  2 rooms
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/127
+
+      v114               Number of persons in household
+
+              VALUE  LABEL
+                  1  One person
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/128
+
+      v115               Interviewee's gross monthly income
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to 999 IL/month
+                  2  1000-1499
+                  3  1500-1999
+                  4  2000-2499
+                  5  2500-2999
+                  6  3000-3499
+                  7  3500-3999
+                  8  4000-4999
+                  9  5000+
+
+              Data type: numeric
+              Record/column: 1/129
+
+      v116               Age
+
+              Data type: numeric
+              Record/columns: 1/130-131
+
+      v117               Gross monthly income of entire household
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to 999 IL/month
+                  2  1000-1499
+                  3  1500-1999
+                  4  2000-2499
+                  5  2500-2999
+                  6  3000-3499
+                  7  3500-3999
+                  8  4000-4999
+                  9  5000+
+
+              Data type: numeric
+              Record/column: 1/132
+
+      v118               Interviewee's social class
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Upper or upper middle class
+                  2  Middle class
+                  3  Working class
+                  4  Lower class
+                  5  Does not belong to any class
+
+              Data type: numeric
+              Record/column: 1/133
+
+      v119               Marital status
+
+              VALUE  LABEL
+                  1  Single
+                  2  Married without children
+                  3  Married with one child
+                  4  Married with 2 children
+                  5  Married with 3+ children
+                  6  Divorced without children
+                  7  Divorced with children
+                  8  Widowed without children
+                  9  Widowed with children
+
+              Data type: numeric
+              Record/column: 1/134
+
+      v120               Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Observes them thoroughly
+                  2  To a great extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/135
+
+      v121               Interviewee works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Works as a salaried worker
+                  2  Independent
+                  3  Unemployed
+
+              Data type: numeric
+              Record/column: 1/136
+
+      v122               Spouse works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Salaried worker
+                  2  Independent
+                  3  Unemployed
+                  4  Does not have a spouse
+
+              Data type: numeric
+              Record/column: 1/137
+
+      v123               Place of birth: interviewee/interviewee's father
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/138
+
+      v124               Year of Aliya (immigration)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Israeli born
+                  2  Before 1930
+                  3  1931-1940
+                  4  1941-1947
+                  5  1948-1954
+                  6  1955-1960
+                  7  1961-1964
+                  8  1965-1967
+                  9  1968+
+
+              Data type: numeric
+              Record/column: 1/139
+
+      v125               Interviewee has a phone at home
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/140
+     

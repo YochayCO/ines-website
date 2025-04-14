@@ -1,0 +1,1879 @@
+
+                                                           CODEBOOK
+
+
+                                                   Election Study 1981, first phase
+
+                                                           CONTENTS
+
+      v1                 Identity number
+      v2                 General situation in Israel today
+      v3                 Way government handles the problems in Israel today
+      v4                 The main problem the government
+      v5                 Differences in party stands on this issue
+      v6                 Party that will best handle this issue
+      v7                 To what extent Israel should be
+      v8                 Maximum Israel has to give up in Judea and
+      v9                 Differences in party stands on
+      v10                To what extent giving back territories will
+      v11                Party best representing interviewee stand
+      v12                Way government handles Israel's economic problems
+      v13                To what extent inflation issue will
+      v14                To what extent inflation issue will vote
+      v15                Differences in party stands on economic issues
+      v16                Party best representing interviewee's
+      v17                Interviewee usually participates
+      v18                Interviewee usually participates in
+      v19                Interviewee discusses political issues
+      v20                To what extent the election campaign will help the
+      v21                To what extent radio broadcasts will help
+      v22                To what extent the press will help interviewee decide whom to vote for
+      v23                To what extent television broadcasts will help interviewee decide whom to vote for
+
+****    GRADED SCALE RATING LIFE AS BEST (10) TO WORST (1)
+
+      v25                Interviewee's situation today
+      v26                Interviewee's situation four years ago
+      v27                Interviewee's situation in another four years
+
+****    GRADED SCALE RATING THE NATION'S SECURITY AS BEST (10) TO WORST (1)
+
+      v29                The nation's security today
+      v30                The nation's security four years ago
+      v31                The nation's security in another four years
+
+****    GRADED SCALE RATING THE NATION'S ECONOMIC SITUATION AS BEST (10) TO WORST (1)
+
+      v33                The nation's economic situation
+      v34                The nation's economic situation four years ago
+      v35                The nation's economic situation in another four years
+      v36                Main reason for watching election broadcasts on television
+      v37                Main reason for not watching election broadcasts on T.V.
+      v38                Main factor influencing interviewee's decision to vote for a specific party
+
+****    ARGUMENTS CONVINCING ENOUGH TO VOTE FOR THE LIKUD
+
+      v40                For Likud four years not enough to build up what the Alignment destroyed in 30 years
+      v41                The Likud has good leaders
+      v42                The Likud's policy will increase the chances for peace
+      v43                The Likud will know how to stand firmly during negotiations for peace and the territories
+      v44                The Likud will better handle the economic/social problems
+      v45                The Alignment's leaders cannot be trusted
+      v46                The Likud is the least of all evils
+      v47                The Alignment got the nation in a bad state and they should not be allowed to return to power
+      v48                The Alignment and Moshe Dayan's party do not have defined foreign and security policies
+      v49                The Alignment's Jordanian Option and Dayan's beliefs will bring about the establishment of a Palestinian State
+
+****    ARGUMENTS CONVINCING ENOUGH TO VOTE FOR THE ALIGNMENT
+
+      v51                The Alignment has experience in government
+      v52                The Alignment has good leaders
+      v53                The Alignment proposes new leaders and good ideas for solving the nation's problems
+      v54                The Alignment's policy will increase the chances for peace
+      v55                The Alignment can better handle the economic and social problems
+      v56                The Alignment is renewing itself and can again be trusted
+      v57                The Alignment is the least of all evils
+      v58                After Yigal Yadin's party,there is no reason to vote for new parties
+      v59                The Likud does not have good leaders
+      v60                Begin's autonomy plan and Dayan's beliefs will cause the establishment of a Palestinian state
+
+****    REASONS CONVINCING ENOUGH TO VOTE FOR MOSHE DAYAN'S PARTY
+
+      v62                Dayan proposes a strong leadership
+      v63                Dayan's policy will increase the chances for peace
+      v64                Dayan's party will better handle the economic/social problems
+      v65                Dayan's party is the least of all evils
+      v66                The Alignment and the Likud are all the same
+      v67                Dayan can bring about real change in the nation
+      v68                The Alignment and Likud leaders have proven incompetent leadership
+      v69                Begin's Autonomy plan and the Alignment's Jordanian option will cause the establishment of a Palestinian State
+      v70                To what extent interviewee and friends can influence government policy
+      v71                To what extent the elections influence government policy
+      v72                Some say a number of strong leaders will help the nation more than debates and laws
+      v73                Political tendency interviewee identifies with
+
+****    CHARACTERIZATION OF SHIMON PERES, GRADED SCALE 1-6
+
+      v75                Shimon Peres
+      v76                Shimon Peres
+      v77                Shimon Peres
+      v78                Shimon Peres
+      v79                Shimon Peres
+
+****    CHARACTERIZATION OF MENACHEM BEGIN, GRADED SCALE 1-6
+      v81                Menachem Begin
+      v82                Menachem Begin
+      v83                Menachem Begin
+      v84                Menachem Begin
+      v85                Menachem Begin
+
+****    CHARACTERIZATION OF MOSHE DAYAN, GRADED SCALE 1-6
+
+      v87                Moshe Dayan
+      v88                Moshe Dayan
+      v89                Moshe Dayan
+      v90                Moshe Dayan
+      v91                Moshe Dayan
+      v92                Politicians take into consideration what the man in the street thinks
+      v93                Interviewee's family votes as he votes
+      v94                Interviewee's friends votes as he votes
+      v95                The first of two groups interviewee would like to have larger representation in party he intends to votes for
+      v96                The second group
+      v97                To what extent Aridor's economic policy will successfully improve the nation's economic situation
+      v98                If the Likud stays in power, the chances Aridor's economic policy will continue
+      v99                The social strata Aridor's economic policy helps most
+      v100               To what extent Aridor's policy helps interviewee's personal economic status
+      v101               Interviewee bought recently/plans to buy car, colour TV,home furniture/elec. appliances reduced in price due to treasury policy
+      v102               Party that says it is strong and capable or one that warns voters of hard times is more attractive to interviewee
+      v103               The government should be run by a party with an absolute majority (more than 60%) / an absolute majority endangers democracy
+      v104               Interviewee's preference for Prime Minister
+      v105               To what extent interviewee supports/opposes the establishment of a Palestinian state
+      v106               Interviewee supports status quo in religious affairs,further application of Halacha or liberalization
+      v107               Dayan is too old and made too many mistakes/Dayan has good ideas and is the type of leader Israel needs
+      v108               To what extent interviewee wants to see N.R.P. in the next government
+      v109               To what extent Likud has proven it is able to replace the Alignment in government
+      v110               To what extent interviewee is sure whom he will vote for
+      v111               Interviewee will vote in support of a specific party or use his vote to protest against a different party
+      v112               The Alignment's most serious rival
+      v113               The government should make sure that public life in Israel is in accordance with religious Jewish tradition
+      v114               Interviewee supports socialistic/capitalistic approach to the economic structure of the nation
+      v115               Interviewee is closer to Alignment's or Likud's policy on economic affairs
+      v116               Interviewee is politically right or left
+      v117               Interviewee's views on security and foreign affairs
+      v118               Interviewee's views on economic problems
+      v119               Interviewee will vote as he usually votes in the coming elections
+      v120               Party interviewee would like to see form next government
+      v121               Interviewee's estimation which party will form next government
+      v122               Party interviewee would vote for if elections held today
+      v123               Parties between which interviewee is debating
+      v124               Party interviewee would vote for if Moshe Dayan were to establish an independent party
+      v125               Party interviewee would vote for if Alignment were to get a large majority in Histadrut elections
+      v126               Party interviewee voted for in last Knesset elections(May 1977)
+      v127               Party interviewee voted for in 1973 elections
+      v128               Agrees/disagrees that the Histadrut owns factories as well as representing the workers
+      v129               To what extent Histadrut elections will influence interviewee's vote in Knesset elections
+      v130               Interviewee is member of General Workers Histadrut (Clalit)
+      v131               Party interviewee would vote for if Histadrut elections held today (for Histadrut members only)
+      v132               Interviewee will vote for same party in Histadrut and Knesset elections
+      v133               Party interviewee voted for in last Histadrut elections(June 1977)
+      v134               Age
+      v135               Sex
+      v136               Years of schooling
+      v137               Place of birth/father's place of birth
+      v138               Year of Aliyah (immigration)
+      v139               Status at work
+      v140               Spouse's status at work
+      v141               Social class
+      v142               Marital status
+      v143               Observes religious traditions
+      v144               Number of rooms in dwelling
+      v145               Number of persons in household
+      v146               Interviewee usually reads daily newspaper
+      v147               Interviewee usually reads daily newspaper
+      v148               Interviewee usually reads daily newspaper
+      v149               Radio station interviewee usually listens to
+      v150               Average monthly household expenditure
+      v151               Interview locality
+      v152               Statistical area
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      v2                 General situation in Israel today
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  Good enough
+                  4  Not good
+                  5  Not good at all
+
+              Data type: numeric
+              Record/column: 1/5
+
+      v3                 Way government handles the problems in Israel today
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Not so well
+                  4  Not well at all
+
+              Data type: numeric
+              Record/column: 1/6
+
+      v4                 The main problem the government
+
+              VALUE  LABEL
+                  0  Other
+                  1  Security
+                  2  Economy
+                  3  Social inequality
+                  4  Peace
+                  5  Young couples
+                  6  Inflation
+                  7  Immigrants absorption
+                  8  Education
+                  9  Lack of leadership
+
+              Data type: numeric
+              Record/column: 1/7
+
+      v5                 Differences in party stands on this issue
+
+              VALUE  LABEL
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences in party stands
+
+              Data type: numeric
+              Record/column: 1/8
+
+      v6                 Party that will best handle this issue
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan
+                  4  National Religious Party
+                  5  Agudat Yisrael/A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  Does not know
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/9
+
+      v7                 To what extent Israel should be
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  To a small extent
+                  3  To a certain extent
+                  4  To a great extent
+
+              Data type: numeric
+              Record/column: 1/10
+
+      v8                 Maximum Israel has to give up in Judea and
+
+              VALUE  LABEL
+                  1  Nothing at all
+                  2  A small part
+                  3  Part of Judea and Samaria
+                  4  Almost all of it
+                  5  All of Judea and Samaria
+
+              Data type: numeric
+              Record/column: 1/11
+
+      v9                 Differences in party stands on
+
+              VALUE  LABEL
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences
+
+              Data type: numeric
+              Record/column: 1/12
+
+      v10                To what extent giving back territories will
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/13
+
+      v11                Party best representing interviewee stand
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan
+                  4  National Religious Party
+                  5  Agudat Yisrael/A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  Does not know
+                  -  Other Party
+
+              Data type: character
+              Record/column: 1/15
+
+      v12                Way government handles Israel's economic problems
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Well enough
+                  4  Not so well
+                  5  Not well at all
+
+              Data type: numeric
+              Record/column: 1/16
+
+      v13                To what extent inflation issue will
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/17
+
+      v14                To what extent inflation issue will vote
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/18
+
+      v15                Differences in party stands on economic issues
+
+              VALUE  LABEL
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences
+
+              Data type: numeric
+              Record/column: 1/19
+
+      v16                Party best representing interviewee's
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan
+                  4  National Religious Party
+                  5  Agudat Yisrael/A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  Unknown
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/20
+
+      v17                Interviewee usually participates
+
+              VALUE  LABEL
+                  1  Yes, often
+                  2  Yes, rarely
+                  3  No, never
+
+              Data type: numeric
+              Record/column: 1/21
+
+      v18                Interviewee usually participates in
+
+              VALUE  LABEL
+                  1  Yes, often
+                  2  Yes, rarely
+                  3  No, never
+
+              Data type: numeric
+              Record/column: 1/22
+
+      v19                Interviewee discusses political issues
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/23
+
+      v20                To what extent the election campaign will help the
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/24
+
+      v21                To what extent radio broadcasts will help
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/25
+
+      v22                To what extent the press will help interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/26
+
+      v23                To what extent television broadcasts will help interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/27
+
+      v25                Interviewee's situation today
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/28
+
+      v26                Interviewee's situation four years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/29
+
+      v27                Interviewee's situation in another four years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/30
+
+      v29                The nation's security today
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/31
+
+      v30                The nation's security four years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/32
+
+      v31                The nation's security in another four years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/33
+
+      v33                The nation's economic situation
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/34
+
+      v34                The nation's economic situation four years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/35
+
+      v35                The nation's economic situation in another four years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/36
+
+      v36                Main reason for watching election broadcasts on television
+
+              VALUE  LABEL
+                  0  Other
+                  1  To hear background material for debates
+                  2  To get to know the political leaders
+                  3  To know the parties leaders
+                  4  To decide whom to vote for
+                  5  To retry favoured party's position
+                  6  To evaluate the success of the parties
+                  7  To update general political situation
+                  8  Enjoys political debate
+                  9  The only broadcast on TV at the time
+                  -  Does not know
+
+              Data type: character
+              Record/column: 1/37
+
+      v37                Main reason for not watching election broadcasts on T.V.
+
+              VALUE  LABEL
+                  0  Other
+                  1  Not interested in politics
+                  2  Prefers entertainment on T.V.
+                  3  Does not believe in party platforms
+                  4  Some parties take audience for granted
+                  5  Already decided whom to vote for
+                  6  Often not clear what parties are saying
+                  7  Dislikes political propaganda in home
+                  8  The parties have nothing new to say
+                  9  Does not like politicians
+                  -  Does not know
+
+              Data type: character
+              Record/column: 1/38
+
+      v38                Main factor influencing interviewee's decision to vote for a specific party
+
+              VALUE  LABEL
+                  1  Identifies with a specific party
+                  2  The party's candidate
+                  3  Party stands on specific issues
+                  4  Chances party will head government
+
+              Data type: numeric
+              Record/column: 1/39
+
+      v40                For Likud 4our years not enough to build up what the Alignment destroyed in 30 years
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/40
+
+      v41                The Likud has good leaders
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/41
+
+      v42                The Likud's policy will increase the chances for peace
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/42
+
+      v43                The Likud will know how to stand firmly during negotiations for peace and the territories
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/43
+
+      v44                The Likud will better handle the economic/social problems
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/44
+
+      v45                The Alignment's leaders cannot be trusted
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/45
+
+      v46                The Likud is the least of all evils
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/46
+
+      v47                The Alignment got the nation in a bad state and they should not be allowed to return to power
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/47
+
+      v48                The Alignment and Moshe Dayan's party do not have defined foreign and security policies
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/48
+
+      v49                The Alignment's Jordanian Option and Dayan's beliefs will bring about the establishment of a Palestinian State
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/49
+
+      v51                The Alignment has experience in government
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/50
+
+      v52                The Alignment has good leaders
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/51
+
+      v53                The Alignment proposes new leaders and good ideas for solving the nation's problems
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/52
+
+      v54                The Alignment's policy will increase the chances for peace
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/53
+
+      v55                The Alignment can better handle the economic and social problems
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/54
+
+      v56                The Alignment is renewing itself and can again be trusted
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/55
+
+      v57                The Alignment is the least of all evils
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/56
+
+      v58                After Yigal Yadin's party,there is no reason to vote for new parties
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/57
+
+      v59                The Likud does not have good leaders
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/58
+
+      v60                Begin's autonomy plan and Dayan's beliefs will cause the establishment of a Palestinian state
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/59
+
+      v62                Dayan proposes a strong leadership
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/60
+
+      v63                Dayan's policy will increase the chances for peace
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/61
+
+      v64                Dayan's party will better handle the economic/social problems
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/62
+
+      v65                Dayan's party is the least of all evils
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/63
+
+      v66                The Alignment and the Likud are all the same
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/64
+
+      v67                Dayan can bring about real change in the nation
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/65
+
+      v68                The Alignment and Likud leaders have proven incompetent leadership
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/66
+
+      v69                Begin's Autonomy plan and the Alignment's Jordanian option will cause the establishment of a Palestinian State
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/67
+
+      v70                To what extent interviewee and friends can influence government policy
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/68
+
+      v71                To what extent the elections influence government policy
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/69
+
+      v72                Some say a number of strong leaders will help the nation more than debates and laws
+
+              VALUE  LABEL
+                  1  Absolutely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutly disagrees
+
+              Data type: numeric
+              Record/column: 1/70
+
+      v73                Political tendency interviewee identifies with
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious
+
+              Data type: numeric
+              Record/column: 1/71
+
+      v75                Shimon Peres
+
+              VALUE  LABEL
+                  1  Strong
+                  6  Weak
+
+              Data type: numeric
+              Record/column: 1/72
+
+      v76                Shimon Peres
+
+              VALUE  LABEL
+                  1  Can work with others
+                  6  Cannot work with others
+
+              Data type: numeric
+              Record/column: 1/73
+
+      v77                Shimon Peres
+
+              VALUE  LABEL
+                  1  Honest
+                  6  Dishonest
+
+              Data type: numeric
+              Record/column: 1/74
+
+      v78                Shimon Peres
+
+              VALUE  LABEL
+                  1  Decisive
+                  6  Indecisive
+
+              Data type: numeric
+              Record/column: 1/75
+
+      v79                Shimon Peres
+
+              VALUE  LABEL
+                  1  Can withstand pressure
+                  6  Cannot withstand pressure
+
+              Data type: numeric
+              Record/column: 1/76
+
+      v81                Menachem Begin
+
+              VALUE  LABEL
+                  1  Strong
+                  6  Weak
+
+              Data type: numeric
+              Record/column: 1/82
+
+      v82                Menachem Begin
+
+              VALUE  LABEL
+                  1  Can work with others
+                  6  Cannot work with others
+
+              Data type: numeric
+              Record/column: 1/83
+
+      v83                Menachem Begin
+
+              VALUE  LABEL
+                  1  Honest
+                  6  Dishonest
+
+              Data type: numeric
+              Record/column: 1/84
+
+      v84                Menachem Begin
+
+              VALUE  LABEL
+                  1  Decisive
+                  6  Indecisive
+
+              Data type: numeric
+              Record/column: 1/85
+
+      v85                Menachem Begin
+
+              VALUE  LABEL
+                  1  Can withstand pressure
+                  6  Cannot withstand pressure
+
+              Data type: numeric
+              Record/column: 1/86
+
+      v87                Moshe Dayan
+
+              VALUE  LABEL
+                  1  Strong
+                  6  Weak
+
+              Data type: numeric
+              Record/column: 1/87
+
+      v88                Moshe Dayan
+
+              VALUE  LABEL
+                  1  Can work with others
+                  6  Cannot work with others
+
+              Data type: numeric
+              Record/column: 1/88
+
+      v89                Moshe Dayan
+
+              VALUE  LABEL
+                  1  Honest
+                  6  Dishonest
+
+              Data type: numeric
+              Record/column: 1/89
+
+      v90                Moshe Dayan
+
+              VALUE  LABEL
+                  1  Decisive
+                  6  Indecisive
+
+              Data type: numeric
+              Record/column: 1/90
+
+      v91                Moshe Dayan
+
+              VALUE  LABEL
+                  1  Can withstand pressure
+                  6  Cannot withstand pressure
+
+              Data type: numeric
+              Record/column: 1/91
+
+      v92                Politicians take into consideration what the man in the street thinks
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  To a small extent
+                  3  To a certain extent
+                  4  To a great extent
+
+              Data type: numeric
+              Record/column: 1/92
+
+      v93                Interviewee's family votes as he votes
+
+              VALUE  LABEL
+                  1  Everyone votes as he votes
+                  2  Most do
+                  3  Some do
+                  4  None do
+                  5  Does not know how family votes
+
+              Data type: numeric
+              Record/column: 1/93
+
+      v94                Interviewee's friends votes as he votes
+
+              VALUE  LABEL
+                  1  Everyone votes as he votes
+                  2  Most do
+                  3  Some do
+                  4  None do
+                  5  Does not know how friends vote
+
+              Data type: numeric
+              Record/column: 1/94
+
+      v95                The first of two groups interviewee would like to have larger representation in party he intends to votes for
+
+              VALUE  LABEL
+                  1  Young people
+                  2  Women
+                  3  Oriental jews
+                  4  Intellectuals
+                  5  Workers
+                  6  Army people
+                  7  Business men
+                  8  New immigrants
+                  9  No group
+
+              Data type: numeric
+              Record/column: 1/95
+
+      v96                The second group
+
+              VALUE  LABEL
+                  1  Young people
+                  2  Women
+                  3  Oriental jews
+                  4  Intellectuals
+                  5  Workers
+                  6  Army people
+                  7  Business men
+                  8  New immigrants
+                  9  No group
+
+              Data type: numeric
+              Record/column: 1/96
+
+      v97                To what extent Aridor's economic policy will successfully improve the nation's economic situation
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  Not so successful
+                  3  Somewhat successful
+                  4  Greatly successful
+
+              Data type: numeric
+              Record/column: 1/97
+
+      v98                If the Likud stays in power, the chances Aridor's economic policy will continue
+
+              VALUE  LABEL
+                  1  Very possible
+                  2  Slightly possible
+                  3  Not possible
+                  4  No chance at all
+
+              Data type: numeric
+              Record/column: 1/98
+
+      v99                The social strata Aridor's economic policy helps most
+
+              VALUE  LABEL
+                  1  Mainly lower social strata
+                  2  Mainly middle social strata
+                  3  Mainly rich social strata
+                  4  All of the nation's citizens
+
+              Data type: numeric
+              Record/column: 1/99
+
+      v100               To what extent Aridor's policy helps interviewee's personal economic status
+
+              VALUE  LABEL
+                  1  Improves it greatly
+                  2  Improves it to a certain extent
+                  3  Does not really improve it
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/100
+
+      v101               Interviewee bought recently/plans to buy car, colour TV,home furniture/elec. appliances reduced in price due to treasury policy
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Does not know/undecided
+
+              Data type: numeric
+              Record/column: 1/101
+
+      v102               Party that says it is strong and capable or one that warns voters of hard times is more attractive to interviewee
+
+              VALUE  LABEL
+                  1  A strong party is most attractive
+                  2  Strong party more or less attractive
+                  3  Cautious party more or less attractive
+                  4  A cautious party is most attractive
+
+              Data type: numeric
+              Record/column: 1/102
+
+      v103               The government should be run by a party with an absolute majority (more than 60%) / an absolute majority endangers democracy
+
+              VALUE  LABEL
+                  1  Govt. certainly needs absolute majority
+                  2  Govt. may need absolute majority
+                  3  Abs. majority may endanger democracy
+                  4  Abs. majority certainly endangers democ.
+
+              Data type: numeric
+              Record/column: 1/103
+
+      v104               Interviewee's preference for Prime Minister
+
+              VALUE  LABEL
+                  1  Yitzhak Rabin
+                  2  Menachem Begin
+                  3  Shimon Peres
+                  4  Moshe Dayan
+                  5  Yitzhak Shamir
+                  6  Ezer Weizman
+                  7  David Levy
+                  8  Arik Sharon
+
+              Data type: numeric
+              Record/column: 1/104
+
+      v105               To what extent interviewee supports/opposes the establishment of a Palestinian state
+
+              VALUE  LABEL
+                  1  Absolutely opposes
+                  2  Opposes to a certain extent
+                  3  Supports to a certain extent
+                  4  Absolutely supports
+
+              Data type: numeric
+              Record/column: 1/105
+
+      v106               Interviewee supports status quo in religious affairs,further application of Halacha or liberalization
+
+              VALUE  LABEL
+                  1  Further application of the Halacha
+                  2  The status quo
+                  3  Further liberalization
+                  4  Has no opinion
+
+              Data type: numeric
+              Record/column: 1/106
+
+      v107               Dayan is too old and made too many mistakes/Dayan has good ideas and is the type of leader Israel needs
+
+              VALUE  LABEL
+                  1  Certain he is too old and made mistakes
+                  2  Thinks he is too old and made mistakes
+                  3  Thinks he is type of leader Israel needs
+                  4  Certain he is leader Israel needs
+
+              Data type: numeric
+              Record/column: 1/107
+
+      v108               To what extent interviewee wants to see N.R.P. in the next government
+
+              VALUE  LABEL
+                  1  Certainly not
+                  2  Not really
+                  3  To a certain extent
+                  4  Absolutely
+
+              Data type: numeric
+              Record/column: 1/108
+
+      v109               To what extent Likud has proven it is able to replace the Alignment in government
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/109
+
+      v110               To what extent interviewee is sure whom he will vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extet
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/110
+
+      v111               Interviewee will vote in support of a specific party or use his vote to protest against a different party
+
+              VALUE  LABEL
+                  1  Will vote for a specific party
+                  2  Will vote against a different party
+                  3  Will use his vote for both purposes
+                  4  Does not know/did not think of this
+
+              Data type: numeric
+              Record/column: 1/111
+
+      v112               The Alignment's most serious rival
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Moshe Dayan's party
+
+              Data type: numeric
+              Record/column: 1/112
+
+      v113               The government should make sure that public life in Israel is in accordance with religious Jewish tradition
+
+              VALUE  LABEL
+                  1  Certainly
+                  2  Maybe
+                  3  Does not think so
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 1/113
+
+      v114               Interviewee supports socialistic/capitalistic approach to the economic structure of the nation
+
+              VALUE  LABEL
+                  1  Certainly capitalistic
+                  2  More capitalistic than socialistic
+                  3  More socialistic than capitalistic
+                  4  Certainly socialistic
+
+              Data type: numeric
+              Record/column: 1/114
+
+      v115               Interviewee is closer to Alignment's or Likud's policy on economic affairs
+
+              VALUE  LABEL
+                  1  Alignment's
+                  2  Likud's
+                  3  Other party's position
+
+              Data type: numeric
+              Record/column: 1/115
+
+      v116               Interviewee is politically right or left
+
+              VALUE  LABEL
+                  1  Extreme right
+                  7  Extreme left
+
+              Data type: numeric
+              Record/column: 1/117
+
+      v117               Interviewee's views on security and foreign affairs
+
+              VALUE  LABEL
+                  1  Extreme right
+                  7  Extreme left
+
+              Data type: numeric
+              Record/column: 1/118
+
+      v118               Interviewee's views on economic problems
+
+              VALUE  LABEL
+                  1  Extreme right
+                  7  Extreme left
+
+              Data type: numeric
+              Record/column: 1/119
+
+      v119               Interviewee will vote as he usually votes in the coming elections
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Did not vote before
+
+              Data type: numeric
+              Record/column: 1/120
+
+      v120               Party interviewee would like to see form next government
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan's party
+                  4  N.R.P.
+                  5  Agudat Yisrael, A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  No opinion
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/121
+
+      v121               Interviewee's estimation which party will form next government
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan's party
+                  4  N.R.P.
+                  5  Agudat Yisrael, A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  No opinion
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/122
+
+      v122               Party interviewee would vote for if elections held today
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan's party
+                  4  N.R.P.
+                  5  Agudat Yisrael, A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Sheli
+                  8  Tehiya
+                  9  Israel Workers Party (Rafi)
+                  &  Undecided/would not vote
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/123
+
+      v123               Parties between which interviewee is debating
+
+              VALUE  LABEL
+                  1  Alignment and Likud
+                  2  Alignment and Rafi
+                  3  Likud and Rafi
+                  4  Alignment and other party
+                  5  Likud and other party
+                  6  Waiting for further developments
+                  7  Not debating between two parties
+
+              Data type: numeric
+              Record/column: 1/124
+
+      v124               Party interviewee would vote for if Moshe Dayan were to establish an independent party
+
+              VALUE  LABEL
+                  0  Rafi
+                  1  Alignmet
+                  2  Likud
+                  3  N.R.P.
+                  4  Agudat Yisrael, A.Y. Workers
+                  5  Moshe Dayan's new party
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  Undecided/would not vote
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/125
+
+      v125               Party interviewee would vote for if Alignment were to get a large majority in Histadrut elections
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  N.R.P.
+                  4  Agudat Yisrael, A.Y. Workers
+                  5  Shulamit Aloni
+                  6  Shinui
+                  7  Sheli
+                  8  Tehiya
+                  9  Rafi
+                  &  Undecided, would not vote
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/126
+
+      v126               Party interviewee voted for in last Knesset elections(May 1977)
+
+              VALUE  LABEL
+                  0  Other
+                  1  Alignment
+                  2  Likud
+                  3  N.R.P.
+                  4  Agudat Yisrael, A.Y. Workers
+                  5  Party for Democratic Change
+                  6  Sheli
+                  7  Shulamit Aloni
+                  8  Independent Liberals
+                  9  Rakach, Hadash
+                  &  Unknown
+                  -  Did not vote
+
+              Data type: character
+              Record/column: 1/127
+
+      v127               Party interviewee voted for in 1973 elections
+
+              VALUE  LABEL
+                  0  Did not vote
+                  1  Alignment
+                  2  Likud
+                  3  N.R.P.
+                  4  Agudat Yisrael, A.Y. Workers
+                  5  Independent Liberals
+                  6  Moked
+                  7  Shulamit Aloni
+                  8  Rakach
+                  9  Other party
+
+              Data type: numeric
+              Record/column: 1/128
+
+      v128               Agrees/disagrees that the Histadrut owns factories as well as representing the workers
+
+              VALUE  LABEL
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Does not really agree
+                  4  Certainly disagrees
+
+              Data type: numeric
+              Record/column: 1/129
+
+      v129               To what extent Histadrut elections will influence interviewee's vote in Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extet
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/130
+
+      v130               Interviewee is member of General Workers Histadrut (Clalit)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/131
+
+      v131               Party interviewee would vote for if Histadrut elections held today (for Histadrut members only)
+
+              VALUE  LABEL
+                  0  Other
+                  1  Alignment
+                  2  Religious Worker
+                  3  Likud/Shlomzion
+                  4  Independent Liberals
+                  5  Party for Democratic Change
+                  6  Shai
+                  7  Panthers
+                  8  Sheli
+                  9  Rakach
+                  &  Would not vote
+                  -  Undecided
+
+              Data type: character
+              Record/column: 1/132
+
+      v132               Interviewee will vote for same party in Histadrut and Knesset elections
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Undecided
+                  4  Will not vote
+
+              Data type: numeric
+              Record/column: 1/133
+
+      v133               Party interviewee voted for in last Histadrut elections(June 1977)
+
+              VALUE  LABEL
+                  0  Other party
+                  1  Alignment
+                  2  Religious workers
+                  3  Likud/Shlomzion
+                  4  Independent Liberals
+                  5  Party for Democratic Change
+                  6  Shai
+                  7  Panthers
+                  8  Sheli
+                  9  Rakach
+                  &  Unknown
+                  -  Did not vote
+
+              Data type: character
+              Record/column: 1/134
+
+      v134               Age
+
+              Data type: numeric
+              Record/columns: 1/135-136
+
+      v135               Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/137
+
+      v136               Years of schooling
+
+              VALUE  LABEL
+                  1  Did not study
+                  2  Up to 4 years
+                  3  5-8
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+, without academic degree
+                  8  University degree
+
+              Data type: numeric
+              Record/column: 1/138
+
+      v137               Place of birth/father's place of birth
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/139
+
+      v138               Year of Aliyah (immigration)
+
+              VALUE  LABEL
+                  0  1980+
+                  1  Born in Israel
+                  2  Before 1948
+                  3  1948-1954
+                  4  1955-1960
+                  5  1961-1966
+                  6  1967-1972
+                  7  1973-1977
+                  8  1978-1978
+
+              Data type: numeric
+              Record/column: 1/140
+
+      v139               Status at work
+
+              VALUE  LABEL
+                  1  Salaried worker
+                  2  Independent
+                  3  Member of cooperative
+                  4  Pensioned
+                  5  Housewife
+                  6  Soldier, student
+                  7  Unemployed
+
+              Data type: numeric
+              Record/column: 1/141
+
+      v140               Spouse's status at work
+
+              VALUE  LABEL
+                  1  Salaried worker
+                  2  Independent
+                  3  Member of cooperative
+                  4  Pensioned
+                  5  Housewife
+                  6  Soldier, student
+                  7  Unemployed
+
+              Data type: numeric
+              Record/column: 1/142
+
+      v141               Social class
+
+              VALUE  LABEL
+                  1  Upper, upper-middle class
+                  2  Middle class
+                  3  Working class
+                  4  Lower class
+                  5  Does not belong to any class
+
+              Data type: numeric
+              Record/column: 1/143
+
+      v142               Marital status
+
+              VALUE  LABEL
+                  1  Single
+                  2  Married without children
+                  3  Married with one child
+                  4  Married with 2 children
+                  5  Married with 3+ children
+                  6  Divorced without children
+                  7  Divorced with children
+                  8  Widowed without children
+                  9  Widowed with children
+
+              Data type: numeric
+              Record/column: 1/144
+
+      v143               Observes religious traditions
+
+              VALUE  LABEL
+                  1  Observes them strictly
+                  2  To a great extent
+                  3  To some extent
+                  4  Secular
+
+              Data type: numeric
+              Record/column: 1/145
+
+      v144               Number of rooms in dwelling
+
+              VALUE  LABEL
+                  1  One room
+                  2  2 rooms
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/146
+
+      v145               Number of persons in household
+
+              VALUE  LABEL
+                  1  One person
+                  2  2 people
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/147
+
+      v146               Interviewee usually reads daily newspaper
+
+              VALUE  LABEL
+                  1  Ma'ariv
+                  2  Yedioth Aharonoth
+                  3  Ha'Aretz
+                  4  Davar
+                  5  Other Hebrew newspaper
+                  6  Foreign language newspaper
+                  7  Does not read daily newspaper
+
+              Data type: numeric
+              Record/column: 1/148
+
+      v147               Interviewee usually reads daily newspaper
+
+              VALUE  LABEL
+                  1  Ma'ariv
+                  2  Yedioth Aharonoth
+                  3  Ha'Aretz
+                  4  Davar
+                  5  Other Hebrew newspaper
+                  6  Foreign language newspaper
+                  7  Does not read daily newspaper
+
+              Data type: numeric
+              Record/column: 1/149
+
+      v148               Interviewee usually reads daily newspaper
+
+              VALUE  LABEL
+                  1  Ma'ariv
+                  2  Yedioth Aharonoth
+                  3  Ha'Aretz
+                  4  Davar
+                  5  Other Hebrew newspaper
+                  6  Foreign language newspaper
+                  7  Does not read daily newspaper
+
+              Data type: numeric
+              Record/column: 1/150
+
+      v149               Radio station interviewee usually listens to
+
+              VALUE  LABEL
+                  1  The light wave (HaGal HaKal)
+                  2  Reshet Gimel
+                  3  Galei Tzahal
+                  4  Reshet Aleph
+                  5  Kol HaShalom
+                  6  Does not listen to radio
+
+              Data type: numeric
+              Record/column: 1/151
+
+      v150               Average monthly household expenditure
+
+              VALUE  LABEL
+                  0  7001+
+                  1  Up to 1000 shekels (old shekels)
+                  2  1001-1500
+                  3  1501-2000
+                  4  2001-2500
+                  5  2501-3000
+                  6  3001-4000
+                  7  4001-5000
+                  8  5001-6000
+                  9  6001-7000
+
+              Data type: numeric
+              Record/column: 1/152
+
+      v151               Interview locality
+
+              VALUE  LABEL
+                  1  Tel-Aviv
+                  2  Jerusalem
+                  3  Haifa
+                  4  Beer Sheva
+                  5  Ramat Gan
+                  6  Bnei Braq
+                  7  Hertzliya
+                  8  Holon
+                  9  Petah Tikva
+                 10  Netania
+                 11  Rishon Le-Tzion
+                 12  Pardes Hana
+                 13  Tiberia
+                 14  Ramla
+                 15  Ashdod
+                 16  Acco
+                 17  Yavne
+                 18  Rosh Ha-Ain
+                 19  Raanana
+                 20  Qiryat Yam
+                 21  Afula
+                 22  Beit Shean
+                 23  Beit Shemesh
+                 24  Dimona
+                 25  Kefar Biyalik
+                 26  Avital
+                 27  Mavo Beitar
+                 28  Shaar Efraim
+                 29  Neve Yerek
+                 30  Gilat
+
+              Data type: numeric
+              Record/columns: 1/153-154
+
+      v152               Statistical area
+
+              Data type: numeric
+              Record/columns: 1/155-156
+
+      

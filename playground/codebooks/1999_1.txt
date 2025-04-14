@@ -1,0 +1,2543 @@
+
+                                                           CODEBOOK
+
+
+                                                Election Study 1999 - pre-election interview 
+
+                                                           CONTENTS
+
+****   GENERAL
+
+      v1                 Case ID                                                      
+      v2                 Type of record
+
+****    GENERAL POLITICAL ATTITUDE
+
+      v3                 Israel's current situation in general
+      v4                 Government treatment of current national issues
+      v5                 Main problem government has to deal with
+      v6                 Candidate most capable to deal with problems
+      v7                 Party most capable to handle problems
+      v8                 General economic situation in last 3 years
+      v9                 Personal economic situation in last 3 years
+      v10                Danger of conflict with Arab world compared to pre-Peace-process
+      v11                Danger of conflict with Arab world during Netanyahu's government
+      v12                Territories should be returned for peace
+      v13                Religion should be separated from State
+      v14                Peace process should be stopped even at risk of war
+      v15                Jewish religious law should take precedence over democracy
+      v16                Attitude towards Oslo Accord
+      v17                Personal Security of Israeli citizens since Peace process began
+      v18                Personal security of Israelis during Netanyahu's government
+      v19                Opinion on the establishment of a Palestinian state
+      v20                Estimate Israeli public support for a Palestinian State (percentage)
+      v21                Forecast future public support for a Palestinian State
+      v22                Should government encourage Arab emmigration from Israel?
+      v23                Evaluation of Arab aspirations
+      v24                What should be emphasized to prevent war between Israel and the Arab world?
+      v25                Are you or your family worried about being injured by Arabs in daily life?
+      v26                Forecast of establishment of a Palestinian state within next 10 years
+      v27                Shoul Israel exchange territories in the Golan Heights for peace with Syria?
+      v28                Extend of faith in political parties
+****     VALUES AND TRUST
+
+      v29                Extend of faith in the Prime Minister
+      v30                Extend of faith in the media
+      v31                Extend of faith in State Advocacy
+      v32                Extend of faith in the Supreme Court
+      v33                Extend of faith in police
+      v34                Satisfaction with Israeli democracy
+      v35                Satisfaction with public discussion in Israel
+      v36                Jewish majority in Israel as a significant value
+      v37                Greater Israel as a significant value
+      v38                Democratic State as a significant value
+      v39                Peace as a significant value
+
+****     ATTITUDES TOWARD CANDIDATES AND PARTIES
+
+      v40                Extend of support for the Center Party
+      v41                Extend of support for the Labour Party
+      v42                Extend of support for Beni Begin
+      v43                Extend of support for the Likud
+      v44                Extend of support for Meretz
+      v45                Extend of support for religious people
+      v46                Extend of support for Itzhak Mordechai
+      v47                Extend of support for Yasser Arafat
+      v48                Extend of support for Ehud Barak
+      v49                Extend of support for Azmi Bashara
+      v50                Extend of support for Binyamin Netanyahu
+      v51                Extend of support for Shimon Peres
+      v52                Extend of support for Arieh Deri
+      v53                Extend of support for Israel ACHAT party
+      v54                Extend of support for ultra-orthodoxy
+      v55                Extend of support for arabs
+
+****    MORE ATTITUDES TOWARD PARTIES AND CANDIDATES
+
+      v56                Capitalism or socialism for Israel's economy
+      v57                Participation of Israeli Arabs in critical decisions
+      v58                Main factor affecting respondent's vote for a specific candidate
+      v59                Possibility of changing voting decision if candidate can't win
+      v60                Who is expected to go on the second round in the election for PM ?(1)
+      v61                Who is expected to go on the second round in the election for PM ?(2)
+      v62                Effect of Jerusalem issue's effect on vote for PM
+      v63                Effect of economy issue's effect on vote for PM
+      v64                Effect of social policy's effect on vote for PM
+      v65                Effect of religion and State issues' effect on vote for PM
+      v66                Effect of Lebanon issue's effect on vote for PM
+      v67                Effect of peace and territories' effect on vote for PM
+      v68                Effect of Terrorism's effect on vote for PM
+      v69                Identification with Binyamin Netanyahu's peace and defense policies
+      v70                Identification with Ehud Barak's peace and defense policies
+      v71                Identification with Itzhak Mordechai's peace and defense policies
+      v72                Identification with Beni Begin's peace and defense policies
+      v73                Identification with Azmi Bashara's peace and defense policies
+      v74                Identification with Binyamin Netanyahu's socio-economic policy
+      v75                Identification with Ehud Barak's socio-economic policy
+      v76                Identification with Itzhak Mordechai's socio-economic policy
+      v77                Identification with Beni Begin's socio-economic policy
+      v78                Identification with Azmi Bashara's socio-economic policy
+
+****    ATTITUDES TOWARD CANDIDATES FOR PM
+
+      i3                 Candidate most capable to deal with Israel economy issues
+      i4                 Second Candidate most capable to deal with economy issues
+      i5                 Candidate most capable to deal with foreign & security issues
+      i6                 Second Candidate most capable to deal with foreign & security issues
+      i7                 Nethanyahu's character or actions makes me feel angry
+      i8                 Nethanyahu makes me feel frightened
+      i9                 Nethanyahu makes me feel proud
+      i10                Nethanyahu makes me feel hopeful
+      i11                Barak's character or actions makes me feel angry
+      i12                Barak makes me feel frightened
+      i13                Barak makes me feel proud
+      i14                Barak makes me feel hopeful
+      i15                Mordechai's character or actions makes me feel angry
+      i16                Mordechai makes me feel frightened
+      i17                Mordechai makes me feel proud
+      i18                Mordechai makes me feel hopeful
+
+****    POLITICAL SELF-DEFINITION
+
+      i19                Self-ranking on a left/right political scale
+      i20                Possible shift to either right or left wing
+      i21                Chances of moving to the opposite political wing
+      i22                Prospects of being accepted and feeling comfortable in other wing
+      i23                Jerusalem issue's effect on vote for Knesset
+      i24                Economy issue's effect on vote for Knesset
+      i25                Security policy's effect on vote for Knesset
+      i26                Social policy's effect on vote for Knesset
+      i27                Religion and State issues effect on vote for Knesset
+      i28                Lebanon issue's effect on vote for Knesset
+      i29                Peace and territories' effect on vote for Knesset
+      i30                Palestinian terrorism's effect on vote for Knesset
+      i31                Deri's trial's effect on vote for Knesset
+
+****    PARTIES POSITIONS
+
+      i32                Party differences on the Jerusalem issue
+      i33                Party differences on economic issues
+      i34                Party differences on social policy issues
+      i35                Party differences on State and religion issues
+      i36                Party differences on the Lebanon issue
+      i37                Party differences on peace and territories
+      i38                Party differences on the terrorism issue
+      i39                Major factor in formulating respondent's party vote
+
+****      MAIN POLITICAL ISSUES
+
+      i40                Willingness to pay more taxes
+      i41                Government expenditures on education
+      i42                Government expendtiures on ecology/the environment
+      i43                Governmernt expenditures on religious institutions and Yeshivot
+      i44                Government expenditures on health
+      i45                Government expenditures on security
+      i46                Government expenditures on immigration and absorption
+      i47                Government expenditures on assisting the unemployed
+      i48                Government expenditures on settlements in the territories
+      i49                Government expenditures on the Arab sector
+      i50                Government expenditures for supplying jobs
+      i51                Government expenditures on roads and road accidents
+      i52                Socio-economic inequality in Israel
+      i53                Ethnic discrimination in Israel
+      i54                Personal experience of ethnic discrimination
+      i55                Citizens' personal interests vs. national interests
+      i56                Discussing political issues with friends/family
+      i57                Influence you and your friends can have on government policy
+      i58                Should public life be conducted by religious law?
+
+****     EVALUATE PARTIES AND CANDIDATES
+
+      i59                Party to ensure Jewish majority
+      i60                Party to stand firm in peace and territory negotiations
+      i61                Party to preserve democracy
+      i62                Party to reach true peace with the Arabs
+      i63                Party to effectively deal with terrorism
+      i64                Party to narrow the ethnic gaps
+      i65                Party to separate Israel from the Palestinians
+      i66                Corrupt party
+      i67                Party to maintain good relations with USA
+      i68                Party to narrow social gaps
+      i69                Party to reduce divide in Israel society
+      i70                Which PM candidate is a true leader
+      i71                Which PM candidate is not a true leader
+      i72                Which PM candidate is experienced
+      i73                Which PM candidate is inexperienced
+      i74                Which PM candidate is reliable
+      i75                Which PM candidate is unreliable
+      i76                Candidate to reduce tenses between orthodox and secular groups
+      i77                Candidate who cannot reduce reduce tenses between orthodox and secular groups
+      i78                Which PM candidate is decisive
+      i79                Which PM candidate is not decisive
+      i80                Candidate who puts state interest above all
+      i81                Candidate who won't put put state interest above all
+      i82                Candidate with initiative and creative
+      i83                Candidate lacking initiative and not creative
+      i84                Which PM candidate is a good negotiator
+      i85                Which PM candidate is a bad negotiator
+      i86                Candidate who resists pressure
+      i88                Candidate to ensure Authority of Law
+      i89                Candidate who won't ensure the Authority of Law
+      i90                Candidate who will narrow social gaps
+      i91                Candidate who won't narrow social gaps
+
+****     IMPACT OF MEDIA
+
+      c3                 Frequency of reading daily newspaper
+      c4                 Follow publications of election polls
+      c5                 Faith in election polls
+      c6                 Belief that election polls influence voting
+      c7                 Intentions to watch election ads on TV
+      c8                 Will election ads influence your vote decision?
+
+****     VOTING PATTERNS
+
+      c9                 Support National Consolidation Government after the elections
+      c10                Direct election for PM's impact on the government system
+      c11                Inclusion of Arab parties in government
+      c12                Party vote, if elections were held today
+      c13                Vote for PM, if election were held today
+      c14                Vote in second round between Nethanyahu and Barak
+      c15                Whom do you expect to win the PM elections?
+      c16                Vote for PM in 1996
+      c17                Vote for party in 1996
+      c18                Supporter or member in any party
+      c19                Political identification
+
+****     RESPONDENT'S DEMOGRAPHIC DETAILS
+
+      c20                Age
+      c21                Conduct life according to religious tradition
+      c22                First label to define identity
+      c23                Second label to define identity
+      c24                Third label to define identity
+      c25                Fourth label to define identity
+      c26                Continent of birth,origin
+      c27                Year of immigration
+      c28                Total years of schooling
+      c29                Academical degree
+      c30                Monthly family expenditures
+      c31                Works outside household?
+      c32                Status at work
+      c33                Concerns about loosing job or business
+      c34                Number of rooms in apartment
+      c35                Number of persons in household
+      c36                Respondent's military service in territories
+      c37                Social class self-affiliation
+      c38                Self-definition of religious identity
+      c39                Sex
+      c41                Month of interview
+
+=========================================================================================
+
+****    GENERAL
+
+      v1                 Case ID
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      v2                 Type of record
+
+              Data type: numeric
+              Record/column: 1/5
+
+****    GENERAL POLITICAL ATTITUDE
+
+      v3                 Israel's current situation in general
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  So-so
+                  4  Not good
+                  5  Bad
+
+              Data type: numeric
+              Record/column: 1/6
+
+      v4                 Government treatment of current national issues
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not good at all
+
+              Data type: numeric
+              Record/column: 1/7
+
+      v5                 Main problem government has to deal with
+
+              Data type: numeric
+              Record/columns: 1/8-9
+
+      v6                 Candidate most capable to deal with problems
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  Begin
+                  5  Bashara
+                  6  Raful
+                  7  None of them
+                  8  Equally capable
+
+              Data type: numeric
+              Record/column: 1/10
+
+      v7                 Party most capable to handle problems
+
+              VALUE  LABEL
+                  1  One Israel(Labor+Gesher+Mimad)
+                  2  Likud
+                  3  National Unit
+                  4  Tzomet
+                  5  Meretz
+                  6  HaDerech Hashlishit
+                  7  Party of Center
+                  8  Israel BaAliya
+                  9  Israel Beteinu
+                 10  Mafdal
+                 11  Yahadut HaTora
+                 12  Shas
+                 13  One Nation
+                 14  Shinui
+                 15  Women party
+                 16  Hadash
+                 17  United Arab List
+                 18  Arab Movement for Renewal
+                 19  Balad
+                 20  United National Front
+                 21  Veterans party
+                 22  Pnina Rozenblum
+                 23  Casino
+                 24  Green leaf
+                 25  Green
+                 26  Another party
+                 27  Non of the party
+
+              Data type: numeric
+              Record/columns: 1/11-12
+
+      v8                 General economic situation in last 3 years
+
+              VALUE  LABEL
+                  1  Greatly improved
+                  2  Slightly improved
+                  3  Hasn't changed
+                  4  Worsened slightly
+                  5  Worsened greatly
+
+              Data type: numeric
+              Record/column: 1/13
+
+      v9                 Personal economic situation in last 3 years
+
+              VALUE  LABEL
+                  1  Greatly improved
+                  2  Slightly improved
+                  3  Hasn't changed
+                  4  Worsened slightly
+                  5  Worsened greatly
+
+              Data type: numeric
+              Record/column: 1/14
+
+      v10                Danger of conflict with Arab world compared to pre-Peace-process
+
+              VALUE  LABEL
+                  1  Greatly increased
+                  2  Increased
+                  3  Decreased
+                  4  Greatly decreased
+
+              Data type: numeric
+              Record/column: 1/15
+
+      v11                Danger of conflict with Arab world during Netanyahu's government
+
+              Compared to Rabin and Peres' post-Oslo government
+
+              VALUE  LABEL
+                  1  Greatly increased
+                  2  Increased
+                  3  Decreased
+                  4  Greatly decreased
+
+              Data type: numeric
+              Record/column: 1/16
+
+      v12                Territories should be returned for peace
+
+              Agreement with statement on 1-7 scale
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  7  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/17
+
+      v13                Religion should be separated from State
+
+              Agreement with statement on 1-7 scale
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  7  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/18
+
+      v14                Peace process should be stopped even at risk of war
+
+              Agreement with statement on 1-7 scale
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  7  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/19
+
+      v15                Jewish religious law should take precedence over democracy
+
+              Agreement with statement on 1-7 scale
+
+              VALUE  LABEL
+                  1  Strongly disagree
+                  7  Strongly agree
+
+              Data type: numeric
+              Record/column: 1/20
+
+      v16                Attitude towards Oslo Accord
+
+              VALUE  LABEL
+                  1  Strongly support
+                  2  Support
+                  3  Object
+                  4  Strongly object
+
+              Data type: numeric
+              Record/column: 1/21
+
+      v17                Personal Security of Israeli citizens since Peace process began
+
+              VALUE  LABEL
+                  1  Much better
+                  2  Better
+                  3  Worse
+                  4  Much worse
+
+              Data type: numeric
+              Record/column: 1/22
+
+      v18                Personal security of Israelis during Netanyahu's government
+
+              Compared to Rabin and Peres' post-Oslo government
+
+              VALUE  LABEL
+                  1  Much better
+                  2  Better
+                  3  Worse
+                  4  Much worse
+
+              Data type: numeric
+              Record/column: 1/23
+
+      v19                Opinion on the establishment of a Palestinian state
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Disagree
+                  4  Definitely disagree
+
+              Data type: numeric
+              Record/column: 1/24
+
+      v20                Estimate Israeli public support for a Palestinian State (percentage)
+
+              Data type: numeric
+              Record/columns: 1/25-26
+
+      v21                Forecast future public support for a Palestinian State
+
+              VALUE  LABEL
+                  1  More people will support
+                  2  Less people will support
+
+              Data type: numeric
+              Record/column: 1/27
+
+      v22                Should government encourage Arab emmigration from Israel?
+
+              VALUE  LABEL
+                  1  Definitely yes
+                  2  Yes
+                  3  No
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/28
+
+      v23                Evaluation of Arab aspirations
+
+              VALUE  LABEL
+                  1  Getting back part of the territories they lost in 1967
+                  2  Getting back all the territories they lost in 1967
+                  3  Conquering Israel
+                  4  Conquering Israel and demolition of Jewish population
+
+              Data type: numeric
+              Record/column: 1/29
+
+      v24                What should be emphasized to prevent war between Israel and the Arab world?
+
+              VALUE  LABEL
+                  1  Focus on Peace talks
+                  2  Increase military power
+
+              Data type: numeric
+              Record/column: 1/30
+
+      v25                Are you or your family worried about being injured by Arabs in daily life?
+
+              VALUE  LABEL
+                  1  Very worried
+                  2  Worried
+                  3  Not worried
+                  4  Not worried at all
+
+              Data type: numeric
+              Record/column: 1/31
+
+      v26                Forecast of establishment of a Palestinian state within next 10 years
+
+              VALUE  LABEL
+                  1  Palestinian state will be established
+                  2  Palestinian state will not be established
+
+              Data type: numeric
+              Record/column: 1/32
+
+      v27                Shoul Israel exchange territories in the Golan Heights for peace with Syria?
+
+              VALUE  LABEL
+                  1  No part of Golan should be returned
+                  2  Only a small part can be returned
+                  3  A considerable part should be returned
+                  4  All of it should be returned
+
+              Data type: numeric
+              Record/column: 1/33
+
+      v28                Extend of faith in political parties
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little faith
+                  3  Some faith
+                  4  Strong faith
+
+              Data type: numeric
+              Record/column: 1/34
+
+****     VALUES AND TRUST
+
+      v29                Extend of faith in the Prime Minister
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little faith
+                  3  Some faith
+                  4  Strong faith
+
+              Data type: numeric
+              Record/column: 1/35
+
+      v30                Extend of faith in the media
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little faith
+                  3  Some faith
+                  4  Strong faith
+
+              Data type: numeric
+              Record/column: 1/36
+
+      v31                Extend of faith in State Advocacy
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little faith
+                  3  Some faith
+                  4  Strong faith
+
+              Data type: numeric
+              Record/column: 1/37
+
+      v32                Extend of faith in the Supreme Court
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little faith
+                  3  Some faith
+                  4  Strong faith
+
+              Data type: numeric
+              Record/column: 1/38
+
+      v33                Extend of faith in police
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A little faith
+                  3  Some faith
+                  4  Strong faith
+
+              Data type: numeric
+              Record/column: 1/39
+
+      v34                Satisfaction with Israeli democracy
+
+              VALUE  LABEL
+                  1  Very satisfied
+                  2  Quite satisfied
+                  3  Not so satisfied
+                  4  Not satisfied at all
+
+              Data type: numeric
+              Record/column: 1/40
+
+      v35                Satisfaction with public discussion in Israel
+
+              VALUE  LABEL
+                  1  Very satisfied
+                  2  Quite satisfied
+                  3  Not so satisfied
+                  4  Not satisfied at all
+
+              Data type: numeric
+              Record/column: 1/41
+
+      v36                Jewish majority in Israel as a significant value
+
+              VALUE  LABEL
+                  1  Most important value
+                  2  Second value
+                  3  Third value
+                  4  Fourth value
+
+              Data type: numeric
+              Record/column: 1/42
+
+      v37                Greater Israel as a significant value
+
+              VALUE  LABEL
+                  1  Most important value
+                  2  Second value
+                  3  Third value
+                  4  Fourth value
+
+              Data type: numeric
+              Record/column: 1/43
+
+      v38                Democratic State as a significant value
+
+              VALUE  LABEL
+                  1  Most important value
+                  2  Second value
+                  3  Third value
+                  4  Fourth value
+
+              Data type: numeric
+              Record/column: 1/44
+
+      v39                Peace as a significant value
+
+              VALUE  LABEL
+                  1  Most important value
+                  2  Second value
+                  3  Third value
+                  4  Fourth value
+
+              Data type: numeric
+              Record/column: 1/45
+
+****     ATTITUDES TOWARD CANDIDATES AND PARTIES
+
+      v40                Extend of support for the Center Party
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/46
+
+      v41                Extend of support for the Labour Party
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/47
+
+      v42                Extend of support for Beni Begin
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/48
+
+      v43                Extend of support for the Likud
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/49
+
+      v44                Extend of support for Meretz
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/50
+
+      v45                Extend of support for religious people
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/51
+
+      v46                Extend of support for Itzhak Mordechai
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/52
+
+      v47                Extend of support for Yasser Arafat
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/53
+
+      v48                Extend of support for Ehud Barak
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/54
+
+      v49                Extend of support for Azmi Bashara
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/55
+
+      v50                Extend of support for Binyamin Netanyahu
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/56
+
+      v51                Extend of support for Shimon Peres
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/57
+
+      v52                Extend of support for Arieh Deri
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/58
+
+      v53                Extend of support for Israel ACHAT party
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/59
+
+      v54                Extend of support for ultra-orthodoxy
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/60
+
+      v55                Extend of support for arabs
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Totally reject
+                 10  Strongly support
+
+              Data type: numeric
+              Record/column: 1/61
+
+****    MORE ATTITUDES TOWARD PARTIES AND CANDIDATES
+
+      v56                Capitalism or socialism for Israel's economy
+
+              Extent of support on 1-10 scale, 1=total rejection, 10=strong support
+
+              VALUE  LABEL
+                  1  Definitely prefer capitalism
+                  2  More capitalist than socialist
+                  3  More socialist than capitalist
+                  4  Definitely prefer socialism
+
+              Data type: numeric
+              Record/column: 1/62
+
+      v57                Participation of Israeli Arabs in critical decisions
+
+              VALUE  LABEL
+                  1  Decisions should be made by Jewish majority only
+                  2  Decisions should be made by Jewish majority
+                  3  Arabs should take part
+                  4  Arabs should take part
+
+              Data type: numeric
+              Record/column: 1/63
+
+      v58                Main factor affecting respondent's vote for a specific candidate
+
+              VALUE  LABEL
+                  1  Candidate's qualities
+                  2  Identification with the candidate's party
+                  3  Identification with the candidate's side
+                  4  Candidate's positions about various issues
+                  5  Candidate being in government or in opposition
+
+              Data type: numeric
+              Record/column: 1/64
+
+      v59                Possibility of changing voting decision if candidate can't win
+
+              VALUE  LABEL
+                  1  Definitely possible
+                  2  Possible
+                  3  Not likely
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/65
+
+      v60                Who is expected to go on the second round in the election for PM ?(1)
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechay
+                  4  Begin
+                  5  Bashara
+                  6  Raful
+
+              Data type: numeric
+              Record/column: 1/66
+
+      v61                Who is expected to go on the second round in the election for PM ?(2)
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechay
+                  4  Begin
+                  5  Bashara
+                  6  Raful
+
+              Data type: numeric
+              Record/column: 1/67
+
+      v62                Effect of Jerusalem issue's effect on vote for PM
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 1/68
+
+      v63                Effect of economy issue's effect on vote for PM
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 1/69
+
+      v64                Effect of social policy's effect on vote for PM
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 1/70
+
+      v65                Effect of religion and State issues' effect on vote for PM
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 1/71
+
+      v66                Effect of Lebanon issue's effect on vote for PM
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 1/72
+
+      v67                Effect of peace and territories' effect on vote for PM
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 1/73
+
+      v68                Effect of Terrorism's effect on vote for PM
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/74
+
+      v69                Identification with Binyamin Netanyahu's peace and defense policies
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/75
+
+      v70                Identification with Ehud Barak's peace and defense policies
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/76
+
+      v71                Identification with Itzhak Mordechai's peace and defense policies
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/77
+
+      v72                Identification with Beni Begin's peace and defense policies
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/78
+
+      v73                Identification with Azmi Bashara's peace and defense policies
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/79
+
+      v74                Identification with Binyamin Netanyahu's socio-economic policy
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/80
+
+      v75                Identification with Ehud Barak's socio-economic policy
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/81
+
+      v76                Identification with Itzhak Mordechai's socio-economic policy
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/82
+
+      v77                Identification with Beni Begin's socio-economic policy
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/83
+
+      v78                Identification with Azmi Bashara's socio-economic policy
+
+              Identification with candidate on 1-10 scale: 1=Strong rejection, 10=Strong support
+
+              VALUE  LABEL
+                  1  Strong rejection
+                 10  Strong support
+
+              Data type: numeric
+              Record/column: 1/84
+
+****    ATTITUDES TOWARD CANDIDATES FOR PM
+
+      i3                 Candidate most capable to deal with Israel economy issues
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  Equally capable
+                  5  None of them
+                  6  Bashara
+
+              Data type: numeric
+              Record/column: 2/6
+
+      i4                 Second Candidate most capable to deal with economy issues
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  Equally capable
+                  5  None of them
+                  6  Bashara
+
+              Data type: numeric
+              Record/column: 2/7
+
+      i5                 Candidate most capable to deal with foreign & security issues
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  Equally capable
+                  5  None of them
+                  6  Bashara
+
+              Data type: numeric
+              Record/column: 2/8
+
+      i6                 Second Candidate most capable to deal with foreign & security issues
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  Equally capable
+                  5  None of them
+                  6  Bashara
+
+              Data type: numeric
+              Record/column: 2/9
+
+      i7                 Nethanyahu's character or actions makes me feel angry
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/10
+
+      i8                 Nethanyahu makes me feel frightened
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/11
+
+      i9                 Nethanyahu makes me feel proud
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/12
+
+      i10                Nethanyahu makes me feel hopeful
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/13
+
+      i11                Barak's character or actions makes me feel angry
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/14
+
+      i12                Barak makes me feel frightened
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/15
+
+      i13                Barak makes me feel proud
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/16
+
+      i14                Barak makes me feel hopeful
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/17
+
+      i15                Mordechai's character or actions makes me feel angry
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/18
+
+      i16                Mordechai makes me feel frightened
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/19
+
+      i17                Mordechai makes me feel proud
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/20
+
+      i18                Mordechai makes me feel hopeful
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/21
+
+****    POLITICAL SELF-DEFINITION
+
+      i19                Self-ranking on a left/right political scale
+
+              on a 1-7 scale where 1= strong right wing and 7=strong left wing
+
+              VALUE  LABEL
+                  1  Strong right wing
+                  7  Strong left wing
+
+              Data type: numeric
+              Record/column: 2/22
+
+      i20                Possible shift to either right or left wing
+
+              For those who answer 4 to var. i19
+
+              VALUE  LABEL
+                  1  To the Right wing
+                  2  To the Left wing
+                  3  To either of them according to circumstances
+                  4  Won't move
+
+              Data type: numeric
+              Record/column: 2/23
+
+      i21                Chances of moving to the opposite political wing
+
+              For those who answer 4 to var. i19
+
+              VALUE  LABEL
+                  1  Easily
+                  2  Probably yes
+                  3  Probably no
+                  4  Definitely no
+
+              Data type: numeric
+              Record/column: 2/24
+
+      i22                Prospects of being accepted and feeling comfortable in other wing
+
+              VALUE  LABEL
+                  1  Most likely
+                  2  Probably yes
+                  3  Probably no
+                  4  Most unlikely
+
+              Data type: numeric
+              Record/column: 2/25
+
+      i23                Jerusalem issue's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/26
+
+      i24                Economy issue's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/27
+
+      i25                Security policy's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/28
+
+      i26                Social policy's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/29
+
+      i27                Religion and State issues effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/30
+
+      i28                Lebanon issue's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/31
+
+      i29                Peace and territories' effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/32
+
+      i30                Palestinian terrorism's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/33
+
+      i31                Deri's trial's effect on vote for Knesset
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  A small effect
+                  3  Some effect
+                  4  A great effect
+
+              Data type: numeric
+              Record/column: 2/34
+
+****    PARTIES POSITIONS
+
+      i32                Party differences on the Jerusalem issue
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/35
+
+      i33                Party differences on economic issues
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/36
+
+      i34                Party differences on social policy issues
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/37
+
+      i35                Party differences on State and religion issues
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/38
+
+      i36                Party differences on the Lebanon issue
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/39
+
+      i37                Party differences on peace and territories
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/40
+
+      i38                Party differences on the terrorism issue
+
+              VALUE  LABEL
+                  1  No significant differences
+                  2  Small differences
+                  3  Some differences
+                  4  Significant differences
+                  5  Very significant differences
+
+              Data type: numeric
+              Record/column: 2/41
+
+      i39                Major factor in formulating respondent's party vote
+
+              VALUE  LABEL
+                  1  Identification with the party
+                  2  Party's candidates for Knesset
+                  3  Party's stands on certain issues
+                  4  Party situated in government/opposition
+
+              Data type: numeric
+              Record/column: 2/42
+
+****    MAIN POLITICAL ISSUES
+
+      i40                Willingness to pay more taxes
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/43
+
+      i41                Government expenditures on education
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/44
+
+      i42                Government expendtiures on ecology/the environment
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/45
+
+      i43                Governmernt expenditures on religious institutions and Yeshivot
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/46
+
+      i44                Government expenditures on health
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/47
+
+      i45                Government expenditures on security
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/48
+
+      i46                Government expenditures on immigration and absorption
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/49
+
+      i47                Government expenditures on assisting the unemployed
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/50
+
+      i48                Government expenditures on settlements in the territories
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/51
+
+      i49                Government expenditures on the Arab sector
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/52
+
+      i50                Government expenditures for supplying jobs
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/53
+
+      i51                Government expenditures on roads and road accidents
+
+              VALUE  LABEL
+                  1  Should increase
+                  2  Should decrease
+                  3  Should stay the same
+
+              Data type: numeric
+              Record/column: 2/54
+
+      i52                Socio-economic inequality in Israel
+
+              VALUE  LABEL
+                  1  There definitely is inequality
+                  2  There is some inequality
+                  3  There is no inequality
+                  4  There is definitely no inequality
+
+              Data type: numeric
+              Record/column: 2/55
+
+      i53                Ethnic discrimination in Israel
+
+              VALUE  LABEL
+                  1  A great amount of discrimination
+                  2  Much discrimination
+                  3  Some discrimination
+                  4  Very little discrimination
+                  5  No discrimination at all
+
+              Data type: numeric
+              Record/column: 2/56
+
+      i54                Personal experience of ethnic discrimination
+
+              VALUE  LABEL
+                  1  A great amount of discrimination
+                  2  Much discrimination
+                  3  Some discrimination
+                  4  Very little discrimination
+                  5  No discrimination at all
+
+              Data type: numeric
+              Record/column: 2/57
+
+      i55                Citizens' personal interests vs. national interests
+
+              VALUE  LABEL
+                  1  National interests are more important
+                  2  Equally important
+                  3  Personal interests are more important
+
+              Data type: numeric
+              Record/column: 2/58
+
+      i56                Discussing political issues with friends/family
+
+              VALUE  LABEL
+                  1  Often
+                  2  Sometimes
+                  3  Rarely
+                  4  Never
+
+              Data type: numeric
+              Record/column: 2/59
+
+      i57                Influence you and your friends can have on government policy
+
+              VALUE  LABEL
+                  1  A lot of influence
+                  2  Some influence
+                  3  Very little influence
+                  4  None or almost none
+
+              Data type: numeric
+              Record/column: 2/60
+
+      i58                Should public life be conducted by religious law?
+
+              VALUE  LABEL
+                  1  Government should support it
+                  2  Government might support it
+                  3  Don't think government sould support it
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 2/61
+
+****    EVALUATE PARTIES AND CANDIDATES
+
+      i59                Party to ensure Jewish majority
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/62
+
+      i60                Party to stand firm in peace and territory negotiations
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/63
+
+      i61                Party to preserve democracy
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/64
+
+      i62                Party to reach true peace with the Arabs
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/65
+
+      i63                Party to effectively deal with terrorism
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/66
+
+      i64                Party to narrow the ethnic gaps
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/67
+
+      i65                Party to separate Israel from the Palestinians
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/68
+
+      i66                Corrupt party
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/69
+
+      i67                Party to maintain good relations with USA
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/70
+
+      i68                Party to narrow social gaps
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/71
+
+      i69                Party to reduce divide in Israel society
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 2/72
+
+      i70                Which PM candidate is a true leader
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/73
+
+      i71                Which PM candidate is not a true leader
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/74
+
+      i72                Which PM candidate is experienced
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/75
+
+      i73                Which PM candidate is inexperienced
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/76
+
+      i74                Which PM candidate is reliable
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/77
+
+      i75                Which PM candidate is unreliable
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/78
+
+      i76                Candidate to reduce tenses between orthodox and secular groups
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/79
+
+      i77                Candidate who cannot reduce reduce tenses between orthodox and secular groups
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/80
+
+      i78                Which PM candidate is decisive
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/81
+
+      i79                Which PM candidate is not decisive
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/82
+
+      i80                Candidate who puts state interest above all
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/83
+
+      i81                Candidate who won't put put state interest above all
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/84
+
+      i82                Candidate with initiative and creative
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/85
+
+      i83                Candidate lacking initiative and not creative
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/86
+
+      i84                Which PM candidate is a good negotiator
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/87
+
+      i85                Which PM candidate is a bad negotiator
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/88
+
+      i86                Candidate who resists pressure
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/89
+
+      i88                Candidate to ensure Authority of Law
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/91
+
+      i89                Candidate who won't ensure the Authority of Law
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/92
+
+      i90                Candidate who will narrow social gaps
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  All three
+                  5  None of them
+
+              Data type: numeric
+              Record/column: 2/93
+
+      i91                Candidate who won't narrow social gaps
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 2/94
+
+****    IMPACT OF MEDIA
+
+      c3                 Frequency of reading daily newspaper
+
+              VALUE  LABEL
+                  1  Almost never
+                  2  Rarely
+                  3  Once a week
+                  4  2-3 times a week
+                  5  One newspaper almost every day
+                  6  More than one almost every day
+
+              Data type: numeric
+              Record/column: 3/6
+
+      c4                 Follow publications of election polls
+
+              VALUE  LABEL
+                  1  With a great interest
+                  2  With some interest
+                  3  With little interest
+                  4  Do not follow at all
+
+              Data type: numeric
+              Record/column: 3/7
+
+      c5                 Faith in election polls
+
+              VALUE  LABEL
+                  1  Very much
+                  2  Some
+                  3  Hardly
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/8
+
+      c6                 Belief that election polls influence voting
+
+              VALUE  LABEL
+                  1  Very much
+                  2  To some extent
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/9
+
+      c7                 Intentions to watch election ads on TV
+
+              VALUE  LABEL
+                  1  Daily
+                  2  Frequently
+                  3  Sometimes
+                  4  Rarely
+                  5  Never
+
+              Data type: numeric
+              Record/column: 3/10
+
+      c8                 Will election ads influence your vote decision?
+
+              VALUE  LABEL
+                  1  Very much
+                  2  To some extent
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/11
+
+****    VOTING PATTERNS
+
+      c9                 Support National Consolidation Government after the elections
+
+              VALUE  LABEL
+                  1  Definitely yes
+                  2  Think so
+                  3  Think not
+                  4  Definitely not
+                  5  Yes, only under the Likud leadership
+                  6  Yes, only under the Labor leadership
+                  7  Yes, only under Center party leadership
+
+              Data type: numeric
+              Record/column: 3/12
+
+      c10                Direct election for PM's impact on the government system
+
+              VALUE  LABEL
+                  1  Improves government system
+                  2  Makes it worse
+                  3  No change
+
+              Data type: numeric
+              Record/column: 3/13
+
+      c11                Inclusion of Arab parties in government
+
+              VALUE  LABEL
+                  1  Definitely support
+                  2  Support
+                  3  Object
+                  4  Strongly object
+
+              Data type: numeric
+              Record/column: 3/14
+
+      c12                Party vote, if elections were held today
+
+              VALUE  LABEL
+                  1  One Israel
+                  2  Likud
+                  3  National Unit
+                  4  Tzomet
+                  5  Meretz
+                  6  HaDerech Hashlishit
+                  7  Party of Center
+                  8  Israel BaAliya
+                  9  Israel Beteinu
+                 10  Mafdal
+                 11  Yahadut HaTora
+                 12  Shas
+                 13  One Nation
+                 14  Shinui
+                 15  Women party
+                 16  Hadash
+                 17  United Arab List
+                 18  Arab Movement for Renewal
+                 19  Balad
+                 20  United National Front
+                 21  Veterans party
+                 22  Pnina Rozenblum
+                 23  Casino
+                 24  Green leaf
+                 25  Green
+                 26  Another party
+                 97  Empty ballot
+                 98  Will not vote
+                 99  Not decided yet
+
+              Data type: numeric
+              Record/columns: 3/15-16
+
+      c13                Vote for PM, if election were held today
+
+              VALUE  LABEL
+                  0  Haven't decided yet
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+                  4  Begin
+                  5  Bashara
+                  6  Raful
+                  7  Other
+                  8  Blank note
+                  9  Won't vote
+
+              Data type: numeric
+              Record/column: 3/17
+
+      c14                Vote in second round between Nethanyahu and Barak
+
+              VALUE  LABEL
+                  1  Nethanyahu
+                  2  Barak
+                  3  Blank note
+                  4  Won't vote
+                  5  Haven't decided yet
+
+              Data type: numeric
+              Record/column: 3/18
+
+      c15                Whom do you expect to win the PM elections?
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Mordechai
+
+              Data type: numeric
+              Record/column: 3/19
+
+      c16                Vote for PM in 1996
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Peres
+                  3  Blank note
+                  4  Did not vote
+                  5  Do not remember
+
+              Data type: numeric
+              Record/column: 3/20
+
+      c17                Vote for party in 1996
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud-Tzomet-Gesher
+                  3  Meretz
+                  4  HaDerech Hashlishit
+                  5  Israel BaAliya
+                  6  Moledet
+                  7  Mafdal
+                  8  Shas
+                  9  Yahadut HaTora
+                 10  Hadash
+                 11  Other
+                 12  Did not vote,was eligible
+                 13  Did not vote,was ineligible
+                 14  Refuses to answer
+                 16  United Arab List
+
+              Data type: numeric
+              Record/columns: 3/21-22
+
+      c18                Supporter or member in any party
+
+              VALUE  LABEL
+                  1  None
+                  2  Supporter,but not a member
+                  3  A member
+                  4  An active member
+                  5  Member,and have a role in the party
+
+              Data type: numeric
+              Record/column: 3/23
+
+      c19                Political identification
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious
+                  7  None
+
+              Data type: numeric
+              Record/column: 3/24
+
+****    RESPONDENT'S DEMOGRAPHIC DETAILS
+
+      c20                Age
+
+              Data type: numeric
+              Record/columns: 3/25-26
+
+      c21                Conduct life according to religious tradition
+
+              VALUE  LABEL
+                  1  Thoroughly
+                  2  Significantly
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/27
+
+      c22                First label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group(Ashkenazi/Sefaradi)
+                  4  Religious/Secular
+
+              Data type: numeric
+              Record/column: 3/28
+
+      c23                Second label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group(Ashkenazi/Sefaradi)
+                  4  Religious/Secular
+
+              Data type: numeric
+              Record/column: 3/29
+
+      c24                Third label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group(Ashkenazi/Sefaradi)
+                  4  Religious/Secular
+
+              Data type: numeric
+              Record/column: 3/30
+
+      c25                Fourth label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group(Ashkenazi/Sefaradi)
+                  4  Religious/Secular
+
+              Data type: numeric
+              Record/column: 3/31
+
+      c26                Continent of birth,origin
+
+              For Israeli born - continent of birth of father
+
+              VALUE  LABEL
+                  1  North Africa
+                  2  Asia
+                  3  Eastern Europe
+                  4  West and central Europe
+                  5  America,Australia,South Africa
+                  6  Israel,Father-Israel
+                  7  Israel,Father-North Africa
+                  8  Israel,Father-Asia
+                  9  Israel,Father-Eastern Europe
+                 10  Israel,Father-West/Central Europe
+                 11  Israel,Father-America,Australia,South Africa
+
+              Data type: numeric
+              Record/columns: 3/32-33
+
+      c27                Year of immigration
+
+              Data type: numeric
+              Record/columns: 3/34-35
+
+      c28                Total years of schooling
+
+              Data type: numeric
+              Record/columns: 3/36-37
+
+      c29                Academical degree
+
+              For those who studied more than 12 years
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 3/38
+
+      c30                Monthly family expenditures
+
+              Compared to national average of 9,000 NIS
+
+              VALUE  LABEL
+                  1  Much above average
+                  2  More than average
+                  3  Average
+                  4  Below average
+                  5  Much below average
+
+              Data type: numeric
+              Record/column: 3/39
+
+      c31                Works outside household?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 3/40
+
+      c32                Status at work
+
+              VALUE  LABEL
+                  1  Employed worker
+                  2  Employed clerk
+                  3  Employed manager
+                  4  Self employed(small business)
+                  5  Self employed,owner of a firm
+
+              Data type: numeric
+              Record/column: 3/41
+
+      c33                Concerns about loosing job or business
+
+              VALUE  LABEL
+                  1  None at all
+                  2  Some concerns
+                  3  Very concerned
+                  4  Lost job in recent year, am looking for a new job
+                  5  Don't work and don't look for a job
+
+              Data type: numeric
+              Record/column: 3/42
+
+      c34                Number of rooms in apartment
+
+              Data type: numeric
+              Record/column: 3/43
+
+      c35                Number of persons in household
+
+              Data type: numeric
+              Record/columns: 3/44-45
+
+      c36                Respondent's military service in territories
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Never served in the IDF
+
+              Data type: numeric
+              Record/column: 3/46
+
+      c37                Social class self-affiliation
+
+              VALUE  LABEL
+                  1  High
+                  2  Mid-high
+                  3  Middle
+                  4  Low
+
+              Data type: numeric
+              Record/column: 3/47
+
+      c38                Self-definition of religious identity
+
+              VALUE  LABEL
+                  1  Secular
+                  2  Traditional
+                  3  Orthodox
+                  4  Ultra orthodox
+
+              Data type: numeric
+              Record/column: 3/48
+
+      c39                Sex
+
+              VALUE  LABEL
+                  1  Female
+                  2  Male
+
+              Data type: numeric
+              Record/column: 3/49
+
+      c41                Month of interview
+
+              VALUE  LABEL
+                  4  April 1999
+                  5  May 1999
+
+              Data type: numeric
+              Record/column: 3/53
+
+      

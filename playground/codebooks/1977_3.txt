@@ -1,0 +1,394 @@
+
+                                                           CODEBOOK
+
+
+                                                   Election Study 1977, phase 3
+
+                                                           CONTENTS
+
+      v1                 Identification number
+      b2                 The most important problem the government has to take care of
+      b3                 Before peace agreemt. giving back territory in West Bank issigned, elections should be held/govt. has authority to decide w/o elections
+      b4                 Interviewee watches parties' advertisements on television
+      b5                 Interviewee's preference for Prime Minister after coming elections
+      b6                 Party interviewee thinks will form the next government
+      b7                 Party interviewee would like to see form the next government
+      b8                 Assuming that it will be necessary to form a coalition govt. parties interviewee would like to see in such a government
+      b9                 Which party did you vote in the 1973 Knesset elections?
+      b10                Party interviewee would vote for if elections held today
+      b11                Interviewee has decided which party to vote for or is still debating between parties
+      b12                Sex
+      b13                Education
+      b14                Number of rooms in dwelling
+      b15                Number of persons in household
+      b16                Interviewee's gross monthly income
+      b17                Age
+      b18                Gross monthly income of entire household
+      b19                Interviewee observes religious traditions
+      b20                Interviewee works
+      b21                Spouse works
+      b22                Place of birth of interviewee/interviewee's father
+      b23                Year of Aliyah (immigration)
+
+=========================================================================================
+
+      v1                 Identification number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      b2                 The most important problem the government has to take care of
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security
+                  2  Economy
+                  3  Social inequality
+                  4  Peace
+                  5  Young couples
+                  6  Change in the electoral system
+                  7  Immigrants absorption
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/5
+
+      b3                 Before peace agreemt. giving back territory in West Bank issigned, elections should be held/govt. has authority to decide w/o elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  New elections have to be held
+                  2  New elections should be held
+                  3  The govt. has the authority to decide
+                  4  Gov-t certainly has authority w/o elctns
+
+              Data type: numeric
+              Record/column: 1/6
+
+      b4                 Interviewee watches parties' advertisements on television
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Usually watches all/most ads,all parties
+                  2  Watches mainly the Likud's ads
+                  3  Watches mainly the Alignments's ads
+                  4  Watches mainly the NRP's ads
+                  5  Watches mainly the DMC's ads
+                  6  Watches mainly the other parties' ads
+                  7  Watches only a few of them
+                  8  Does not watch them at all
+                  9  Does not have/does not usually watch TV
+
+              Data type: numeric
+              Record/column: 1/7
+
+      b5                 Interviewee's preference for Prime Minister after coming elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Abba Eban
+                  2  Yigal Alon
+                  3  Menachem Begin
+                  4  Yigael Yadin
+                  5  Golda Meir
+                  6  Shimon Peres
+                  7  Yitzhak Rabin
+                  8  Arik Sharon
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/8
+
+      b6                 Party interviewee thinks will form the next government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Sheli
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Other
+                 16  Doesn't know
+                 17  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/9-10
+
+      b7                 Party interviewee would like to see form the next government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Sheli
+                  8  Rakah
+                  9  Black Panthers
+                 10  Shulamit Aloni
+                 11  Slomzion (Arik Sharon)
+                 12  Democratic Movement for Change
+                 13  Women's Party
+                 14  Other Ethnic List
+                 15  Other
+                 16  Has not decided yet
+                 17  Doesn't know
+                 18  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/11-12
+
+      b8                 Assuming that it will be necessary to form a coalition govt. parties interviewee would like to see in such a government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Alignment, Likud, DMC
+                  2  Alignment, Likud
+                  3  Alignment, DMC
+                  4  Alignment, NRP
+                  5  Likud, DMC
+                  6  Likud, NRP
+                  7  Likud, DMC, NRP
+                  8  Alignment, DMC, NRP
+                  9  Alignment, Likud, DMC, NRP
+
+              Data type: numeric
+              Record/column: 1/13
+
+      b9                 Which party did you vote in the 1973 Knesset elections?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Moked
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Meri
+                  8  Rakah
+                  9  Democrats and Black Panthers
+                 10  Shulamit Aloni
+                 11  Other Ethnic List
+                 12  Other
+                 13  Has not decided yet
+
+              Data type: numeric
+              Record/columns: 1/14-15
+
+      b10                Party interviewee would vote for if elections held today
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Sheli
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Hofesh
+                  8  Rakah
+                  9  Flatto-Sharon
+                 10  Shulamit Aloni
+                 11  Other Ethnic List
+                 12  Slomzion (Arik Sharon)
+                 13  Women's Party
+                 14  Yahad
+                 15  Democratic Movement for Change
+                 16  Interviewee would cast a blank ballot
+                 17  Has not decided yet
+                 18  Will not vote
+                 19  Refuses to answer
+                 20  Other
+
+              Data type: numeric
+              Record/columns: 1/16-17
+
+      b11                Interviewee has decided which party to vote for or is still debating between parties
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Has already decided
+                  2  Is debating between DMC and the Likud
+                  3  Between the DMC and the Alignment
+                  4  Between the Alignment and the Likud
+                  5  Between the three above parties
+                  6  Between the Alignment and Sheli
+                  7  Between the Likud and Shlomzion
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/18
+
+      b12                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/19
+
+      b13                Education
+
+              VALUE  LABEL
+                  1  No schooling
+                  2  Up to 4 years
+                  3  5-8 years
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+ without University degree
+                  8  Full University education
+
+              Data type: numeric
+              Record/column: 1/20
+
+      b14                Number of rooms in dwelling
+
+              VALUE  LABEL
+                  1  One room
+                  2  2 rooms
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/21
+
+      b15                Number of persons in household
+
+              VALUE  LABEL
+                  1  One person
+                  2  2 people
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/22
+
+      b16                Interviewee's gross monthly income
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to 999 IL/month
+                  2  1000-1499
+                  3  1500-1999
+                  4  2000-2499
+                  5  2500-2999
+                  6  3000-3499
+                  7  3500-3999
+                  8  4000-4999
+                  9  5000+
+
+              Data type: numeric
+              Record/column: 1/23
+
+      b17                Age
+
+              VALUE  LABEL
+                  0  No answer
+                  1  20-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 1/24
+
+      b18                Gross monthly income of entire household
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to 1499 IL/month
+                  2  1500-2499
+                  3  2500-2999
+                  4  3000-3499
+                  5  3500-3999
+                  6  4000-4999
+                  7  5000-5499
+                  8  5500-5999
+                  9  6000+
+
+              Data type: numeric
+              Record/column: 1/25
+
+      b19                Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Observes them thoroughly
+                  2  To a great extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/26
+
+      b20                Interviewee works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Works as an employee
+                  2  As an independent
+                  3  Unemployed
+
+              Data type: numeric
+              Record/column: 1/27
+
+      b21                Spouse works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  As an employee
+                  2  As an independent
+                  3  Unemployed
+                  4  Does not have a spouse
+
+              Data type: numeric
+              Record/column: 1/28
+
+      b22                Place of birth of interviewee/interviewee's father
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/29
+
+      b23                Year of Aliyah (immigration)
+
+              VALUE  LABEL
+                  1  Israeli born
+                  2  Before 1930
+                  3  1931-1940
+                  4  1941-1947
+                  5  1948-1954
+                  6  1955-1960
+                  7  1961-1964
+                  8  1965-1967
+                  9  1968+
+
+              Data type: numeric
+              Record/column: 1/30
+      

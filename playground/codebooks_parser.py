@@ -1,6 +1,37 @@
+import json
 import pandas as pd
 import re
+import requests
 import os
+
+
+def download_file(url: str, output_folder: str) -> str:
+    """
+    Downloads a file from a given URL and saves it in the specified output folder.
+
+    Args:
+        url (str): The URL of the file to download.
+        output_folder (str): The folder to save the downloaded file.
+
+    Returns:
+        str: The path to the downloaded file.
+    """
+    filename = os.path.basename(url)  # Extract the file name from the URL
+    output_path = os.path.join(output_folder, filename)
+
+    # If file was already downloaded - use it
+    if os.path.exists(output_path) == True: return output_path
+
+    print(f"Downloading {url}...")
+    response = requests.get(url, stream=True)
+    response.raise_for_status()  # Raise an error for HTTP issues
+
+    with open(output_path, 'wb') as file:
+        for chunk in response.iter_content(chunk_size=8192):
+            file.write(chunk)
+
+    print(f"Downloaded to {output_path}")
+    return output_path
 
 def parse_codebook(file_path):
     with open(file_path, 'r', encoding='ISO-8859-1') as f:
@@ -59,14 +90,14 @@ def parse_codebook(file_path):
         qid_title_row = first_line
         description_row = answer_blocks[i + 1].strip()
 
-        if (i + 3) >= len(answer_blocks):
-            answer_table_part = description_row
-            meta_row = answer_blocks[i + 2].strip()
-            description_row = ""
-        elif (i + 2) >= len(answer_blocks):
+        if (i + 2) >= len(answer_blocks):
             meta_row = description_row
             description_row = ""
             answer_table_part = ""
+        elif (i + 3) >= len(answer_blocks):
+            answer_table_part = description_row
+            meta_row = answer_blocks[i + 2].strip()
+            description_row = ""
         else:
             answer_table_part = answer_blocks[i + 2].strip()
             meta_row = answer_blocks[i + 3].strip()
@@ -117,11 +148,11 @@ def parse_codebook(file_path):
             i += 4
     
     # Merging question and answer data
-    data = []
+    codebook_data = []
     for q in questions:
         qid = q['question_id']
         ans_info = answers_data.get(qid, {})
-        data.append({
+        codebook_data.append({
             'survey_name': survey_name,
             'category': q['category'],
             'record': ans_info.get('record', ''),
@@ -133,13 +164,39 @@ def parse_codebook(file_path):
             'answers': ans_info.get('answers', '')
         })
     
-    df = pd.DataFrame(data)
-    output_file = os.path.join("/home/yochayc/INES/playground", f"{survey_name}.xlsx")
-    df.to_excel(output_file, index=False)
+    return codebook_data
+
+
+
+if __name__ == "__main__":
+    codebooks_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
+    question_index_file = "/home/yochayc/INES/playground/question_index.xlsx"
+    survey_options_filename = "/home/yochayc/INES/ines-website/src/assets/surveyOptions.json"
+    codebooks_folder = "/home/yochayc/INES/playground/codebooks"
+    output_file = os.path.join("/home/yochayc/INES/playground", "codebooks_data.xlsx")
+
+    excel_data = pd.ExcelFile(question_index_file)
+    
+    # Load survey options json
+    survey_options = None
+    all_codebooks_data = pd.DataFrame()
+
+    with open(survey_options_filename, "r") as file:
+        all_survey_options = json.load(file)
+        survey_options = [survey_option for survey_option in all_survey_options if "codebookId" in survey_option]
+    
+    for survey_option in survey_options:
+        # Download codebook
+        codebook_url = os.path.join(codebooks_url_base, f"{survey_option['codebookId']}.txt")
+        codebook_file = download_file(codebook_url, codebooks_folder)
+
+        # Parse codebook
+        codebook_data = parse_codebook(codebook_file)
+
+        # Append codebook data to all codebooks data
+        codebook_df = pd.DataFrame(codebook_data)
+        all_codebooks_data = pd.concat([all_codebooks_data, codebook_df])
+        
+    # Save all codebooks data to excel
+    all_codebooks_data.to_excel(output_file, index=False)
     print(f"Excel file saved as {output_file}")
-
-
-
-# Main code
-input_file = os.path.join("/home/yochayc/INES/playground", "codebooks", "2006.txt")
-parse_codebook(input_file)

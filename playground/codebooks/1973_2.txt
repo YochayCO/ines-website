@@ -1,0 +1,2031 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 1973, phase 2
+
+                                                           CONTENTS
+
+****    September 1973
+
+      v1                 Identification number                                                                           
+      c2                 During elections time, do you get more interested in politics than usually
+      c3                 How interested are you in Histadrut elections
+      c4                 How interested are you in municipal elections
+      c5                 How interested are you in Knesset elections
+      c6                 Are you statisfied with the way elections for the Knesset are held
+      c7                 Why
+      c8                 During elections do you read more about politics than usually
+      c9                 What political subjects interest you the most
+      c10                Do you read party advertisements in the newspapers
+      c11                Do you read the elections column in the newspapers
+      c12                To what extent do party advertisements help you decide whom to vote for
+      c13                Have you heard party advertisements on the radio
+      c14                If yes, which party's advertisements have you mainly heard
+      c15                To what extent did these advertisements help you decide whom to vote for
+      c16                Have you seen party advertisements on television
+      c17                If yes, which party's advertisements have you mainly seen
+      c18                To what extent did the T.V. advertisements help you decide whom to vote for
+      c19                Who are the leaders you'd like to see most on television (first priority)
+      c20                Who are the leaders you'd like to see most on television (second priority)
+      c21                How would you like to see your first priority on television advertisements
+      c22                How would you like to see your second priority on television advertisements
+      c23                Have you participated in house-meetings in this period
+      c24                To what extent did those house meetings help you decide whom to vote for
+      c25                To what extent do you talk with your friends about politics
+      c26                To what extent are you interested in politics in general
+      c27                How do you see politics in Israel
+      c28                Do you think politicians take advantage of the public through elections for their purposes
+      c29                Do you think the opposition serves the country as much as parties in government
+      c30                Some people want to influence government policy and some don't. How about you?
+      c31                Do you think your vote influences the results of the Knesset elections
+      c32                Do you think the party in government has to be substisuted even if it is doing well
+      c33                Would you say that election day is a holiday for the country and for the people
+      c34                Is it important that everybody participates in the elections for the Knesset
+      c35                Did you vote in the last elections in Israel
+      c36                What are the differences between elections in Israel and in foreign countries (if voted there)
+      c37                Do you think there are differences between the parties in Israel
+      c38                Do you think these differences are in what they say mainly or what they do
+      c39                To what extent is it important to better understand the country's political problems
+      c40                To what extent is it important to better know the parties'stands on political problems
+      c41                To what extent is it important to better know the political leaders
+      c42                To what extent is it important to you to better understand how democracy works
+      c43                To what extent is it important to you to give your children a political education
+      c44                To what extent is it important to you to know which party is closer to your ideas
+      c45                To what extent is it important to you to feel you are part of the people (+country)
+      c46                To what extent is it important to you to express your opinions on political matters
+      c47                To what extent is it important to you to identify with political personalities
+      c48                To what extent is it important to you to behave like your friends
+      c49                To what extent is it important to you to identify with the party you support
+      c50                To what extent is it important to you to influence which party will govern
+      c51                The first problem the government should take care of
+      c52                The second problem the government should take care of
+      c53                Do you believe the government'll solve these 2 problems in the near future
+      c54                Are there differences in the parties' stands on the first problem you metioned above
+      c55                Are there differences in the parties' stands on the second problem you metioned above
+      c56                Do you identify with a specific party's stand on the 1st problem-if yes does it influence your vote                                                                                10
+      c57                Do you identify with a specific party's stand on the 2nd problem-if yes does it influence your vote                                                                                10
+      c58                To what extent do you agree that there is too much social and economic inequality in Israel
+      c59                Is there a party with whose stand on this subject you identify-if yes which
+      c60                To what extent will this issue influence your voting in the next elections
+      c61                Do you think that to maintain Jewish character and to achieve peace we should give up territories                                                                                  11
+      c62                Is there a party with whose stand on occupied territories you identify-which
+      c63                To what extent will this issue influence your next vote
+
+****    DO YOU AGREE WITH THE FOLLOWING STATEMENT
+
+      c65                Corruption and waste were brought into the open. We cannot avoid such incidents
+      c66                Opposition parties attack the government on the corruption issue-do you think
+      c67                Record type
+      d2                 To what extent do you think corruption will influence the election results
+      d3                 To what extent do you think there are differences between parties on corruption
+      d4                 Whose party's stand on this issue do you identify with
+      d5                 To what extent will this issue influence your voting in the next elections
+      d6                 To what extent can you and your friends influence government policy
+      d7                 To what extent do you think the elections have an influence on government's policy
+      d8                 Do you believe what the parties say during election campaign
+      d9                 To what extent are you interested in election campaign as a sport competition
+      d10                Are you active in the present election campaign
+      d11                To what extent does being active in campaign make you more respected by your friends
+      d12                To what extent does being active in campaign help in meeting people, material benifits etc
+      d13                To what extent does this campaign help you better understand our political problems
+      d14                To what extent does this campaign help you know the party's stands on political issues
+      d15                To what extent does this campaign help you know better the political leaders
+      d16                To what extent does this campaign help you understand better how democracy works
+      d17                To what extent does this campaign help you give your children a political education
+      d18                o what extent does this campaign help you know which party's stands are closer to you
+      d19                Do you think it is more important to vote in general or to vote for a particular party
+      d20                Do you think voting for different parties prevents unity so there should be only one
+      d21                Do you think that if the voter doesn't support any specific party he shouldn't vote
+      d22                To what extent does participation in the elections make you feel part of the people
+      d23                To what extent does participation in the elections give the opportunity of expressing your ideas
+      d24                To what extent does participation in the elections give the opportunity to identify with political personas
+      d25                To what extent does participation in the elections give you the opportunity to behave like your friends
+      d26                To what extent does participation in the elections allow you to identify with the party you support
+      d27                To what extent does participation in the elections allow you to influence which party will be in govmnt
+      d28                To what extent does participation in the elections give you pleasure because it is a happy event
+      d29                To what extent does participation in the elections allows you to fulfill obligation to your country
+      d30                To what extent does participation in the elections give you the opportunity to protest against government
+      d31                With what political tendency do you identify
+      d32                Is it important for you personally to vote in the Knesset election
+      d33                Have you heard of the new Likud
+      d34                Do you know which are the parties in this new Likud
+      d35                Do you think it is good that these parties should run together for the Knesset
+      d36                Do you think the Likud is leftwing, right-wing or center
+      d37                Will the creation of the Likud influence your vote to the Knesset
+      d38                To what extent can the Likud/Gahal represent a subsitute for the Labor party in government
+      d39                If the Likud rises to government would that change socio-economic for better or worse
+      d40                Would this rising change security policy for better or for worse
+      d41                Would this rising change waste and corruption for better or for worse
+      d42                Do you support a party,are you a member of one or do you hold a job in one
+      d43                Are you active in any public organization(workers union, Wizo, B'nei Brith, etc)
+      d44                Will a change in government bring a change in your personal situation
+      d45                Do you intend to vote in the Knesset elections
+      d46                To what extent are you certain about whom you'll vote for
+      d47                Why aren't you certain about whom you'll vote for
+      d48                When do you think you'll decide whom you'll vote for
+      d49                What will help you make up your mind
+      d50                Will you vote in the Histadrut elections
+      d51                If yes-whom will you vote for
+      d52                If no why
+      d53                We interviewed you a month ago.Is it clearer to you now whom you'll vote for
+      d54                Why do you think so
+      d55                The first party (out of 3) closest to you
+      d56                The second party (out of 3) closest to you
+      d57                The third party (out of 3) closest to you
+      d58                The first party (out of 3) furthest from you
+      d59                The second party (out of 3) furthest from you
+      d60                The third party (out of 3)furthest from you
+      d61                Record type
+
+****    HOW WOULD YOU CLASSFIFY THE OTHER PARTIES BY PROXIMITY TO YOUR VIEWPOINTS
+
+      e3                 The first one
+      e4                 The second one
+      e5                 The third one
+      e6                 The fourth one
+      e7                 If the elections were held today, whom would you vote for
+      e8                 Will you vote for the same party you voted for last time
+      e9                 If yes, to what extent did you take into con-sideration loyalty to the party voted previously
+      e10                If no, why did you change your mind
+      e11                What do you think is the most important problem the mayor should take care of
+      e12                What party is capable of solving the city's most important problem
+      e13                To what extent are you satisfied with the services you receive from city hall
+      e14                Do you think it would be good to have a new mayor in your city
+      e15                For which public service provided by the municipality would you agree to pay more taxes
+      e16                Sex
+      e17                Age
+      e18                Marital status
+      e19                Where were you and your father born
+      e20                Record type
+
+=========================================================================================
+
+      v1                 Identification number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      c2                 During elections time, do you get more interested in politics than usually
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Much more interested
+                  2  More interested
+                  3  Less interested
+                  4  Much less interested
+                  5  Just as much
+
+              Data type: numeric
+              Record/column: 1/5
+
+      c3                 How interested are you in Histadrut elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very interested
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/6
+
+      c4                 How interested are you in municipal elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/7
+
+      c5                 How interested are you in Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/8
+
+      c6                 Are you statisfied with the way elections for the Knesset are held
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very satisfied
+                  2  Satisfied
+                  3  Not so satisfied
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/9
+
+      c7                 Why
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Not satisfied: prefer direct personal elections
+                  2  Not satisfied: it's a waste of money
+                  3  Not satisfied: because of the accusations, lies and promises in the air
+                  4  Not satisfied: badly done propaganda
+                  5  Not satisfied: I'm not interested, don't understand
+                  6  Other
+                  7  Satisfied: they're held in a democratic and honest way
+                  8  Satisfied: other
+
+              Data type: numeric
+              Record/column: 1/10
+
+      c8                 During elections do you read more about politics than usually
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Much more
+                  2  More
+                  3  Less
+                  4  Much less
+                  5  Don't read about politics
+                  6  Read the same as usual
+
+              Data type: numeric
+              Record/column: 1/11
+
+      c9                 What political subjects interest you the most
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security, territories, peace
+                  2  Economy
+                  3  Social problems (poverty, etc.)
+                  4  Other domestic problems (religion, education, etc.)
+                  5  Combination of foreign (security) and domestic (security and economy)problems
+                  6  Other
+                  7  None
+
+              Data type: numeric
+              Record/column: 1/12
+
+      c10                Do you read party advertisements in the newspapers
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Often
+                  2  Sometimes
+                  3  Rarely
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/13
+
+      c11                Do you read the elections column in the newspapers
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Often
+                  2  Sometimes
+                  3  Rarely
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/14
+
+      c12                To what extent do party advertisements help you decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/15
+
+      c13                Have you heard party advertisements on the radio
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/16
+
+      c14                If yes, which party's advertisements have you mainly heard
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked (Communist Party and Meir Pail)
+                  7  Rakach
+                  8  Haolam Haze
+                  9  Israeli Democrats (Panthers)
+                 10  Likud (Gahal, Free Center, Reshima Mamlachtit)
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free center
+                 14  Other
+                 15  All of them
+                 19  Didn't hear
+
+              Data type: numeric
+              Record/columns: 1/17-18
+
+      c15                To what extent did these advertisements help you decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/19
+
+      c16                Have you seen party advertisements on television
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/20
+
+      c17                If yes, which party's advertisements have you mainly seen
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked (Communist Party and Meir Pail)
+                  7  Rakach
+                  8  Haolam Haze
+                  9  Israeli Democrats (Panthers)
+                 10  Likud (Gahal, Free Center, Reshima Mamlachtit)
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free center
+                 14  Other
+                 15  All of them
+                 19  Didn't hear
+
+              Data type: numeric
+              Record/columns: 1/21-22
+
+      c18                To what extent did the T.V. advertisements help you decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/23
+
+      c19                Who are the leaders you'd like to see most on television (first priority)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Golda Meir
+                  2  Moshe Dayan
+                  3  Menachem Begin
+                  4  Shmuel Tamir
+                  5  Igal Alon
+                  6  Arik Sharon
+                  7  Other
+                  8  Doesn't want to see anyone
+
+              Data type: numeric
+              Record/column: 1/24
+
+      c20                Who are the leaders you'd like to see most on television (second priority)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Golda Meir
+                  2  Moshe Dayan
+                  3  Menachem Begin
+                  4  Shmuel Tamir
+                  5  Igal Alon
+                  6  Arik Sharon
+                  7  Other
+                  8  Doesn't want to see anyone
+
+              Data type: numeric
+              Record/column: 1/25
+
+      c21                How would you like to see your first priority on television advertisements
+
+              VALUE  LABEL
+                  0  No answer
+                  1  In his political activities
+                  2  In his private life
+
+              Data type: numeric
+              Record/column: 1/26
+
+      c22                How would you like to see your second priority on television advertisements
+
+              VALUE  LABEL
+                  0  No answer
+                  1  In his political activities
+                  2  In his private life
+
+              Data type: numeric
+              Record/column: 1/27
+
+      c23                Have you participated in house-meetings in this period
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/28
+
+      c24                To what extent did those house meetings help you decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/29
+
+      c25                To what extent do you talk with your friends about politics
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/30
+
+      c26                To what extent are you interested in politics in general
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/31
+
+      c27                How do you see politics in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/32
+
+      c28                Do you think politicians take advantage of the public through elections for their purposes
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agree
+                  2  Agree
+                  3  Have reservations
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/33
+
+      c29                Do you think the opposition serves the country as much as parties in government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely yes
+                  2  Maybe yes
+                  3  Maybe no
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/34
+
+      c30                Some people want to influence government policy and some don't. How about you?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely want to influence
+                  2  Want to influence
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/35
+
+      c31                Do you think your vote influences the results of the Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/36
+
+      c32                Do you think the party in government has to be substisuted even if it is doing well
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agree
+                  2  Agree
+                  3  Disagree
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/37
+
+      c33                Would you say that election day is a holiday for the country and for the people
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agree
+                  2  Agree
+                  3  Disagree
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/38
+
+      c34                Is it important that everybody participates in the elections for the Knesset
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agree
+                  2  Agree
+                  3  Disagree
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/39
+
+      c35                Did you vote in the last elections in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/40
+
+      c36                What are the differences between elections in Israel and in foreign countries (if voted there)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Elections are democratic here
+                  2  No difference
+                  3  Other
+                  9  Never voted in another country
+
+              Data type: numeric
+              Record/column: 1/41
+
+      c37                Do you think there are differences between the parties in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very big differences
+                  2  Big difference
+                  3  Small differences
+                  4  Very small differences
+                  5  No differences
+
+              Data type: numeric
+              Record/column: 1/42
+
+      c38                Do you think these differences are in what they say mainly or what they do
+
+              VALUE  LABEL
+                  0  No answer
+                  1  It's in what they say
+                  2  It's in what they do
+                  3  There are differences in both
+                  9  There are no differences
+
+              Data type: numeric
+              Record/column: 1/43
+
+      c39                To what extent is it important to better understand the country's political problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/44
+
+      c40                To what extent is it important to better know the parties'stands on political problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/45
+
+      c41                To what extent is it important to better know the political leaders
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/46
+
+      c42                To what extent is it important to you to better understand how democracy works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/47
+
+      c43                To what extent is it important to you to give your children a political education
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/48
+
+      c44                To what extent is it important to you to know which party is closer to your ideas
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/49
+
+      c45                To what extent is it important to you to feel you are part of the people (+country)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/50
+
+      c46                To what extent is it important to you to express your opinions on political matters
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/51
+
+      c47                To what extent is it important to you to identify with political personalities
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/52
+
+      c48                To what extent is it important to you to behave like your friends
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/53
+
+      c49                To what extent is it important to you to identify with the party you support
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/54
+
+      c50                To what extent is it important to you to influence which party will govern
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/55
+
+      c51                The first problem the government should take care of
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security (territories)
+                  2  Peace
+                  3  Economy
+                  4  Social and domestic problems
+                  5  Immigration and absorption
+                  6  Social inequality (poverty, etc.)
+                  7  Young couples, housing
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/56
+
+      c52                The second problem the government should take care of
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security (territories)
+                  2  Peace
+                  3  Economy
+                  4  Social and domestic problems
+                  5  Immigration and absorption
+                  6  Social inequality (poverty, etc.)
+                  7  Young couples, housing
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/57
+
+      c53                Do you believe the government'll solve these 2 problems in the near future
+
+              VALUE  LABEL
+                  0  No answer
+                  1  It will soon solve both
+                  2  It will soon solve the first
+                  3  It will soon solve the second
+                  4  It will solve neither in the near future
+
+              Data type: numeric
+              Record/column: 1/58
+
+      c54                Are there differences in the parties' stands on the first problem you metioned above
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very big differences
+                  2  Big differences
+                  3  Small differences
+                  4  Very small differences
+                  5  No differences
+
+              Data type: numeric
+              Record/column: 1/59
+
+      c55                Are there differences in the parties' stands on the second problem you metioned above
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very big differences
+                  2  Big differences
+                  3  Small differences
+                  4  Very small differences
+                  5  No differences
+
+              Data type: numeric
+              Record/column: 1/60
+
+      c56                Do you identify with a specific party's stand on the 1st problem-if yes does it influence your vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very much
+                  2  It influences
+                  3  Not so much
+                  4  Not at all
+                  5  I don't identify with any party's stand
+
+              Data type: numeric
+              Record/column: 1/61
+
+      c57                Do you identify with a specific party's stand on the 2nd problem-if yes does it influence your vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very much
+                  2  It influences
+                  3  Not so much
+                  4  Not at all
+                  5  I don't identify with any party's stand
+
+              Data type: numeric
+              Record/column: 1/62
+
+      c58                To what extent do you agree that there is too much social and economic inequality in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agree
+                  2  Agree
+                  3  Disagree
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/63
+
+      c59                Is there a party with whose stand on this subject you identify-if yes which
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked (communist party and Meir Pail)
+                  7  Rakah
+                  8  Haolam Haze
+                  9  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free Centre
+                 14  Other
+                 15  I don't identify with any party's stand
+
+              Data type: numeric
+              Record/columns: 1/64-65
+
+      c60                To what extent will this issue influence your voting in the next elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/66
+
+      c61                Do you think that to maintain Jewish character and to achieve peace we should give up territories
+
+              VALUE  LABEL
+                  0  No answer
+                  1  We shouldn't give anything back
+                  2  We should give back only a small part
+                  3  We should give back a large part
+                  4  We should give everything back
+
+              Data type: numeric
+              Record/column: 1/67
+
+      c62                Is there a party with whose stand on occupied territories you identify-which
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked (communist party and Meir Pail)
+                  7  Rakah
+                  8  Haolam Haze
+                  9  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free Centre
+                 14  Other
+                 15  I don't identify with any party's stand
+
+              Data type: numeric
+              Record/column: 1/68
+
+      c63                To what extent will this issue influence your next vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/70
+
+      c65                Corruption and waste were brought into the open. We cannot avoid such incidents
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agree
+                  2  Agree
+                  3  Disagree
+                  4  Absolutely disagree
+
+              Data type: numeric
+              Record/column: 1/71
+
+      c66                Opposition parties attack the government on the corruption issue-do you think
+
+              VALUE  LABEL
+                  0  No answer
+                  1  In a situation of economic development it is impossible to avoid such incidents
+                  2  These incidents point out to a moral degeneration that has to be stopped at its root
+
+              Data type: numeric
+              Record/column: 1/72
+
+      c67                Record type
+
+              Data type: numeric
+              Record/column: 1/80
+
+      d2                 To what extent do you think corruption will influence the election results
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/5
+
+      d3                 To what extent do you think there are differences between parties on corruption
+
+              VALUE  LABEL
+                  0  No answer
+                  1  There certainly are differences
+                  2  There are differences
+                  3  Maybe there are differences
+                  4  There are no differences
+
+              Data type: numeric
+              Record/column: 2/6
+
+      d4                 Whose party's stand on this issue do you identify with
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked (communist party and Meir Pail)
+                  7  Rakah
+                  8  Haolam Haze
+                  9  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free Centre
+                 14  Other
+                 15  I don't identify with any party's stand
+
+              Data type: numeric
+              Record/columns: 2/7-8
+
+      d5                 To what extent will this issue influence your voting in the next elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/9
+
+      d6                 To what extent can you and your friends influence government policy
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/10
+
+      d7                 To what extent do you think the elections have an influence on government's policy
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/11
+
+      d8                 Do you believe what the parties say during election campaign
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/12
+
+      d9                 To what extent are you interested in election campaign as a sport competition
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/13
+
+      d10                Are you active in the present election campaign
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very active
+                  2  Active
+                  3  Not so active
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/14
+
+      d11                To what extent does being active in campaign make you more respected by your friends
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+                  9  Not active
+
+              Data type: numeric
+              Record/column: 2/15
+
+      d12                To what extent does being active in campaign help in meeting people, material benifits etc
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+                  9  Not active
+
+              Data type: numeric
+              Record/column: 2/16
+
+      d13                To what extent does this campaign help you better understand our political problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/17
+
+      d14                To what extent does this campaign help you know the party's stands on political issues
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/18
+
+      d15                To what extent does this campaign help you know better the political leaders
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/19
+
+      d16                To what extent does this campaign help you understand better how democracy works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/20
+
+      d17                To what extent does this campaign help you give your children a political education
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/21
+
+      d18                o what extent does this campaign help you know which party's stands are closer to you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/22
+
+      d19                Do you think it is more important to vote in general or to vote for a particular party
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Voting in general is important
+                  2  Voting for a particular party is more important
+
+              Data type: numeric
+              Record/column: 2/23
+
+      d20                Do you think voting for different parties prevents unity so there should be only one
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Voting in general is important
+                  2  Voting for a particular party is more important
+
+              Data type: numeric
+              Record/column: 2/24
+
+      d21                Do you think that if the voter doesn't support any specific party he shouldn't vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  He shouldn't vote
+                  2  He should
+                  3  He should vote for some party
+
+              Data type: numeric
+              Record/column: 2/25
+
+      d22                To what extent does participation in the elections make you feel part of the people
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/26
+
+      d23                To what extent does participation in the elections give the opportunity of expressing your ideas
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/27
+
+      d24                To what extent does participation in the elections give the opportunity to identify with political personas
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/28
+
+      d25                To what extent does participation in the elections give you the opportunity to behave like your friends
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/29
+
+      d26                To what extent does participation in the elections allow you to identify with the party you support
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/30
+
+      d27                To what extent does participation in the elections allow you to influence which party will be in govmnt
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/31
+
+      d28                To what extent does participation in the elections give you pleasure because it is a happy event
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/32
+
+      d29                To what extent does participation in the elections allows you to fulfill obligation to your country
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/33
+
+      d30                To what extent does participation in the elections give you the opportunity to protest against government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/34
+
+      d31                With what political tendency do you identify
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Right
+                  5  Religious
+
+              Data type: numeric
+              Record/column: 2/35
+
+      d32                Is it important for you personally to vote in the Knesset election
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very important
+                  2  Important
+                  3  Not so important
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/36
+
+      d33                Have you heard of the new Likud
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/37
+
+      d34                Do you know which are the parties in this new Likud
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Knew the three parties
+                  2  Knew two parties
+                  3  Knew one party
+                  4  Gave a wrong answer
+                  5  Din not know
+
+              Data type: numeric
+              Record/column: 2/38
+
+      d35                Do you think it is good that these parties should run together for the Knesset
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/39
+
+      d36                Do you think the Likud is leftwing, right-wing or center
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Leftwing
+                  2  Rightwing
+                  3  Center
+                  4  Didn't understand the question
+
+              Data type: numeric
+              Record/column: 2/40
+
+      d37                Will the creation of the Likud influence your vote to the Knesset
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Will influence very much
+                  2  Will influence
+                  3  Not so much
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/41
+
+      d38                To what extent can the Likud/Gahal represent a subsitute for the Labor party in government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/42
+
+      d39                If the Likud rises to government would that change socio-economic for better or worse
+
+              VALUE  LABEL
+                  0  No answer
+                  1  For better
+                  2  No changes
+                  3  For worse
+
+              Data type: numeric
+              Record/column: 2/43
+
+      d40                Would this rising change security policy for better or for worse
+
+              VALUE  LABEL
+                  0  No answer
+                  1  For better
+                  2  No changes
+                  3  For worse
+
+              Data type: numeric
+              Record/column: 2/44
+
+      d41                Would this rising change waste and corruption for better or for worse
+
+              VALUE  LABEL
+                  0  No answer
+                  1  For better
+                  2  No changes
+                  3  For worse
+
+              Data type: numeric
+              Record/column: 2/45
+
+      d42                Do you support a party,are you a member of one or do you hold a job in one
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Member and holds a job
+                  2  Member and holds a non-paying job
+                  3  Member
+                  4  Supporter
+                  5  Doesn't support any party
+
+              Data type: numeric
+              Record/column: 2/46
+
+      d43                Are you active in any public organization(workers union, Wizo, B'nei Brith, etc)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very active
+                  2  Active
+                  3  Not so active
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/47
+
+      d44                Will a change in government bring a change in your personal situation
+
+              VALUE  LABEL
+                  0  No answer
+                  1  It will directly affect my personal situation
+                  2  It will change the country's situation, therefore mine too
+                  3  It won't affect my situation
+
+              Data type: numeric
+              Record/column: 2/48
+
+      d45                Do you intend to vote in the Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  I think so
+                  3  I don't think so
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 2/49
+
+      d46                To what extent are you certain about whom you'll vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/50
+
+      d47                Why aren't you certain about whom you'll vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  There is no one to vote for
+                  2  I haven't made up my mind yet
+                  3  Other
+                  9  Already know who to vote for
+
+              Data type: numeric
+              Record/column: 2/51
+
+      d48                When do you think you'll decide whom you'll vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  In a few days
+                  2  Within a month
+                  3  Closer to election time
+                  9  Already know who to vote for
+
+              Data type: numeric
+              Record/column: 2/52
+
+      d49                What will help you make up your mind
+
+              VALUE  LABEL
+                  0  No answer
+                  1  The media (newspapers, T.V., Radio)
+                  2  Nothing specific
+                  3  Other
+                  4  Doesn't indend to vote
+                  9  Already know who to vote for
+
+              Data type: numeric
+              Record/column: 2/53
+
+      d50                Will you vote in the Histadrut elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  I think so
+                  3  I don't think so
+                  4  Certainly not
+                  5  Does not have right to vote
+
+              Data type: numeric
+              Record/column: 2/54
+
+      d51                If yes-whom will you vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Alignment Labor-Mapam
+                  2  Haoved Hadati
+                  3  Brit Smol (Leftist Alliance
+                  4  Moked (Meir Pail and communist party)
+                  5  Meri (Haolam Haze)
+                  6  Likud (Gahal, Reshima Mamlachtit, Free center)
+                  7  Achva (Brotherhood)
+                  8  Tnuat Avoda Liberalim (Independant Liberals)
+                  9  Other
+
+              Data type: numeric
+              Record/column: 2/55
+
+      d52                If no why
+
+              VALUE  LABEL
+                  0  Does not have right to vote
+                  1  There's no one to vote for
+                  2  The Histadrut is inefficient
+                  3  Other
+
+              Data type: numeric
+              Record/column: 2/56
+
+      d53                We interviewed you a month ago.Is it clearer to you now whom you'll vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Much clearer
+                  2  Clearer
+                  3  Less clear
+                  4  Much less clear
+                  5  Just as clear
+
+              Data type: numeric
+              Record/column: 2/57
+
+      d54                Why do you think so
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Clearer: because of the media (radio, T.V., newspapers advertisements)
+                  2  Clearer: it's closer to elections (time factor)
+                  3  Clear: other
+                  4  Less clear: I don't like any of the parties
+                  5  Less clear: other
+
+              Data type: numeric
+              Record/column: 2/58
+
+      d55                The first party (out of 3) closest to you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked (communist party and Meir Pail)
+                  7  Rakah
+                  8  Meri (Haolam Haze)
+                  9  Israeli Democrats
+                 10  Likud (Gahal, Reshima Mamlachtit, Free center)
+
+              Data type: numeric
+              Record/columns: 2/59-60
+
+      d56                The second party (out of 3) closest to you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri (Haolam Haze)
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 2/61-62
+
+      d57                The third party (out of 3) closest to you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 2/63-64
+
+      d58                The first party (out of 3) furthest from you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 2/65-66
+
+      d59                The second party (out of 3) furthest from you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 2/67-68
+
+      d60                The third party (out of 3)furthest from you
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 2/69-70
+
+      d61                Record type
+
+              Data type: numeric
+              Record/column: 2/80
+
+      e3                 The first one
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 3/5-6
+
+      e4                 The second one
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 3/7-8
+
+      e5                 The third one
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 3/9-10
+
+      e6                 The fourth one
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+
+              Data type: numeric
+              Record/columns: 3/11-12
+
+      e7                 If the elections were held today, whom would you vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free Center
+                 14  Other
+
+              Data type: numeric
+              Record/columns: 3/13-14
+
+      e8                 Will you vote for the same party you voted for last time
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+                  3  Didn't vote before
+
+              Data type: numeric
+              Record/column: 3/15
+
+      e9                 If yes, to what extent did you take into con-sideration loyalty to the party voted previously
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/16
+
+      e10                If no, why did you change your mind
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Disappointment with the party
+                  2  Emergence of a new party
+                  3  Other
+
+              Data type: numeric
+              Record/column: 3/17
+
+      e11                What do you think is the most important problem the mayor should take care of
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Services improvement
+                  2  City developmen and enlargement
+                  3  Sources of income (industries, hotels)
+                  4  Other
+
+              Data type: numeric
+              Record/column: 3/18
+
+      e12                What party is capable of solving the city's most important problem
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Independant Liberals
+                  2  Alignment Labor-Mapam
+                  3  Poalei Agudat Israel
+                  4  National Religious Party
+                  5  Agudat Israel
+                  6  Moked
+                  7  Rakah
+                  8  Meri
+                  9  Israeli Democrats
+                 10  Likud
+                 11  Gahal
+                 12  Reshima Mamlachtit
+                 13  Free Center
+                 14  Other
+                 15  No party can solve it
+
+              Data type: numeric
+              Record/columns: 3/19-20
+
+      e13                To what extent are you satisfied with the services you receive from city hall
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/21
+
+      e14                Do you think it would be good to have a new mayor in your city
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/22
+
+      e15                For which public service provided by the municipality would you agree to pay more taxes
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Welfare
+                  2  Children's education
+                  3  Garbage collecting
+                  4  Streets cleaning
+                  5  Medical care
+                  6  Cultural activities
+                  7  Youth Activities
+                  8  Non of the above
+
+              Data type: numeric
+              Record/column: 3/23
+
+      e16                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 3/24
+
+      e17                Age
+
+              VALUE  LABEL
+                  1  20-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 3/25
+
+      e18                Marital status
+
+              VALUE  LABEL
+                  1  Single
+                  2  Widow/devorcee without children
+                  3  Married without children
+                  4  Widow/divorcee 1-2 children
+                  5  Widow/divorcee 3-4 children
+                  6  Widow/divorcee 4+ children
+                  7  Married with 1-2 children
+                  8  Married with 3-4 children
+                  9  Married with 4+ children
+
+              Data type: numeric
+              Record/column: 3/26
+
+      e19                Where were you and your father born
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Interviewee:Israel,father:Israel
+                  2  Interviewee:Israel,father:Asia Africa
+                  3  Interviewee:Israel,father:Europe-America
+                  4  Interviewee:Asia-Africa,father:Asia- Africa
+                  5  Interviewee:Europe-America,father:Europe America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 3/27
+
+      e20                Record type
+
+              Data type: numeric
+              Record/column: 3/80
+

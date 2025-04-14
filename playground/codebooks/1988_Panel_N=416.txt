@@ -1,0 +1,5124 @@
+
+                                                           CODEBOOK
+
+
+                                                 Election Study 1987-1988 panel
+
+                                                           CONTENTS
+
+      v1                 Identification number
+      v2                 Evaluation of Israel's present national security
+      v3                 Evaluation of Israel's national security 5 years ago
+      v4                 Evaluation of Israel's national security in 5 years
+      v5                 Which of the following 3 solutions to the problem of the territories is most acceptable
+      v6                 Which of the 2 possibilities should Israel choose
+
+****    REASONS FOR KEEPING JUDEA, SAMARIA AND GAZA
+
+      v8                 We have a right over Judea,Samaria and Gaza
+      v9                 Prevents establishment of a Palestinian state that will endanger our security
+      v10                Gives strategic depth in case of war in the east front
+      v11                Could be used in negotiating peace with Jordan
+      v12                Evaluation of government policy in territories
+      v13                The contribution of the settlements in Judea & Samaria to the country's security
+      v14                The influence of our presence in the territories on the morale of the IDF
+      v15                Whose voice should be heard regarding the future of the territories
+      v16                Evaluation of differences between two major parties on security issues
+      v17                Rights to be given to Palestinians if territories are annexed
+      v18                Should a Palestinian autonomy be established in Judea, Samaria and Gaza
+      v19                Should Israel agree to establishing a Palestinian state in the occupied territories
+      v20                Should Israel agree to concession of the Golan Heights for peace
+      v21                Possibility of ending Arab terror through military action alone
+      v22                What should be the main direction in fighting against terror
+      v23                What should be the appropriate response in event of Katusha bombing of the Galilee
+      v24                Was the war in Lebanon worth while considering the consequences
+      v25                Should Israel agree to negotiate with P.L.O. taking into account the current situation
+      v26                Should Israel agree to negotiate with P.L.O. providing P.L.O. recognizes Israel and renounces terror
+      v27                In principle, is respondent for or against death penalty for terrorists
+
+****    RESPONDENT'S ATTITUDE TOWARD THE FOLLOWING ACTIONS
+
+      v29                Attitude toward the destruction of houses whose owners hosted terrorists and knew that they are terrorists
+      v30                Attitude toward the deportation of people who have maintained contact with terrorists' organizations
+      v31                Retaliation against terrorists' bases if this does not endanger Arab civilians
+      v32                Bombing terrorists' bases even if civilians get hurt
+      v33                Terrorist' attacks on terrorists' leaders
+      v34                Retaliation against states who sponsor terror
+      v35                Should Israel exchange life-time sentenced terrorists for Israeli hostages
+      v36                Should Israel exchange life-time sentenced terrorists for IDF soldiers held by terrorists
+
+****    SHOULD ISRAEL INITIATE WAR IN EACH OF THE FOLLOWING SITUATIONS
+
+      v38                Should Israel initiate war as a defense against an attempt to destroy Israel
+      v39                Should Israel initiate war to prevent an attempt to resieze territories captured by us
+      v40                Should Israel initiate war to prevent or stop a war of attrition held against us
+      v41                Should Israel initiate war to destroy the military power of a strengthening enemy to prevent a future threat
+      v42                Should Israel initiate war to overthrow a hostile regime and set a lenient one to sign a peace treaty with
+      v43                Should Israel initiate war to capture strategic territories
+      v44                Following Information on intent to start a border incident
+      v45                Following a U.S. request for assistance in defending her interests
+      v46                To help friendly elements in the area (e.g. Lebanese Christians)
+      v47                To destroy terrorists' bases targeted against us
+      v48                Should Israel develop atomic weapons
+      v49                Are there circumstances where it would be justified to use atomic weapons
+
+****    SHOULD ISRAEL USE ATOMIC WEAPON IN EACH OF THE FOLLOWING
+
+      v51                Should Israel use atomic weapon as a response to an atomic attack from another country
+      v52                Should Israel use atomic weapon to prevent defeat in a conventional war
+      v53                Should Israel use atomic weapon to save many people's lives
+      v54                Should Israel use atomic weapon to save some people's lives
+      v55                Should Israel use atomic weapon as a weapon, instead of using the regular army
+      v56                Does respondent think Israel has atomic weapons
+      v57                If Israel has atomic weapons, should it be kept a secret
+      v58                How would respondent define himself on the hawks and doves continuum
+      v59                What should Israel emphasize to prevent a war against the Arab countries
+      v61                A peace process should be initiated, even at the price of territorial concessions
+      v62                Individuals should sacrifice personally,economically to ensure our strength
+      v63                Atomic weapons should be developed to deter the Arabs
+      v64                Israel should sign a defense treaty with the U.S. to prevent Arab aggression
+      v65                Israel should encourage Arab emigration
+      v66                Possibility of Israeli-Arab peace in future
+      v67                Israel's ability to affect Arab peace policy
+      v68                Probability of signing a peace treaty with another Arab country within 3 years
+      v69                Probability of Israeli-Arab war within 3 years
+      v70                Most dangerous enemies of Israel
+      v701               Second most dangerous enemies of Israel
+      v71                Today, are you for or against the peace agreement with Egypt
+      v72                At the time were you for or against the peace agreement with Egypt
+
+****    THE EXTENT OF APPROVAL OF THE FOLLOWING SAYINGS
+
+      v74                Of all the viewpoints, there must be one and only one which is correct
+      v75                Under no circumstance should people take the law into their hands
+      v76                In cases where state interests interfere with personal ones the latter should prevail
+      v77                No returning of any of Israel's land is a must
+      v78                God will protect us if we are worthy even if we are unprepared for war
+      v79                To what extent do you believe in our exisence in Israel in the long run
+
+****    ISRAEL'S CAPABILITY OF COPING WITH VARIOUS SITUATIONS
+
+      v81                Israel's capability of total Israeli-Arab war
+      v82                Israel's capability of war against Syria alone
+      v83                Israel's capability of increase of terrorist activity
+      v84                Israel's capability of decrease of American support
+      v85                Israel's capability of Israeli Arabs' civilian uprising
+      v86                Israel's capability of territories Arabs' uprising
+      v87                USSR will assist Arab states against us
+      v88                What probability does respondent attach to Israel's destruction
+      v89                Level of rationality of Israel's foreign and security policy
+      v90                Level of rationality of the Arab states' foreign and security policy
+      v91                Estimate of the Arabs' ultimate goal
+
+****    WHICH OF THE FOLLOWING IS A REASON FOR THE ARABS OBJECTING TO ISRAEL'S EXISTENCE
+
+      v93                Reason for the arabs objecting to Israels' existence:They nurture hatred towards Jews
+      v94                Reason for the arabs objecting to Israels' existence:Israel is an alien element in the Middle East
+      v95                Reason for the arabs objecting to Israels' existence:Our technological advantage scares them
+      v96                Reason for the arabs objecting to Israels' existence:They view Israeli land as Arab land which should be returned to owners
+      v97                Reason for the arabs objecting to Israels' existence:They only want to retrieve those lands which were taken during the 6 Day War
+      v98                Reason for the arabs objecting to Israels' existence:They fear future Israeli aggressiveness
+      v99                From the above list name main cause for their opposition to us
+      v991               From the above list name second main cause for their opposition to us
+
+****    WHICH OF THE FOLLOWING WOULD YOU BE WILLING TO GIVE TO MAINTAIN/STRENGTHEN THE SECURITY
+
+      v101               Willingness to have taxes raised so that the respondent pays more to increase security budget
+      v102               Willingness to serve more in the army
+      v103               Willingness to serve more in the reserve service
+      v104               Is the burden of the military service divided up justly
+      v105               Is the reserve military service used efficiently or wasted
+      v106               What is your opinion on the length of military service
+      v107               What is your opinion of the defense budget
+      v108               What would be your opinion of the defense budget should economic state get worse
+      v109               What do you think of cutting social services to increase defense budget
+      v110               What do you think of IDF increasing/decreasing its power in last 5 years
+      v111               Who should determine IDF's future weapon systems
+      v112               What is your attitude towards the continuation of the Lavi project
+      v113               Are decisions regarding military matters affected by objective considerations
+      v114               Who determines Israel's defense policy for the most part
+      v115               Should security considerations override other social/ecconomic considerations
+      v116               Should security considerations override the law
+      v117               How does the current leadership view the security/law dichotomy
+      v118               How did the first years' leadership view the security/law dichotomy
+      v119               Is there enough supervision over the Mossad and the Shin-Beit
+
+****    THE EXTENT OF APPROVAL OF THE FOLLOWING
+
+      v121               The keeper of Israel shall not sleep
+      v122               Massada will never fall again
+      v123               The whole world is against us
+      v124               The glory of Israel shall not die
+      v125               Israel has been and always will be isolated
+      v126               I would die for my country
+      v127               If he come to slay thee, forestall by slaying him
+      v128               The best defense is offense
+      v129               Military victory enhances the peace process
+      v130               The keeper of Israel shall not sleep-who is the keeper of Israel
+      v131               Should Israel supply non-democratic and hostile states (such as Iran)with weapons
+      v132               Respondent's opinion of a peace conference with the sponsorship of the superpowers
+      a2                 Should the government take public opinion into consideration when waging a war
+      a3                 Support of government in security crisis even if disagreeing with it's way
+
+****    IS A HIGH RANKING MILITARY MAN ENTITLED TO DO THE FOLLOWING
+
+      a5                 Discuss his disapproval of government policy with his superiors
+      a6                 Send anonymous letters to the press
+      a7                 Express his opinion openly in the media if it does not harm state security
+      a8                 Request to release him from duty
+      a9                 Refuse to follow orders concerning policy
+      a10                Media's treatment of security matters
+      a11                Media's coverage of security matters
+      a12                Reliability of statements made by the country's leaders on security matters
+      a13                Are security related decisions influenced by non-related considerations
+      a14                How well does the public understand security matters to be able to express an opinion
+      a15                Frequency of expressing own opinion on security matters, including protest letters
+      a16                To what extent do you and your friends influence decisions on security matters
+      a17                How well do you understand security matters to express an opinion
+
+****    FOR EACH OF THE FOLLOWING STATE "AGREE" OR "DISAGREE"
+
+      a19                In daily life the ends which are important to me justify the means
+      a20                The criticism of Israel stems mainly from anti-semitism
+      a21                Israel should take into consideration the gentiles' opinions
+      a22                Several strong leaders can do more good than any discussion or law
+
+****    TRY TO ANSWER THE FOLLOWING THE BEST YOU CAN
+
+      a24                What part of the government budget is the defense budget
+      a25                Which country makes the F-16 aircraft
+      a26                What is the U.S annual military aid to Israel
+      a27                Does IDF have submarines
+      a28                How many terrorists were released following the agreement with Gibril (1985)
+      a29                Do Arabs from the occupied territories have a right to appeal to the supreme court
+      a30                Do Arabs from the occupied territories have a right to vote for the Knesset
+      a31                Are most people trust-worthy or not
+      a32                Do you think most people tend more to look after other people or only after themselves
+      a33                Which of the following is most important to you
+      a34                Which of the following reflects your stand on the society issue in Israel
+
+****    RESPONDENT'S ATTITUDE TOWARD THE FOLLOWING
+
+      a36                If a person does not look after himself, no one will
+      a37                Life is mainly a struggle for survival
+      a38                Compromise with political rivals is dangerous-it leads to betrayal of principles
+      a39                A group which allows different ideas among members cannot survive
+      a40                People divide up into 2 groups: those who support the right views and those who don't
+      a41                Most ideas written today aren't worth the paper used
+      a42                It is better to choose friends whose ideas are similar to your own
+      a43                Most people don't know what's good for them
+
+****    THE FOLLOWING ARE QUESTIONS ON YOUR FEELINGS ABOUT ISRAEL-U.S RELATIONS
+
+      a45                What opinion do you have of the U.S
+      a46                Is your opinion of the U.S more for the good or bad
+      a47                How would you describe current relations with the U.S.
+      a48                How much can Israel depend on U.S. as a weapons' supplier
+      a49                Is Israel justified in spying in the US to get information relevant to her security
+      a50                Is the US justified in spying in Israel to get information relevant to her security
+      a51                The chances for another world war
+      a52                The main problem facing the government today
+      a54                Are you satisfied with your life in general
+
+****    FOR EACH OF THE FOLLOWING GIVE A MARK FROM 1-9
+
+      a56                Your personal state
+      a57                Your personal state 5 years ago
+      a58                Your personal state 5 years from now
+      a59                Do you support or are active in any party
+      a60                Where do you place yourself in the left-right scale (1-7)
+      a61                What effect will the security situation have on your voting to the Knesset (closest)
+      a62                Which party reflects your view on security matters
+      a63                If elections were held now who would you vote for
+      a64                For which party did you vote in the 1984 elections
+      a65                When did you first vote for the Knesset
+      a66                Which party did you vote for for the first time
+      a67                Which party did your father vote for during the last elections
+      a68                Which party did your mother vote for during last elections
+      a69                Marital status
+      a70                For which party did your spouse vote
+      a71                Do you think you are influenced by your family members' votes
+      a72                Who do you think influences your vote mostly
+      a73                Which of these social groups influences your vote mostly
+      a74                To what extent is it important to you not to be considered a political anomaly
+      a75                How often do you discuss political matters with your family
+      a76                With whom do you discuss political matters for the most part
+      a77                When you lived with your parents, with whom did you discuss political matters
+      a78                Are you satisfied with the way the the Israeli democracy functions
+      a79                When you have a definite opinion on something do you try to convince others
+      a80                Do you want to live in Israel in the long run
+      a81                What is the main cause for not wanting to live here
+      a82                How would you define your feeling today-would you say that you are happy
+      a83                Did you do active military service
+      a84                Do you do reserve service
+      a85                How many reserve duty days have you served last year
+      a86                During reserve service do you serve in a combat duty
+      a87                How long have you served in active military service
+      a88                Did you serve in combat during army service
+      a89                During army service/ reserve duty were you posted in the occupied territories
+      a90                What is/was your military rank in army service (data is unavailable)
+      a91                Have you participated in any war (in combat)
+      a92                How satisfied were you of your army service
+      a93                What is the reason for not serving in the army
+      a94                Is a relative of yours in army service
+      a95                Age
+      a96                How do you define yourself (ethnic group)
+      a97                Country of birth or origin (values 1-5:country of birth)
+      a98                Year of Aliya
+      a99                Years of schooling
+      a100               To what extent do you observe religious tradition
+
+****    DO YOU HAVE CHILDREN IN EACH OF THE FOLLOWING AGE GROUPS
+
+      a102               Children ages 0-16
+      a103               Children ages 16-18
+      a104               Children ages 19-23
+      a105               Monthly family expenditures (average-1,600 NIS for family of 4, Dec.,1987)
+      a106               Number of rooms in household
+      a107               Number of persons living in household
+      a108               In which social class do you classify yourself
+      a109               Do you work outside the household
+      a110               Status at work
+      a111               Reading daily newspapers
+      a112               Do you read literature on security matters
+      a113               When meeting with friends do you discuss political matters
+      a114               Have you been in a country under Nazi rule during the World War 2
+      a115               Has a family member been in a country under Nazi rule
+      a116               Has a member of your family been killed/hurt during Holocaust
+      a117               Have you or a family member been injured during army service
+      a118               Has a member of your family been killed during army service
+      a119               Sex
+      b2                 General situation in Israel today
+      b3                 Way government handles nation's problems
+
+****    NATIONAL SECURITY SCALE
+
+      b5                 Evaluation of Israel's present national security
+      b6                 Evaluation of Israel's national security 5 years ago
+      b7                 Evaluation of Israel's national security in 5 years
+      b8                 Main problem government must take care of
+      b9                 Party most capable of handling above issue
+      b10                Desired solution to territories issue
+      b11                Which of the 2 solutions should Israel adopt if necessary
+      b12                The largest territorial concession, if any, to be made in Judea and Samaria for peace
+      b13                Should Israel agree to negotiate with PLO taking into account the current situation
+      b14                Should Israel be ready to negotiate with PLO providing PLO recognizes Israel and renounces terror
+      b15                Should Israel agree to establishment of Palestinian state in occupied territories
+      b16                Rights to be given to Palestinians if territories are annexed
+      b17                Evaluation of government's policy in territories of maintaining tranquility
+      b18                Emphasis to put in attempt to prevent war between Israel and Arab states
+      b19                Government should encourage Arab emigration from Israel
+      b20                Possibility of Arab-Israeli peace in future
+      b21                Israel's ability to affect Arab peace policy
+      b22                Probability of signing another peace treaty with Arab country within 3 years
+      b23                Probability of Israeli-Arab war within 3 years
+
+****    THE TWO MOST DANGEROUS ENEMIES OF ISRAEL
+
+      b25                The most dangerous enemy
+      b26                The second most dangerous enemy
+      b27                Belief in Israel's existence in long run
+
+****    ISRAEL'S CAPABILITY OF COPING WITH VARIOUS SITUATIONS
+
+      b29                Total Israeli-Arab war
+      b30                War against Syria alone
+      b31                Increase of terrorist activity
+      b32                Decrease of American support
+      b33                Israeli Arabs' civilian uprising
+      b34                Uprising of Arabs from occupied territories
+      b35                Massive Soviet assistance to Arab countries in war against us
+      b36                Estimate of Arabs' ultimate goal
+      b37                Evaluation of the necessity of national security overriding other issues
+      b38                Preference for rule of law vs. security interests
+      b39                Evaluation of role of settlements with respect to national security
+      b40                The influence of the occupation on IDF soldiers' morale
+      b41                Evaluation of international peace conference with participation of great superpowers
+      b42                Support of government in security crisis while disagreeing with it's way
+      b43                Change in IDF's power in last five years
+      b44                Self-evaluation as 'hawk' or as 'dove'
+
+****    EFFECT OF INTIFADAH ON FOLLOWING ISSUES
+
+      b45                Effect of Intifadah on evaluation of political situation and degree of security
+      b47                Effect of intifada on interviewee's mood
+      b48                Effect of intifada on national mood
+      b49                Effect of intifada on estimate of election results
+      b50                Effect of intifada on interviewee's political activity
+      b51                Effect of intifada on desire to live in Israel
+      b52                Effect of intifada on interviewee's vote
+      b53                Effect of intifada on interviewee's attitude towards Arabs
+      b54                Effect of territories issue on forthcoming elections
+      b55                Effect of territories issue on Interviewee's vote to Knesset
+      b56                Party best reflecting Interviewee's stand on territories issue
+      b57                Evaluation of differences between major parties on national security
+      b58                Degree of similarity of family members' views on territories and security issues to those of interviewee
+      b59                Frequency of discussions on political matters with family members
+      b60                Family member with whom discussions on political matters are most frequent
+      b61                Interviewee's economical approach
+      b62                Evaluation of Histadrut's holding of companies
+      b63                Evaluation of differences between parties on economical issues
+      b64                Effect of economic issues on forthcoming elections
+      b65                Effect of economic issues on interviewee's vote
+      b66                Identification with political parties on economical issues
+      b67                Identification with parties on foreign and security issues
+      b68                Better team to handle economic problems
+      b69                Better team to handle foreign and security problems
+      b70                Desirability of formation of national unity government after elections
+      b71                Frequency of political discussions with friends
+      b72                Evaluation of ability to influence government policies
+      b73                Most important factor influencing voting
+      b74                Least favored controversial political group
+
+****    APPROVAL OF FOLLOWING SAYINGS WITH RESPECT TO ABOVE SPECIFIED GROUP
+
+      b76                Should member of that group be banned from being prime minister
+      b77                That group should be declared outlaw
+      b78                Members of that group should be allowed to appear on TV
+      b79                The group members' phones should be tapped
+      b80                Members of that group should be allowed to demonstrate
+
+****    APPROVAL OF DECLARING BELOW SPECIFIED GROUPS OUTLAW
+
+      b82                Progressive list for peace (Ha-Reshima Ha-Mitkademet Le-Shalom)
+      b83                Kah (Rabbi Kahana's movement)
+      b84                Rakah (Hadash)
+      b85                Gush Emunim
+      b86                Shalom Ahshav
+
+****    APPROVAL OF FOLLOWING SAYINGS ABOUT ISRAELI ARABS
+
+      b88                Arab should be banned from being prime minister
+      b89                Arabs should be allowed to deliver speeches in public and to appear on TV
+      b90                Arabs' phones should be tapped
+      b91                Arabs should be allowed to demonstrate
+      b92                Arabs should be encouraged to emigrate
+
+****    FOR EACH OF THE FOLLOWING STATE TO WHICH PARTY IT SUITS THE MOST
+
+      b94                Which party has experienced leaders
+      b95                Which party provides adequate representation to Oriental Jews
+      b96                Which party secures country's future
+      b97                Which party secures Jewish majority in Israel
+      b98                Which party closes gaps between ethnic groups
+      b99                Which party contributed to building the country
+      b100               Which party fosters Oriental Jews' self esteem
+      b101               Which party will know how to stand firmly at peace and territories negotiations
+      b102               Which party will know how to preserve democratic regime
+      b103               Ethnic party
+      b104               Party to retain necessary amount of territories
+      b105               Which party can achieve true peace with Arabs
+      b106               Party to return tranquility and order to territories
+      b107               Party to know when and how to lead to successful war
+      b108               National party
+
+****    THERMOMETER SCALE TOWARDS PERSONS OR GROUPS (0-10 scale)
+
+      b110               Labor
+      b111               Likud
+      b112               Shim'on Peres
+      b113               Yitzhak Shamir
+      b114               Arabs
+      b115               Ariel Sharon
+      b116               Religious persons
+      b117               Ashkenazi Jews
+      b118               David Levi
+      b119               Yitzhak Navon
+      b120               Sephardic Jews
+      b121               Yitzhak Rabin
+      b122               Menahem Begin
+      b123               Gush Emunim
+      b124               Shalom Ahshav
+      b125               Rabbi Kahana
+      b126               Self-evaluation as leftist or rightist
+
+****    APPROVAL OF FOLLOWING SAYINGS ON SOCIAL AND STATE MATTERS
+
+      c3                 Democracy is best form of rule
+      c4                 Politicians do not consider common person's opinion
+      c5                 Jews undertaking illegal actions against Arabs should get lighter punishment then Arabs hurting Jews
+      c6                 Several strong leaders can do more good than any discussions and laws
+      c7                 Every man should have equal rights notwithstanding his political views
+      c8                 Minority groups should be allowed to act in order to achieve support of majority
+      c9                 Belief in freedom of speech for everyone notwithstanding his views
+      c10                There are situations when it's better to take law in one's own hands
+      c11                Government should see to it that public life be conducted according to Jewish religious law
+      c12                Degree of ethnic discrimination in Israel
+      c13                Degree of personal experience of ethnic discrimination
+      c14                Approval of partly constitutional system of elections to Knesset vs. present one
+      c15                Preferred party to form government
+      c16                Estimate of party to form government
+      c17                Interviewee's vote if elections were held now
+      c18                Interviewee's vote at last elections on July,1984
+
+****    FOR WHICH PARTIES WOULD YOU VOTE FOR IF NO LIMITATION IS POSED
+
+      c20                First party you would vote for if no limitation is posed
+      c21                Second party you would vote for if no limitation is posed
+      c22                Interviewee's father's vote at forthcoming elections
+      c23                Interviewee's mother's vote at forthcoming elections
+      c24                Marital status
+      c25                Interviewee's spouse's vote at forthcoming elections
+      c26                Approval of canceling football matches on Sabbath
+      c27                Estimate of percentage of citizens approving canceling matches on Sabbath
+      c28                Basis for above estimate
+      c29                Approval of large Arab villages' status change from local councils to cities
+      c30                Estimate of percentage of Jewish population approving change in status
+      c31                Basis for above estimate
+      c32                Israel's usage of nuclear weapons
+      c33                Estimate of percentage of public thinking that under no condition is nuclear weapons usage justified
+      c34                Basis for above estimate
+      c35                Approval of breaking off relations with South-Africa
+      c36                Estimate of percentage of public approving breaking off relations with South-Africa,(Precise estimate)
+      c37                Basis for above estimate
+      c38                Fairness of distribution of reserve military service burden
+      c39                Estimate of percentage of public thinking that above is fair
+      c40                Basis for above estimate
+
+****    GRADING OF BELOW VALUES ACCORDING TO THEIR IMPORTANCE
+
+      c42                Primary importance value
+      c43                Second value in importance
+      c44                Third value in importance
+      c45                Fourth value in importance
+      c46                To what extent interviewee observes religious laws
+      c47                Self-definition as Ashkenazi or Sephardic Jew
+      c48                Place of birth
+      c49                Year of Aliya(immigration)
+      c50                Does interviewee favor, is member of or hold position in any party
+      c51                Identification with political trend
+      c52                Membership in Histadrut
+      c53                Reading daily newspapers
+      c54                Interviewee's active military service
+      c55                Present reserve service
+      c56                Service in territories since uprising (Dec. 1987)
+      c57                Age
+      c58                Years of schooling
+      c59                Identification with social status
+      c60                No. of rooms in household
+      c61                No. of persons living in household
+      c62                Monthly family expenditures
+      c63                Status at work
+      c64                Code of locality
+      c65                Statistical area
+      c66                Date of interview
+      c67                Panel
+
+=========================================================================================
+
+      v1                 Identification number
+
+              Data type: numeric
+              Record/columns: 1/2-5
+
+      v2                 Evaluation of Israel's present national security
+
+              VALUE  LABEL
+                  1  Worst possible
+                  9  Best possible
+
+              Data type: numeric
+              Record/column: 1/6
+
+      v3                 Evaluation of Israel's national security 5 years ago
+
+              VALUE  LABEL
+                  1  Worst possible
+                  9  Best possible
+
+              Data type: numeric
+              Record/column: 1/7
+
+      v4                 Evaluation of Israel's national security in 5 years
+
+              VALUE  LABEL
+                  1  Worst possible
+                  9  Best possible
+
+              Data type: numeric
+              Record/column: 1/8
+
+      v5                 Which of the following 3 solutions to the problem of the territories is most acceptable
+
+              VALUE  LABEL
+                  1  Returning most of the occupied territories for a peace treaty
+                  2  Annexation of the territories to the state of Israel
+                  3  Keeping the situation as is
+
+              Data type: numeric
+              Record/column: 1/9
+
+      v6                 Which of the 2 possibilities should Israel choose
+
+              VALUE  LABEL
+                  1  Return most of Judea, Samaria and Gaza for peace
+                  2  Annexation of Judea, Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 1/10
+
+****    REASONS FOR KEEPING JUDEA, SAMARIA AND GAZA
+
+      v8                 We have a right over Judea,Samaria and Gaza
+
+              VALUE  LABEL
+                  1  Best reason to keep Judea Samaria and Gaza
+                  4  Less important reason to keep Judea Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 1/11
+
+      v9                 Prevents establishment of a Palestinian state that will endanger our security
+
+              VALUE  LABEL
+                  1  Best reason to keep Judea Samaria and Gaza
+                  4  Less important reason to keep Judea Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 1/12
+
+      v10                Gives strategic depth in case of war in the east front
+
+              VALUE  LABEL
+                  1  Best reason to keep Judea Samaria and Gaza
+                  4  Less important reason to keep Judea Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 1/13
+
+      v11                Could be used in negotiating peace with Jordan
+
+              VALUE  LABEL
+                  1  Best reason to keep Judea Samaria and Gaza
+                  4  Less important reason to keep Judea Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 1/14
+
+      v12                Evaluation of government policy in territories
+
+              VALUE  LABEL
+                  1  Too harsh
+                  2  Appropriate
+                  3  Too permissive
+
+              Data type: numeric
+              Record/column: 1/15
+
+      v13                The contribution of the settlements in Judea & Samaria to the country's security
+
+              VALUE  LABEL
+                  1  The settlements contribute to the country's security
+                  4  The settlements do not influence the country's security
+                  7  The settlements harm the country's security
+
+              Data type: numeric
+              Record/column: 1/16
+
+      v14                The influence of our presence in the territories on the morale of the IDF
+
+              VALUE  LABEL
+                  1  Negative influence
+                  4  No influence
+                  7  Positive influence
+
+              Data type: numeric
+              Record/column: 1/17
+
+      v15                Whose voice should be heard regarding the future of the territories
+
+              VALUE  LABEL
+                  1  Present IDF generals
+                  2  Former IDF generals
+                  3  Political science professors
+                  4  Likud leaders
+                  5  Labour party leaders
+                  6  Rabbis
+                  7  Public opinion
+
+              Data type: numeric
+              Record/column: 1/18
+
+      v16                Evaluation of differences between two major parties on security issues
+
+              VALUE  LABEL
+                  1  Very far away from each other
+                  2  Far away from each other
+                  3  In some cases far, in others close
+                  4  In fact, they are close
+                  5  Very close
+
+              Data type: numeric
+              Record/column: 1/19
+
+      v17                Rights to be given to Palestinians if territories are annexed
+
+              VALUE  LABEL
+                  1  Full civil rights (including voting rights)
+                  2  Civil rights (excluding voting rights)
+                  3  Leave current situation unchanged
+                  4  Decrease current rights
+
+              Data type: numeric
+              Record/column: 1/20
+
+      v18                Should a Palestinian autonomy be established in Judea, Samaria and Gaza
+
+              VALUE  LABEL
+                  1  Definitely
+                  2  Probably
+                  3  Probably not
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/21
+
+      v19                Should Israel agree to establishing a Palestinian state in the occupied territories
+
+              VALUE  LABEL
+                  1  Definitely
+                  2  Probably
+                  3  Probably not
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/22
+
+      v20                Should Israel agree to concession of the Golan Heights for peace
+
+              VALUE  LABEL
+                  1  Total return of Golan
+                  2  Partial return
+                  3  No return
+
+              Data type: numeric
+              Record/column: 1/23
+
+      v21                Possibility of ending Arab terror through military action alone
+
+              VALUE  LABEL
+                  1  It is possible to end the terror
+                  2  It can be diminished
+                  3  Military action has no effect on terror
+                  4  Military action will only increase terror
+
+              Data type: numeric
+              Record/column: 1/24
+
+      v22                What should be the main direction in fighting against terror
+
+              VALUE  LABEL
+                  1  A war initiated by us to hit the terrorists at their bases
+                  2  A defensive type of war, deterrent actions
+                  3  A response type war, initiating retaliation operations following terrorists attacks
+
+              Data type: numeric
+              Record/column: 1/25
+
+      v23                What should be the appropriate response in event of Katusha bombing of the Galilee
+
+              VALUE  LABEL
+                  1  Invade south Lebanon with large amount of forces and hold it for a long period
+                  2  Launch a bombing using air force and artillery
+                  3  Using a limited military force to destroy terrorists' nests
+                  4  Selective air bombing on terrorists' bases
+                  5  No military response but a political solution
+
+              Data type: numeric
+              Record/column: 1/26
+
+      v24                Was the war in Lebanon worth while considering the consequences
+
+              VALUE  LABEL
+                  1  Worth while
+                  2  Not worth while
+
+              Data type: numeric
+              Record/column: 1/27
+
+      v25                Should Israel agree to negotiate with P.L.O. taking into account the current situation
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/28
+
+      v26                Should Israel agree to negotiate with P.L.O. providing P.L.O. recognizes Israel and renounces terror
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/29
+
+      v27                In principle, is respondent for or against death penalty for terrorists
+
+              VALUE  LABEL
+                  1  For death penalty
+                  2  Against death penalty
+
+              Data type: numeric
+              Record/column: 1/30
+
+****    RESPONDENT'S ATTITUDE TOWARD THE FOLLOWING ACTIONS
+
+      v29                Attitude toward the destruction of houses whose owners hosted terrorists and knew that they are terrorists
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/31
+
+      v30                Attitude toward the deportation of people who have maintained contact with terrorists' organizations
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/32
+
+      v31                Retaliation against terrorists' bases if this does not endanger Arab civilians
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/33
+
+      v32                Bombing terrorists' bases even if civilians get hurt
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/34
+
+      v33                Terrorist' attacks on terrorists' leaders
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/35
+
+      v34                Retaliation against states who sponsor terror
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/36
+
+      v35                Should Israel exchange life-time sentenced terrorists for Israeli hostages
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/37
+
+      v36                Should Israel exchange life-time sentenced terrorists for IDF soldiers held by terrorists
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/38
+
+****    SHOULD ISRAEL INITIATE WAR IN EACH OF THE FOLLOWING SITUATIONS
+
+      v38                Should Israel initiate war as a defense against an attempt to destroy Israel
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/39
+
+      v39                Should Israel initiate war to prevent an attempt to resieze territories captured by us
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/40
+
+      v40                Should Israel initiate war to prevent or stop a war of attrition held against us
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/41
+
+      v41                Should Israel initiate war to destroy the military power of a strengthening enemy to prevent a future threat
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/42
+
+      v42                Should Israel initiate war to overthrow a hostile regime and set a lenient one to sign a peace treaty with
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/43
+
+      v43                Should Israel initiate war to capture strategic territories
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/44
+
+      v44                Following Information on intent to start a border incident
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/45
+
+      v45                Following a U.S. request for assistance in defending her interests
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/46
+
+      v46                To help friendly elements in the area (e.g. Lebanese Christians)
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/47
+
+      v47                To destroy terrorists' bases targeted against us
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/48
+
+      v48                Should Israel develop atomic weapons
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/49
+
+      v49                Are there circumstances where it would be justified to use atomic weapons
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No, under no circumstances
+
+              Data type: numeric
+              Record/column: 1/50
+
+****    SHOULD ISRAEL USE ATOMIC WEAPON IN EACH OF THE FOLLOWING
+
+      v51                Should Israel use atomic weapon as a response to an atomic attack from another country
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/51
+
+      v52                Should Israel use atomic weapon to prevent defeat in a conventional war
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/52
+
+      v53                Should Israel use atomic weapon to save many people's lives
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/53
+
+      v54                Should Israel use atomic weapon to save some people's lives
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/54
+
+      v55                Should Israel use atomic weapon as a weapon, instead of using the regular army
+
+              VALUE  LABEL
+                  1  Totally justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally justified
+
+              Data type: numeric
+              Record/column: 1/55
+
+      v56                Does respondent think Israel has atomic weapons
+
+              VALUE  LABEL
+                  1  Certain there is
+                  2  Thinks there is, uncertain
+                  3  Thinks there isn't, uncertain
+                  4  Certain there isn't
+
+              Data type: numeric
+              Record/column: 1/56
+
+      v57                If Israel has atomic weapons, should it be kept a secret
+
+              VALUE  LABEL
+                  1  It should be kept a secret
+                  2  Should be announced to deter the enemy
+
+              Data type: numeric
+              Record/column: 1/57
+
+      v58                How would respondent define himself on the hawks and doves continuum
+
+              VALUE  LABEL
+                  1  Hawk
+                  7  Dove
+
+              Data type: numeric
+              Record/column: 1/58
+
+      v59                What should Israel emphasize to prevent a war against the Arab countries
+
+              VALUE  LABEL
+                  1  To do everything it can to start a peace process
+                  2  To increase its military power
+
+              Data type: numeric
+              Record/column: 1/59
+
+****    RESPONDENT'S OPINION ON THE FOLLOWING
+
+      v61                A peace process should be initiated, even at the price of territorial concessions
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/60
+
+      v62                Individuals should sacrifice personally,economically to ensure our strength
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/61
+
+      v63                Atomic weapons should be developed to deter the Arabs
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/62
+
+      v64                Israel should sign a defense treaty with the U.S. to prevent Arab aggression
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/63
+
+      v65                Israel should encourage Arab emigration
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/64
+
+      v66                Possibility of Israeli-Arab peace in future
+
+              VALUE  LABEL
+                  1  Definitely possible
+                  2  Possible
+                  3  Impossible
+                  4  Definitely impossible
+
+              Data type: numeric
+              Record/column: 1/65
+
+      v67                Israel's ability to affect Arab peace policy
+
+              VALUE  LABEL
+                  1  Definitely capable
+                  2  Capable
+                  3  Incapable
+                  4  Definitely incapable
+
+              Data type: numeric
+              Record/column: 1/66
+
+      v68                Probability of signing a peace treaty with another Arab country within 3 years
+
+              VALUE  LABEL
+                  1  Most likely
+                  2  Likely
+                  3  Unlikely
+                  4  Most unlikely
+
+              Data type: numeric
+              Record/column: 1/67
+
+      v69                Probability of Israeli-Arab war within 3 years
+
+              VALUE  LABEL
+                  1  Most likely
+                  2  Likely
+                  3  Unlikely
+                  4  Most unlikely
+
+              Data type: numeric
+              Record/column: 1/68
+
+      v70                Most dangerous enemies of Israel
+
+              VALUE  LABEL
+                  1  Syria
+                  2  P.L.O
+                  3  Jordan
+                  4  The Shiites in Lebanon
+                  5  Libya
+                  6  Egypt
+                  7  Iraq
+                  8  Humeini's Iran
+                  9  Saudi-Arabia
+
+              Data type: numeric
+              Record/column: 1/69
+
+      v701               Second most dangerous enemies of Israel
+
+              VALUE  LABEL
+                  1  Syria
+                  2  P.L.O
+                  3  Jordan
+                  4  The Shiites in Lebanon
+                  5  Libya
+                  6  Egypt
+                  7  Iraq
+                  8  Humeini's Iran
+                  9  Saudi-Arabia
+
+              Data type: numeric
+              Record/column: 1/70
+
+      v71                Today, are you for or against the peace agreement with Egypt
+
+              VALUE  LABEL
+                  1  For
+                  2  Against
+
+              Data type: numeric
+              Record/column: 1/71
+
+      v72                At the time were you for or against the peace agreement with Egypt
+
+              VALUE  LABEL
+                  1  For
+                  2  Against
+
+              Data type: numeric
+              Record/column: 1/72
+
+****    THE EXTENT OF APPROVAL OF THE FOLLOWING SAYINGS
+
+      v74                Of all the viewpoints, there must be one and only one which is correct
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Objects
+                  4  Definitely objects
+
+              Data type: numeric
+              Record/column: 1/73
+
+      v75                Under no circumstance should people take the law into their hands
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Objects
+                  4  Definitely objects
+
+              Data type: numeric
+              Record/column: 1/74
+
+      v76                In cases where state interests interfere with personal ones the latter should prevail
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Objects
+                  4  Definitely objects
+
+              Data type: numeric
+              Record/column: 1/75
+
+      v77                No returning of any of Israel's land is a must
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Objects
+                  4  Definitely objects
+
+              Data type: numeric
+              Record/column: 1/76
+
+      v78                God will protect us if we are worthy even if we are unprepared for war
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Objects
+                  4  Definitely objects
+
+              Data type: numeric
+              Record/column: 1/77
+
+      v79                To what extent do you believe in our exisence in Israel in the long run
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Objects
+                  4  Definitely objects
+
+              Data type: numeric
+              Record/column: 1/78
+
+****    ISRAEL'S CAPABILITY OF COPING WITH VARIOUS SITUATIONS
+
+      v81                Israel's capability of total Israeli-Arab war
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/79
+
+      v82                Israel's capability of war against Syria alone
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/80
+
+      v83                Israel's capability of increase of terrorist activity
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/81
+
+      v84                Israel's capability of decrease of American support
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/84
+
+      v85                Israel's capability of Israeli Arabs' civilian uprising
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/83
+
+      v86                Israel's capability of territories Arabs' uprising
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/84
+
+      v87                USSR will assist Arab states against us
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 1/85
+
+      v88                What probability does respondent attach to Israel's destruction
+
+              VALUE  LABEL
+                  1  High
+                  2  Medium
+                  3  Low
+                  4  Non-existent
+
+              Data type: numeric
+              Record/column: 1/86
+
+      v89                Level of rationality of Israel's foreign and security policy
+
+              VALUE  LABEL
+                  1  Always rational
+                  2  Usually rational
+                  3  Some times rational at others not
+                  4  Usually irrational
+                  5  Always irrational
+
+              Data type: numeric
+              Record/column: 1/87
+
+      v90                Level of rationality of the Arab states' foreign and security policy
+
+              VALUE  LABEL
+                  1  Always rational
+                  2  Usually rational
+                  3  Some times rational at others not
+                  4  Usually irrational
+                  5  Always irrational
+
+              Data type: numeric
+              Record/column: 1/88
+
+      v91                Estimate of the Arabs' ultimate goal
+
+              VALUE  LABEL
+                  1  To retrieve part of the territories seized during the 6 Day War
+                  2  To retrieve all of the territories seized during the 6 Day War
+                  3  To conquer Israel
+                  4  To conquer Israel and annihilate most of the Jewish population
+
+              Data type: numeric
+              Record/column: 1/89
+
+****    WHICH OF THE FOLLOWING IS A REASON FOR THE ARABS OBJECTING TO ISRAEL'S EXISTENCE
+
+      v93                Reason for the arabs objecting to Israels' existence:They nurture hatred towards Jews
+
+              VALUE  LABEL
+                  1  Is a reason
+                  2  Is not a reason
+
+              Data type: numeric
+              Record/column: 1/90
+
+      v94                Reason for the arabs objecting to Israels' existence:Israel is an alien element in the Middle East
+
+              VALUE  LABEL
+                  1  Is a reason
+                  2  Is not a reason
+
+              Data type: numeric
+              Record/column: 1/91
+
+      v95                Reason for the arabs objecting to Israels' existence:Our technological advantage scares them
+
+              VALUE  LABEL
+                  1  Is a reason
+                  2  Is not a reason
+
+              Data type: numeric
+              Record/column: 1/92
+
+      v96                Reason for the arabs objecting to Israels' existence:They view Israeli land as Arab land which should be returned to owners
+
+              VALUE  LABEL
+                  1  Is a reason
+                  2  Is not a reason
+
+              Data type: numeric
+              Record/column: 1/93
+
+      v97                Reason for the arabs objecting to Israels' existence:They only want to retrieve those lands which were taken during the 6 Day War
+
+              VALUE  LABEL
+                  1  Is a reason
+                  2  Is not a reason
+
+              Data type: numeric
+              Record/column: 1/94
+
+      v98                Reason for the arabs objecting to Israels' existence:They fear future Israeli aggressiveness
+
+              VALUE  LABEL
+                  1  Is a reason
+                  2  Is not a reason
+
+              Data type: numeric
+              Record/column: 1/95
+
+      v99                From the above list name main cause for their opposition to us
+
+              VALUE  LABEL
+                  0  Hatred toward the Jews is among them
+                  1  Israel is a pain in the
+                  2  Our technological advantage frightens them
+                  3  They view all Israeli land as Arab land which should be returned to owners
+                  4  They wish to free only those land captured during the 6 day war
+                  5  They fear Israeli agression
+
+              Data type: numeric
+              Record/column: 1/96
+
+      v991               From the above list name second main cause for their opposition to us
+
+              VALUE  LABEL
+                  0  Hatred toward the Jews is among them
+                  1  Israel is a pain in the
+                  2  Our technological advantage frightens them
+                  3  They view all Israeli land as Arab land which should be returned to owners
+                  4  They wish to free only those land captured during the 6 day war
+                  5  They fear Israeli agression
+
+              Data type: numeric
+              Record/column: 1/97
+
+****    WHICH OF THE FOLLOWING WOULD YOU BE WILLING TO GIVE TO MAINTAIN/STRENGTHEN THE SECURITY
+
+      v101               Willingness to have taxes raised so that the respondent pays more to increase security budget
+
+              VALUE  LABEL
+                  1  Is willing
+                  2  Is unwilling
+
+              Data type: numeric
+              Record/column: 1/98
+
+      v102               Willingness to serve more in the army
+
+              VALUE  LABEL
+                  1  Is willing
+                  2  Is unwilling
+
+              Data type: numeric
+              Record/column: 1/99
+
+      v103               Willingness to serve more in the reserve service
+
+              VALUE  LABEL
+                  1  Is willing
+                  2  Is unwilling
+
+              Data type: numeric
+              Record/column: 1/100
+
+      v104               Is the burden of the military service divided up justly
+
+              VALUE  LABEL
+                  1  Just
+                  2  Unjust
+
+              Data type: numeric
+              Record/column: 1/101
+
+      v105               Is the reserve military service used efficiently or wasted
+
+              VALUE  LABEL
+                  1  Usually used efficiently
+                  2  Usually wasted
+
+              Data type: numeric
+              Record/column: 1/102
+
+      v106               What is your opinion on the length of military service
+
+              VALUE  LABEL
+                  1  Too long
+                  2  Appropriate
+                  3  Too short
+
+              Data type: numeric
+              Record/column: 1/103
+
+      v107               What is your opinion of the defense budget
+
+              VALUE  LABEL
+                  1  It should be increased
+                  2  It should stay as is
+                  3  It should be cut
+
+              Data type: numeric
+              Record/column: 1/104
+
+      v108               What would be your opinion of the defense budget should economic state get worse
+
+              VALUE  LABEL
+                  1  It should be increased
+                  2  It should stay as is
+                  3  It should be cut
+
+              Data type: numeric
+              Record/column: 1/105
+
+      v109               What do you think of cutting social services to increase defense budget
+
+              VALUE  LABEL
+                  1  Definitely justified
+                  2  Justified
+                  3  Unjustified
+                  4  Totally unjustified
+
+              Data type: numeric
+              Record/column: 1/106
+
+      v110               What do you think of IDF increasing/decreasing its power in last 5 years
+
+              VALUE  LABEL
+                  1  Significant decrease
+                  2  Some decrease
+                  3  No change
+                  4  Some increase
+                  5  Significant increase
+
+              Data type: numeric
+              Record/column: 1/107
+
+      v111               Who should determine IDF's future weapon systems
+
+              VALUE  LABEL
+                  1  The government
+                  2  The Knesset
+                  3  The army
+                  4  Military industry/Air force industry
+                  5  Other
+
+              Data type: numeric
+              Record/column: 1/108
+
+      v112               What is your attitude towards the continuation of the Lavi project
+
+              VALUE  LABEL
+                  1  Definitely supports its continuation
+                  2  Supports its continuation
+                  3  Opposes its continuation
+                  4  Definitely opposes its continuation
+
+              Data type: numeric
+              Record/column: 1/109
+
+      v113               Are decisions regarding military matters affected by objective considerations
+
+              VALUE  LABEL
+                  1  Only objective considerations
+                  2  Also other considerations
+
+              Data type: numeric
+              Record/column: 1/110
+
+      v114               Who determines Israel's defense policy for the most part
+
+              VALUE  LABEL
+                  1  The prime minister
+                  2  The minister of defense
+                  3  The cabinet
+                  4  The government
+                  5  Foreign Affairs and Defense Committee
+                  6  IDF's general staff
+                  7  The media
+                  8  The U.S.
+                  9  The Israeli people
+                 10  Other
+
+              Data type: numeric
+              Record/column: 1/111
+
+      v115               Should security considerations override other social/ecconomic considerations
+
+              VALUE  LABEL
+                  1  Security considerations should override all others
+                  7  Security should not override
+
+              Data type: numeric
+              Record/column: 1/112
+
+      v116               Should security considerations override the law
+
+              VALUE  LABEL
+                  1  Security considerations should override all others
+                  7  Security should not override
+
+              Data type: numeric
+              Record/column: 1/113
+
+      v117               How does the current leadership view the security/law dichotomy
+
+              VALUE  LABEL
+                  1  Always prefers security considerations
+                  2  Usually prefers security considerations
+                  3  Usually prefers the law
+                  4  Always prefers the law
+
+              Data type: numeric
+              Record/column: 1/114
+
+      v118               How did the first years' leadership view the security/law dichotomy
+
+              VALUE  LABEL
+                  1  Always prefers security considerations
+                  2  Usually prefers security considerations
+                  3  Usually prefers the law
+                  4  Always prefers the law
+
+              Data type: numeric
+              Record/column: 1/115
+
+      v119               Is there enough supervision over the Mossad and the Shin-Beit
+
+              VALUE  LABEL
+                  1  Too much supervision
+                  2  Enough supervision
+                  3  Not enough supervision
+
+              Data type: numeric
+              Record/column: 1/116
+
+****    THE EXTENT OF APPROVAL OF THE FOLLOWING
+
+      v121               The keeper of Israel shall not sleep
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/117
+
+      v122               Massada will never fall again
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/118
+
+      v123               The whole world is against us
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/119
+
+      v124               The glory of Israel shall not die
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/120
+
+      v125               Israel has been and always will be isolated
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/121
+
+      v126               I would die for my country
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/122
+
+      v127               If he come to slay thee, forestall by slaying him
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/123
+
+      v128               The best defense is offense
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/124
+
+      v129               Military victory enhances the peace process
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 1/125
+
+      v130               The keeper of Israel shall not sleep-who is the keeper of Israel
+
+              VALUE  LABEL
+                  1  God
+                  2  IDF
+                  3  USA
+                  4  The state of Israel
+                  5  The people of Israel
+                  6  Every man to himself
+                  7  Other
+
+              Data type: numeric
+              Record/column: 1/126
+
+      v131               Should Israel supply non-democratic and hostile states (such as Iran)with weapons
+
+              VALUE  LABEL
+                  1  Weapons should be sold to anyone
+                  2  Weapons should be sold to anyone except to hostile states
+                  3  Weapons should be sold to states whose regime seems good to us
+                  4  Weapons should not be sold to other states
+
+              Data type: numeric
+              Record/column: 1/127
+
+      v132               Respondent's opinion of a peace conference with the sponsorship of the superpowers
+
+              VALUE  LABEL
+                  1  Definitely supports
+                  2  Supports
+                  3  Opposes
+                  4  Definitely opposes
+
+              Data type: numeric
+              Record/column: 1/128
+
+      a2                 Should the government take public opinion into consideration when waging a war
+
+              VALUE  LABEL
+                  1  Definitely should
+                  2  Should
+                  3  Should not
+                  4  Definitely should not
+
+              Data type: numeric
+              Record/column: 2/6
+
+      a3                 Support of government in security crisis even if disagreeing with it's way
+
+              VALUE  LABEL
+                  1  Definitely necessary
+                  2  Usually necessary
+                  3  Usually Unnecessary
+                  4  Never necessary
+
+              Data type: numeric
+              Record/column: 2/7
+
+****    IS A HIGH RANKING MILITARY MAN ENTITLED TO DO THE FOLLOWING
+
+      a5                 Discuss his disapproval of government policy with his superiors
+
+              VALUE  LABEL
+                  1  Is entitled
+                  2  Is not entitled
+
+              Data type: numeric
+              Record/column: 2/8
+
+      a6                 Send anonymous letters to the press
+
+              VALUE  LABEL
+                  1  Is entitled
+                  2  Is not entitled
+
+              Data type: numeric
+              Record/column: 2/9
+
+      a7                 Express his opinion openly in the media if it does not harm state security
+
+              VALUE  LABEL
+                  1  Is entitled
+                  2  Is not entitled
+
+              Data type: numeric
+              Record/column: 2/10
+
+      a8                 Request to release him from duty
+
+              VALUE  LABEL
+                  1  Is entitled
+                  2  Is not entitled
+
+              Data type: numeric
+              Record/column: 2/11
+
+      a9                 Refuse to follow orders concerning policy
+
+              VALUE  LABEL
+                  1  Is entitled
+                  2  Is not entitled
+
+              Data type: numeric
+              Record/column: 2/12
+
+      a10                Media's treatment of security matters
+
+              VALUE  LABEL
+                  1  Totally responsibly
+                  2  Usually responsibly
+                  3  Usually irresponsibly
+                  4  Totally irresponsibly
+
+              Data type: numeric
+              Record/column: 2/13
+
+      a11                Media's coverage of security matters
+
+              VALUE  LABEL
+                  1  Not enough
+                  2  Enough
+                  3  Too much
+
+              Data type: numeric
+              Record/column: 2/14
+
+      a12                Reliability of statements made by the country's leaders on security matters
+
+              VALUE  LABEL
+                  1  Definitely trusts
+                  2  Trusts
+                  3  Does not trust
+                  4  Definitely distrusts
+
+              Data type: numeric
+              Record/column: 2/15
+
+      a13                Are security related decisions influenced by non-related considerations
+
+              VALUE  LABEL
+                  1  Only by related considerations
+                  2  Also by other considerations
+
+              Data type: numeric
+              Record/column: 2/16
+
+      a14                How well does the public understand security matters to be able to express an opinion
+
+              VALUE  LABEL
+                  1  Understands very well
+                  2  Understands
+                  3  Understands to a certain extent
+                  4  Understands very little
+                  5  Does not understand
+
+              Data type: numeric
+              Record/column: 2/17
+
+      a15                Frequency of expressing own opinion on security matters, including protest letters
+
+              VALUE  LABEL
+                  1  Often
+                  2  Sometimes
+                  3  Very rarely
+                  4  Never
+
+              Data type: numeric
+              Record/column: 2/18
+
+      a16                To what extent do you and your friends influence decisions on security matters
+
+              VALUE  LABEL
+                  1  A great deal
+                  2  To some extent
+                  3  Very little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/19
+
+      a17                How well do you understand security matters to express an opinion
+
+              VALUE  LABEL
+                  1  Understands very well
+                  2  Understands
+                  3  Understansds to a certain extent
+                  4  Understands very little
+                  5  Does not understand
+
+              Data type: numeric
+              Record/column: 2/20
+
+****    FOR EACH OF THE FOLLOWING STATE "AGREE" OR "DISAGREE"
+
+      a19                In daily life the ends which are important to me justify the means
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/21
+
+      a20                The criticism of Israel stems mainly from anti-semitism
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/22
+
+      a21                Israel should take into consideration the gentiles' opinions
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/23
+
+      a22                Several strong leaders can do more good than any discussion or law
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/24
+
+****    TRY TO ANSWER THE FOLLOWING THE BEST YOU CAN
+
+      a24                What part of the government budget is the defense budget
+
+              VALUE  LABEL
+                  1  Less than 10%
+                  2  Between 10%-40%
+                  3  Between 40%-75%
+                  4  More than 75%
+
+              Data type: numeric
+              Record/column: 2/25
+
+      a25                Which country makes the F-16 aircraft
+
+              VALUE  LABEL
+                  1  Israel
+                  2  France
+                  3  U.S.
+                  4  Great Britain
+
+              Data type: numeric
+              Record/column: 2/26
+
+      a26                What is the U.S annual military aid to Israel
+
+              VALUE  LABEL
+                  1  Less than a billion dollars annually
+                  2  Between 1-3 billion dollars annually
+                  3  Between 3-5 billion dollars annually
+                  4  Over 5 billion annually
+
+              Data type: numeric
+              Record/column: 2/27
+
+      a27                Does IDF have submarines
+
+              VALUE  LABEL
+                  1  Certain they have
+                  2  I think they have but am not certain
+                  3  I think they don't but am not certain
+                  4  Certain they don't have
+
+              Data type: numeric
+              Record/column: 2/28
+
+      a28                How many terrorists were released following the agreement with Gibril (1985)
+
+              VALUE  LABEL
+                  1  58
+                  2  140
+                  3  485
+                  4  3900
+
+              Data type: numeric
+              Record/column: 2/29
+
+      a29                Do Arabs from the occupied territories have a right to appeal to the supreme court
+
+              VALUE  LABEL
+                  1  Certain they have the right
+                  2  I think they do but am uncertain
+                  3  I think they don't but am uncertain
+                  4  Certain they don't
+
+              Data type: numeric
+              Record/column: 2/30
+
+      a30                Do Arabs from the occupied territories have a right to vote for the Knesset
+
+              VALUE  LABEL
+                  1  Certain they have the right
+                  2  I think they do but am uncertain
+                  3  I think they don't but am uncertain
+                  4  Certain they don't
+
+              Data type: numeric
+              Record/column: 2/31
+
+      a31                Are most people trust-worthy or not
+
+              VALUE  LABEL
+                  1  Most people are trust worthy
+                  2  One should be careful when in contact with people
+
+              Data type: numeric
+              Record/column: 2/32
+
+      a32                Do you think most people tend more to look after other people or only after themselves
+
+              VALUE  LABEL
+                  1  Tend to help others
+                  2  Tend to help themselves
+
+              Data type: numeric
+              Record/column: 2/33
+
+      a33                Which of the following is most important to you
+
+              VALUE  LABEL
+                  1  Self fulfillment
+                  2  Self esteem
+                  3  Love, affection
+                  4  Certainty, confidence in life
+                  5  A comfortable life
+
+              Data type: numeric
+              Record/column: 2/34
+
+      a34                Which of the following reflects your stand on the society issue in Israel
+
+              VALUE  LABEL
+                  1  Our society needs to undergo a fundamental changes via a revolutionary act
+                  2  Our society needs to undergo gradual changes by reforms
+                  3  Our society should stay as is and should be protected from those who want to change it
+
+              Data type: numeric
+              Record/column: 2/35
+
+****    RESPONDENT'S ATTITUDE TOWARD THE FOLLOWING
+
+      a36                If a person does not look after himself, no one will
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/36
+
+      a37                Life is mainly a struggle for survival
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/37
+
+      a38                Compromise with political rivals is dangerous-it leads to betrayal of principles
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/38
+
+      a39                A group which allows different ideas among members cannot survive
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/39
+
+      a40                People divide up into 2 groups: those who support the right views and those who don't
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/40
+
+      a41                Most ideas written today aren't worth the paper used
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/41
+
+      a42                It is better to choose friends whose ideas are similar to your own
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/42
+
+      a43                Most people don't know what's good for them
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Uncertain
+                  4  Disagrees
+                  5  Definitely disagrees
+
+              Data type: numeric
+              Record/column: 2/43
+
+****    THE FOLLOWING ARE QUESTIONS ON YOUR FEELINGS ABOUT ISRAEL-U.S RELATIONS
+
+      a45                What opinion do you have of the U.S
+
+              VALUE  LABEL
+                  1  A very good opinion
+                  2  A good opinion
+                  3  Neither good nor bad
+                  4  A bad opinion
+                  5  A very bad opinion
+
+              Data type: numeric
+              Record/column: 2/44
+
+      a46                Is your opinion of the U.S more for the good or bad
+
+              VALUE  LABEL
+                  1  A good opinion
+                  2  A bad opinion
+
+              Data type: numeric
+              Record/column: 2/45
+
+      a47                How would you describe current relations with the U.S.
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Pretty good
+                  3  Normal
+                  4  Pretty bad
+                  5  Very bad
+
+              Data type: numeric
+              Record/column: 2/46
+
+      a48                How much can Israel depend on U.S. as a weapons' supplier
+
+              VALUE  LABEL
+                  1  Very much indeed
+                  2  Very much
+                  3  To some extent
+                  4  Very little
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 2/47
+
+      a49                Is Israel justified in spying in the US to get information relevant to her security
+
+              VALUE  LABEL
+                  1  Definitely justified
+                  2  Justified
+                  3  Unjustified
+                  4  Definitely unjustified
+
+              Data type: numeric
+              Record/column: 2/48
+
+      a50                Is the US justified in spying in Israel to get information relevant to her security
+
+              VALUE  LABEL
+                  1  Definitely justified
+                  2  Justified
+                  3  Unjustified
+                  4  Definitely unjustified
+
+              Data type: numeric
+              Record/column: 2/49
+
+      a51                The chances for another world war
+
+              VALUE  LABEL
+                  1  Certain there will be a war
+                  7  No danger of a war
+
+              Data type: numeric
+              Record/column: 2/50
+
+      a52                The main problem facing the government today
+
+              VALUE  LABEL
+                 01  Security (general)
+                 02  The Palestinian issue, occupied territories
+                 03  The uprising in the occupied territories (Intifada)
+                 04  Fighting Terror, security forces
+                 05  Israeli Arabs
+                 06  Foreign policy (general)
+                 07  The peace (solving the Israeli Arab conflict)
+                 08  Economy (general)
+                 09  Inflation
+                 10  Depression, unemployment
+                 11  Internal affairs (general)
+                 12  Social gap
+                 13  Young couples, housing
+                 14  Education
+                 15  Health
+                 16  Transportation, road accidents
+                 17  Immigration absorption
+                 18  Religious affairs, religious-secular relations
+                 19  Unity and moral of the people
+                 20  Other
+
+              Data type: numeric
+              Record/columns: 2/51-52
+
+      a54                Are you satisfied with your life in general
+
+              VALUE  LABEL
+                  1  Very much
+                  2  Pretty satisfied
+                  3  Not so satisfied
+                  4  Not satisfied at all
+
+              Data type: numeric
+              Record/column: 2/53
+
+****    FOR EACH OF THE FOLLOWING GIVE A MARK FROM 1-9
+
+      a56                Your personal state
+
+              VALUE  LABEL
+                  1  Worst possible state
+                  9  Best possible state
+
+              Data type: numeric
+              Record/column: 2/54
+
+      a57                Your personal state 5 years ago
+
+              VALUE  LABEL
+                  1  Worst possible state
+                  9  Best possible state
+
+              Data type: numeric
+              Record/column: 2/55
+
+      a58                Your personal state 5 years from now
+
+              VALUE  LABEL
+                  1  Worst possible state
+                  9  Best possible state
+
+              Data type: numeric
+              Record/column: 2/56
+
+      a59                Do you support or are active in any party
+
+              VALUE  LABEL
+                  1  I don't support nor am active in any party
+                  2  I support a party but am not a member
+                  3  I am a party member
+                  4  I am an active member in a party
+                  5  I am a member and hold a post in the party
+
+              Data type: numeric
+              Record/column: 2/57
+
+      a60                Where do you place yourself in the left-right scale (1-7)
+
+              VALUE  LABEL
+                  1  Rightmost
+                  7  Leftmost
+
+              Data type: numeric
+              Record/column: 2/58
+
+      a61                What effect will the security situation have on your voting to the Knesset (closest)
+
+              VALUE  LABEL
+                  1  Will have a great effect
+                  2  Will have some effect
+                  3  Will have a very little effect
+                  4  Will have no effect
+
+              Data type: numeric
+              Record/column: 2/59
+
+      a62                Which party reflects your view on security matters
+
+              VALUE  LABEL
+                 01  Labour
+                 02  Likud
+                 03  Mapam
+                 04  Tehia
+                 05  Tzomet
+                 06  Shinui+Independent Liberals+The Liberal center
+                 07  Ratz+Sarid+Virsouvski
+                 08  National religious party
+                 09  Agudat Israel
+                 10  Shas
+                 11  Poalei Agudat Israel
+                 12  Kach (Kahane)
+                 13  Hadash (Rakah)
+                 14  The movement for progressive peace
+                 15  Other
+
+              Data type: numeric
+              Record/columns: 2/60-61
+
+      a63                If elections were held now who would you vote for
+
+              VALUE  LABEL
+                 01  Labour (Maarach) (Labour+Yahad)
+                 02  Likud (Herut+Liberalim++La'am+Ometz+Tami)
+                 03  Mapam
+                 04  Tehia
+                 05  Tzomet
+                 06  Shinui+Independent Liberals+The Liberal center
+                 07  Ratz+Sarid+Virsouvski
+                 08  National religious party(Mafdal)+Metzad
+                 09  Agudat Israel
+                 10  Shas
+                 11  Poalei Agudat Israel
+                 12  Kach (Kahane)
+                 13  Hadash (Rakah)
+                 14  The movement for progressive peace
+                 15  Other
+                 16  Has not decided yet
+                 17  Would not vote
+
+              Data type: numeric
+              Record/columns: 2/62-63
+
+      a64                For which party did you vote in the 1984 elections
+
+              VALUE  LABEL
+                 01  Labour
+                 02  Likud
+                 03  Mafdal
+                 04  Agudat Israel
+                 05  Shas
+                 06  Morasha
+                 07  Tami
+                 08  Yahad (Wiezman)
+                 09  Shinui
+                 10  Ratz
+                 11  Hatchia+tzomet
+                 12  Lova Eliav
+                 13  Ometz
+                 14  Kach
+                 15  Hadash (Rakach)
+                 16  The progressive movement for peace
+                 17  Other
+                 18  Did not vote though had the right
+                 19  Did not have the right to vote
+
+              Data type: numeric
+              Record/columns: 2/64-65
+
+      a65                When did you first vote for the Knesset
+
+              VALUE  LABEL
+                 01  1949
+                 02  1951
+                 03  1955
+                 04  1959
+                 05  1961
+                 06  1965
+                 07  1969
+                 08  1973
+                 09  1977
+                 10  1981
+                 11  1984
+                 12  I have not yet participated
+
+              Data type: numeric
+              Record/columns: 2/66-67
+
+      a66                Which party did you vote for for the first time
+
+              Data type: numeric
+              Record/columns: 2/68-69
+
+      a67                Which party did your father vote for during the last elections
+
+              Data type: numeric
+              Record/columns: 2/70-71
+
+      a68                Which party did your mother vote for during last elections
+
+              Data type: numeric
+              Record/columns: 2/72-73
+
+      a69                Marital status
+
+              VALUE  LABEL
+                  1  Bachelor/spinster
+                  2  Married
+                  3  Divorced
+                  4  Widow
+
+              Data type: numeric
+              Record/column: 2/74
+
+      a70                For which party did your spouse vote
+
+              Data type: numeric
+              Record/column: 2/75
+
+      a71                Do you think you are influenced by your family members' votes
+
+              VALUE  LABEL
+                  1  Yes, very much so
+                  2  Yes, a lot
+                  3  Yes, to some extent
+                  4  Yes, very little
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 2/76
+
+      a72                Who do you think influences your vote mostly
+
+              VALUE  LABEL
+                  1  My father
+                  2  My mother
+                  3  Brother/Sister
+                  4  Spouse
+                  5  Son/daughter
+                  6  Other
+                  7  Both my parents
+                  8  All my family equally
+                  9  None of them have any Influence
+
+              Data type: numeric
+              Record/column: 2/77
+
+      a73                Which of these social groups influences your vote mostly
+
+              VALUE  LABEL
+                  1  My family
+                  2  My close friends
+                  3  Friends from work
+                  4  Members of the movement/organization I belong to
+                  5  All the above groups equally
+                  6  None of these have influence over me
+
+              Data type: numeric
+              Record/column: 2/78
+
+      a74                To what extent is it important to you not to be considered a political anomaly
+
+              VALUE  LABEL
+                  1  Extremely so
+                  2  Very much
+                  3  To some extent
+                  4  Very little
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 2/79
+
+      a75                How often do you discuss political matters with your family
+
+              VALUE  LABEL
+                  1  Almost every day
+                  2  Once or twice a week
+                  3  Very rarely
+                  4  Never
+
+              Data type: numeric
+              Record/column: 2/80
+
+      a76                With whom do you discuss political matters for the most part
+
+              VALUE  LABEL
+                  1  With my father
+                  2  With my mother
+                  3  With my sister/brother
+                  4  With spouse
+                  5  With my children
+                  6  Other
+                  7  With both my parents equally
+                  8  With all my family equally
+                  9  With neither
+
+              Data type: numeric
+              Record/column: 2/81
+
+      a77                When you lived with your parents, with whom did you discuss political matters
+
+              VALUE  LABEL
+                  1  With my father
+                  2  With my mother
+                  3  With my sister/brother
+                  4  Other
+                  5  With both parents equally
+                  6  With all family members
+                  7  With no one
+                  8  I still live with my parents
+
+              Data type: numeric
+              Record/column: 2/82
+
+      a78                Are you satisfied with the way the the Israeli democracy functions
+
+              VALUE  LABEL
+                  1  Very satisfied
+                  2  Pretty satisfied
+                  3  Not so satisfied
+                  4  Not satisfied at all
+
+              Data type: numeric
+              Record/column: 2/83
+
+      a79                When you have a definite opinion on something do you try to convince others
+
+              VALUE  LABEL
+                  1  Yes, often
+                  2  Yes, sometimes
+                  3  Yes, rarely
+                  4  Never
+
+              Data type: numeric
+              Record/column: 2/84
+
+      a80                Do you want to live in Israel in the long run
+
+              VALUE  LABEL
+                  1  I am convinced that I do
+                  2  I want to but am not convinced
+                  3  I have doubts
+                  4  I am convinced that I don't
+
+              Data type: numeric
+              Record/column: 2/85
+
+      a81                What is the main cause for not wanting to live here
+
+              VALUE  LABEL
+                  1  The security situation
+                  2  The economic situation
+                  3  The social situation
+                  4  Rising of anti-democratic views
+                  5  The place religion has in the state
+
+              Data type: numeric
+              Record/column: 2/86
+
+      a82                How would you define your feeling today-would you say that you are happy
+
+              VALUE  LABEL
+                  1  Very happy
+                  2  Quite happy
+                  3  Not so happy
+
+              Data type: numeric
+              Record/column: 2/87
+
+      a83                Did you do active military service
+
+              VALUE  LABEL
+                  1  Haven't served yet but will serve
+                  2  I am doing compulsery service
+                  3  Professional military service
+                  4  I have served
+                  5  I have not served in the army
+
+              Data type: numeric
+              Record/column: 2/88
+
+      a84                Do you do reserve service
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/89
+
+      a85                How many reserve duty days have you served last year
+
+              Data type: numeric
+              Record/columns: 2/90-91
+
+      a86                During reserve service do you serve in a combat duty
+
+              VALUE  LABEL
+                  1  Combat duty
+                  2  Non-combat duty
+
+              Data type: numeric
+              Record/column: 2/92
+
+      a87                How long have you served in active military service
+
+              VALUE  LABEL
+                  1  Up to a year
+                  2  1-1.5 years
+                  3  1.5-2 years
+                  4  2-2.5 years
+                  5  2.5-3 years
+                  6  3-6 years
+                  7  6-15 years
+                  8  Over 15 years
+
+              Data type: numeric
+              Record/column: 2/93
+
+      a88                Did you serve in combat during army service
+
+              VALUE  LABEL
+                  1  Mainly in combat services
+                  2  Both in combat and non- combat services
+                  3  Mainly in non-combat services
+
+              Data type: numeric
+              Record/column: 2/94
+
+      a89                During army service/ reserve duty were you posted in the occupied territories
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Do not do reserve duty
+
+              Data type: numeric
+              Record/column: 2/95
+
+      a90                What is/was your military rank in army service (data is unavailable)
+
+              Data type: numeric
+              Record/column: 2/96
+
+      a91                Have you participated in any war (in combat)
+
+              VALUE  LABEL
+                  0  No
+                  1  Yes
+
+              Data type: numeric
+              Record/column: 2/97
+
+      a92                How satisfied were you of your army service
+
+              VALUE  LABEL
+                  1  Very satisfied
+                  2  Satisfied
+                  3  No opinion
+                  4  Unsatisfied
+                  5  Unsatisfied at all
+
+              Data type: numeric
+              Record/column: 2/98
+
+      a93                What is the reason for not serving in the army
+
+              VALUE  LABEL
+                  1  My recruiting date hasn't come
+                  2  I am in academic reserve
+                  3  I am a new immigrant
+                  4  I am not a citizen
+                  5  Because of religious reasons
+                  6  Because of conscience reasons
+                  7  Other
+
+              Data type: numeric
+              Record/column: 2/99
+
+      a94                Is a relative of yours in army service
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/100
+
+      a95                Age
+
+              Data type: numeric
+              Record/columns: 2/101-102
+
+      a96                How do you define yourself (ethnic group)
+
+              VALUE  LABEL
+                  1  Ashkenazi
+                  2  Sepharadic
+                  3  Neither
+
+              Data type: numeric
+              Record/column: 2/103
+
+      a97                Country of birth or origin (values 1-5:country of birth)
+
+              VALUE  LABEL
+                 01  North Africa
+                 02  Asia
+                 03  Eastern Europe
+                 04  Central and Eastern Europe
+                 05  America, Australia, South Africa
+                 06  Born in Israel-Father born in Israel
+                 07  Born in Israel-Father born in North Africa
+                 08  Born in Israel-Father born in Asia
+                 09  Born in Israel-Father born in Eastern Europe
+                 10  Born in Israel-Father born in Western/Central Europe
+                 11  Born in Israel-Father born in America/Australia/South Africa
+
+              Data type: numeric
+              Record/columns: 2/104-105
+
+      a98                Year of Aliya
+
+              Data type: numeric
+              Record/columns: 2/106-107
+
+      a99                Years of schooling
+
+              Data type: numeric
+              Record/columns: 2/108-109
+
+      a100               To what extent do you observe religious tradition
+
+              VALUE  LABEL
+                  1  I observe all parts to the letter
+                  2  I observe most parts
+                  3  I observe some parts
+                  4  I don't observe any
+
+              Data type: numeric
+              Record/column: 2/110
+
+****    DO YOU HAVE CHILDREN IN EACH OF THE FOLLOWING AGE GROUPS
+
+      a102               Children ages 0-16
+
+              VALUE  LABEL
+                  1  No children
+                  2  Has a son/sons
+                  3  Has a daughter/daughters
+                  4  Has a son+daughter
+
+              Data type: numeric
+              Record/column: 2/111
+
+      a103               Children ages 16-18
+
+              VALUE  LABEL
+                  1  No children
+                  2  Has a son/sons
+                  3  Has a daughter/daughters
+                  4  Has a son+daughter
+
+              Data type: numeric
+              Record/column: 2/112
+
+      a104               Children ages 19-23
+
+              VALUE  LABEL
+                  1  No children
+                  2  Has a son/sons
+                  3  Has a daughter/daughters
+                  4  Has a son+daughter
+
+              Data type: numeric
+              Record/column: 2/113
+
+      a105               Monthly family expenditures (average-1,600 NIS for family of 4, Dec.,1987)
+
+              VALUE  LABEL
+                  1  A lot over average
+                  2  A little over average
+                  3  The same as the average
+                  4  A little under average
+                  5  A lot under average
+
+              Data type: numeric
+              Record/column: 2/114
+
+      a106               Number of rooms in household
+
+              Data type: numeric
+              Record/column: 2/115
+
+      a107               Number of persons living in household
+
+              Data type: numeric
+              Record/columns: 2/116-117
+
+      a108               In which social class do you classify yourself
+
+              VALUE  LABEL
+                  1  Upper class
+                  2  Middle upper class
+                  3  Middle class
+                  4  Lower class
+
+              Data type: numeric
+              Record/column: 2/118
+
+      a109               Do you work outside the household
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/119
+
+      a110               Status at work
+
+              VALUE  LABEL
+                  1  Salaried worker
+                  2  Salaried clerk
+                  3  Salaried manager
+                  4  Independent (small)
+                  5  Independent (owns a company)
+
+              Data type: numeric
+              Record/column: 2/120
+
+      a111               Reading daily newspapers
+
+              VALUE  LABEL
+                  1  Almost never
+                  2  Rarely
+                  3  About once a week
+                  4  About 2-3 times a week
+                  5  Almost every day
+
+              Data type: numeric
+              Record/column: 2/121
+
+      a112               Do you read literature on security matters
+
+              VALUE  LABEL
+                  1  Often
+                  2  Sometimes
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 2/122
+
+      a113               When meeting with friends do you discuss political matters
+
+              VALUE  LABEL
+                  1  Often
+                  2  Sometimes
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 2/123
+
+      a114               Have you been in a country under Nazi rule during the World War 2
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/124
+
+      a115               Has a family member been in a country under Nazi rule
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/125
+
+      a116               Has a member of your family been killed/hurt during Holocaust
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/126
+
+      a117               Have you or a family member been injured during army service
+
+              VALUE  LABEL
+                  1  I was badly hurt
+                  2  I was hurt but not badly
+                  3  A family member has been badly hurt
+                  4  A family member has been hurt but not badly
+
+              Data type: numeric
+              Record/column: 2/127
+
+      a118               Has a member of your family been killed during army service
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/128
+
+      a119               Sex
+
+              VALUE  LABEL
+                  1  Female
+                  2  Male
+
+              Data type: numeric
+              Record/column: 2/129
+
+      b2                 General situation in Israel today
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not good
+                  5  Bad
+
+              Data type: numeric
+              Record/column: 3/6
+
+      b3                 Way government handles nation's problems
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Not so well
+                  4  Not well at all
+
+              Data type: numeric
+              Record/column: 3/7
+
+****    NATIONAL SECURITY SCALE
+
+      b5                 Evaluation of Israel's present national security
+
+              VALUE  LABEL
+                  1  Worst possible
+                  9  Best possible
+
+              Data type: numeric
+              Record/column: 3/8
+
+      b6                 Evaluation of Israel's national security 5 years ago
+
+              VALUE  LABEL
+                  1  Worst possible
+                  9  Best possible
+
+              Data type: numeric
+              Record/column: 3/9
+
+      b7                 Evaluation of Israel's national security in 5 years
+
+              VALUE  LABEL
+                  1  Worst possible
+                  9  Best possible
+
+              Data type: numeric
+              Record/column: 3/10
+
+      b8                 Main problem government must take care of
+
+              VALUE  LABEL
+                 01  Security (general)
+                 02  The Palestinian issue, occupied territories
+                 03  The uprising in the occupied territories (Intifada)
+                 04  Fighting Terror, security forces
+                 05  Israeli Arabs
+                 06  Foreign policy (general)
+                 07  The peace (solving the Israeli Arab conflict)
+                 08  Economy (general)
+                 09  Inflation
+                 10  Depression, unemployment
+                 11  Internal affairs (general)
+                 12  Social gap
+                 13  Young couples, housing
+                 14  Education
+                 15  Health
+                 16  Transportation, road accidents
+                 17  Immigration absorption
+                 18  Religious affairs, religious-secular relations
+                 19  Unity and moral of the people
+                 20  Other
+
+              Data type: numeric
+              Record/columns: 3/11-12
+
+      b9                 Party most capable of handling above issue
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Hatehiya
+                 04  Tsomet
+                 05  Moledet(Gandi)
+                 06  Kah(Kahana)
+                 07  Tnu'at Hamerkaz-Shinui
+                 08  Mapam
+                 09  Ratz
+                 10  Mafdal
+                 11  Meimad(The Centre Religious Party)
+                 12  Agudat Israel\Degel Hatora
+                 13  Shas\Yeshi
+                 14  Pagi-Morasha(The United Torah Camp)
+                 15  Arab Democratic Party(Daraushe)
+                 16  Hadash(Rakah)
+                 17  The Progressive List
+                 18  Other party
+                 19  No opinion
+                 20  All parties together
+
+              Data type: numeric
+              Record/columns: 3/13-14
+
+      b10                Desired solution to territories issue
+
+              VALUE  LABEL
+                  1  Conceding territories in return for peace
+                  2  Annexation of territories
+                  3  Leave current situation unchanged
+
+              Data type: numeric
+              Record/column: 3/15
+
+      b11                Which of the 2 solutions should Israel adopt if necessary
+
+              VALUE  LABEL
+                  1  Return most of Judea,Samaria and Gaza
+                  2  Annexation of Judea,Samaria and Gaza
+
+              Data type: numeric
+              Record/column: 3/16
+
+      b12                The largest territorial concession, if any, to be made in Judea and Samaria for peace
+
+              VALUE  LABEL
+                  1  No concession
+                  2  Concession of a small part
+                  3  Concession of a part
+                  4  Almost full concession
+                  5  Concession of all Judea and samaria for Peace treaty
+
+              Data type: numeric
+              Record/column: 3/17
+
+      b13                Should Israel agree to negotiate with PLO taking into account the current situation
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 3/18
+
+      b14                Should Israel be ready to negotiate with PLO providing PLO recognizes Israel and renounces terror
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 3/19
+
+      b15                Should Israel agree to establishment of Palestinian state in occupied territories
+
+              VALUE  LABEL
+                  1  Definitely
+                  2  Probably
+                  3  Probably not
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 3/20
+
+      b16                Rights to be given to Palestinians if territories are annexed
+
+              VALUE  LABEL
+                  1  Full civil rights(incl. suffrage)
+                  2  Civil rights (excluding suffrage)
+                  3  Leave current situation unchanged
+                  4  Decrease current rights
+
+              Data type: numeric
+              Record/column: 3/21
+
+      b17                Evaluation of government's policy in territories of maintaining tranquility
+
+              VALUE  LABEL
+                  1  Too harsh
+                  2  Appropriate
+                  3  Too permissive
+
+              Data type: numeric
+              Record/column: 3/22
+
+      b18                Emphasis to put in attempt to prevent war between Israel and Arab states
+
+              VALUE  LABEL
+                  1  Take all measures towards peace treaty
+                  2  Increase military power
+
+              Data type: numeric
+              Record/column: 3/23
+
+      b19                Government should encourage Arab emigration from Israel
+
+              VALUE  LABEL
+                  1  Strongly agree
+                  2  Agree
+                  3  Disagree
+                  4  Strongly disagree
+
+              Data type: numeric
+              Record/column: 3/24
+
+      b20                Possibility of Arab-Israeli peace in future
+
+              VALUE  LABEL
+                  1  Definitely possible
+                  2  Possible
+                  3  Impossible
+                  4  Definitely impossible
+
+              Data type: numeric
+              Record/column: 3/25
+
+      b21                Israel's ability to affect Arab peace policy
+
+              VALUE  LABEL
+                  1  Definitely capable
+                  2  Capable
+                  3  Incapable
+                  4  Definitely incapable
+
+              Data type: numeric
+              Record/column: 3/26
+
+      b22                Probability of signing another peace treaty with Arab country within 3 years
+
+              VALUE  LABEL
+                  1  Most likely
+                  2  Likely
+                  3  Unlikely
+                  4  Most unlikely
+
+              Data type: numeric
+              Record/column: 3/27
+
+      b23                Probability of Israeli-Arab war within 3 years
+
+              VALUE  LABEL
+                  1  Most likely
+                  2  Likely
+                  3  Unlikely
+                  4  Most unlikely
+
+              Data type: numeric
+              Record/column: 3/28
+
+****    THE TWO MOST DANGEROUS ENEMIES OF ISRAEL
+
+      b25                The most dangerous enemy
+
+              VALUE  LABEL
+                  1  Syria
+                  2  PLO
+                  3  Jordan
+                  4  Lebanese Shiites
+                  5  Libya
+                  6  Egypt
+                  7  Iraq
+                  8  Iran
+                  9  Saudi Arabia
+
+              Data type: numeric
+              Record/column: 3/29
+
+      b26                The second most dangerous enemy
+
+              VALUE  LABEL
+                  1  Syria
+                  2  PLO
+                  3  Jordan
+                  4  Lebanese Shiites
+                  5  Libya
+                  6  Egypt
+                  7  Iraq
+                  8  Iran
+                  9  Saudi Arabia
+
+              Data type: numeric
+              Record/column: 3/30
+
+      b27                Belief in Israel's existence in long run
+
+              VALUE  LABEL
+                  1  Definitely believe
+                  2  Believe
+                  3  Disbelieve
+                  4  Definitely disbelieve
+
+              Data type: numeric
+              Record/column: 3/31
+
+****    ISRAEL'S CAPABILITY OF COPING WITH VARIOUS SITUATIONS
+
+      b29                Total Israeli-Arab war
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/32
+
+      b30                War against Syria alone
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/33
+
+      b31                Increase of terrorist activity
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/34
+
+      b32                Decrease of American support
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/35
+
+      b33                Israeli Arabs' civilian uprising
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/36
+
+      b34                Uprising of Arabs from occupied territories
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/37
+
+      b35                Massive Soviet assistance to Arab countries in war against us
+
+              VALUE  LABEL
+                  1  Capable
+                  2  Incapable
+
+              Data type: numeric
+              Record/column: 3/38
+
+      b36                Estimate of Arabs' ultimate goal
+
+              VALUE  LABEL
+                  1  Partial return of territories
+                  2  Full return of territories
+                  3  Total takeover of Israel
+                  4  Total takeover of Israel and termination of major part of Jewish population
+
+              Data type: numeric
+              Record/column: 3/39
+
+      b37                Evaluation of the necessity of national security overriding other issues
+
+              VALUE  LABEL
+                  1  Primary preference over all other issues
+                  7  Security must not be reached at any price
+
+              Data type: numeric
+              Record/column: 3/40
+
+      b38                Preference for rule of law vs. security interests
+
+              VALUE  LABEL
+                  1  Preference for security interests
+                  7  Preference for rule of law
+
+              Data type: numeric
+              Record/column: 3/41
+
+      b39                Evaluation of role of settlements with respect to national security
+
+              VALUE  LABEL
+                  1  Contribute to national security
+                  4  Neither contribute nor disrupt
+                  7  Disrupt national security
+
+              Data type: numeric
+              Record/column: 3/42
+
+      b40                The influence of the occupation on IDF soldiers' morale
+
+              VALUE  LABEL
+                  1  Negative effect
+                  4  Neither positive nor negative
+                  7  Positive effect
+
+              Data type: numeric
+              Record/column: 3/43
+
+      b41                Evaluation of international peace conference with participation of great superpowers
+
+              VALUE  LABEL
+                  1  Strongly support
+                  2  Support
+                  3  Disaprove
+                  4  Strongly disaprove
+
+              Data type: numeric
+              Record/column: 3/44
+
+      b42                Support of government in security crisis while disagreeing with it's way
+
+              VALUE  LABEL
+                  1  Mandatory support
+                  2  Generally, support
+                  3  Generally, not support
+                  4  Never mandatory to support
+
+              Data type: numeric
+              Record/column: 3/45
+
+      b43                Change in IDF's power in last five years
+
+              VALUE  LABEL
+                  1  Substantial weakening
+                  2  Certain weakening
+                  3  No change
+                  4  Certain strengthening
+                  5  Substantial strengthening
+
+              Data type: numeric
+              Record/column: 3/46
+
+      b44                Self-evaluation as 'hawk' or as 'dove'
+
+              VALUE  LABEL
+                  1  Hawk
+                  7  Dove
+
+              Data type: numeric
+              Record/column: 3/47
+
+****    EFFECT OF INTIFADAH ON FOLLOWING ISSUES
+
+      b45                Effect of Intifadah on evaluation of political situation and degree of security
+
+              VALUE  LABEL
+                  1  No change
+                  2  More ready for concessions
+                  3  Less ready for concessions
+
+              Data type: numeric
+              Record/column: 3/48
+
+      b47                Effect of intifada on interviewee's mood
+
+              VALUE  LABEL
+                  1  Improved
+                  2  Did not change
+                  3  Became worse
+
+              Data type: numeric
+              Record/column: 3/49
+
+      b48                Effect of intifada on national mood
+
+              VALUE  LABEL
+                  1  Improved
+                  2  Did not change
+                  3  Became worse
+
+              Data type: numeric
+              Record/column: 3/50
+
+      b49                Effect of intifada on estimate of election results
+
+              VALUE  LABEL
+                  1  No change
+                  2  Likud's camp's chances improved
+                  3  Ma'arah's camp's chances improved
+                  4  Religious parties' chances improved
+
+              Data type: numeric
+              Record/column: 3/51
+
+      b50                Effect of intifada on interviewee's political activity
+
+              VALUE  LABEL
+                  1  Increased
+                  2  Did not change
+                  3  Decreased
+
+              Data type: numeric
+              Record/column: 3/52
+
+      b51                Effect of intifada on desire to live in Israel
+
+              VALUE  LABEL
+                  1  Increased
+                  2  Did not change
+                  3  Decreased
+
+              Data type: numeric
+              Record/column: 3/53
+
+      b52                Effect of intifada on interviewee's vote
+
+              VALUE  LABEL
+                  1  Did not change
+                  2  Strong inclination to vote for Likud
+                  3  Strong inclination to vote for Labor
+                  4  Strong inclination to vote for religious parties
+
+              Data type: numeric
+              Record/column: 3/54
+
+      b53                Effect of intifada on interviewee's attitude towards Arabs
+
+              VALUE  LABEL
+                  1  More positive
+                  2  Did not change
+                  3  More negative
+
+              Data type: numeric
+              Record/column: 3/55
+
+      b54                Effect of territories issue on forthcoming elections
+
+              VALUE  LABEL
+                  1  Significant effect
+                  2  Certain effect
+                  3  Small effect
+                  4  No effect at all
+
+              Data type: numeric
+              Record/column: 3/56
+
+      b55                Effect of territories issue on Interviewee's vote to Knesset
+
+              VALUE  LABEL
+                  1  Significant effect
+                  2  Certain effect
+                  3  Small effect
+                  4  No effect at all
+
+              Data type: numeric
+              Record/column: 3/57
+
+      b56                Party best reflecting Interviewee's stand on territories issue
+
+              VALUE  LABEL
+                 01  Ma'arah
+                 02  Likud
+                 03  Tehiya
+                 04  Tsomet
+                 05  Moledet(Gandi)
+                 06  Kah(Kahana)
+                 07  Tnu'at Hamerkaz-Shinui
+                 08  Mapam
+                 09  Ratz
+                 10  Mafdal
+                 11  Meimad(The Central Religious Party)
+                 12  Agudat Israel\Degel Hatorah
+                 13  Shas\Yeshi
+                 14  Pagi(The United Torah Camp)
+                 15  The Arab Democratic Party(Daraushe)
+                 16  Hadash(Rakah)
+                 18  Other
+                 19  Do not know
+
+              Data type: numeric
+              Record/columns: 3/58-59
+
+      b57                Evaluation of differences between major parties on national security
+
+              VALUE  LABEL
+                  1  Very big difference
+                  2  Big difference
+                  3  Some difference
+                  4  Small difference
+                  5  Hardly any difference
+
+              Data type: numeric
+              Record/column: 3/60
+
+      b58                Degree of similarity of family members' views on territories and security issues to those of interviewee
+
+              VALUE  LABEL
+                  1  Everyone's views are similar
+                  2  Great part's views are similar
+                  3  Small part's views are similar
+                  4  No one's views are similar
+                  5  Ignorant of relatives' views
+
+              Data type: numeric
+              Record/column: 3/61
+
+      b59                Frequency of discussions on political matters with family members
+
+              VALUE  LABEL
+                  1  Almost every day
+                  2  Once or twice a week
+                  3  Infrequently
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 3/62
+
+      b60                Family member with whom discussions on political matters are most frequent
+
+              VALUE  LABEL
+                  1  Father
+                  2  Mother
+                  3  Brother\sister
+                  4  Spouse
+                  5  Children
+                  6  Other
+                  7  Both of the parents equally
+                  8  All the family members equally
+                  9  No one
+
+              Data type: numeric
+              Record/column: 3/63
+
+      b61                Interviewee's economical approach
+
+              VALUE  LABEL
+                  1  Definitely capitalist
+                  2  More capitalist than socialist
+                  3  More socialist than capitalist
+                  4  Definitely socialist
+
+              Data type: numeric
+              Record/column: 3/64
+
+      b62                Evaluation of Histadrut's holding of companies
+
+              VALUE  LABEL
+                  1  Definitely all right
+                  2  All right
+                  3  Not that good
+                  4  Definitely not good
+
+              Data type: numeric
+              Record/column: 3/65
+
+      b63                Evaluation of differences between parties on economical issues
+
+              VALUE  LABEL
+                  1  Very big difference
+                  2  Big difference
+                  3  Some difference
+                  4  Small difference
+                  5  Hardly any difference
+
+              Data type: numeric
+              Record/column: 3/66
+
+      b64                Effect of economic issues on forthcoming elections
+
+              VALUE  LABEL
+                  1  Significant effect
+                  2  Certain effect
+                  3  Minor effect
+                  4  No effect at all
+
+              Data type: numeric
+              Record/column: 3/67
+
+      b65                Effect of economic issues on interviewee's vote
+
+              VALUE  LABEL
+                  1  Significant effect
+                  2  Certain effect
+                  3  Minor effect
+                  4  No effect at all
+
+              Data type: numeric
+              Record/column: 3/68
+
+      b66                Identification with political parties on economical issues
+
+              VALUE  LABEL
+                  1  Labor(Ma'arah)
+                  2  Likud
+                  3  Other
+
+              Data type: numeric
+              Record/column: 3/69
+
+      b67                Identification with parties on foreign and security issues
+
+              VALUE  LABEL
+                  1  Labor (Ma'arah)
+                  2  Likud
+                  3  Other
+
+              Data type: numeric
+              Record/column: 3/70
+
+      b68                Better team to handle economic problems
+
+              VALUE  LABEL
+                  1  Ma'arah's team
+                  2  Likud's team
+                  3  Both equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 3/71
+
+      b69                Better team to handle foreign and security problems
+
+              VALUE  LABEL
+                  1  Ma'arah's team
+                  2  Likud's team
+                  3  Both equally
+                  4  None of them
+
+              Data type: numeric
+              Record/column: 3/72
+
+      b70                Desirability of formation of national unity government after elections
+
+              VALUE  LABEL
+                  1  Definitely yes
+                  2  Probably yes
+                  3  Probably no
+                  4  definitely no
+                  5  Yes, if headed by Likud party
+                  6  Yes, if headed by Labor party
+
+              Data type: numeric
+              Record/column: 3/73
+
+      b71                Frequency of political discussions with friends
+
+              VALUE  LABEL
+                  1  Often
+                  2  Sometimes
+                  3  Seldom
+                  4  Never
+
+              Data type: numeric
+              Record/column: 3/74
+
+      b72                Evaluation of ability to influence government policies
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  None
+
+              Data type: numeric
+              Record/column: 3/75
+
+      b73                Most important factor influencing voting
+
+              VALUE  LABEL
+                  1  Identification with party
+                  2  Party's candidate for prime minister
+                  3  Party's policies on certain issues
+                  4  Party being in government or in opposition
+
+              Data type: numeric
+              Record/column: 3/76
+
+      b74                Least favored controversial political group
+
+              VALUE  LABEL
+                 01  Neturei Kartha
+                 02  Rakah(Hadash)
+                 03  Kah(Rabbi Kahana Movement)
+                 04  Agudat Israel-Pagi
+                 05  Gush Emunim
+                 06  Progressive movement towards peace
+                 07  Other PLO supporting groups(e.g. 'Bnei Hakfar')
+                 08  Hatehiya
+                 09  Tsomet
+                 10  Moledet (Gandi movement)
+                 11  Arab Democratic Party (Daraushe movement)
+                 12  Shalom Ahshav
+                 13  Matzpen
+                 14  Yesh Gvul' movement
+                 15  Other
+
+              Data type: numeric
+              Record/columns: 3/77-78
+
+****    APPROVAL OF FOLLOWING SAYINGS WITH RESPECT TO ABOVE SPECIFIED GROUP
+
+      b76                Should member of that group be banned from being prime minister
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/79
+
+      b77                That group should be declared outlaw
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/80
+
+      b78                Members of that group should be allowed to appear on TV
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/81
+
+      b79                The group members' phones should be tapped
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/82
+
+      b80                Members of that group should be allowed to demonstrate
+
+              VALUE  LABEL
+                  1  Definitely agrees
+                  2  Agrees
+                  3  Not certain
+                  4  Disagrees
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/83
+
+****    APPROVAL OF DECLARING BELOW SPECIFIED GROUPS OUTLAW
+
+      b82                Progressive list for peace (Ha-Reshima Ha-Mitkademet Le-Shalom)
+
+              VALUE  LABEL
+                  1  Definitely approve
+                  2  Approve
+                  3  Not certain
+                  4  Disapprove
+                  5  Definitely disapprove
+
+              Data type: numeric
+              Record/column: 3/84
+
+      b83                Kah (Rabbi Kahana's movement)
+
+              VALUE  LABEL
+                  1  Definitely approve
+                  2  Approve
+                  3  Not certain
+                  4  Disapprove
+                  5  Definitely disapprove
+
+              Data type: numeric
+              Record/column: 3/85
+
+      b84                Rakah (Hadash)
+
+              VALUE  LABEL
+                  1  Definitely approve
+                  2  Approve
+                  3  Not certain
+                  4  Disapprove
+                  5  Definitely disapprove
+
+              Data type: numeric
+              Record/column: 3/86
+
+      b85                Gush Emunim
+
+              VALUE  LABEL
+                  1  Definitely approve
+                  2  Approve
+                  3  Not certain
+                  4  Disapprove
+                  5  Definitely disapprove
+
+              Data type: numeric
+              Record/column: 3/87
+
+      b86                Shalom Ahshav
+
+              VALUE  LABEL
+                  1  Definitely approve
+                  2  Approve
+                  3  Not certain
+                  4  Disapprove
+                  5  Definitely disapprove
+
+              Data type: numeric
+              Record/column: 3/88
+
+      b88                Arab should be banned from being prime minister
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/89
+
+      b89                Arabs should be allowed to deliver speeches in public and to appear on TV
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/90
+
+      b90                Arabs' phones should be tapped
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/91
+
+      b91                Arabs should be allowed to demonstrate
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/92
+
+      b92                Arabs should be encouraged to emigrate
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 3/93
+
+****    FOR EACH OF THE FOLLOWING STATE TO WHICH PARTY IT SUITS THE MOST
+
+      b94                Which party has experienced leaders
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/94
+
+      b95                Which party provides adequate representation to Oriental Jews
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/95
+
+      b96                Which party secures country's future
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/96
+
+      b97                Which party secures Jewish majority in Israel
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/97
+
+      b98                Which party closes gaps between ethnic groups
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/98
+
+      b99                Which party contributed to building the country
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/99
+
+      b100               Which party fosters Oriental Jews' self esteem
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/100
+
+      b101               Which party will know how to stand firmly at peace and territories negotiations
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/101
+
+      b102               Which party will know how to preserve democratic regime
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/102
+
+      b103               Ethnic party
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/103
+
+      b104               Party to retain necessary amount of territories
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/104
+
+      b105               Which party can achieve true peace with Arabs
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/105
+
+      b106               Party to return tranquility and order to territories
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/106
+
+      b107               Party to know when and how to lead to successful war
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/107
+
+      b108               National party
+
+              VALUE  LABEL
+                  1  Suits Labor
+                  2  Suits Likud
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 3/108
+
+****    THERMOMETER SCALE TOWARDS PERSONS OR GROUPS (0-10 scale)
+
+      b110               Labor
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/109
+
+      b111               Likud
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/110
+
+      b112               Shim'on Peres
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/111
+
+      b113               Yitzhak Shamir
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/112
+
+      b114               Arabs
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/113
+
+      b115               Ariel Sharon
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/114
+
+      b116               Religious persons
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/115
+
+      b117               Ashkenazi Jews
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/116
+
+      b118               David Levi
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/117
+
+      b119               Yitzhak Navon
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/118
+
+      b120               Sephardic Jews
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/119
+
+      b121               Yitzhak Rabin
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/120
+
+      b122               Menahem Begin
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/121
+
+      b123               Gush Emunim
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/122
+
+      b124               Shalom Ahshav
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/123
+
+      b125               Rabbi Kahana
+
+              VALUE  LABEL
+                  1  1 Strong aversion
+                 10  10 Strong affection
+
+              Data type: numeric
+              Record/column: 3/124
+
+      b126               Self-evaluation as leftist or rightist
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 3/125
+
+****    APPROVAL OF FOLLOWING SAYINGS ON SOCIAL AND STATE MATTERS
+
+      c3                 Democracy is best form of rule
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/6
+
+      c4                 Politicians do not consider common person's opinion
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/7
+
+      c5                 Jews undertaking illegal actions against Arabs should get lighter punishment then Arabs hurting Jews
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/8
+
+      c6                 Several strong leaders can do more good than any discussions and laws
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/9
+
+      c7                 Every man should have equal rights notwithstanding his political views
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/10
+
+      c8                 Minority groups should be allowed to act in order to achieve support of majority
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/11
+
+      c9                 Belief in freedom of speech for everyone notwithstanding his views
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/12
+
+      c10                There are situations when it's better to take law in one's own hands
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not certain
+                  4  Disagree
+                  5  Definitely disagree
+
+              Data type: numeric
+              Record/column: 4/13
+
+      c11                Government should see to it that public life be conducted according to Jewish religious law
+
+              VALUE  LABEL
+                  1  Definitely
+                  2  Maybe
+                  3  Maybe not
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 4/14
+
+      c12                Degree of ethnic discrimination in Israel
+
+              VALUE  LABEL
+                  1  Very high
+                  2  High
+                  3  Moderate
+                  4  Low
+                  5  Hardly any
+
+              Data type: numeric
+              Record/column: 4/15
+
+      c13                Degree of personal experience of ethnic discrimination
+
+              VALUE  LABEL
+                  1  Very high
+                  2  High
+                  3  Moderate
+                  4  Low
+                  5  Hardly any
+
+              Data type: numeric
+              Record/column: 4/16
+
+      c14                Approval of partly constitutional system of elections to Knesset vs. present one
+
+              VALUE  LABEL
+                  1  Definitely go on with present system
+                  2  Probably go on with present system
+                  3  Probably shift to partly constitutional
+                  4  Definitely shift to partly constitutional
+                  5  No opinion
+                  6  Both systems are no good and shift to fully constitutional system
+
+              Data type: numeric
+              Record/column: 4/17
+
+      c15                Preferred party to form government
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Hatehiya
+                 04  Tsomet
+                 05  Moledet(Gandi)
+                 06  Kah(Kahana)
+                 07  Tnu'at Hamerkaz-Shinui
+                 08  Mapam
+                 09  Ratz
+                 10  Mafdal
+                 11  Meimad(Centrist Religious Party)
+                 12  Agudat Israel\Degel Hatorah
+                 13  Shas\Yeshi
+                 14  Pagi(United Torah Camp)
+                 15  Arab Democratic party(Daraushe)
+                 16  Hadash(Rakah)
+                 17  Progressive list for peace
+                 18  Other
+
+              Data type: numeric
+              Record/columns: 4/18-19
+
+      c16                Estimate of party to form government
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Hatehiya
+                 04  Tsomet
+                 05  Moledet(Gandi)
+                 06  Kah(Kahana)
+                 07  Tnu'at Hamerkaz-Shinui
+                 08  Mapam
+                 09  Ratz
+                 10  Mafdal
+                 11  Meimad(Centrist Religious Party)
+                 12  Agudat Israel\Degel Hatorah
+                 13  Shas\Yeshi
+                 14  Pagi(United Torah Camp)
+                 15  Arab Democratic party(Daraushe)
+                 16  Hadash(Rakah)
+                 17  Progressive list for peace
+                 18  Other
+                 20  Do not know
+
+              Data type: numeric
+              Record/columns: 4/20-21
+
+      c17                Interviewee's vote if elections were held now
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Hatehiya
+                 04  Tsomet
+                 05  Moledet(Gandi)
+                 06  Kah(Kahana)
+                 07  Tnu'at Hamerkaz-Shinui
+                 08  Mapam
+                 09  Ratz
+                 10  Mafdal
+                 11  Meimad(Centrist Religious Party)
+                 12  Agudat Israel\Degel Hatorah
+                 13  Shas\Yeshi
+                 14  Pagi(United Torah Camp)
+                 15  Arab Democratic party(Daraushe)
+                 16  Hadash(Rakah)
+                 17  Progressive list for peace
+                 18  Other
+                 19  Blank note
+                 20  Did not decide yet
+                 21  No intention to vote
+
+              Data type: numeric
+              Record/columns: 4/22-23
+
+      c18                Interviewee's vote at last elections on July,1984
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Mafdal
+                 04  Agudat Israel
+                 05  Shas
+                 06  Morasha
+                 07  Tami
+                 08  Yahad(Weizman)
+                 09  Shinui
+                 10  Ratz
+                 11  Hatehiya+Tsomet
+                 12  Lova Eliav
+                 13  Ometz(Horovitz)
+                 14  Kah(Kahana)
+                 15  Hadash(Rakah)
+                 16  Progressive list for peace
+                 17  Other
+                 18  Did not vote despite having suffrage
+                 19  Did not vote due to absence of suffrage
+
+              Data type: numeric
+              Record/columns: 4/24-25
+
+****    FOR WHICH PARTIES WOULD YOU VOTE FOR IF NO LIMITATION IS POSED
+
+      c20                First party you would vote for if no limitation is posed
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Mafdal
+                 04  Agudat Israel
+                 05  Shas
+                 06  Morasha
+                 07  Tami
+                 08  Yahad(Weizman)
+                 09  Shinui
+                 10  Ratz
+                 11  Hatehiya+Tsomet
+                 12  Lova Eliav
+                 13  Ometz(Horovitz)
+                 14  Kah(Kahana)
+                 15  Hadash(Rakah)
+                 16  Progressive list for peace
+                 17  Other
+                 18  Did not vote despite having suffrage
+                 19  Did not vote due to absence of suffrage
+
+              Data type: numeric
+              Record/columns: 4/26-27
+
+      c21                Second party you would vote for if no limitation is posed
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Mafdal
+                 04  Agudat Israel
+                 05  Shas
+                 06  Morasha
+                 07  Tami
+                 08  Yahad(Weizman)
+                 09  Shinui
+                 10  Ratz
+                 11  Hatehiya+Tsomet
+                 12  Lova Eliav
+                 13  Ometz(Horovitz)
+                 14  Kah(Kahana)
+                 15  Hadash(Rakah)
+                 16  Progressive list for peace
+                 17  Other
+                 18  Did not vote despite having suffrage
+                 19  Did not vote due to absence of suffrage
+
+              Data type: numeric
+              Record/columns: 4/28-29
+
+      c22                Interviewee's father's vote at forthcoming elections
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Hatehiya
+                 04  Tsomet
+                 05  Moledet(Gandi)
+                 06  Kah(Kahana)
+                 07  Tnu'at Hamerkaz-Shinui
+                 08  Mapam
+                 09  Ratz
+                 10  Mafdal
+                 11  Meimad(Centrist Religious Party)
+                 12  Agudat Israel\Degel Hatorah
+                 13  Shas\Yeshi
+                 14  Pagi(United Torah Camp)
+                 15  Arab Democratic party(Daraushe)
+                 16  Hadash(Rakah)
+                 17  Progressive list for peace
+                 18  Other
+                 19  Did not decide who to vote for
+                 20  Do not know
+                 21  Died,lives abroad,no suffrage
+
+              Data type: numeric
+              Record/columns: 4/30-31
+
+      c23                Interviewee's mother's vote at forthcoming elections
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Mafdal
+                 04  Agudat Israel
+                 05  Shas
+                 06  Morasha
+                 07  Tami
+                 08  Yahad(Weizman)
+                 09  Shinui
+                 10  Ratz
+                 11  Hatehiya+Tsomet
+                 12  Lova Eliav
+                 13  Ometz(Horovitz)
+                 14  Kah(Kahana)
+                 15  Hadash(Rakah)
+                 16  Progressive list for peace
+                 17  Other
+                 18  Did not vote despite having suffrage
+                 19  Did not vote due to absence of suffrage
+
+              Data type: numeric
+              Record/columns: 4/32-33
+
+      c24                Marital status
+
+              VALUE  LABEL
+                  1  Not married
+                  2  Married
+                  3  Divorced
+                  4  Widowed
+
+              Data type: numeric
+              Record/column: 4/34
+
+      c25                Interviewee's spouse's vote at forthcoming elections
+
+              VALUE  LABEL
+                 01  Labor
+                 02  Likud
+                 03  Mafdal
+                 04  Agudat Israel
+                 05  Shas
+                 06  Morasha
+                 07  Tami
+                 08  Yahad(Weizman)
+                 09  Shinui
+                 10  Ratz
+                 11  Hatehiya+Tsomet
+                 12  Lova Eliav
+                 13  Ometz(Horovitz)
+                 14  Kah(Kahana)
+                 15  Hadash(Rakah)
+                 16  Progressive list for peace
+                 17  Other
+                 18  Did not vote despite having suffrage
+                 19  Did not vote due to absence of suffrage
+
+              Data type: numeric
+              Record/columns: 4/35-36
+
+      c26                Approval of canceling football matches on Sabbath
+
+              VALUE  LABEL
+                  1  Approve
+                  2  Disapprove
+
+              Data type: numeric
+              Record/column: 4/37
+
+      c27                Estimate of percentage of citizens approving canceling matches on Sabbath
+
+              VALUE  LABEL
+                 00  Minority
+                 99  Majority
+
+              Data type: numeric
+              Record/columns: 4/38-39
+
+      c28                Basis for above estimate
+
+              Data type: numeric
+              Record/columns: 4/40-41
+
+      c29                Approval of large Arab villages' status change from local councils to cities
+
+              VALUE  LABEL
+                  1  Approve change in status
+                  2  Disapprove change in status
+
+              Data type: numeric
+              Record/column: 4/42
+
+      c30                Estimate of percentage of Jewish population approving change in status
+
+              VALUE  LABEL
+                 00  Minority
+                 99  Majority
+
+              Data type: numeric
+              Record/columns: 4/43-44
+
+      c31                Basis for above estimate
+
+              Data type: numeric
+              Record/columns: 4/45-46
+
+      c32                Israel's usage of nuclear weapons
+
+              VALUE  LABEL
+                  1  There are conditions when usage is justified
+                  2  Under no conditions is usage justified
+
+              Data type: numeric
+              Record/column: 4/47
+
+      c33                Estimate of percentage of public thinking that under no condition is nuclear weapons usage justified
+
+              VALUE  LABEL
+                 00  Minority
+                 99  Majority
+
+              Data type: numeric
+              Record/columns: 4/48-49
+
+      c34                Basis for above estimate
+
+              Data type: numeric
+              Record/columns: 4/50-51
+
+      c35                Approval of breaking off relations with South-Africa
+
+              VALUE  LABEL
+                  1  Approve
+                  2  Disapprove
+
+              Data type: numeric
+              Record/column: 4/52
+
+      c36                Estimate of percentage of public approving breaking off relations with South-Africa,(Precise estimate)
+
+              VALUE  LABEL
+                 00  Minority
+                 99  Majority
+
+              Data type: numeric
+              Record/columns: 4/53-54
+
+      c37                Basis for above estimate
+
+              Data type: numeric
+              Record/columns: 4/55-56
+
+      c38                Fairness of distribution of reserve military service burden
+
+              VALUE  LABEL
+                  1  Fair
+                  2  Unfair
+
+              Data type: numeric
+              Record/column: 4/57
+
+      c39                Estimate of percentage of public thinking that above is fair
+
+              VALUE  LABEL
+                 00  Minority
+                 99  Majority
+
+              Data type: numeric
+              Record/columns: 4/58-59
+
+      c40                Basis for above estimate
+
+              Data type: numeric
+              Record/columns: 4/60-61
+
+****    GRADING OF BELOW VALUES ACCORDING TO THEIR IMPORTANCE
+
+      c42                Primary importance value
+
+              VALUE  LABEL
+                  1  Jewish majority state
+                  2  Greater Israel
+                  3  Democratic state (equal rights for all)
+                  4  State of peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 4/62
+
+      c43                Second value in importance
+
+              VALUE  LABEL
+                  1  Jewish majority state
+                  2  Greater Israel
+                  3  Democratic state (equal rights for all)
+                  4  State of peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 4/63
+
+      c44                Third value in importance
+
+              VALUE  LABEL
+                  1  Jewish majority state
+                  2  Greater Israel
+                  3  Democratic state (equal rights for all)
+                  4  State of peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 4/64
+
+      c45                Fourth value in importance
+
+              VALUE  LABEL
+                  1  Jewish majority state
+                  2  Greater Israel
+                  3  Democratic state (equal rights for all)
+                  4  State of peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 4/65
+
+      c46                To what extent interviewee observes religious laws
+
+              VALUE  LABEL
+                  1  Observe all religious laws to the letter
+                  2  Observe most of religious laws
+                  3  Observe some of religious laws
+                  4  Do not observe at all, totally free
+
+              Data type: numeric
+              Record/column: 4/66
+
+      c47                Self-definition as Ashkenazi or Sephardic Jew
+
+              VALUE  LABEL
+                  1  Ashkenazi
+                  2  Sephardic
+                  3  Neither
+                  4  Both
+
+              Data type: numeric
+              Record/column: 4/67
+
+      c48                Place of birth
+
+              VALUE  LABEL
+                 01  North America
+                 02  Asia
+                 03  Eastern Europe
+                 04  Western or Central Europe
+                 05  America,Australia,South-Africa
+                 06  Israeli born(Father also)
+                 07  Israeli born(Father in North America)
+                 08  Israeli born(Father in Asia)
+                 09  Israeli born(father in Eastern Europe)
+                 10  Israeli born(father in Western or Central Europe)
+                 11  Israeli born(father in America, Australia or South Africa)
+
+              Data type: numeric
+              Record/columns: 4/68-69
+
+      c49                Year of Aliya(immigration)
+
+              VALUE  LABEL
+                  1  Israeli born
+                  2  Before 1948
+                  3  1948-1954
+                  4  1955-1960
+                  5  1961-1966
+                  6  1967-1972
+                  7  1973-1977
+                  8  1978-1983
+                  9  1984+
+
+              Data type: numeric
+              Record/column: 4/70
+
+      c50                Does interviewee favor, is member of or hold position in any party
+
+              VALUE  LABEL
+                  1  No
+                  2  Favor but not member
+                  3  Member but no position
+                  4  Member and position but no compensation
+                  5  Member and position with compensation
+
+              Data type: numeric
+              Record/column: 4/71
+
+      c51                Identification with political trend
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious trend
+                  7  Do not identify with any
+
+              Data type: numeric
+              Record/column: 4/72
+
+      c52                Membership in Histadrut
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 4/73
+
+      c53                Reading daily newspapers
+
+              VALUE  LABEL
+                  1  Almost never
+                  2  Rarely
+                  3  Approximately once a week
+                  4  Twice-thrice a week
+                  5  One daily newspaper almost every day
+                  6  More than one daily newspaper almost every day
+
+              Data type: numeric
+              Record/column: 4/74
+
+      c54                Interviewee's active military service
+
+              VALUE  LABEL
+                  1  Not served yet but will in future
+                  2  Conscription
+                  3  Serving in regular service
+                  4  Served in IDF in past
+                  5  Did not serve in IDF
+
+              Data type: numeric
+              Record/column: 4/75
+
+      c55                Present reserve service
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 4/76
+
+      c56                Service in territories since uprising (Dec. 1987)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 4/77
+
+      c57                Age
+
+              Data type: numeric
+              Record/columns: 4/78-79
+
+      c58                Years of schooling
+
+              Data type: numeric
+              Record/columns: 4/80-81
+
+      c59                Identification with social status
+
+              VALUE  LABEL
+                  1  High
+                  2  Middle-high
+                  3  Middle
+                  4  Low
+                  5  Workers' status
+                  6  Do not belong to any status
+
+              Data type: numeric
+              Record/column: 4/82
+
+      c60                No. of rooms in household
+
+              Data type: numeric
+              Record/column: 4/83
+
+      c61                No. of persons living in household
+
+              Data type: numeric
+              Record/column: 4/84
+
+      c62                Monthly family expenditures
+
+              VALUE  LABEL
+                  1  Well above average
+                  2  Somewhat above average
+                  3  As average
+                  4  Somewhat below average
+                  5  Well below average
+
+              Data type: numeric
+              Record/column: 4/85
+
+      c63                Status at work
+
+              VALUE  LABEL
+                  1  Salaried worker
+                  2  Salaried clerk
+                  3  Salaried manager
+                  4  Independent\small business
+                  5  Independent-company owner
+                  6  Not working
+
+              Data type: numeric
+              Record/column: 4/86
+
+      c64                Code of locality
+
+              Data type: numeric
+              Record/columns: 4/87-88
+
+      c65                Statistical area
+
+              Data type: numeric
+              Record/columns: 4/89-90
+
+      c66                Date of interview
+
+              Data type: numeric
+              Record/columns: 4/91-92
+
+      c67                Panel
+
+              Data type: numeric
+              Record/columns: 4/93-97
+      

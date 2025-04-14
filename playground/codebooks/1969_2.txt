@@ -1,0 +1,1920 @@
+
+                                                           CODEBOOK
+
+
+                                               Election Study 1969, phase 2
+
+                                                           CONTENTS
+
+      a1                 Card number
+      a2                 Respondent ID
+      a4                 Participation in pre-election party meetings
+      a5                 Reading opinion poll results in newspapers
+      a6                 Faith in election polls
+      a8                 Viewing of television electoral broadcasts
+      a9                 Influence of broadcasts on political attitude
+      a11                The best possible life,where do you stand at present?
+      a12                Where did you stand 4 years ago?
+      a13                Where do you expect to stand in 4 years time?
+      a15                Comparison - present to past
+      a16                Comparison - present to future
+      a18                Phase number
+      b1                 Card number
+      b4                 Israel's present economic situation
+      b5                 Israel's economic situation 4 years ago
+      b6                 Israel's economic situation in 4 years time
+      b8                 Comparison - present to past
+      b9                 Comparison - present to future
+      b11                Extent of interest in Israel's economic problems
+      b12                Extent of interest avr.Israeli citizen should have in economic problems
+      b14                Extent to which you/friends can influence government policy
+      b16                Opinion regarding politicians tendency not consider man on street's opinion
+      b17                Extent of agreement with placing of gen.social interests above indiv.interests
+      b19                Opinion regarding separation of religion and state
+      b20                Opinion regarding changing party in power even if it is doing good job
+      b22                Extent you are clear on what Israel's most important basic problems are
+      b23                The most important basic problem for Israel today
+      b24                The second most important problem for Israel today
+      b25                The third most important problem for Israel today
+      b27                Most important topic in terms of determining polit.party you support
+      b29                Extent you are clear on party differ. on foreign policy/security issues
+      b30                Extent you are clear on party differences on econonmic topics
+      b31                Extent you are clear on party differences on social topics
+      b33                Main candidate on list of party which you will vote for Knesset
+      b35                Extent you are sure which party you'll vote for the Knesset
+      b37                Supporter, member or official of any party
+      b38                The party you support
+      b40                Will you vote in next Knesset elections?For which party?
+      b41                Identif.with Candidate/Party's stand on-most import.in determining Knesset vote
+      b43                The most important factor in determining Knesset vote
+      b44                Changing your vote if party changed its position on subject chosen above
+      b46                Voting for party in which your chosen candidate will not receive real.position
+      b47                Chance that party you'll vote for will be influential/important in next Knesset
+      b49                Will you vote in the municipal elections?
+      b50                Will you vote for same party for Knesset and municipality?
+      b52                Which party will you vote for for the municipality?
+      b53                Identif.with Candidate/Party's stand on-most import.in determining Knesset vote
+      b54                The most important factor in determining municipality vote
+      b56                Respondent's vote for Knesset party in 1965
+      b57                Respondent's vote for municipality party in 1965
+      b59                The first of two extra parties you would vote for
+      b60                The second of two extra parties you would vote for
+      b62                The first of two parties you would never vote for
+      b63                The second of two parties you would never vote for
+      b65                Voting for Knesset as your family members do
+      b66                Voting for Knesset as those who are in charge of you do
+      b68                Voting for the Knesset as your friends do
+      b70                The Alignment's main supporting group
+      b71                The Alignment's supporting ethnic group
+      b72                The Alignment's supporting occupational group
+      b74                Herut's main supporting group
+      b75                Herut's supporting ethnic group
+      b76                Herut's supporting occupational group
+      b78                Ha'olam Hazeh's main supporting group
+      b79                Ha'olam Hazeh's supporting ethnic group
+      b80                Ha'olam Hazeh's supporting occupational group
+      b82                Did you vote for the Histadrut?For which party?
+      b83                Influence of electoral campaign on your vote for the Histadrut
+      b84                Reason for not voting in the Histadrut elections
+      b86                Influence of electoral campaign on your voting decision for Knesset
+      b87                Phase number
+      c1                 Card number
+      c4                 Elections not actually affect policy
+      c5                 Few strong leaders more useful for State than debates/laws
+      c7                 Better not vote than vote but not think results are important
+      c8                 The first of two groups of professions you most admire
+      c9                 The second of two groups of professions you most admire
+      c11                The group which greatly influences public opinion
+      c12                The next group which influences public opinion
+      c14                The group which greatly influences government policy
+      c15                The next group which influences government policy
+      c17                Group greatly influences the mood on social/polit.matters
+      c18                Group which influences the mood on social/polit.matters
+
+****    TWO NON-FAMILY MEMBERS WHO GREATLY INFLUENCE YOU ON IMPORTANT SOCIAL AND POLITICAL SUBJECTS
+
+      c21                Country of birth of first influential person
+      c22                Profession of first influential person
+      c23                Age of first influential person
+      c25                Country of birth of second influential person
+      c26                Profession of second influential person
+      c27                Age of second influential person
+      c29                How often do you go to the synagogue?
+      c30                Do you usually observe religious tradition?
+      c32                Should gov.ensure that pub.life conduct.accord.to Jewish rel.tradition?
+      c33                Socialist/capitalist approach country's econo.structure
+      c34                Limiting Histadrut's areas of activity concer.country's econ.problems
+      c36                Extent of support aggressive Israeli policy towards Arab states
+      c37                Considered steps be taken to urge peace with Arab countries?
+      c39                Extent clear what relationship with Arab minority should be?
+      c40                Identification with political trend
+      c42                Self ranking of social position
+      c44                Are you a member of the Histadrut?
+      c45                Phase number
+      d1                 Card number
+      d4                 Sex
+      d5                 Country of birth
+      d7                 Father's country of birth
+      d8                 Place of birth and father's place of birth
+      d10                Mother's country of birth
+      d11                Age
+      d13                Marital status
+      d14                Spouse's country of birth
+      d15                Year of emigration to Israel
+      d16                Education
+      d18                Spouse's education
+      d19                Father's education
+      d21                Mother's education
+      d23                Language primarily spoken in your home
+      d24                Occupation
+      d26                Density of living conditions
+      d27                Gross monthly income of household
+      d29                Place of interview
+      d30                Week of interview
+      d32                Day of interview
+      d34                Number of visits for interview
+      d35                Other persons present during interview
+      d37                Length of interview
+      d39                Phase number
+
+=========================================================================================
+
+      a1                 Card number
+
+              Data type: numeric
+              Record/column: 1/1
+
+      a2                 Respondent ID
+
+              Data type: numeric
+              Record/columns: 1/2-5
+
+      a4                 Participation in pre-election party meetings
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Often
+                  2  Rarely
+                  3  Never
+
+              Data type: numeric
+              Record/column: 1/6
+
+      a5                 Reading opinion poll results in newspapers
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Often
+                  2  Rarely
+                  3  Never
+                  4  Unaware of existence of such polls
+
+              Data type: numeric
+              Record/column: 1/7
+
+      a6                 Faith in election polls
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes, always
+                  2  In general, yes
+                  3  In general, no
+                  4  Never
+                  5  Unaware of existence of such polls
+
+              Data type: numeric
+              Record/column: 1/8
+
+      a8                 Viewing of television electoral broadcasts
+
+              VALUE  LABEL
+                  0  No answer
+                  1  All the parties or the majority
+                  2  Partly
+                  3  Another party
+                  4  Did not watch (respondent has a television)
+                  5  Did not watch (respondent has no television)
+
+              Data type: numeric
+              Record/column: 1/9
+
+      a9                 Influence of broadcasts on political attitude
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Strengthened my attitude
+                  2  Did not influence
+                  3  Changed my attitude
+                  4  Did not watch
+
+              Data type: numeric
+              Record/column: 1/10
+
+      a11                The best possible life,where do you stand at present?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0,1 Worst
+                  9  9,10 Best
+
+              Data type: numeric
+              Record/column: 1/11
+
+      a12                Where did you stand 4 years ago?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0,1 Worst
+                  9  9,10 Best
+
+              Data type: numeric
+              Record/column: 1/12
+
+      a13                Where do you expect to stand in 4 years time?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0,1 Worst
+                  9  9,10 Best
+
+              Data type: numeric
+              Record/column: 1/13
+
+      a15                Comparison - present to past
+
+              VALUE  LABEL
+                  0  Irrelevant
+                  1  Present lower than past
+                  2  No change
+                  3  Present higher than past
+
+              Data type: numeric
+              Record/column: 1/14
+
+      a16                Comparison - present to future
+
+              VALUE  LABEL
+                  1  Present higher than future
+                  2  No change
+                  3  Present lower than future
+                  4  Irrelevant
+
+              Data type: numeric
+              Record/column: 1/15
+
+      a18                Phase number
+
+              VALUE  LABEL
+                  6  Phase II
+
+              Data type: numeric
+              Record/columns: 1/16-17
+
+      b1                 Card number
+
+              Data type: numeric
+              Record/column: 2/1
+
+      b4                 Israel's present economic situation
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0,1 Worst
+                  9  9,10 Best
+
+              Data type: numeric
+              Record/column: 2/6
+
+      b5                 Israel's economic situation 4 years ago
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0,1 Worst
+                  9  9,10 Best
+
+              Data type: numeric
+              Record/column: 2/7
+
+      b6                 Israel's economic situation in 4 years time
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0,1 Worst
+                  9  9,10 Best
+
+              Data type: numeric
+              Record/column: 2/8
+
+      b8                 Comparison - present to past
+
+              VALUE  LABEL
+                  1  Present lower than past
+                  2  No change
+                  3  Present higher than past
+                  4  Irrelevant
+
+              Data type: numeric
+              Record/column: 2/9
+
+      b9                 Comparison - present to future
+
+              VALUE  LABEL
+                  1  Present higher than future
+                  2  No change
+                  3  Present lower than future
+                  4  Irrelevant
+
+              Data type: numeric
+              Record/column: 2/10
+
+      b11                Extent of interest in Israel's economic problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Greatly interested
+                  2  Interested to some extent
+                  3  A little interested
+                  4  Not at all interested
+
+              Data type: numeric
+              Record/column: 2/11
+
+      b12                Extent of interest avr.Israeli citizen should have in economic problems
+
+              VALUE  LABEL
+                  1  A great interest
+                  2  Some interest
+                  3  A little interest
+                  4  No need to take any interest
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/12
+
+      b14                Extent to which you/friends can influence government policy
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To some extent
+                  4  To a little extent
+                  5  Not at all
+                  6  No answer
+
+              Data type: numeric
+              Record/column: 2/13
+
+      b16                Opinion regarding politicians tendency not consider man on street's opinion
+
+              VALUE  LABEL
+                  0  No answer
+                  1  They absolutely do not take it into consideration
+                  2  They tend not to take it into consideration
+                  3  Perhaps they tend to take it into consideration
+                  4  They absolutely do take it into consideration
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 2/14
+
+      b17                Extent of agreement with placing of gen.social interests above indiv.interests
+
+              VALUE  LABEL
+                  0  No answer
+                  1  The general interest is absolutely more important
+                  2  The general interest is possibly more important
+                  3  Both types of interests are equally important
+                  4  Individual interests are possibly more important
+                  5  Individual interests are absolutely more important
+                  6  Depends upon the circumstances
+                  7  No opinion
+
+              Data type: numeric
+              Record/column: 2/15
+
+      b19                Opinion regarding separation of religion and state
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely think they should be separate
+                  2  Perhaps it's better to separate them
+                  3  Perhaps it's better not to separarte them
+                  4  They should absolutely not be separated
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 2/16
+
+      b20                Opinion regarding changing party in power even if it is doing good job
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely should be changed
+                  2  Perhaps it's better to change it
+                  3  Perhaps there's no need to change it
+                  4  There's no need to change it
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 2/17
+
+      b22                Extent you are clear on what Israel's most important basic problems are
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely clear to me
+                  2  Clear to me
+                  3  Not so clear to me
+                  4  Not clear to me at all
+
+              Data type: numeric
+              Record/column: 2/18
+
+      b23                The most important basic problem for Israel today
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Relations with world powers
+                  2  Economic independence
+                  3  Peace in the area
+                  4  Labour relations
+                  5  Relations with arab population in Israel and territories
+                  6  Military strength
+                  7  Image of Israel in the world
+                  8  Absorption of immigrants
+                  9  Place of religion in the state
+                 10  Relations among the ethnic groups
+                 11  Other
+                 12  I don't know which topic is most important
+
+              Data type: numeric
+              Record/columns: 2/19-20
+
+      b24                The second most important problem for Israel today
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Relations with world powers
+                  2  Economic independence
+                  3  Peace in the area
+                  4  Labour relations
+                  5  Relations with arab population in Israel and territories
+                  6  Military strength
+                  7  Image of Israel in the world
+                  8  Absorption of immigrants
+                  9  Place of religion in the state
+                 10  Relations among the ethnic groups
+                 11  Other
+                 12  I don't know which topic is most important
+                 13  Respondent cited just one important problem
+
+              Data type: numeric
+              Record/columns: 2/21-22
+
+      b25                The third most important problem for Israel today
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Relations with world powers
+                  2  Economic independence
+                  3  Peace in the area
+                  4  Labour relations
+                  5  Relations with arab population in Israel and territories
+                  6  Military strength
+                  7  Image of Israel in the world
+                  8  Absorption of immigrants
+                  9  Place of religion in the state
+                 10  Relations among the ethnic groups
+                 11  Other
+                 12  I don't know which topic is most important
+                 13  Respondent cited just one or two important problems
+
+              Data type: numeric
+              Record/columns: 2/23-24
+
+      b27                Most important topic in terms of determining polit.party you support
+
+              VALUE  LABEL
+                  1  Relations with world powers
+                  2  Economic independence
+                  3  Peace in the area
+                  4  Labour relations
+                  5  Relations with arab population in Israel and territories
+                  6  Military strength
+                  7  Image of Israel in the world
+                  8  Absorption of immigrants
+                  9  Place of religion in the state
+                 10  Relations among the ethnic groups
+                 11  Other
+                 12  None of the above topics
+                 13  I don't support any party
+                 14  No answer
+
+              Data type: numeric
+              Record/columns: 2/25-26
+
+      b29                Extent you are clear on party differ. on foreign policy/security issues
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely clear
+                  2  Clear
+                  3  Not so clear
+                  4  Not at all clear
+                  5  No differences between them
+
+              Data type: numeric
+              Record/column: 2/27
+
+      b30                Extent you are clear on party differences on econonmic topics
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely clear
+                  2  Clear
+                  3  Not so clear
+                  4  Not at all clear
+                  5  No differences between them
+
+              Data type: numeric
+              Record/column: 2/28
+
+      b31                Extent you are clear on party differences on social topics
+
+              VALUE  LABEL
+                  1  Absolutely clear
+                  2  Clear
+                  3  Not so clear
+                  4  Not at all clear
+                  5  No differences between them
+                  6  No answer
+
+              Data type: numeric
+              Record/column: 2/29
+
+      b33                Main candidate on list of party which you will vote for Knesset
+
+              VALUE  LABEL
+                  1  Golda Meir
+                  2  Moshe Dayan
+                  3  Yigal Allon
+                  4  Pinchas Sapir
+                  5  Meir Ya'ari
+                  6  Haim Moshe Shapira
+                  7  Menachem Begin
+                  8  Shmuel Tamir
+                  9  Uri Avneri
+                 10  Moshe Sneh
+                 11  Another candidate
+                 12  Does not know the names of candidates
+                 13  Did not yet decide for which party to vote
+                 14  Does not plan to vote for any party
+                 15  Unknown
+                 22  No answer
+
+              Data type: numeric
+              Record/columns: 2/30-31
+
+      b35                Extent you are sure which party you'll vote for the Knesset
+
+              VALUE  LABEL
+                  1  Very sure
+                  2  Sure
+                  3  Not so sure
+                  4  Not at all sure
+                  5  I will not vote for the Knesset
+                  6  No answer
+
+              Data type: numeric
+              Record/column: 2/32
+
+      b37                Supporter, member or official of any party
+
+              VALUE  LABEL
+                  1  Member and salaried official
+                  2  Member and unsalaried official
+                  3  Member, holds no office
+                  4  Supporter
+                  5  Does not especially support any one party
+                  6  No answer
+
+              Data type: numeric
+              Record/column: 2/33
+
+      b38                The party you support
+
+              VALUE  LABEL
+                  1  Free Center
+                  2  Mapam
+                  3  Independent liberals
+                  4  Labour Party
+                  5  Herut
+                  6  An ethnic party
+                  7  Religious Labour Party
+                  8  Israeli Communist Party
+                  9  National Religious Party
+                 10  Liberals
+                 11  Agudath Yisrael
+                 12  Rakach
+                 13  Haolam Hazeh
+                 14  Other party
+                 15  Does not especially support any one party
+                 16  No answer
+
+              Data type: numeric
+              Record/columns: 2/34-35
+
+      b40                Will you vote in next Knesset elections?For which party?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Indepedent Liberals
+                  4  Alignment: Labour-Mapam
+                  5  Religious Labour Party
+                  6  National Religious Party
+                  7  Agudath Yisrael
+                  8  Israeli Communist Party
+                  9  Rakach
+                 10  Haolam Hazeh
+                 11  An ethnic party
+                 12  Other party
+                 13  Did not yet decide for what party to vote
+                 14  Did not yet decide if he will vote or not
+                 15  Will not vote
+                 16  White slip (blank ballot)
+
+              Data type: numeric
+              Record/columns: 2/36-37
+
+      b41                Identif.with Candidate/Party's stand on-most import.in determining Knesset vote
+
+              VALUE  LABEL
+                  1  One factor is much more important than the others
+                  2  One factor is somewhat more important than the others
+                  3  All the factors are equally important
+                  4  None of the factors are important
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/38
+
+      b43                The most important factor in determining Knesset vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Identification with the party
+                  2  The party's candidate
+                  3  The party's stand on various issues
+                  4  The party's position in government/opposition
+                  5  None of the factors is important
+                  6  Another factor is important
+                  8  All the factors are equally important
+
+              Data type: numeric
+              Record/column: 2/39
+
+      b44                Changing your vote if party changed its position on subject chosen above
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes, I would change my vote
+                  2  No, I wouldn't change my vote
+                  3  I wouldn't vote at all
+                  4  Did not cite a subject in previous question
+                  5  Will not vote
+
+              Data type: numeric
+              Record/column: 2/40
+
+      b46                Voting for party in which your chosen candidate will not receive real.position
+
+              VALUE  LABEL
+                  0  Unknown
+                  1  Yes, I would still vote for the same party
+                  2  No, I wouldn't vote for it
+                  3  I wouldn't vote at all
+                  4  Did not cite candidate in previous question
+                  5  Dependent on candidate
+                  6  No answer
+
+              Data type: numeric
+              Record/column: 2/41
+
+      b47                Chance that party you'll vote for will be influential/important in next Knesset
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very great chance
+                  2  Great chance
+                  3  Mediocre chance
+                  4  Small chance
+                  5  No chance at all
+                  6  I haven't yet decided for which party to vote
+                  7  I haven't yet decided if I'll vote at all
+                  8  I don't plan to vote
+
+              Data type: numeric
+              Record/column: 2/42
+
+      b49                Will you vote in the municipal elections?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes, I plan to vote
+                  2  No, I don't plan to vote
+                  3  I haven't yet decided if I'll vote
+
+              Data type: numeric
+              Record/column: 2/43
+
+      b50                Will you vote for same party for Knesset and municipality?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes, I'll vote for the same party
+                  2  No I'll vote for different parties
+                  3  I don't plan to vote for the municipality
+                  4  Haven't decided which party to vote for for municipality
+                  5  I won't vote for the Knesset
+                  6  Haven't decided which party to vote for for Knesset
+                  7  Haven't decided if I'll vote for municipality
+                  8  Haven't decided if I'll vote for Knesset
+
+              Data type: numeric
+              Record/column: 2/44
+
+      b52                Which party will you vote for for the municipality?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment: Labour-Mapam
+                  5  Religious Labour Party
+                  6  National Religious Party
+                  7  Agudath Yisrael
+                  8  Israeli Communist Party
+                  9  Rakach
+                 10  Haolam Hazeh
+                 11  An ethnic party
+                 12  Local party
+                 13  Another party
+                 14  Respondent will vote for same party for Knesset
+                 15  Respondent hasn't decided which party
+                 16  Respondent won't vote for municipality
+
+              Data type: numeric
+              Record/columns: 2/45-46
+
+      b53                Identif.with Candidate/Party's stand on-most import.in determining Knesset vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  One factor is much more important than the others
+                  2  One factor is somewhat more important than the others
+                  3  All the factors are equally important
+                  4  None of the factors are important
+
+              Data type: numeric
+              Record/column: 2/47
+
+      b54                The most important factor in determining municipality vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Identification with the party
+                  2  The party's candidate
+                  3  The party's stand on various issues
+                  4  The party's position
+                  5  None of the factors is important
+                  6  Another factor is important
+                  7  All the factors are equally important
+                  8  I don't know
+
+              Data type: numeric
+              Record/column: 2/48
+
+      b56                Respondent's vote for Knesset party in 1965
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Religious Labour Party
+                  2  Haolam Hazeh
+                  3  Mapam
+                  4  Alignment: Labour-Ahdut Haavodah
+                  5  Independent Liberals
+                  6  Gahal
+                  7  National Religious Party
+                  8  Rakach
+                  9  Agudath Yisrael
+                 10  Israeli Communist Party
+                 11  An ethnic party
+                 12  Another party
+                 13  I didn't vote
+                 14  Rafi
+
+              Data type: numeric
+              Record/columns: 2/49-50
+
+      b57                Respondent's vote for municipality party in 1965
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Religious Labour Party
+                  2  Haolam Hazeh
+                  3  Mapam
+                  4  Alignment: Labour-Ahdut Haavodah
+                  5  Independent Liberals
+                  6  Gahal
+                  7  National Religious Party
+                  8  Rakach
+                  9  Agudath Yisrael
+                 10  Israeli Communist Party
+                 11  An ethnic party
+                 12  Local party
+                 13  Another party
+                 14  I didn't vote
+                 15  Rafi
+
+              Data type: numeric
+              Record/columns: 2/51-52
+
+      b59                The first of two extra parties you would vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment: Labour - Mapam
+                  5  Religious Labour Party
+                  6  National Religious Party
+                  7  Agudath Yisrael
+                  8  Israeli Communist Party
+                  9  Rakach
+                 10  Haolam Hazeh
+                 11  An ethnic party
+                 12  Another party
+                 13  Did not mention another party
+                 14  Did not decide for which party to vote
+                 15  Will not vote at all
+                 17  Doesn't know
+
+              Data type: numeric
+              Record/columns: 2/53-54
+
+      b60                The second of two extra parties you would vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment: Labour - Mapam
+                  5  Religious Labour Party
+                  6  National Religious Party
+                  7  Agudath Yisrael
+                  8  Israeli Communist Party
+                  9  Rakach
+                 10  Haolam Hazeh
+                 11  An ethnic party
+                 12  Another party
+                 13  Did not mention another party
+                 14  Did not decide for which party to vote
+                 15  Will not vote at all
+                 17  Doesn't know
+                 18  State List
+
+              Data type: numeric
+              Record/columns: 2/55-56
+
+      b62                The first of two parties you would never vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment: Labour - Mapam
+                  5  Religious Labour Party
+                  6  National Religious Party
+                  7  Agudath Yisrael
+                  8  Israeli Communist Party
+                  9  Rakach
+                 10  Haolam Hazeh
+                 11  An ethnic party
+                 12  Another party
+                 13  There is no such party
+
+              Data type: numeric
+              Record/columns: 2/57-58
+
+      b63                The second of two parties you would never vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment: Labour - Mapam
+                  5  Religious Labour Party
+                  6  National Religious Party
+                  7  Agudath Yisrael
+                  8  Israeli Communist Party
+                  9  Rakach
+                 10  Haolam Hazeh
+                 11  An ethnic party
+                 12  Another party
+                 13  Did not cite any such party/cited only one
+
+              Data type: numeric
+              Record/columns: 2/59-60
+
+      b65                Voting for Knesset as your family members do
+
+              VALUE  LABEL
+                  1  I vote like them
+                  2  I don't vote like them
+                  3  I don't know how they vote
+                  4  They don't all vote the same
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/61
+
+      b66                Voting for Knesset as those who are in charge of you do
+
+              VALUE  LABEL
+                  1  I vote like them
+                  2  I don't vote like them
+                  3  I don't know how they vote
+                  4  They don't all vote the same
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/62
+
+      b68                Voting for the Knesset as your friends do
+
+              VALUE  LABEL
+                  1  I vote like them
+                  2  I don't vote like them
+                  3  I don't know how they vote
+                  4  They don't all vote the same
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/63
+
+      b70                The Alignment's main supporting group
+
+              VALUE  LABEL
+                  1  The young
+                  2  The old
+                  3  No special age groups, or others
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/64
+
+      b71                The Alignment's supporting ethnic group
+
+              VALUE  LABEL
+                  1  North Africans + Middle Easterners
+                  2  Europeans
+                  3  No special ethnic group, or others
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/65
+
+      b72                The Alignment's supporting occupational group
+
+              VALUE  LABEL
+                  1  Workers
+                  2  Merchants, agents, businessmen
+                  3  Men of letters and scientists
+                  4  No special occupational group, or others
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/66
+
+      b74                Herut's main supporting group
+
+              VALUE  LABEL
+                  1  The young
+                  2  The old
+                  3  No special age group, or others
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/67
+
+      b75                Herut's supporting ethnic group
+
+              VALUE  LABEL
+                  1  North Africans + Middle Easterners
+                  2  Europeans
+                  3  No special ethnic group, or others
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/68
+
+      b76                Herut's supporting occupational group
+
+              VALUE  LABEL
+                  1  Workers
+                  2  Merchants, agents, businessmen
+                  3  Men of letters
+                  4  No special occupational group, or others
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/69
+
+      b78                Ha'olam Hazeh's main supporting group
+
+              VALUE  LABEL
+                  1  The young
+                  2  The old
+                  3  No special age group, or others
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/70
+
+      b79                Ha'olam Hazeh's supporting ethnic group
+
+              VALUE  LABEL
+                  1  North Africans + Middle Easterners
+                  2  Europeans
+                  3  No special ethnic group, or others
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/71
+
+      b80                Ha'olam Hazeh's supporting occupational group
+
+              VALUE  LABEL
+                  1  Workers
+                  2  Merchants, agents, businessmen
+                  3  Men of letters and scientists
+                  4  No special occupational group, or others
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 2/72
+
+      b82                Did you vote for the Histadrut?For which party?
+
+              VALUE  LABEL
+                  0  Not a member. Did not vote
+                  1  Free Center
+                  2  Gahal
+                  3  Independent Liberals
+                  4  Alignment: Labour-Mapam
+                  5  Haoved Hadati
+                  6  Israeli Communist Party
+                  7  Ha'olam Hazeh Koach Hadash
+                  8  Rafi
+                  9  Another Party
+
+              Data type: numeric
+              Record/column: 2/73
+
+      b83                Influence of electoral campaign on your vote for the Histadrut
+
+              VALUE  LABEL
+                  0  Did not vote for the Histadrut
+                  1  Strengthened my decision to vote for my party
+                  2  Did not influence my decision
+                  3  Influenced me in changing my vote
+
+              Data type: numeric
+              Record/column: 2/74
+
+      b84                Reason for not voting in the Histadrut elections
+
+              VALUE  LABEL
+                  0  I am not a member of the Histadrut
+                  1  It is not important
+                  2  I didn't know which party to vote for
+                  3  No party suits mt ideals
+                  4  Because of the heat
+                  5  Other reason (Illness, family reasons, army service etc.)
+                  6  Refused to answer
+                  7  I voted in the Histadrut elections
+
+              Data type: numeric
+              Record/column: 2/75
+
+      b86                Influence of electoral campaign on your voting decision for Knesset
+
+              VALUE  LABEL
+                  1  Strengthened my decision to vote for the party I chose
+                  2  Did not influence my decision
+                  3  Influenced my decision in changing my vote
+                  4  No answer
+
+              Data type: numeric
+              Record/column: 2/76
+
+      b87                Phase number
+
+              VALUE  LABEL
+                  6  Phase II
+
+              Data type: numeric
+              Record/columns: 2/77-78
+
+      c1                 Card number
+
+              Data type: numeric
+              Record/column: 3/1
+
+      c4                 Elections not actually affect policy
+
+              VALUE  LABEL
+                  1  Absolutely agree with this opinion
+                  2  Agree
+                  3  Have reservations
+                  4  Absolutely disagree
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 3/6
+
+      c5                 Few strong leaders more useful for State than debates/laws
+
+              VALUE  LABEL
+                  1  Absolutely agree
+                  2  Agree to some extent
+                  3  Have reservations
+                  4  Absolutely disagree
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 3/7
+
+      c7                 Better not vote than vote but not think results are important
+
+              VALUE  LABEL
+                  1  Absolutely agree
+                  2  Agree to some extent
+                  3  Have reservations
+                  4  Absolutely disagree
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 3/8
+
+      c8                 The first of two groups of professions you most admire
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers, tc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/9
+
+      c9                 The second of two groups of professions you most admire
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/10
+
+      c11                The group which greatly influences public opinion
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/11
+
+      c12                The next group which influences public opinion
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/12
+
+      c14                The group which greatly influences government policy
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/13
+
+      c15                The next group which influences government policy
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/14
+
+      c17                Group greatly influences the mood on social/polit.matters
+
+              VALUE  LABEL
+                  0  Professionals (lawyers, doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/15
+
+      c18                Group which influences the mood on social/polit.matters
+
+              VALUE  LABEL
+                  0  Professionals (lawyers,doctors,engineers,etc.)
+                  1  Communications experts - radio,journalism,TV
+                  2  Politicians and government officials
+                  3  Intellectuals and well-known artists
+                  4  Labour unions leaders
+                  5  Army commanders
+                  6  Professors and Lecturers
+                  7  High School teachers
+                  8  Businessmen
+                  9  Youth leaders
+
+              Data type: numeric
+              Record/column: 3/16
+
+      c21                Country of birth of first influential person
+
+              VALUE  LABEL
+                  0  There is no such person, no answer
+                  1  Israel
+                  2  Central and Eastern Europe
+                  3  Southern Europe
+                  4  Western Europe
+                  5  English-speaking countries
+                  6  North-African countries
+                  7  Near and Middle Eastern countries
+                  8  Far Eastern countries
+                  9  South America
+
+              Data type: numeric
+              Record/column: 3/17
+
+      c22                Profession of first influential person
+
+              VALUE  LABEL
+                  0  There is no such person, no answer
+                  1  Professionals, scientists,technicians and similar
+                  2  Administrators and clerks
+                  3  Businessmen, agents and salesmen
+                  4  Farmers, fishermen and similar
+                  5  Transportation and communication employees
+                  6  Builders, stonecutters, miners
+                  7  Artisans and similar
+                  8  Service,sports,entertainment employees
+                  9  Unemployed
+
+              Data type: numeric
+              Record/column: 3/18
+
+      c23                Age of first influential person
+
+              VALUE  LABEL
+                  0  18-20, no such person
+                  1  21-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 3/19
+
+      c25                Country of birth of second influential person
+
+              VALUE  LABEL
+                  0  There is no such person,no answer
+                  1  Israel
+                  2  Central and Eastern Europe
+                  3  Southern Europe
+                  4  Western Europe
+                  5  English-speaking countries
+                  6  North-African countries
+                  7  Near and Middle Eastern countries
+                  8  Far Eastern countries
+                  9  South America
+
+              Data type: numeric
+              Record/column: 3/20
+
+      c26                Profession of second influential person
+
+              VALUE  LABEL
+                  0  There is no such person,no answer
+                  1  Professionals,scientists,technicians,similar
+                  2  Administrators and clerks
+                  3  Businessmen, agents and salesmen
+                  4  Farmers, fishermen and similar
+                  5  Transportation and communication employees
+                  6  Builders, stonecutters,miners
+                  7  Artisans and similar
+                  8  Service, sports and entertainment employees
+                  9  Unemployed
+
+              Data type: numeric
+              Record/column: 3/21
+
+      c27                Age of second influential person
+
+              VALUE  LABEL
+                  0  18-20,no such person
+                  1  21-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 3/22
+
+      c29                How often do you go to the synagogue?
+
+              VALUE  LABEL
+                  1  Every day
+                  2  Almost every Sabbath and feast
+                  3  Several times a year
+                  4  Only Yom Kippur (Day of Atonement)
+                  5  Never
+                  6  Refused to answer
+
+              Data type: numeric
+              Record/column: 3/23
+
+      c30                Do you usually observe religious tradition?
+
+              VALUE  LABEL
+                  1  Yes,absolutely,I try to observe it in detail
+                  2  To a great extent, I observe most religious ritual
+                  3  I observe a little of the tradition
+                  4  I don't observe at all, absolutely liberal
+                  5  No answer
+
+              Data type: numeric
+              Record/column: 3/24
+
+      c32                Should gov.ensure that pub.life conduct.accord.to Jewish rel.tradition?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely, the government should see to it
+                  2  Perhaps the government should see to it
+                  3  Perhaps the government should not see to it
+                  4  The government should absolutely not see to it
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 3/25
+
+      c33                Socialist/capitalist approach country's econo.structure
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely capitalist
+                  2  More capitalist than socialist
+                  3  More socialist than capitalist
+                  4  Absolutely socialist
+
+              Data type: numeric
+              Record/column: 3/26
+
+      c34                Limiting Histadrut's areas of activity concer.country's econ.problems
+
+              VALUE  LABEL
+                  0  Doesn't know, no answer
+                  1  Histadrut should be limited to very specific areas
+                  2  Histadrut's activities should not extend unsuit.areas
+                  3  THistadrut shouldn't be limited in particular
+                  4  Histadrut should be encouraged to extend activities
+
+              Data type: numeric
+              Record/column: 3/27
+
+      c36                Extent of support aggressive Israeli policy towards Arab states
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  Doesn't support
+                  4  Absolutely doesn't support
+
+              Data type: numeric
+              Record/column: 3/28
+
+      c37                Considered steps be taken to urge peace with Arab countries?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes, many times
+                  2  Yes, several times
+                  3  Almost not
+                  4  Never
+
+              Data type: numeric
+              Record/column: 3/29
+
+      c39                Extent clear what relationship with Arab minority should be?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Not at all clear
+                  2  Not so clear
+                  3  Clear
+                  4  Very clear
+
+              Data type: numeric
+              Record/column: 3/30
+
+      c40                Identification with political trend
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Right
+                  5  Religious
+                  6  I don't identify with any trend
+                  7  Other
+                  8  No answer
+
+              Data type: numeric
+              Record/column: 3/31
+
+      c42                Self ranking of social position
+
+              VALUE  LABEL
+                  1  Upper middle
+                  2  Middle
+                  3  Lower
+                  4  Upper
+                  5  Worker
+                  6  Other
+                  7  Not categorize himself
+                  8  No answer
+
+              Data type: numeric
+              Record/column: 3/32
+
+      c44                Are you a member of the Histadrut?
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 3/33
+
+      c45                Phase number
+
+              VALUE  LABEL
+                  6  Phase II
+
+              Data type: numeric
+              Record/columns: 3/34-35
+
+      d1                 Card number
+
+              Data type: numeric
+              Record/column: 4/1
+
+      d4                 Sex
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 4/6
+
+      d5                 Country of birth
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Israel
+                  2  Central and Eastern Europe
+                  3  Southern Europe
+                  4  Western Europe
+                  5  English-speaking countries
+                  6  North African countries
+                  7  Near and Middle Eastern countries
+                  8  Far Eastern countries
+                  9  South and Central America
+
+              Data type: numeric
+              Record/column: 4/7
+
+      d7                 Father's country of birth
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Israel
+                  2  Central and Eastern Europe
+                  3  Southern Europe
+                  4  Western Europe
+                  5  English-speaking countries
+                  6  North African countries
+                  7  Near and Middle Eastern countries
+                  8  Far Eastern countries
+                  9  South and Central America
+
+              Data type: numeric
+              Record/column: 4/8
+
+      d8                 Place of birth and father's place of birth
+
+              VALUE  LABEL
+                  0  Irrelevant
+                  1  Native of Asia/North Africa
+                  2  Native of Europe/Anglo-Saxon countries
+                  3  Native Israeli-father born in Asia/N.Africa
+                  4  Native Israeli-father born in Europe/Anglo-Saxon countries
+                  5  Native Israeli-father also Israeli native
+
+              Data type: numeric
+              Record/column: 4/9
+
+      d10                Mother's country of birth
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Israel
+                  2  Central and Eastern Europe
+                  3  Southern Europe
+                  4  Western Europe
+                  5  English-speaking countries
+                  6  North African countries
+                  7  Near and Middle Eastern countries
+                  8  Far Eastern countries
+                  9  South and Gentral America
+
+              Data type: numeric
+              Record/column: 4/10
+
+      d11                Age
+
+              VALUE  LABEL
+                  0  No answer
+                  1  18-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 4/11
+
+      d13                Marital status
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Single
+                  2  Married,without children
+                  3  Married,with children
+                  4  Widowed,divorced,without children
+                  5  Widowed,divorced,with children
+
+              Data type: numeric
+              Record/column: 4/12
+
+      d14                Spouse's country of birth
+
+              VALUE  LABEL
+                 00  No answer
+                 01  Israel
+                 02  Central and Eastern Europe
+                 03  Southern Europe
+                 04  Western Europe
+                 05  English-speaking countries
+                 06  North African countries
+                 07  Near and Middle Eastern countries
+                 08  Far Eastern countries
+                 09  South and Central America
+                 10  Respondent unmarried
+
+              Data type: numeric
+              Record/columns: 4/13-14
+
+      d15                Year of emigration to Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Native
+                  2  before 1930
+                  3  1931-1940
+                  4  1941-1947
+                  5  1948-1954
+                  6  1955-1959
+                  7  1960-1965
+                  8  1966+
+
+              Data type: numeric
+              Record/column: 4/15
+
+      d16                Education
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Did not study at all
+                  2  Partial primary school(inc.religious primary)
+                  3  Completed primary school
+                  4  Partial high school/comparitive education
+                  5  Completed high school/comparitive education
+                  6  Partial higher education
+                  7  Complete higher education-B.A.
+                  8  Complete higher education-more than B.A.
+
+              Data type: numeric
+              Record/column: 4/16
+
+      d18                Spouse's education
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Did not study at all
+                  2  Partial primary school(inc.religious primary)
+                  3  Completed primary school
+                  4  Partial high school/comparitive education
+                  5  Completed high school/comparitive education
+                  6  Partial higher education
+                  7  Complete higher education-B.A.
+                  8  Complete higher education-more than B.A.
+                  9  Unmarried
+
+              Data type: numeric
+              Record/column: 4/17
+
+      d19                Father's education
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Did not study at all
+                  2  Partial primary school(inc.religious primary)
+                  3  Completed primary school
+                  4  Partial high school/comparitive education
+                  5  Completed high school/comparitive education
+                  6  Partial higher education
+                  7  Complete higher education-B.A.
+                  8  Complete higher education-more than B.A.
+                  9  Religious
+
+              Data type: numeric
+              Record/column: 4/18
+
+      d21                Mother's education
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Did not study at all
+                  2  Partial primary school(inc.religious primary)
+                  3  Completed primary school
+                  4  Partial high school/comparitive education
+                  5  Completed high school/comparitive education
+                  6  Partial higher education
+                  7  Complete higher education-B.A.
+                  8  Complete higher education-more than B.A.
+
+              Data type: numeric
+              Record/column: 4/19
+
+      d23                Language primarily spoken in your home
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Hebrew
+                  2  Yiddish
+                  3  Arabic,Turkish,other Asian languages
+                  4  Eatsern European languages
+                  5  Central or Western European languages
+                  6  Latin or Balkan languages
+                  7  Other language
+
+              Data type: numeric
+              Record/column: 4/20
+
+      d24                Occupation
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Professional,scientists,technicians,similar
+                  2  Administrators, clerks
+                  3  Businessmen,agents and salesmen
+                  4  Farmers, fishermen and similar
+                  5  Transport and communication employees
+                  6  Builders, stonecutters, miners
+                  7  Artisans and similar
+                  8  Service, sports and entertainment employees
+                  9  Unemployed
+
+              Data type: numeric
+              Record/column: 4/21
+
+      d26                Density of living conditions
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to and including 1.00
+                  2  1.00-1.99
+                  3  2.00-2.99
+                  4  3.00-3.99
+                  5  4.00 and more
+
+              Data type: numeric
+              Record/column: 4/22
+
+      d27                Gross monthly income of household
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0-199 lira a month
+                  2  200-399 lira a month
+                  3  400-599 lira a month
+                  4  600-799 lira a month
+                  5  800-999 lira a month
+                  6  1000-1249 lira a month
+                  7  1250-1499 lira a month
+                  8  1500-1749 lira a month
+                  9  1750 lira a month or more
+
+              Data type: numeric
+              Record/column: 4/23
+
+      d29                Place of interview
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Jerusalem
+                  2  Tel Aviv-Jaffa
+                  3  Givataim,Ramat Gan,Bnei Brak,Bat-Yam,Holon
+                  4  Haifa
+                  5  Be'er Sheva
+
+              Data type: numeric
+              Record/column: 4/24
+
+      d30                Week of interview
+
+              VALUE  LABEL
+                  0  No answer
+                  1  1-5 September
+                  2  7-12 September
+                  3  15-19 September
+                  4  23-26 September
+                  5  28 September-3 October
+                  6  Another period
+
+              Data type: numeric
+              Record/column: 4/25
+
+      d32                Day of interview
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Sunday
+                  2  Monday
+                  3  Tuesday
+                  4  Wednesday
+                  5  Thursday
+                  6  Friday
+                  7  Saturday
+
+              Data type: numeric
+              Record/column: 4/26
+
+      d34                Number of visits for interview
+
+              VALUE  LABEL
+                  0  No answer
+                  1  One visit
+                  2  Two visits
+                  3  Three visits
+                  4  Four visits or more
+
+              Data type: numeric
+              Record/column: 4/27
+
+      d35                Other persons present during interview
+
+              VALUE  LABEL
+                  0  No answer
+                  1  No
+                  2  Yes
+
+              Data type: numeric
+              Record/column: 4/28
+
+      d37                Length of interview
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Less than 20 minutes
+                  2  21-30 minutes
+                  3  31-40 minutes
+                  4  41-50 minutes
+                  5  51-60 minutes
+                  6  1 hour-1 hour and 15 minutes
+                  7  1 hour and 15 minutes-1 hour and a half
+                  8  1 hour and a half-1 hour and 45 minutes
+                  9  More than 1 hour and 45 minutes
+
+              Data type: numeric
+              Record/column: 4/29
+
+      d39                Phase number
+
+              VALUE  LABEL
+                  6  Phase II
+
+              Data type: numeric
+              Record/columns: 4/30-31
+   

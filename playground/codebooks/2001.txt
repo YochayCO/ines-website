@@ -1,0 +1,1611 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 2001
+
+                                                           CONTENTS
+
+****    General
+
+      a1                 ID number
+      a6                 General situation of Israel today
+      a7                 Government treatment of current national issues
+      a8                 The main problem government has to deal with
+      a10                Personal security situation today compared to pre-Peace Process period
+
+****    Support for following Israeli concessions in Clinton's proposal
+
+      a11                Palestinian State with 95% of Gaza Strip and West Bank,Israel will keep settlement blocks
+      a12                Israel will give the Palestinians Jerusalem's Arab neighbourhoods
+      a13                Temple Mount will be given to Palestinians,Western Wall will stay in Israeli hands
+      a14                A limited number of Palestinian refugees will be allowed to return to Israel
+      a15                Israel will give up control in the Jordan Valley over a few years
+      a16                Support for Peace agreeement with above conditions
+      a17                Will a Palestinian Peace agreement end the Arab-Israeli conflict?
+      a18                Estimate Israeli public support for this agreement (percentage)
+      a20                Forecast future public opinion towards agreement
+      a21                Agreement with government encouragement of Arab emmigration
+      a22                Support for the returning of areas of the Golan Heights to Syria for peace
+      a23                Evaluation of arab aspirations
+      a24                Are you worried about being injured by Arabs?
+
+****    Arguments for supporting peace agreement
+
+      a25                If there's no agreement there will be war
+      a26                An agreement will bring more security than territories
+      a27                Peace will strengthen Israel's international position
+      a28                Peace will strengthen Israel economically
+      a29                Peace will end the conflict with the Palestinians and the Arab world
+      a30                Which of the above reasons is the most convincing?
+
+****    Arguments for not supporting peace agreement
+
+      a32                The territories are important for security and must not be given up
+      a33                The Arabs don't keep agreements
+      a34                The settlers must not be removed from their homes since the government sent them there
+      a35                A better agreement can be reached
+      a36                Jerusalem and the Temple Mount are Jewish Holy sites and shouldn't be given up
+      a37                Which of the above reasons is the most convincing?
+      a39                Level of satisfaction with Israeli democracy
+
+****    Ranking 4 significant values
+
+      a40                Most important value
+      a41                Second most important value
+      a42                Third most important value
+      a43                Fourth most important value
+      a44                The value to be followed in the event of halachic-democratic contradiction
+
+****    Support for the following
+
+      a45                Extent of support for the Labour Party
+      a46                Extent of support for Ariel Sharon
+      a47                Extent of support for Likud Party
+      a48                Extent of support for orthodox people
+      a49                Extent of support for Arafat
+      a50                Extent of support for Ehud Barak
+      a51                Extent of support for Binyamin Netanyahu
+      a52                Extent of support for Shimon Peres
+      a53                Extent of support for Arye Deri
+      a54                Extent of support for Arabs
+      a55                A capitalist or socialist Israeli economy
+      a56                Participation of Arabs in critical decisions
+      a57                The most important reason to vote for PM
+
+****    Issues  that affect the vote for PM
+
+      a58                Affect Jerusalem on PM voting
+      a59                Affect economy on PM voting
+      a60                Affect social policy on PM voting
+      a61                Affect religion and state on PM voting
+      a62                Affect agreement with the Palestinians on PM voting
+      a63                Affect terrorism on PM voting
+      a64                Candidate most capable to deal with Israel's economic issues
+      a65                Candidate most capable to deal with foreign & security issues
+      a66                Respondent self-ranking on a right-left political scale of 1-7
+
+****    Difference amongst candidates' positions on following issues
+
+      a67                Differences amongst candidate's position on: Jerusalem
+      a68                Differences amongst candidate's position on: Economy
+      a69                Differences amongst candidate's position on: Social policy
+      a70                Differences amongst candidate's position on: State and religion
+      a71                Differences amongst candidate's position on: Agreement with the Palestinians
+      a72                Differences amongst candidate's position on: Terrorism
+      a73                Discussing political issues with family,friends
+      a74                To what degree can you and your friends influence government policy?
+      a75                Importance of voting for a particular candidate
+      a76                Necessity for government's ensuring public life according to Jewish religious tradition
+
+****    Which candidate has the following attributes
+
+      a77                Which candidate suits the following: Reliable
+      a78                Which candidate suits the following: Prefers state interest over others
+      a79                Which candidate suits the following: Will withstand pressure
+      a80                Which candidate suits the following: Will preserve the rule of law
+      a81                Which candidate suits the following: Can be firm in Peace and territory negotiations
+      a82                Which candidate suits the following: Will know how to deal with terrorism
+      a83                Which candidate suits the following: Can bring true peace with the Arabs
+      a84                Which candidate suits the following: Will decrease the split in the nation
+
+****    General political attitudes and behavior
+
+      b6                 Willingness to give your opinion on the peace agreement to a TV journalist
+      b7                 Frequency of reading daily newspaper
+      b8                 Frequency of watching TV news
+      b9                 Follow publications of election polls
+      b10                Faith in election polls
+      b11                Will election ads influence your vote decision?
+      b12                Direct election for PM's impact on the government system
+      b13                Inclusion of ministers from Arab parties in government
+      b14                Party respondent vote if elections for the Knesset were held today
+      b16                Respondent vote for PM, if elections were held today
+      b17                Reason for not vote
+      b19                Whom do you expect to win the PM elections?
+      b20                Vote in 1999 elections for PM
+      b21                Vote in 1999 Knesset elections
+
+****    Self definition of identity
+
+      b23                Supporter or member of any party
+      b24                Age
+      b26                Conduct life according to Religious tradition
+      b27                Self definition of religious identity
+
+****    Feeling towards candidates for PM
+
+      b28                Ethnic group (For Arabs only)
+      b29                First label to define identity
+      b30                Second label to define identity
+      b31                Third label to define identity
+      b32                Fourth label to define identity
+      b33                Place of birth
+      b35                Year of immigration
+      b37                Former-Soviet-Union-born, immigrated after 1988
+      b38                Total years of schooling
+      b40                Academic degree
+      b41                Monthly expenditure of family compared to national average of 8,500 NIS
+      b42                Number of rooms in apartment
+      b44                Number of persons in household
+      b46                Respondent's military service in territories
+
+****    Demographic details
+
+      b47                Sex
+      b48                Code of locality
+      b51                Month of interview
+      b52                Date of interview
+      b55                Language of interview
+      b56                Telephone area code
+      b64                Possibilty of reaching an agreement with Palestinians even without concessions (computed)
+      b65                Vote for PM between Peres and Sharon (computed)
+      b66                Sharon's character or actions make me feel angry (computed)
+      b67                Sharon makes me feel frightened (computed)
+      b68                Sharon makes me feel proud (computed)
+      b69                Sharon makes me feel hopeful (computed)
+      b70                Barak's character or actions make me feel angry (computed)
+      b71                Barak makes me feel frightened (computed)
+      b72                Barak makes me feel proud (computed)
+      b73                Barak makes me feel hopeful (computed)
+      b74                Peres' character or actions make me feel angry (computed)
+      b75                Peres makes me feel frightened (computed)
+      b76                Peres makes me feel proud (computed)
+      b77                Peres makes me feel hopeful (computed)
+      b79                Which newspaper (Arabs only)
+      b81                Which newspaper (Arabs only)
+      b83                Which TV channel (Arabs only)
+      b85                Which TV channel (Arabs only)
+
+=========================================================================================
+
+****    General
+
+      a1                 ID number
+
+              Data type: numeric
+              Record/columns: 1/1-5
+
+      a6                 General situation of Israel today
+
+              VALUE  LABEL
+                  1  Bad
+                  2  Not good
+                  3  So so
+                  4  Good
+                  5  Very good
+
+              Data type: numeric
+              Missing-data code: 0
+              Record/column: 1/6
+
+      a7                 Government treatment of current national issues
+
+              VALUE  LABEL
+                  1  Not good
+                  2  Not so good
+                  3  Good
+                  4  Very good
+
+              Data type: numeric
+              Record/column: 1/7
+
+      a8                 The main problem government has to deal with
+
+              Data type: numeric
+              Missing-data code: 51
+              Record/columns: 1/8-9
+
+      a10                Personal security situation today compared to pre-Peace Process period
+
+              VALUE  LABEL
+                  1  Much worse
+                  2  Worse
+                  3  No change
+                  4  Better
+                  5  Much better
+
+              Data type: numeric
+              Record/column: 1/10
+
+****    Support for following Israeli concessions in Clinton's proposal
+
+      a11                Palestinian State with 95% of Gaza Strip and West Bank,Israel will keep settlement blocks
+
+              VALUE  LABEL
+                  1  Strongly oppose
+                  2  Oppose
+                  3  Support
+                  4  Strongly support
+
+              Data type: numeric
+              Record/column: 1/11
+
+      a12                Israel will give the Palestinians Jerusalem's Arab neighbourhoods
+
+              VALUE  LABEL
+                  1  Strongly oppose
+                  2  Oppose
+                  3  Support
+                  4  Strongly support
+
+              Data type: numeric
+              Record/column: 1/12
+
+      a13                Temple Mount will be given to Palestinians,Western Wall will stay in Israeli hands
+
+              VALUE  LABEL
+                  1  Strongly oppose
+                  2  Oppose
+                  3  Support
+                  4  Strongly support
+
+              Data type: numeric
+              Record/column: 1/13
+
+      a14                A limited number of Palestinian refugees will be allowed to return to Israel
+
+              VALUE  LABEL
+                  1  Strongly oppose
+                  2  Oppose
+                  3  Support
+                  4  Strongly support
+
+              Data type: numeric
+              Record/column: 1/14
+
+      a15                Israel will give up control in the Jordan Valley over a few years
+
+              VALUE  LABEL
+                  1  Strongly oppose
+                  2  Oppose
+                  3  Support
+                  4  Strongly support
+
+              Data type: numeric
+              Record/column: 1/15
+
+      a16                Support for Peace agreeement with above conditions
+
+              VALUE  LABEL
+                  1  Strongly oppose
+                  2  Oppose
+                  3  Support
+                  4  Strongly support
+
+              Data type: numeric
+              Record/column: 1/16
+
+      a17                Will a Palestinian Peace agreement end the Arab-Israeli conflict?
+
+              VALUE  LABEL
+                  1  Certanly will not end
+                  2  Will not end
+                  3  Will end
+                  4  Certanly will end
+
+              Data type: numeric
+              Record/column: 1/17
+
+      a18                Estimate Israeli public support for this agreement (percentage)
+
+              Data type: numeric
+              Record/columns: 1/18-19
+
+      a20                Forecast future public opinion towards agreement
+
+              VALUE  LABEL
+                  1  Support will grow
+                  2  Opposition will grow
+
+              Data type: numeric
+              Record/column: 1/20
+
+      a21                Agreement with government encouragement of Arab emmigration
+
+              VALUE  LABEL
+                  1  Certanly do not agree
+                  2  Do not agree
+                  3  Agree
+                  4  Certanly agree
+
+              Data type: numeric
+              Record/column: 1/21
+
+      a22                Support for the returning of areas of the Golan Heights to Syria for peace
+
+              VALUE  LABEL
+                  1  Give back none
+                  2  Give back small part
+                  3  Give back large part
+                  4  Give back all
+
+              Data type: numeric
+              Record/column: 1/22
+
+      a23                Evaluation of arab aspirations
+
+              VALUE  LABEL
+                  1  Return part of territories
+                  2  Return all
+                  3  Occupy Israel
+                  4  Occupy Israel, destroy most of population
+
+              Data type: numeric
+              Record/column: 1/23
+
+      a24                Are you worried about being injured by Arabs?
+
+              VALUE  LABEL
+                  1  Not at all worried
+                  2  Not worried
+                  3  Worried
+                  4  Very worried
+
+              Data type: numeric
+              Record/column: 1/24
+
+****    Arguments for supporting peace agreement
+
+      a25                If there's no agreement there will be war
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/25
+
+      a26                An agreement will bring more security than territories
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/26
+
+      a27                Peace will strengthen Israel's international position
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/27
+
+      a28                Peace will strengthen Israel economically
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/28
+
+      a29                Peace will end the conflict with the Palestinians and the Arab world
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/29
+
+      a30                Which of the above reasons is the most convincing?
+
+              VALUE  LABEL
+                 25  War if no agreement
+                 26  Treaty gives more security than territories
+                 27  Strengthen international position
+                 28  Strengthen economic position
+                 29  End conflict
+
+              Data type: numeric
+              Missing-data code: 0
+              Record/columns: 1/30-31
+
+****    Arguments for not supporting peace agreement
+
+      a32                The territories are important for security and must not be given up
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/32
+
+      a33                The Arabs don't keep agreements
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/33
+
+      a34                The settlers must not be removed from their homes since the government sent them there
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/34
+
+      a35                A better agreement can be reached
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/35
+
+      a36                Jerusalem and the Temple Mount are Jewish Holy sites and shouldn't be given up
+
+              VALUE  LABEL
+                  1  Not at all convincing
+                  2  Not convincing
+                  3  Convincing
+                  4  Very convincing
+
+              Data type: numeric
+              Record/column: 1/36
+
+      a37                Which of the above reasons is the most convincing?
+
+              VALUE  LABEL
+                 32  Do not give up territories
+                 33  Cannot trust arabs
+                 34  No removing settlers
+                 35  Get better agreement
+                 36  Do not give up jerusalem and temple mount
+
+              Data type: numeric
+              Missing-data code: 0
+              Record/columns: 1/37-38
+
+      a39                Level of satisfaction with Israeli democracy
+
+              VALUE  LABEL
+                  1  Very not satisfied
+                  2  Not satisfied
+                  3  Satisfied
+                  4  Very satisfied
+
+              Data type: numeric
+              Record/column: 1/39
+
+****    Ranking 4 significant values
+
+      a40                Most important value
+
+              Question asked until 17.01.2001 to Jews only
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/40
+
+      a41                Second most important value
+
+              Question asked until 17.01.2001 to Jews only
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/41
+
+      a42                Third most important value
+
+              Question asked until 17.01.2001 to Jews only
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/42
+
+      a43                Fourth most important value
+
+              Question asked until 17.01.2001 to Jews only
+
+              VALUE  LABEL
+                  1  Jewish majority
+                  2  Greater Israel
+                  3  Democracy
+                  4  Peace
+
+              Data type: numeric
+              Record/column: 1/43
+
+      a44                The value to be followed in the event of halachic-democratic contradiction
+
+              VALUE  LABEL
+                  1  Prefer democracy
+                  2  Both
+                  3  Prefer halacha
+
+              Data type: numeric
+              Record/column: 1/44
+****    Support for the following
+
+      a45                Extent of support for the Labour Party
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/45-46
+
+      a46                Extent of support for Ariel Sharon
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/47-48
+
+      a47                Extent of support for Likud Party
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/49-50
+
+      a48                Extent of support for orthodox people
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/51-52
+
+      a49                Extent of support for Arafat
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/53-54
+
+      a50                Extent of support for Ehud Barak
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/55-56
+
+      a51                Extent of support for Binyamin Netanyahu
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/57-58
+
+      a52                Extent of support for Shimon Peres
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/59-60
+
+      a53                Extent of support for Arye Deri
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/61-62
+
+      a54                Extent of support for Arabs
+
+              VALUE  LABEL
+                  1  Hate
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/63-64
+
+      a55                A capitalist or socialist Israeli economy
+
+              VALUE  LABEL
+                  1  Certanly capitalist
+                  2  More capitalist than socialist
+                  3  More socialist than capitalist
+                  4  Certanly socialist
+
+              Data type: numeric
+              Record/column: 1/65
+
+      a56                Participation of Arabs in critical decisions
+
+              VALUE  LABEL
+                  1  Certain only Jews
+                  2  Only Jews
+                  3  Both Jews and Arabs
+                  4  Certain both Jews and Arabs
+
+              Data type: numeric
+              Record/columns: 1/66-67
+
+      a57                The most important reason to vote for PM
+
+              VALUE  LABEL
+                  1  Personal qualities
+                  2  Identification with his party
+                  3  Identification with his camp
+                  4  Positions on issues
+                  5  In power or opposition
+
+              Data type: numeric
+              Record/columns: 1/68-69
+
+****    Issues  that affect the vote for PM
+
+      a58                Affect Jerusalem on PM voting
+
+              VALUE  LABEL
+                  1  Will not influence
+                  2  Small influence
+                  3  Some influence
+                  4  Large influence
+
+              Data type: numeric
+              Record/columns: 1/70-71
+
+      a59                Affect economy on PM voting
+
+              VALUE  LABEL
+                  1  Will not influence
+                  2  Small influence
+                  3  Some influence
+                  4  Large influence
+
+              Data type: numeric
+              Record/column: 1/72
+
+      a60                Affect social policy on PM voting
+
+              VALUE  LABEL
+                  1  Will not influence
+                  2  Small influence
+                  3  Some influence
+                  4  Large influence
+
+              Data type: numeric
+              Record/column: 1/73
+
+      a61                Affect religion and state on PM voting
+
+              VALUE  LABEL
+                  1  Will not influence
+                  2  Small influence
+                  3  Some influence
+                  4  Large influence
+
+              Data type: numeric
+              Record/column: 1/74
+
+      a62                Affect agreement with the Palestinians on PM voting
+
+              VALUE  LABEL
+                  1  Will not influence
+                  2  Small influence
+                  3  Some influence
+                  4  Large influence
+
+              Data type: numeric
+              Record/column: 1/75
+
+      a63                Affect terrorism on PM voting
+
+              VALUE  LABEL
+                  1  Will not influence
+                  2  Small influence
+                  3  Some influence
+                  4  Large influence
+
+              Data type: numeric
+              Record/column: 1/76
+
+      a64                Candidate most capable to deal with Israel's economic issues
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/77
+
+      a65                Candidate most capable to deal with foreign & security issues
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/78
+
+      a66                Respondent self-ranking on a right-left political scale of 1-7
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/79
+
+****    Difference amongst candidates' positions on following issues
+
+      a67                Differences amongst candidate's position on: Jerusalem
+
+              VALUE  LABEL
+                  1  Very small differences
+                  2  Small differences
+                  3  Some differences
+                  4  Great differences
+                  5  Very great differences
+
+              Data type: numeric
+              Record/column: 1/80
+
+      a68                Differences amongst candidate's position on: Economy
+
+              VALUE  LABEL
+                  1  Very small differences
+                  2  Small differences
+                  3  Some differences
+                  4  Great differences
+                  5  Very great differences
+
+              Data type: numeric
+              Record/column: 1/81
+
+      a69                Differences amongst candidate's position on: Social policy
+
+              VALUE  LABEL
+                  1  Very small differences
+                  2  Small differences
+                  3  Some differences
+                  4  Great differences
+                  5  Very great differences
+
+              Data type: numeric
+              Record/column: 1/82
+
+      a70                Differences amongst candidate's position on: State and religion
+
+              VALUE  LABEL
+                  1  Very small differences
+                  2  Small differences
+                  3  Some differences
+                  4  Great differences
+                  5  Very great differences
+
+              Data type: numeric
+              Record/column: 1/83
+
+      a71                Differences amongst candidate's position on: Agreement with the Palestinians
+
+              VALUE  LABEL
+                  1  Very small differences
+                  2  Small differences
+                  3  Some differences
+                  4  Great differences
+                  5  Very great differences
+
+              Data type: numeric
+              Record/column: 1/84
+
+      a72                Differences amongst candidate's position on: Terrorism
+
+              VALUE  LABEL
+                  1  Very small differences
+                  2  Small differences
+                  3  Some differences
+                  4  Great differences
+                  5  Very great differences
+
+              Data type: numeric
+              Record/column: 1/85
+
+      a73                Discussing political issues with family,friends
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  Little
+                  3  Some
+                  4  Great extent
+
+              Data type: numeric
+              Record/column: 1/86
+
+      a74                To what degree can you and your friends influence government policy?
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  Little
+                  3  Some
+                  4  Great extent
+
+              Data type: numeric
+              Record/column: 1/87
+
+      a75                Importance of voting for a particular candidate
+
+              VALUE  LABEL
+                  1  Does not matter for whom you vote
+                  5  Does matter for whom you vote
+
+              Data type: numeric
+              Record/column: 1/88
+
+      a76                Necessity for government's ensuring public life according to Jewish religious tradition
+
+              VALUE  LABEL
+                  1  Certanly should see to it
+                  2  Maybe
+                  3  Should not see to it
+                  4  Certanly should not see to it
+
+              Data type: numeric
+              Record/column: 1/89
+
+****    Which candidate has the following attributes
+
+      a77                Which candidate suits the following: Reliable
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/90
+
+      a78                Which candidate suits the following: Prefers state interest over others
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/91
+
+      a79                Which candidate suits the following: Will withstand pressure
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/92
+
+      a80                Which candidate suits the following: Will preserve the rule of law
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/93
+
+      a81                Which candidate suits the following: Can be firm in Peace and territory negotiations
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/94
+
+      a82                Which candidate suits the following: Will know how to deal with terrorism
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/95
+
+      a83                Which candidate suits the following: Can bring true peace with the Arabs
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/96
+
+      a84                Which candidate suits the following: Will decrease the split in the nation
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Both
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/97
+
+****    General political attitudes and behavior
+
+      b6                 Willingness to give your opinion on the peace agreement to a TV journalist
+
+              VALUE  LABEL
+                  1  Definitely no
+                  2  No
+                  3  Not certain
+                  4  Yes
+                  5  Definitely
+
+              Data type: numeric
+              Record/column: 1/98
+
+      b7                 Frequency of reading daily newspaper
+
+              VALUE  LABEL
+                  1  Never
+                  2  Rarely
+                  3  Once a week
+                  4  Two or three a week
+                  5  Almost every day
+                  6  More than one every day
+
+              Data type: numeric
+              Record/column: 1/99
+
+      b8                 Frequency of watching TV news
+
+              VALUE  LABEL
+                  1  Never
+                  2  Rarely
+                  3  Once a week
+                  4  Two or three a week
+                  5  Almost every day
+                  6  More than one every day
+
+              Data type: numeric
+              Record/column: 1/100
+
+      b9                 Follow publications of election polls
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  Small extent
+                  3  Certain extent
+                  4  Great extent
+
+              Data type: numeric
+              Record/column: 1/101
+
+      b10                Faith in election polls
+
+              VALUE  LABEL
+                  1  Not at all
+                  2  Small extent
+                  3  Certain extent
+                  4  Great extent
+
+              Data type: numeric
+              Record/column: 1/102
+
+      b11                Will election ads influence your vote decision?
+
+              VALUE  LABEL
+                  0  Do not see
+                  1  Not at all
+                  2  Small extent
+                  3  Certain extent
+                  4  Great extent
+
+              Data type: numeric
+              Record/column: 1/103
+
+      b12                Direct election for PM's impact on the government system
+
+              VALUE  LABEL
+                  1  No change
+                  2  Worse
+                  3  Better
+
+              Data type: numeric
+              Record/column: 1/104
+
+      b13                Inclusion of ministers from Arab parties in government
+
+              VALUE  LABEL
+                  1  Certanly disagree
+                  2  Do not agree
+                  3  Agree
+                  4  Certanly agree
+
+              Data type: numeric
+              Record/column: 1/105
+
+      b14                Party respondent vote if elections for the Knesset were held today
+
+              VALUE  LABEL
+                  1  One Israel
+                  2  Likud
+                  3  Shas
+                  4  Meretz
+                  5  Mafdal
+                  6  Yahadut HaTora
+                  7  Peretz
+                  8  Shinui
+                  9  Ihud leumi
+                 10  Center
+                 11  Israel bealiya
+                 12  Israel Beyteinu
+                 13  Bronfman
+                 14  Hadash
+                 15  Balad
+                 16  Tibi
+                 17  United Arab Front
+                 18  New arab
+                 19  Other
+                 20  Blank
+                 22  Will not vote
+                 23  Undecided
+                 99  Refuses to answer
+
+              Data type: numeric
+              Missing-data code: 25
+              Record/columns: 1/106-107
+
+      b16                Respondent vote for PM, if elections were held today
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+                  3  Blank
+                  4  Will not vote
+                  5  Not decided
+                  6  Refuses to answer
+
+              Data type: numeric
+              Record/column: 1/108
+
+      b17                Reason for not vote
+
+              Data type: numeric
+              Record/columns: 1/109-110
+
+      b19                Whom do you expect to win the PM elections?
+
+              VALUE  LABEL
+                  1  Sharon
+                  2  Barak
+
+              Data type: numeric
+              Record/column: 1/111
+
+      b20                Vote in 1999 elections for PM
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Barak
+                  3  Blank
+                  4  Will not vote
+                  5  Not decided
+
+              Data type: numeric
+              Record/column: 1/112
+
+      b21                Vote in 1999 Knesset elections
+
+              VALUE  LABEL
+                  1  One Israel
+                  2  Likud
+                  3  Shas
+                  4  Meretz
+                  5  Mafdal
+                  6  Yahadut HaTora
+                  7  Peretz
+                  8  Shinui
+                  9  Ihud leumi
+                 10  Center
+                 11  Israel Bealiya
+                 12  Israel Beyteinu
+                 14  Hadash
+                 15  Balad
+                 17  United Arab Front
+                 18  New arab
+                 19  Other
+                 20  Blank
+                 21  No right to vote
+                 22  Did not vote
+                 99  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/113-114
+
+****    Self definition of identity
+
+      b23                Supporter or member of any party
+
+              VALUE  LABEL
+                  1  Not a member, do not support
+                  2  Support
+                  3  Member
+                  4  Member unsalaried
+                  5  Member salaried
+
+              Data type: numeric
+              Record/column: 1/115
+
+      b24                Age
+
+              Data type: numeric
+              Record/columns: 1/116-117
+
+      b26                Conduct life according to Religious tradition
+
+              VALUE  LABEL
+                  1  Do not observe at all
+                  2  Observe some
+                  3  Observe most
+                  4  Observe all
+
+              Data type: numeric
+              Record/column: 1/118
+
+      b27                Self definition of religious identity
+
+              VALUE  LABEL
+                  1  Secular
+                  2  Traditional
+                  3  Religious
+                  4  Haredi
+
+              Data type: numeric
+              Record/column: 1/119
+
+****    Feeling towards candidates for PM
+
+      b28                Ethnic group (For Arabs only)
+
+              VALUE  LABEL
+                  5  Moslem
+                  6  Christian
+                  7  Druze
+                  8  Other
+
+              Data type: numeric
+              Record/column: 1/120
+
+      b29                First label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jew or Palestinian
+                  3  Ethnic group or Arab
+                  4  Religious
+
+              Data type: numeric
+              Record/column: 1/121
+
+      b30                Second label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jew or Palestinian
+                  3  Ethnic group or Arab
+                  4  Religious
+
+              Data type: numeric
+              Record/column: 1/122
+
+      b31                Third label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jew or Palestinian
+                  3  Ethnic group or Arab
+                  4  Religious
+
+              Data type: numeric
+              Record/column: 1/123
+
+      b32                Fourth label to define identity
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jew or Palestinian
+                  3  Ethnic group or Arab
+                  4  Religious
+
+              Data type: numeric
+              Record/column: 1/124
+
+      b33                Place of birth
+
+              VALUE  LABEL
+                  1  North Africa
+                  2  Asia
+                  3  Eastern Europe
+                  4  West and Central Europe
+                  5  America, Australia, South Africa
+                  6  Israel Israel
+                  7  Israel North Africa
+                  8  Israel Asia
+                  9  Israel Eastern Europe
+                 10  Israel West Central Europe
+                 11  Israel America, Australia, South Africa
+
+              Data type: numeric
+              Record/columns: 1/125-126
+
+      b35                Year of immigration
+
+              Data type: numeric
+              Missing-data code: 0
+              Record/columns: 1/127-128
+
+      b37                Former-Soviet-Union-born, immigrated after 1988
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/129
+
+      b38                Total years of schooling
+
+              Data type: numeric
+              Record/columns: 1/130-131
+
+      b40                Academic degree
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/132
+
+      b41                Monthly expenditure of family compared to national average of 8,500 NIS
+
+              VALUE  LABEL
+                  1  More than average
+                  2  Somewhat above
+                  3  Average
+                  4  Somewhat below
+                  5  Much below
+
+              Data type: numeric
+              Record/column: 1/133
+
+      b42                Number of rooms in apartment
+
+              Data type: numeric
+              Record/columns: 1/134-135
+
+      b44                Number of persons in household
+
+              Data type: numeric
+              Record/columns: 1/136-137
+
+      b46                Respondent's military service in territories
+
+              VALUE  LABEL
+                  1  Yes
+                  2  Served but not in territories
+                  3  Did not serve
+
+              Data type: numeric
+              Record/column: 1/138
+
+****    Demographic details
+
+      b47                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/139
+
+      b48                Code of locality
+
+              Data type: numeric
+              Record/columns: 1/140-142
+
+      b51                Month of interview
+
+              VALUE  LABEL
+                  1  January
+                  2  February
+
+              Data type: numeric
+              Record/column: 1/143
+
+      b52                Date of interview
+
+              Data type: numeric
+              Record/columns: 1/144-146
+
+      b55                Language of interview
+
+              VALUE  LABEL
+                  1  Hebrew
+                  2  Russian
+                  3  Arabic
+
+              Data type: numeric
+              Record/column: 1/147
+
+      b56                Telephone area code
+
+              Data type: numeric
+              Record/column: 1/148
+
+      b64                Possibilty of reaching an agreement with Palestinians even without concessions (computed)
+
+              VALUE  LABEL
+                  1  Can reach agreement
+                  2  Cannot reach agreement
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/149
+
+      b65                Vote for PM between Peres and Sharon (computed)
+
+              VALUE  LABEL
+                  1  Peres
+                  2  Sharon
+                  3  No decision
+                  4  No vote
+                  5  Blank
+                  6  Refuses
+
+              Data type: numeric
+              Record/column: 1/150
+
+      b66                Sharon's character or actions make me feel angry (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/151
+
+      b67                Sharon makes me feel frightened (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/152
+
+      b68                Sharon makes me feel proud (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/153
+
+      b69                Sharon makes me feel hopeful (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/154
+
+      b70                Barak's character or actions make me feel angry (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/155
+
+      b71                Barak makes me feel frightened (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/156
+
+      b72                Barak makes me feel proud (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/157
+
+      b73                Barak makes me feel hopeful (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/158
+
+      b74                Peres' character or actions make me feel angry (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/159
+
+      b75                Peres makes me feel frightened (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/160
+
+      b76                Peres makes me feel proud (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/161
+
+      b77                Peres makes me feel hopeful (computed)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/162
+
+      b79                Which newspaper (Arabs only)
+
+              VALUE  LABEL
+                  1  Yediot
+                  2  AlSanara
+                  3  FatelAlmakal
+                  5  Maariv
+                  6  AlAtchad
+                  7  KolAlArab
+                  8  Haaretz
+
+              Data type: numeric
+              Record/column: 1/163
+
+      b81                Which newspaper (Arabs only)
+
+              VALUE  LABEL
+                  1  Yediot
+                  2  AlSanara
+                  3  FatelAlmakal
+                  5  Maariv
+                  6  AlAtchad
+                  7  KolAlArab
+                  8  Haaretz
+
+              Data type: numeric
+              Record/column: 1/164
+
+      b83                Which TV channel (Arabs only)
+
+              VALUE  LABEL
+                  1  First channel Israel
+                  2  2nd channel Israel
+                  3  MBC
+                  4  AlJazeera
+                  5  Jordan
+                  8  News in Arabic in general
+
+              Data type: numeric
+              Record/column: 1/165
+
+      b85                Which TV channel (Arabs only)
+
+              VALUE  LABEL
+                  1  First channel Israel
+                  2  2nd channel Israel
+                  3  MBC
+                  4  AlJazeera
+                  5  Jordan
+
+              Data type: numeric
+              Record/column: 1/166
+

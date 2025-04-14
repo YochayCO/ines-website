@@ -1,0 +1,472 @@
+
+                                                           CODEBOOK
+
+
+                                                   Election Study 1977, phase 4
+
+                                                           CONTENTS
+
+      v1                 Identity number
+      c2                 Factors greatly influencing interviewee's vote
+      c3                 The success of the Likud's election campaign
+      c4                 The success of the Alignment's election campaign
+      c5                 To what extent a government headed by the Likud will strengthen or weaken the country's economic and social situation
+      c6                 To what extent a government headed by the Likud will improve or worsen the country's chances for peace
+      c7                 The greatest amount of territory in the West Bank that is to be given back in order to achieve a peace agreement
+      c8                 Factor having greatest influence on interviewee's vote for the Knesset
+      c9                 The problem facing the country that was most important for interviewee's decision whom to vote for in last Knesset elections
+      c10                Interviewee's preference for Prime Minister
+      c11                To what extent interviewee is satisfied with the Knesset election results
+      c12                To what extent interviewee is certain he will continue to support the same party he supported these last elections
+      c13                Party position interviewee is closer to on foreign and security issues
+      c14                Party interviewee voted for in the 1973 Knesset elections
+      c15                Party interviewee voted for in the 1977 Knesset elections
+      c16                Party interviewee would vote for if elections held today
+      c17                Party interviewee voted for in the 1973 Histadrut elections
+      c18                Party interviewee voted for in the last Histadrut elections
+      c19                Sex
+      c20                Education
+      c21                Number of rooms in dqwelling
+      c22                Number of persons living in household
+      c23                Interviewee's gross monthly income
+      c24                Age
+      c25                Gross monthly income of entire household
+      c26                Interviewee observes religious traditions
+      c27                Interviewee works
+      c28                Spouse works
+      c29                Place of birth of interviewee/interviewee's father
+      c30                Year of Aliyah (immigration)
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      c2                 Factors greatly influencing interviewee's vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Television advertisements
+                  2  Radio advertisements
+                  3  Newspaper advertisements
+                  4  Street advertisements
+                  5  House meetings
+                  6  General meetings
+                  7  Talking with friends and relatives
+                  8  Other or combination of several factors
+                  9  None of the factors mentioned here
+
+              Data type: numeric
+              Record/column: 1/5
+
+      c3                 The success of the Likud's election campaign
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very successful
+                  2  Successful
+                  3  Not so successful
+                  4  Not at all successful
+
+              Data type: numeric
+              Record/column: 1/6
+
+      c4                 The success of the Alignment's election campaign
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very successful
+                  2  Successful
+                  3  Not so successful
+                  4  Not at all successful
+
+              Data type: numeric
+              Record/column: 1/7
+
+      c5                 To what extent a government headed by the Likud will strengthen or weaken the country's economic and social situation
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Strengthen it to a great extent
+                  2  Strengthen it to a certain extent
+                  3  Weaken it to a certain extent
+                  4  Weaken it to a great extent
+                  5  Neither strengthen nor weaken it
+
+              Data type: numeric
+              Record/column: 1/8
+
+      c6                 To what extent a government headed by the Likud will improve or worsen the country's chances for peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Improve them to a great extent
+                  2  Improve them to a certain extent
+                  3  Worsen them to a certain extent
+                  4  Worsen them to a great extent
+                  5  Will neither improve nor worsen them
+
+              Data type: numeric
+              Record/column: 1/9
+
+      c7                 The greatest amount of territory in the West Bank that is to be given back in order to achieve a peace agreement
+
+              VALUE  LABEL
+                  0  No answer
+                  1  All of the West Bank
+                  2  Almost all of it
+                  3  Part of it
+                  4  A small part of it
+                  5  Nothing at all
+
+              Data type: numeric
+              Record/column: 1/10
+
+      c8                 Factor having greatest influence on interviewee's vote for the Knesset
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Trust in leadership of party voted for
+                  2  Lack of trust in govt. headed by Alignmt
+                  3  Wish to protest against Alignment govt.
+                  4  Wish to support the Alignment government
+                  5  Concern with the Likud's extremism
+
+              Data type: numeric
+              Record/column: 1/11
+
+      c9                 The problem facing the country that was most important for interviewee's decision whom to vote for in last Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security
+                  2  Economy
+                  3  Social inequality
+                  4  Peace
+                  5  Young couples
+                  6  Change in the electoral system
+                  7  Immigrants absorption
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/12
+
+      c10                Interviewee's preference for Prime Minister
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Abba Eban
+                  2  Yigal Alon
+                  3  Menachem Begin
+                  4  Yigal Yadin
+                  5  Golda Meir
+                  6  Shimon Peres
+                  7  Yitzhak Rabin
+                  8  Arik Sharon
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/13
+
+      c11                To what extent interviewee is satisfied with the Knesset election results
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/14
+
+      c12                To what extent interviewee is certain he will continue to support the same party he supported these last elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/15
+
+      c13                Party position interviewee is closer to on foreign and security issues
+
+              VALUE  LABEL
+                  0  No answer
+                  1  The Alignment's
+                  2  The Likud's
+                  3  The Left's
+
+              Data type: numeric
+              Record/column: 1/16
+
+      c14                Party interviewee voted for in the 1973 Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Likud
+                 02  Moked
+                 03  Independent Liberals
+                 04  Alignment
+                 05  Religious Front
+                 06  NRP
+                 07  Meri
+                 08  Rakach
+                 09  Democrats and Black Panthers
+                 10  Shulamit Aloni
+                 11  Ethnic list
+                 12  Other
+                 13  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/17-18
+
+      c15                Party interviewee voted for in the 1977 Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Sheli
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Hofesh
+                  8  Rakah
+                  9  Flatto-Sharon
+                 10  Shulamit Aloni
+                 11  Other Ethnic List
+                 12  Slomzion (Arik Sharon)
+                 13  Women's Party
+                 14  Yahad
+                 15  Democratic Movement for Change
+                 16  Interviewee casted a blank ballot
+                 18  Did not vote
+                 19  Refuses to answer
+                 20  Other
+
+              Data type: numeric
+              Record/columns: 1/19-20
+
+      c16                Party interviewee would vote for if elections held today
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Likud
+                  2  Sheli
+                  3  Independent Liberals
+                  4  Alignment
+                  5  Religious Front(Agudat Israel+Poalei Agudat Israel)
+                  6  National Religious Party
+                  7  Hofesh
+                  8  Rakah
+                  9  Flatto-Sharon
+                 10  Shulamit Aloni
+                 11  Other Ethnic List
+                 12  Slomzion (Arik Sharon)
+                 13  Women's Party
+                 14  Yahad
+                 15  Democratic Movement for Change
+                 16  Interviewee would cast a blank ballot
+                 17  Has not decided yet
+                 18  Will not vote
+                 19  Refuses to answer
+                 20  Other
+
+              Data type: numeric
+              Record/columns: 1/21-22
+
+      c17                Party interviewee voted for in the 1973 Histadrut elections
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Likud
+                 02  Independent Liberals
+                 03  Alignment
+                 04  Religious Worker
+                 05  Meri
+                 06  Moked
+                 07  Rakach
+                 08  Israeli Democrats (Panthers)
+                 09  Other
+                 10  Not Histadrut member
+                 11  Histadrut member but did not vote
+
+              Data type: numeric
+              Record/columns: 1/23-24
+
+      c18                Party interviewee voted for in the last Histadrut elections
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Likud
+                 02  Independent Liberals - Shulamit Aloni
+                 03  Alignment
+                 04  DMC
+                 05  Religious Worker
+                 06  Sheli
+                 07  Rakach
+                 08  Hadash (Panthers)
+                 09  Hilel Zeidel's list
+                 10  Other
+                 11  Not Histadrut member
+                 12  Histadrut member but did not vote
+
+              Data type: numeric
+              Record/columns: 1/25-26
+
+      c19                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/27
+
+      c20                Education
+
+              VALUE  LABEL
+                  1  Up to 8 years of schooling
+                  4  9-12 years
+                  7  13+
+
+              Data type: numeric
+              Record/column: 1/28
+
+      c21                Number of rooms in dqwelling
+
+              VALUE  LABEL
+                  1  One room
+                  2  2 rooms
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/29
+
+      c22                Number of persons living in household
+
+              VALUE  LABEL
+                  1  One person
+                  2  2 people
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/30
+
+      c23                Interviewee's gross monthly income
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to 999 IL/month
+                  2  1000-1499
+                  3  1500-1999
+                  4  2000-2499
+                  5  2500-2999
+                  6  3000-3499
+                  7  3500-3999
+                  8  4000-4999
+                  9  5000+
+
+              Data type: numeric
+              Record/column: 1/31
+
+      c24                Age
+
+              VALUE  LABEL
+                  0  No answer
+                  1  20-29
+                  3  30-39
+                  5  40-49
+                  7  50+
+
+              Data type: numeric
+              Record/column: 1/32
+
+      c25                Gross monthly income of entire household
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Up to 1499 IL/month
+                  2  1500-2499
+                  3  2500-2999
+                  4  3000-3499
+                  5  3500-3999
+                  6  4000-4999
+                  7  5000-5499
+                  8  5500-5999
+                  9  6000+
+
+              Data type: numeric
+              Record/column: 1/33
+
+      c26                Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Observes them thoroughly
+                  2  To a great extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/34
+
+      c27                Interviewee works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Works as an employee
+                  2  As an independent
+                  3  Does not work
+
+              Data type: numeric
+              Record/column: 1/35
+
+      c28                Spouse works
+
+              VALUE  LABEL
+                  0  No answer
+                  1  As an employee
+                  2  As an independent
+                  3  Does not work
+                  4  Does not have a spouse
+
+              Data type: numeric
+              Record/column: 1/36
+
+      c29                Place of birth of interviewee/interviewee's father
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/37
+
+      c30                Year of Aliyah (immigration)
+
+              VALUE  LABEL
+                  1  Israeli born
+                  2  Before 1930
+                  3  1931-1940
+                  4  1941-1947
+                  5  1948-1954
+                  6  1955-1960
+                  7  1961-1964
+                  8  1965-1967
+                  9  1968+
+
+              Data type: numeric
+              Record/column: 1/38
+     

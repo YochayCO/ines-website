@@ -1,0 +1,1917 @@
+
+                                                           CODEBOOK
+
+
+                                                   Election Study 1981, third phase
+
+                                                           CONTENTS
+
+      v1                 Identity number
+      b2                 General situation in Israel today
+      b3                 Way government handles present problems in Israel
+      b4                 Differences in parties' ability to deal with these problems
+      b5                 Shimon Peres/Menachem Begin can better handle the nation's problems
+      b6                 Main problem government has to solve
+      b7                 Differences in party stands on security issues
+      b8                 The importance of a Jewish majority in the State of Israel
+      b9                 Interviewee agrees/disagrees that Judea and Samaria will have to be compromised in order to preserve the Jewish majority
+      b10                In light of the large Arab population in Judea and Samaria,interviewee supports/does not support compromising these territories
+      b11                To what extent security issues will influence the coming Knesset election results
+      b12                To what extent security issues will influence interviewee's vote in coming Knesset elections
+      b13                Party best representing interviewee's position on security issues
+      b14                Haim Bar-Lev or Arik Sharon can better handle the nation's security problems
+      b15                Way government handles the nation's economic problems
+      b16                Party differences on economic issues
+      b17                Party best representing interviewee's position on economic issues
+      b18                Yoram Aridor or Haim Ben-Shachar can better handle the nation's economic problems
+      b19                To what extent Aridor's economic plan is clear to interviewee
+      b20                To what extent Ben-Shachar's economic plan is clear to interviewee
+      b21                To what extent Aridor's plan helps those like interviewee
+      b22                To what extent Ben-Shachar's plan helps those like interviewee
+      b23                To what extent Aridor's plan helps Israel's economy
+      b24                To what extent Ben-Shachar's plan helps Israel's economy
+      b25                To what extent Aridor's plan will influence the coming Knesset election results
+      b26                To what extent Aridor's plan will influence interviewee's vote
+      b27                Interviewee's position on economic issues
+      b28                Interviewee's position on security and foreign affairs
+      b29                Differences between parties lie in what they say and not in what they do
+      b30                To what extent interviewee and friends can influence government policy
+
+****    CHARACTERISTICS SUITING ALIGNMENT OR LIKUD
+
+      b32                Strong party
+      b33                Experienced party
+      b34                Modern, innovative party
+      b35                Young party
+      b36                Represents Ashenazim and Sepharadim
+      b37                Mainly watches out for the citizens' interests
+      b38                Honest party
+      b39                Trustworthy party
+      b40                Party with experienced leaders
+      b41                Ensures the nation's future
+      b42                Ensures a Jewish majority in Israel
+      b43                Contributed to the building of the country
+      b44                The Likud is a hawkish or dovish party
+      b45                The Alignment is a hawkish or dovish party
+
+****    INTERVIEWEE CHARACTERIZATION OF MENACHEM BEGIN GRADED SCALE 1-7
+
+      b47                Menachem Begin
+      b48                Menachem Begin
+      b49                Menachem Begin
+      b50                Menachem Begin
+      b51                Menachem Begin
+      b52                Menachem Begin
+      b53                Menachem Begin
+      b54                Menachem Begin
+      b55                Menachem Begin
+      b56                Menachem Begin
+      b57                It is the obligation of all the Jews to immigrate to Israel
+      b58                Separation of religion and state
+      b59                Personal interests or the nation's interest should be more important to the citizen
+
+****    LIFE SITUATION EVALUATED AS BEST (1) TO WORST (10)
+
+      b61                Interviewee's situation today
+      b62                Interviewee's situation 4 years ago
+      b63                Interviewee's situation in another 4 years
+
+****    NATION'S SECURITY EVALUATED AS BEST (1) TO WORST (10)
+
+      b65                Nation's security today
+      b66                Nation's security 4 years ago
+      b67                Nation's security in another 4 years
+
+****    NATION'S FOREIGN RELATIONS EVALUATED AS BEST (1) TO WORST (10)
+      b69                Nation's foreign relations today
+      b70                Nation's foreign relations 4 years ago
+      b71                Nation's foreign relations in another 4 years
+
+****    NATION'S ECONOMY EVALUATED AS BEST (1) TO WORST (10)
+
+      b73                Nation's economy today
+      b74                Nation's economy 4 years ago
+      b75                Nation's economy in another 4 years
+      b76                Main differences between left and right wings in politics
+      b77                The definitions left and right in politics have meaning in Israel today
+
+****    POLITICAL RATING FROM EXTREME RIGHT (1) TO EXTREME LEFT (7)
+
+      b80                Interviewee's gereral rating
+      b81                Interviewee's position on security issues
+      b82                Interviewee's attitude towards foreign policy
+      b83                Interviewee's position on economic problems and issues
+      b84                Interviewee reads results of opinion surveys on elections in the newspaper
+      b85                Opinion surveys can be trusted
+      b86                Election surveys have an impact on the voting public
+      b87                Election surveys have an impact on politicians
+      b88                Interviewee plans to be abroad in summer/will be in Israel on election day
+      b89                Party interviewee would vote for if elections held today
+      b90                Second party choice if elections held today
+      b91                To what extent interviewee is sure who he will vote for in Knesset elections
+      b92                Party interviewee feels closest to
+      b93                When interviewee will decide whom to vote for
+      b94                Party interviewee thought of voting for before Lebanon crisis, after announcement of Aridor's economic plan
+      b95                As compared to one month ago, interviewee today knows more or less which party he will vote for
+      b96                Party interviewee would not vote for under any circumstances
+      b97                Party interviewee voted for in last Knesset elections (1977)
+      b98                Party interviewee voted for in 1973 Knesset elections
+      b99                Party interviewee voted for in 1969 Knesset elections
+      b100               Interviewee preference for Prime Minister after the elections
+      b101               Interviewee preference for Defense Minister after the elections
+      b102               Interviewee preference for Finance Minister after the elections
+      b103               Interviewee preference for Foreign Affairs Minister after the elections
+      b104               Party interviewee thinks will form next government
+      b105               To what extent interviewee wants to see the N.R.P. in the next government
+      b106               Which of the two big parties (Alignment or Likud) interviewee wants to see form the next government
+      b107               Interviewee reads campaign advertisements in the press
+      b108               To what extent advertisements influence interviewee's decision whom to vote for
+      b110               Interviewee evaluation of the election campaign
+      b111               Interviewee evaluation of the election campaign
+      b112               Interviewee evaluation of the election campaign
+      b113               Interviewee evaluation of the election campaign
+      b114               Interviewee evaluation of the election campaign
+      b115               Interviewee evaluation of the election campaign
+      b116               Interviewee evaluation of the election campaign
+      b117               Interviewee evaluation of the election campaign
+      b118               Interviewee evaluation of the election campaign
+      b119               Interviewee evaluation of the election campaign
+      b120               Interviewee evaluation of the election campaign
+      b121               Interviewee evaluation of the election campaign
+      b122               Alignment/Likud won in the last Histadrut elections
+      b123               Member of the General Federation of Workers(Histadrut Clalit)
+      b124               Party interviewee voted for in last Histadrut elections
+
+****    INTERVIEWEE EVALUATION OF THE STATE OF ISRAEL
+
+      b126               Interviewee evaluation of the state of Israel
+      b127               Interviewee evaluation of the state of Israel
+      b128               Interviewee evaluation of the state of Israel
+      b129               Interviewee evaluation of the state of Israel
+      b130               Interviewee evaluation of the state of Israel
+      b131               Interviewee evaluation of the state of Israel
+      b132               Interviewee evaluation of the state of Israel
+      b133               Interviewee evaluation of the state of Israel
+      b134               Interviewee evaluation of the state of Israel
+      b135               Interviewee evaluation of the state of Israel
+      b137               Age
+      b138               Sex
+      b139               Years of schooling
+      b140               Place of birth/ father's place of birth
+      b141               Year of immigration
+      b142               Status at work
+      b143               Social class
+      b144               Marital status
+      b145               To what extent interviewee observes religious traditions
+      b146               Travels on the Sabbath
+      b147               Eats only Kosher food
+      b148               Number of times interviewee goes to synagogue during the year
+      b149               Number of rooms in dwelling
+      b151               Number of persons in household
+      b152               Interviewee usually reads daily newspapers
+      b153               Interviewee usually reads daily newspapers
+      b154               Interviewee usually reads daily newspapers
+      b155               Radio station interviewee especially listens to
+      b156               Supports, is a member or paid functionary for a political party
+      b157               Political tendency interviewee identifies with
+      b158               Averatge monthly household expenditure
+      b159               Locality of interview
+      b160               Statistical area
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      b2                 General situation in Israel today
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  Not so good
+                  4  Not good
+                  5  Not good at all
+
+              Data type: numeric
+              Record/column: 1/5
+
+      b3                 Way government handles present problems in Israel
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Not so well
+                  4  Not well at all
+
+              Data type: numeric
+              Record/column: 1/6
+
+      b4                 Differences in parties' ability to deal with these problems
+
+              VALUE  LABEL
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences at all
+
+              Data type: numeric
+              Record/column: 1/7
+
+      b5                 Shimon Peres/Menachem Begin can better handle the nation's problems
+
+              VALUE  LABEL
+                  1  Peres
+                  2  Begin
+
+              Data type: numeric
+              Record/column: 1/8
+
+      b6                 Main problem government has to solve
+
+              VALUE  LABEL
+                  0  Other
+                  1  Security
+                  2  Economy
+                  3  Social inequality
+                  4  Peace
+                  5  Young couples
+                  6  Inflation
+                  7  Immigrant absorption
+                  8  Education
+                  9  Lack of leadership
+
+              Data type: numeric
+              Record/column: 1/9
+
+      b7                 Differences in party stands on security issues
+
+              VALUE  LABEL
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences at all
+
+              Data type: numeric
+              Record/column: 1/10
+
+      b8                 The importance of a Jewish majority in the State of Israel
+
+              VALUE  LABEL
+                  1  Very important
+                  2  Important
+                  3  Not important
+                  4  Absolutely not important
+
+              Data type: numeric
+              Record/column: 1/11
+
+      b9                 Interviewee agrees/disagrees that Judea and Samaria will have to be compromised in order to preserve the Jewish majority
+
+              VALUE  LABEL
+                  1  Absolutely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely disagrees
+
+              Data type: numeric
+              Record/column: 1/12
+
+      b10                In light of the large Arab population in Judea and Samaria,interviewee supports/does not support compromising these territories
+
+              VALUE  LABEL
+                  1  Supports compromising all of Jud.& Sam.
+                  2  Supports compromising a large part
+                  3  Supports compromising a small part
+                  4  Does not support compromising any part
+
+              Data type: numeric
+              Record/column: 1/13
+
+      b11                To what extent security issues will influence the coming Knesset election results
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/14
+
+      b12                To what extent security issues will influence interviewee's vote in coming Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/15
+
+      b13                Party best representing interviewee's position on security issues
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan's party
+                  4  National Religious Party
+                  5  Agudat Yisrael, A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  Unknown
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/16
+
+      b14                Haim Bar-Lev or Arik Sharon can better handle the nation's security problems
+
+              VALUE  LABEL
+                  1  Haim Bar-Lev
+                  2  Arik Sharon
+
+              Data type: numeric
+              Record/column: 1/17
+
+      b15                Way government handles the nation's economic problems
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Well enough
+                  4  Not so well
+                  5  Not well at all
+
+              Data type: numeric
+              Record/column: 1/18
+
+      b16                Party differences on economic issues
+
+              VALUE  LABEL
+                  1  Very big differences
+                  2  Big differences
+                  3  Certain differences
+                  4  Small differences
+                  5  Very small differences
+                  6  No differences at all
+
+              Data type: numeric
+              Record/column: 1/19
+
+      b17                Party best representing interviewee's position on economic issues
+
+              VALUE  LABEL
+                  0  Rakach
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan's party
+                  4  National Religious Party
+                  5  Agudat Yisrael, A.Y. Workers
+                  6  Shulamit Aloni
+                  7  Shinui
+                  8  Sheli
+                  9  Tehiya
+                  &  Unknown
+                  -  Other party
+
+              Data type: character
+              Record/column: 1/20
+
+      b18                Yoram Aridor or Haim Ben-Shachar can better handle the nation's economic problems
+
+              VALUE  LABEL
+                  1  Aridor
+                  2  Ben-Shachar
+
+              Data type: numeric
+              Record/column: 1/21
+
+      b19                To what extent Aridor's economic plan is clear to interviewee
+
+              VALUE  LABEL
+                  1  Very clear
+                  2  Clear
+                  3  Clear enough
+                  4  Not so clear
+                  5  Not clear
+                  6  Not clear at all
+
+              Data type: numeric
+              Record/column: 1/22
+
+      b20                To what extent Ben-Shachar's economic plan is clear to interviewee
+
+              VALUE  LABEL
+                  1  Very clear
+                  2  Clear
+                  3  Clear enough
+                  4  Not so clear
+                  5  Not clear
+                  6  Not clear at all
+
+              Data type: numeric
+              Record/column: 1/23
+
+      b21                To what extent Aridor's plan helps those like interviewee
+
+              VALUE  LABEL
+                  1  To a very great extet
+                  2  To a great extent
+                  3  To certain extent
+                  4  To a small extent
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/24
+
+      b22                To what extent Ben-Shachar's plan helps those like interviewee
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To a certain extent
+                  4  To a small extent
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/25
+
+      b23                To what extent Aridor's plan helps Israel's economy
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To a certain extent
+                  4  To a small extent
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/26
+
+      b24                To what extent Ben-Shachar's plan helps Israel's economy
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To a certain extent
+                  4  To a small extent
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/27
+
+      b25                To what extent Aridor's plan will influence the coming Knesset election results
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/28
+
+      b26                To what extent Aridor's plan will influence interviewee's vote
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/29
+
+      b27                Interviewee's position on economic issues
+
+              VALUE  LABEL
+                  1  Closer to Alignment's position
+                  2  Closer to Likud's position
+                  3  Closer to other party's position
+
+              Data type: numeric
+              Record/column: 1/30
+
+      b28                Interviewee's position on security and foreign affairs
+
+              VALUE  LABEL
+                  1  Closer to Alignment's position
+                  2  Closer to Likud's position
+                  3  Closer to other party's position
+
+              Data type: numeric
+              Record/column: 1/31
+
+      b29                Differences between parties lie in what they say and not in what they do
+
+              VALUE  LABEL
+                  1  Differences lie in what they say
+                  2  Differences lie in what they do
+                  3  Differences lie in both
+                  4  No differences between the two
+
+              Data type: numeric
+              Record/column: 1/32
+
+      b30                To what extent interviewee and friends can influence government policy
+
+              VALUE  LABEL
+                  1  To a very great extent
+                  2  To a great extent
+                  3  To a certain extent
+                  4  To a small extent
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/33
+
+      b32                Strong party
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/34
+
+      b33                Experienced party
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/35
+
+      b34                Modern, innovative party
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/36
+
+      b35                Young party
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/37
+
+      b36                Represents Ashenazim and Sepharadim
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+
+              Data type: numeric
+              Record/column: 1/38
+
+      b37                Mainly watches out for the citizens' interests
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/39
+
+      b38                Honest party
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/40
+
+      b39                Trustworthy party
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/41
+
+      b40                Party with experienced leaders
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Likud
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/42
+
+      b41                Ensures the nation's future
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/43
+
+      b42                Ensures a Jewish majority in Israel
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/44
+
+      b43                Contributed to the building of the country
+
+              VALUE  LABEL
+                  1  Suits Alignment much more than Likud
+                  2  Suits Alignment more than Likud
+                  3  Suits both parties equally
+                  4  Suits Likud more than Alignment
+                  5  Suits Likud much more than Alignment
+                  6  Does not suit either party
+
+              Data type: numeric
+              Record/column: 1/45
+
+      b44                The Likud is a hawkish or dovish party
+
+              VALUE  LABEL
+                  1  Hawkish to a great extent
+                  2  Hawkish
+                  3  Neither hawkish nor dovish
+                  4  Dovish
+                  5  Dovish to a great extent
+
+              Data type: numeric
+              Record/column: 1/46
+
+      b45                The Alignment is a hawkish or dovish party
+
+              VALUE  LABEL
+                  1  Hawkish to a great extent
+                  2  Hawkish
+                  3  Neither hawkish nor dovish
+                  4  Dovish
+                  5  Dovish to a great extent
+
+              Data type: numeric
+              Record/column: 1/47
+
+      b47                Menachem Begin
+
+              VALUE  LABEL
+                  1  Benefits the nation
+                  7  Harms the nation
+
+              Data type: numeric
+              Record/column: 1/48
+
+      b48                Menachem Begin
+
+              VALUE  LABEL
+                  1  Weighs his words carefully
+                  7  Does not weigh his words carefully
+
+              Data type: numeric
+              Record/column: 1/49
+
+      b49                Menachem Begin
+
+              VALUE  LABEL
+                  1  Stable
+                  7  Unstable
+
+              Data type: numeric
+              Record/column: 1/50
+
+      b50                Menachem Begin
+
+              VALUE  LABEL
+                  1  His time has passed
+                  7  His time has not passed
+
+              Data type: numeric
+              Record/column: 1/51
+
+      b51                Menachem Begin
+
+              VALUE  LABEL
+                  1  A bad prime minister
+                  7  An excellent prime minister
+
+              Data type: numeric
+              Record/column: 1/52
+
+      b52                Menachem Begin
+
+              VALUE  LABEL
+                  1  A bad defense minister
+                  7  An excellent prime minister
+
+              Data type: numeric
+              Record/column: 1/53
+
+      b53                Menachem Begin
+
+              VALUE  LABEL
+                  1  Moody
+                  7  Not moody
+
+              Data type: numeric
+              Record/column: 1/54
+
+      b54                Menachem Begin
+
+              VALUE  LABEL
+                  1  Health is incapacitating
+                  7  Health is not incapacitating
+
+              Data type: numeric
+              Record/column: 1/55
+
+      b55                Menachem Begin
+
+              VALUE  LABEL
+                  1  Adventurer
+                  7  Balanced and sensible
+
+              Data type: numeric
+              Record/column: 1/56
+
+      b56                Menachem Begin
+
+              VALUE  LABEL
+                  1  Belongs in opposition
+                  7  Belongs in government
+
+              Data type: numeric
+              Record/column: 1/57
+
+      b57                It is the obligation of all the Jews to immigrate to Israel
+
+              VALUE  LABEL
+                  1  Definitely an obligation
+                  2  It would help if all Jews immigrate
+                  3  No obligation as such exists
+                  4  Not desirable for all Jews to immigrate
+
+              Data type: numeric
+              Record/column: 1/58
+
+      b58                Separation of religion and state
+
+              VALUE  LABEL
+                  1  Definitely should not be separated
+                  2  Not sure, should not be separated
+                  3  Not sure, should be separated
+                  4  Definitely should be separated
+
+              Data type: numeric
+              Record/column: 1/59
+
+      b59                Personal interests or the nation's interest should be more important to the citizen
+
+              VALUE  LABEL
+                  1  National interests much more important
+                  2  National interests more important
+                  3  Both are equally important
+                  4  Personal interests more important
+                  5  Personal interests much more important
+
+              Data type: numeric
+              Record/column: 1/60
+
+      b61                Interviewee's situation today
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/61
+
+      b62                Interviewee's situation 4 years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/62
+
+      b63                Interviewee's situation in another 4 years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/63
+
+      b65                Nation's security today
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/64
+
+      b66                Nation's security 4 years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/65
+
+      b67                Nation's security in another 4 years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/66
+
+      b69                Nation's foreign relations today
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/67
+
+      b70                Nation's foreign relations 4 years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/68
+
+      b71                Nation's foreign relations in another 4 years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/69
+
+      b73                Nation's economy today
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/70
+
+      b74                Nation's economy 4 years ago
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/71
+
+      b75                Nation's economy in another 4 years
+
+              VALUE  LABEL
+                  1  Best
+                 10  Worst
+
+              Data type: numeric
+              Record/column: 1/72
+
+      b76                Main differences between left and right wings in politics
+
+              Data type: character
+              Record/columns: 1/73-75
+
+      b77                The definitions left and right in politics have meaning in Israel today
+
+              VALUE  LABEL
+                  1  Certainly yes
+                  2  Thinks so
+                  3  Not so much
+                  4  Does not think so
+                  5  Certainly not
+
+              Data type: numeric
+              Record/column: 1/76
+
+      b80                Interviewee's gereral rating
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/82
+
+      b81                Interviewee's position on security issues
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/83
+
+      b82                Interviewee's attitude towards foreign policy
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/84
+
+      b83                Interviewee's position on economic problems and issues
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/85
+
+      b84                Interviewee reads results of opinion surveys on elections in the newspaper
+
+              VALUE  LABEL
+                  1  Often
+                  2  Seldom
+                  3  Never
+                  4  Has not heard of opinion surveys
+
+              Data type: numeric
+              Record/column: 1/86
+
+      b85                Opinion surveys can be trusted
+
+              VALUE  LABEL
+                  1  Yes, always
+                  2  Yes, usually
+                  3  Usually not
+                  4  Never
+                  5  Has not heard of election surveys
+
+              Data type: numeric
+              Record/column: 1/87
+
+      b86                Election surveys have an impact on the voting public
+
+              VALUE  LABEL
+                  1  Great impact
+                  2  Certain impact
+                  3  Small impact
+                  4  No impact
+                  5  Has not heard of election surveys
+
+              Data type: numeric
+              Record/column: 1/88
+
+      b87                Election surveys have an impact on politicians
+
+              VALUE  LABEL
+                  1  Great impact
+                  2  Certain impact
+                  3  Small impact
+                  4  No impact
+                  5  Has not heard of election surveys
+
+              Data type: numeric
+              Record/column: 1/89
+
+      b88                Interviewee plans to be abroad in summer/will be in Israel on election day
+
+              VALUE  LABEL
+                  1  Will not be abroad
+                  2  Will be abroad, but in Israel for elec.
+                  3  Will be abroad, not in Israel for elec.
+
+              Data type: numeric
+              Record/column: 1/90
+
+      b89                Party interviewee would vote for if elections held today
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Independent Liberals
+                  4  National Religious Party
+                  5  Agudat Israel-Poalei Agudat Israel
+                  6  Sheli
+                  7  RatzTelem, Moshe Dayan's list
+                  8  Shinui
+                  9  Independent Liberals
+                 10  Tehiya
+                 11  Abu Hatzira's list
+                 12  Rakah
+                 13  Shmuel Flatto Sharon
+                 14  An ethnic party
+                 15  Other party
+                 16  Would cast a blank ballot
+                 17  Undecided
+                 18  Would not vote
+                 19  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/91-92
+
+      b90                Second party choice if elections held today
+
+              VALUE  LABEL
+                  0  Other party
+                  1  Alignment
+                  2  Likud
+                  3  National Religious Party
+                  4  Agudat Yisrael/A.Y.Workers
+                  5  Moshe Dayan's party
+                  6  Shinui
+                  7  Tehiya
+                  8  Abu Hatzeira's party
+                  9  Shulamit Aloni (Ratz)
+                  &  Would not vote
+                  -  Undecided
+
+              Data type: character
+              Record/column: 1/93
+
+      b91                To what extent interviewee is sure who he will vote for in Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/94
+
+      b92                Party interviewee feels closest to
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayan party
+                  4  National Religious Party
+                  5  Shinui/Ratz
+                  6  Other party
+                  7  No party, will not vote
+                  8  Undecided
+                  9  Refuses to answer
+
+              Data type: numeric
+              Record/column: 1/95
+
+      b93                When interviewee will decide whom to vote for
+
+              VALUE  LABEL
+                  1  One day before the elections
+                  2  A few days before the elections
+                  3  Two weeks before the elections
+                  4  3 weeks before the elections
+                  5  In the next few days
+                  6  Does not know
+
+              Data type: numeric
+              Record/column: 1/96
+
+      b94                Party interviewee thought of voting for before Lebanon crisis, after announcement of Aridor's economic plan
+
+              VALUE  LABEL
+                  0  Other party
+                  1  Alignment
+                  2  Likud
+                  3  National Religious Party
+                  4  Agudat Yisrael/A.Y. Workers
+                  5  Moshe Dayan party
+                  6  Shinui
+                  7  Tehiya
+                  8  Sheli
+                  9  Shulamit Aloni (Ratz)
+                  &  Was not going to vote
+                  -  Undecided
+
+              Data type: character
+              Record/column: 1/97
+
+      b95                As compared to one month ago, interviewee today knows more or less which party he will vote for
+
+              VALUE  LABEL
+                  1  More
+                  2  Less
+                  3  Same
+                  4  Does not know
+
+              Data type: numeric
+              Record/column: 1/98
+
+      b96                Party interviewee would not vote for under any circumstances
+
+              VALUE  LABEL
+                  0  Other party
+                  1  Alignment
+                  2  Likud
+                  3  National Religious Party
+                  4  Agudat Yisrael/A.Y. Workers
+                  5  Moshe Dayan party
+                  6  Shinui
+                  7  Tehiya
+                  8  Sheli
+                  9  Ratz
+                  -  Does not know
+
+              Data type: character
+              Record/column: 1/99
+
+      b97                Party interviewee voted for in last Knesset elections (1977)
+
+              VALUE  LABEL
+                  0  Did not vote - eligible
+                  1  Alignment
+                  2  Likud, incl. Shlomzion
+                  3  National Religious Party
+                  4  Agudat Yisrael/A.Y. Workers
+                  5  Democratic Movement for Change
+                  6  Sheli
+                  7  Ratz
+                  8  Independent Liberals
+                  9  Other party
+                  &  Refuses to answer
+                  -  Not eligible to vote
+
+              Data type: character
+              Record/column: 1/100
+
+      b98                Party interviewee voted for in 1973 Knesset elections
+
+              VALUE  LABEL
+                  0  Did not vote - eligible
+                  1  Alignment
+                  2  Likud
+                  3  National Religious Party
+                  4  Agudat Yisrael/A.Y. Workers
+                  5  Independent Liberals
+                  6  Moked
+                  7  Ratz
+                  8  Meri
+                  9  Other party
+                  &  Refuses to answer
+                  -  Not eligible to vote
+
+              Data type: character
+              Record/column: 1/101
+
+      b99                Party interviewee voted for in 1969 Knesset elections
+
+              VALUE  LABEL
+                  0  Refuses to answer
+                  1  Alignment
+                  2  Herut-Liberals Block
+                  3  National Religious Party
+                  4  Agudat Yisrael/A.Y. Workers
+                  5  Independent Liberals
+                  6  Reshima Mamlachtit
+                  7  Other party
+                  8  Did not vote - eligible to vote
+                  9  Not eligible to vote
+
+              Data type: numeric
+              Record/column: 1/102
+
+      b100               Interviewee preference for Prime Minister after the elections
+
+              VALUE  LABEL
+                  1  Yitzhak Rabin
+                  2  Menachem Begin
+                  3  Shimon Peres
+                  4  Moshe Dayan
+                  5  Yitzhak Shamir
+                  6  Ezer Weizman
+                  7  David Levy
+                  8  Arik Sharon
+                  9  Abba Eban
+
+              Data type: numeric
+              Record/column: 1/103
+
+      b101               Interviewee preference for Defense Minister after the elections
+
+              VALUE  LABEL
+                  1  Yitzhak Rabin
+                  2  Menachem Begin
+                  3  Shimon Peres
+                  4  Moshe Dayan
+                  5  Ezer Weizman
+                  6  Haim Bar-Lev
+                  7  Arik Sharon
+                  8  Motta Gur
+
+              Data type: numeric
+              Record/column: 1/104
+
+      b102               Interviewee preference for Finance Minister after the elections
+
+              VALUE  LABEL
+                  1  Yaacov Levinson
+                  2  Gad Yaacobi
+                  3  Yoram Aridor
+                  4  Haim Ben-Shachar
+                  5  Naphtali Blumenthal
+                  6  Yigal Horowitz
+                  7  Simcha Erlich
+                  8  Yitzhak Modai
+                  9  Gideon Pat
+
+              Data type: numeric
+              Record/column: 1/105
+
+      b103               Interviewee preference for Foreign Affairs Minister after the elections
+
+              VALUE  LABEL
+                  1  Yosef Burg
+                  2  Abba Eban
+                  3  Yitzhak Rabin
+                  4  Moshe Dayan
+                  5  Yitzhak Shamir
+                  6  Haim Herzog
+                  7  Yitzhak Modai
+                  8  Moshe Arens
+
+              Data type: numeric
+              Record/column: 1/106
+
+      b104               Party interviewee thinks will form next government
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Moshe Dayans Party
+                  4  National Religious Party
+                  5  Agudat Yisrael/A.Y. Workers
+                  6  Ratz
+                  7  Shinui
+                  8  Sheli
+                  9  Other party
+
+              Data type: numeric
+              Record/column: 1/107
+
+      b105               To what extent interviewee wants to see the N.R.P. in the next government
+
+              VALUE  LABEL
+                  1  Definitely not
+                  2  Not so much
+                  3  To a certain extent
+                  4  Definitely yes
+
+              Data type: numeric
+              Record/column: 1/108
+
+      b106               Which of the two big parties (Alignment or Likud) interviewee wants to see form the next government
+
+              VALUE  LABEL
+                  1  Likud to a great extent
+                  2  Likud to a certain extent
+                  3  Does not matter
+                  4  Alignment to a certain extent
+                  5  Alignment to a great extent
+
+              Data type: numeric
+              Record/column: 1/109
+
+      b107               Interviewee reads campaign advertisements in the press
+
+              VALUE  LABEL
+                  1  Reads them often
+                  2  Reads them once in a while
+                  3  Never reads them
+
+              Data type: numeric
+              Record/column: 1/110
+
+      b108               To what extent advertisements influence interviewee's decision whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Almost none
+                  5  Not at all
+
+              Data type: numeric
+              Record/column: 1/111
+
+      b110               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Positive
+                  7  Negative
+
+              Data type: numeric
+              Record/column: 1/112
+
+      b111               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Short
+                  7  Long
+
+              Data type: numeric
+              Record/column: 1/113
+
+      b112               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Educational
+                  7  Non-educational
+
+              Data type: numeric
+              Record/column: 1/114
+
+      b113               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Helps decide whom to vote for
+                  7  Does not help decide whom to vote for
+
+              Data type: numeric
+              Record/column: 1/115
+
+      b114               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Helps to understand national problems
+                  7  Does not help to understand national problems
+
+              Data type: numeric
+              Record/column: 1/116
+
+      b115               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Helps differentiate between parties
+                  7  Does not help differentiate between parties
+
+              Data type: numeric
+              Record/column: 1/117
+
+      b116               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Unifies the nation
+                  7  Dissloves the nation
+
+              Data type: numeric
+              Record/column: 1/118
+
+      b117               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Helps get to know leaders
+                  7  Does not help get to know leaders
+
+              Data type: numeric
+              Record/column: 1/119
+
+      b118               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Gives a feeling of belonging to the state
+                  7  Does not give a feeling of belonging to the state
+
+              Data type: numeric
+              Record/column: 1/120
+
+      b119               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Wasteful
+                  7  Worth the investment
+
+              Data type: numeric
+              Record/column: 1/121
+
+      b120               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Crucial
+                  7  Does not change much
+
+              Data type: numeric
+              Record/column: 1/122
+
+      b121               Interviewee evaluation of the election campaign
+
+              VALUE  LABEL
+                  1  Important
+                  7  Unimportant
+
+              Data type: numeric
+              Record/column: 1/123
+
+      b122               Alignment/Likud won in the last Histadrut elections
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Both parties
+                  4  Neither party
+
+              Data type: numeric
+              Record/column: 1/124
+
+      b123               Member of the General Federation of Workers(Histadrut Clalit)
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/125
+
+      b124               Party interviewee voted for in last Histadrut elections
+
+              VALUE  LABEL
+                  1  Alignment
+                  2  Likud
+                  3  Shinui
+                  4  Sheli
+                  5  Independent Liberals
+                  6  Rakach - Hadash
+                  7  Other party
+                  8  Did not vote, Histadrut member
+                  9  Refuses to answer
+
+              Data type: numeric
+              Record/column: 1/126
+
+      b126               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/127
+
+      b127               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  Gives hope
+                  7  Causes despair
+
+              Data type: numeric
+              Record/column: 1/128
+
+      b128               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  Just
+                  7  Unjust
+
+              Data type: numeric
+              Record/column: 1/129
+
+      b129               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  The place interviewee wants to live in
+                  7  Not the place interviewee wants to live in
+
+              Data type: numeric
+              Record/column: 1/130
+
+      b130               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  The place all Jews should immigrate to
+                  7  Not the place all Jews should immigrate to
+
+              Data type: numeric
+              Record/column: 1/131
+
+      b131               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  Democratic
+                  7  Undemocratic
+
+              Data type: numeric
+              Record/column: 1/132
+
+      b132               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  A state with social justice
+                  7  A state without social justice
+
+              Data type: numeric
+              Record/column: 1/133
+
+      b133               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  Ready to live in peace with the Arab countries
+                  7  Not ready to live in peace with the Arab countries
+
+              Data type: numeric
+              Record/column: 1/134
+
+      b134               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  Peacemaker
+                  7  War monger
+
+              Data type: numeric
+              Record/column: 1/135
+
+      b135               Interviewee evaluation of the state of Israel
+
+              VALUE  LABEL
+                  1  The realization of the Zionist dream
+                  7  Not the realization of the Zionist dream
+
+              Data type: numeric
+              Record/column: 1/136
+
+      b137               Age
+
+              Data type: numeric
+              Record/columns: 1/143-144
+
+      b138               Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/145
+
+      b139               Years of schooling
+
+              VALUE  LABEL
+                  1  Did not study
+                  2  Up tp 4 years
+                  3  5-8
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+, without academic degree
+                  8  Full university education
+
+              Data type: numeric
+              Record/column: 1/146
+
+      b140               Place of birth/ father's place of birth
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/147
+
+      b141               Year of immigration
+
+              VALUE  LABEL
+                  1  Born in Israel
+                  2  Before 1948
+                  3  1948-1954
+                  4  1955-1960
+                  5  1961-1966
+                  6  1967-1972
+                  7  1973-1977
+                  8  1978-1979
+                  9  1980+
+
+              Data type: numeric
+              Record/column: 1/148
+
+      b142               Status at work
+
+              VALUE  LABEL
+                  1  Salaried worker
+                  2  Independent
+                  3  Member of cooperative
+                  4  Pensioned
+                  5  Housewife
+                  6  Student, soldier
+                  7  Unemployed
+
+              Data type: numeric
+              Record/column: 1/149
+
+      b143               Social class
+
+              VALUE  LABEL
+                  1  Upper-middle, upper class
+                  2  Middle class
+                  3  Working class
+                  4  Lower class
+                  5  Does not belong to any class
+
+              Data type: numeric
+              Record/column: 1/150
+
+      b144               Marital status
+
+              VALUE  LABEL
+                  1  Single
+                  2  Married without children
+                  3  Married with one child
+                  4  Married with 2 children
+                  5  Married with 3+ children
+                  6  Divorced without children
+                  7  Divorced with children
+                  8  Widowed without children
+                  9  Widowed with children
+
+              Data type: numeric
+              Record/column: 1/151
+
+      b145               To what extent interviewee observes religious traditions
+
+              VALUE  LABEL
+                  1  Observes them strictly
+                  2  Observes them to a great extent
+                  3  Observes some of the traditions
+                  4  Does not observe them at all, secular
+
+              Data type: numeric
+              Record/column: 1/152
+
+      b146               Travels on the Sabbath
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/153
+
+      b147               Eats only Kosher food
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/154
+
+      b148               Number of times interviewee goes to synagogue during the year
+
+              VALUE  LABEL
+                  1  Every day
+                  2  Almost every Sabbath and holiday
+                  3  A few times
+                  4  Only on Yom Kippur
+                  5  Never
+
+              Data type: numeric
+              Record/column: 1/155
+
+      b149               Number of rooms in dwelling
+
+              VALUE  LABEL
+                  1  One room
+                  2  2
+                  3  3
+                  4  4
+                  5  5
+                  6  6
+                  7  7
+                  8  8
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/156
+
+      b151               Number of persons in household
+
+              VALUE  LABEL
+                  1  One person
+                  2  2
+                  3  3
+                  4  4
+                  5  5
+                  6  6
+                  7  7
+                  8  8
+                  9  9+
+
+              Data type: numeric
+              Record/column: 1/162
+
+      b152               Interviewee usually reads daily newspapers
+
+              VALUE  LABEL
+                  1  Ma'ariv
+                  2  Yedioth Aharonoth
+                  3  Ha'aretz
+                  4  Davar
+                  5  Other Hebrew newspaper
+                  6  Foreign language newspaper
+                  7  Does not usually read daily newspaper
+
+              Data type: numeric
+              Record/column: 1/163
+
+      b153               Interviewee usually reads daily newspapers
+
+              VALUE  LABEL
+                  1  Ma'ariv
+                  2  Yedioth Aharonoth
+                  3  Ha'aretz
+                  4  Davar
+                  5  Other Hebrew newspaper
+                  6  Foreign language newspaper
+                  7  Does not usually read daily newspaper
+
+              Data type: numeric
+              Record/column: 1/164
+
+      b154               Interviewee usually reads daily newspapers
+
+              VALUE  LABEL
+                  1  Ma'ariv
+                  2  Yedioth Aharonoth
+                  3  Ha'aretz
+                  4  Davar
+                  5  Other Hebrew newspaper
+                  6  Foreign language newspaper
+                  7  Does not usually read daily newspaper
+
+              Data type: numeric
+              Record/column: 1/165
+
+      b155               Radio station interviewee especially listens to
+
+              VALUE  LABEL
+                  1  HaGal HaKal
+                  2  Reshet Gimel
+                  3  Galei Tzahal
+                  4  Reshet Aleph
+                  5  Kol HaShalom
+                  6  Does not listen to the radio
+
+              Data type: numeric
+              Record/column: 1/166
+
+      b156               Supports, is a member or paid functionary for a political party
+
+              VALUE  LABEL
+                  1  Member and paid functionary
+                  2  Member, unpaid functionary
+                  3  Member, no function
+                  4  Supports only
+                  5  Does not support any specific party
+
+              Data type: numeric
+              Record/column: 1/167
+
+      b157               Political tendency interviewee identifies with
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious
+                  7  Does not identify with any tendency
+
+              Data type: numeric
+              Record/column: 1/168
+
+      b158               Averatge monthly household expenditure
+
+              VALUE  LABEL
+                  0  7001+
+                  1  Up to 1000 Shekels
+                  2  1001-1500
+                  3  1501-2000
+                  4  2001-2500
+                  5  2501-3000
+                  6  3001-4000
+                  7  4001-5000
+                  8  5001-6000
+                  9  6001-7000
+
+              Data type: numeric
+              Record/column: 1/169
+
+      b159               Locality of interview
+
+              VALUE  LABEL
+                  1  Tel-Aviv
+                  2  Jerusalem
+                  3  Haifa
+                  4  Beer Sheva
+                  5  Ramat Gan
+                  6  Bnei Braq
+                  7  Hertzliya
+                  8  Holon
+                  9  Petah Tikva
+                 10  Netania
+                 11  Rishon Le-Tzion
+                 12  Pardes Hana
+                 13  Tiberia
+                 14  Ramla
+                 15  Ashdod
+                 16  Acco
+                 17  Yavne
+                 18  Rosh Ha-Ain
+                 19  Raanana
+                 20  Qiryat Yam
+                 21  Afula
+                 22  Beit Shean
+                 23  Beit Shemesh
+                 24  Dimona
+                 25  Kefar Biyalik
+                 26  Avital
+                 27  Mavo Beitar
+                 28  Shaar Efraim
+                 29  Neve Yerek
+                 30  Gilat
+
+              Data type: numeric
+              Record/columns: 1/170-171
+
+      b160               Statistical area
+
+              Data type: numeric
+              Record/columns: 1/172-173
+
+      

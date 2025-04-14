@@ -1,0 +1,2530 @@
+
+                                                           CODEBOOK
+
+
+                                                     Election Study 1996 (Jews)
+
+                                                           CONTENTS
+
+      c6                 General situation of Israel today
+      c7                 Way the government handles national problems
+      c8                 Main problem the government has to handle
+      c10                Candidate most capable of handling this problem
+      c11                Party most capable of handling this problem
+      c13                Israel's present national security
+      c14                Israel's national security 5 years ago
+      c15                Israel's national security in 5 years
+      c16                Chances for advancing peace in 3 years with Arab countries
+      c17                Chances for war with Arabs in 3 years
+      c18                Should Israel return territories for peace?
+      c19                Religious law vs. democracy
+      c20                Should peace process stop at the risk of war?
+      c21                % of Israelis willing to concede territories
+      c23                Public attitude on territories in 1-2 years
+      c24                Should civil rights be restricted?
+      c25                Separation between Israelis and Palestinians in territories
+      c26                Is P.L.O. capable of fighting terror?
+      c27                Attitude towards the Oslo Agreements
+      c28                Effect of 2nd Oslo Agree. on national security
+      c29                Effect of peace process on personal security
+      c30                Should negotiation with P.L.O. be stopped? Because of the continuance of terrorism
+      c31                Evacuating Jewish settlements in territories
+      c32                Most Palestinians really want peace- true?
+      c34                Will a peace contact end the conflict?
+      c35                Establishment of a Palestinian state
+      c36                % of Israelis who accept a Palestinian state
+      c38                Attitude towards a Palestinian state in 2 years
+      c39                Should Arabs be encouraged to leave the country?
+      c40                Evaluation of Arab goals
+      c41                To prevent war, Israel should…
+      c42                Worry of attacks by Arabs in everyday life
+      c43                Palestinian state be established in 10 years?
+      c44                R's preferred solution for the territories
+      c45                Projection of the future solution of territ.
+      c46                Should Israel concede parts of the Golan H.?
+      c47                Will Golan Heights be conceded in 10 years?
+      c48                The most important value among the 4 suggested
+      c49                The second value among the 4 suggested
+      c50                The third value among the 4 suggested
+      c51                The fourth value among the 4 suggested
+      c52                National security vs. Rule of law
+      c53                Possibility of a civil war over the territ.
+      c58                Sympathy for Labour party
+      c59                Sympathy for Likud party
+      c60                Sympathy for the Judea, Samaria Gaza council
+      c61                Sympathy for Meretz party
+      c62                Sympathy for Religious persons
+      c63                Sympathy for Arabs
+      c64                Sympathy for The Islamic movement
+      c65                Sympathy for Yasser Arafat
+      c66                Sympathy for Yitzhak Rabin
+      c67                Sympathy for Binyamin Netanyahu
+      c68                Sympathy for Shimon Peres
+      c69                Left or right self-placement on a 1-7 scale
+      c70                Economic approach
+      c71                Arabs participation in national decisions
+      c72                Major reason for choosing a candidate for PM
+
+****    DIFFERENCES BETWEEN LABOUR-LIKUD (on a 1-5 scale)
+
+      c73                Differences between Labor-Likud on: Jerusalem
+      c74                Differences between Labor-Likud on: Economy
+      c75                Differences between Labor-Likud on: Peace and the territories
+      c76                Differences between Labor-Likud on: Terrorism
+
+****    EFFECT OF THE FOLLOWING ISSUES ON VOTE FOR PM
+
+      cc6                Effect on vote for PM: Jerusalem
+      cc7                Effect on vote for PM: Economy
+      cc8                Effect on vote for PM: Peace, Territories
+      cc9                Effect on vote for PM: Terrorism
+      cc10               Effect on vote for PM: Rabin's assassination
+      cc11               Effect on vote for PM: 'Grapes of wrath' operation
+      cc12               Effect on vote for Knesset: Jerusalem
+
+****    EFFECT OF FOLLOWING ISSUES ON VOTE FOR KNESSET
+
+      cc13               Effect on vote for Knesset: Economy
+      cc14               Effect on vote for Knesset: Peace, Territories
+      cc15               Effect on vote for Knesset: Terrorism
+      cc16               Effect on vote for Knesset: Rabin's assassination
+      cc17               Effect on vote for Knesset: 'Grapes of wrath' operation
+      cc19               Closer to Likud/Labor: Jerusalem
+
+****    CLOSER TO LIKUD/LABOR ON THE FOLLOWING ISSUES
+
+      cc20               Closer to Likud/Labor: Economy
+      cc21               Closer to Likud/Labor: Peace, Territories
+      cc22               Closer to Likud/Labor: Terrorism
+      cc23               Party most capable of handling economic issues
+      cc24               Party most capable of handling foreign affairs and security problems
+      cc25               Major factor in voting for a party
+      cc27               Attitude towards raising taxes
+
+****    SHOULD THE GOVERNMENT SPEND MORE/LESS ON?
+
+      cc28               Should the government spen more/less on:Education
+      cc29               Should the government spen more/less on:Ecology and Environment
+      cc30               Should the government spen more/less on:Religious institutions
+      cc31               Should the government spen more/less on:Health
+      cc32               Should the government spen more/less on:Security
+      cc33               Should the government spen more/less on:Immigration
+      cc34               Should the government spen more/less on:Support for the unemployed
+      cc35               Should the government spen more/less on:Settlements in the territories
+      cc36               Should the government spen more/less on:Arab population
+      cc37               Should the government spen more/less on:Supplying jobs
+      cc38               Should the government spen more/less on:Transportation/car accidents
+      cc39               Social-economic equality is insufficient
+      cc40               Ethnic discrimination in Israel today
+      cc41               Personal experience with ethnic discrimination
+      cc44               National vs. citizens' personal interests
+      cc45               Frequency of discussing politics with friends/family
+      cc46               Does your family vote like you?
+      cc48               Civilians ability to influence government is…
+      cc49               Should life be conducted by religious law?
+      cc50               Ensure a Jewish majority
+
+****    WHICH PARTY SUITS EACH OF THESE DESCRIPTIONS?
+
+      cc51               Stand firm in a peace negotiations
+      cc52               Maintain the democratic regime
+      cc53               Lead to true peace with the Arabs
+      cc54               Effectively deal with terrorism
+      cc55               Narrow the ethnic gap
+      cc56               Lead to separation between Israel-Palestinians
+      cc57               Corrupted
+      cc58               Has experienced leaders
+      cc59               Maintain good relations with the U.S.
+      cc60               Narrow social gaps
+      cc61               Current personal situation
+      cc62               Personal situation 5 years ago
+      cc63               Evaluating personal situation in 5 years
+
+****    WHICH PM CANDID. BEST SUITS EACH DESCRIPTION?
+
+      cc64               Leadership ability
+      cc65               Powerful
+      cc66               Reliable
+      cc67               Decisive
+      cc68               Prefers the good of the country over the good of his own party
+      cc69               Experienced
+      cc70               Initiative and creative
+      cc71               Good negotiator
+      cc72               Resistant to pressures
+      cc73               Can Israel achieve Jewish majority,Greater Israel,maintain democratic regime,Peace?
+      cc74               Frequency of reading a daily newspaper
+      cc76               Interest in election polls
+      ccc6               Belief in election polls
+      ccc7               Believe that election polls influence voting
+      ccc8               Forbid publication of election polls?
+      ccc9               Frequency of watching election ads on TV
+      ccc10              Will election ads influence your vote?
+      ccc11              Full retreat from the Golan H. for peace
+      ccc12              % of Israelis agreeing to return the Golan H.
+      ccc14              Future attitude on conceding the Golan H.
+      ccc15              National- unity government after the elections
+      ccc16              Participated in demonstrations for peace during last 2 years?
+      ccc17              Participated in demonstrations after Rabin's assassination in last 2 years?
+      ccc19              The direct election of the PM brings about…
+      ccc20              Inclusion of Arab parties in the government
+      ccc21              The primaries bring about…
+      ccc22              Voted in primaries?
+      ccc23              Vote for party, if elections were held today
+      ccc27              Would vote for Likud, Tzomet or Gesger?
+      ccc28              Vote for PM, if elections were held today
+      ccc29              Reasons for not voting/ voting a blank ballot
+      ccc30              Reasons for not voting/ voting a blank ballot
+      ccc31              Reasons for not voting/ voting a blank ballot
+      ccc32              Reasons for not voting/ voting a blank ballot
+      ccc33              Vote for party if the old election's method still existed today
+      ccc35              Candidate who will win the PM's elections
+      ccc36              Party that will be biggest in next Knesset
+      ccc37              Vote for party in last elections (1992)
+      ccc39              Vote for party in 1988
+      ccc41              Vote in previous Histadrut elections
+      ccc42              Personal connections with Arabs
+      ccc44              Interview by TV
+      ccc45              Political activity in any of the parties
+      ccc46              Political tendency
+      ccc47              Self- Identification
+      ccc48              The second label to self-Identification
+      ccc49              The third label to self-Identification
+      ccc50              The forth label to self-Identification
+
+****    PERSONAL DATA
+
+      ccc55              Ethnic self definition
+      ccc56              Sex
+      ccc57              Age
+      ccc59              Continent of birth /of birth of father
+      ccc61              Year of immigration
+      ccc63              Total years of schooling
+      ccc65              Number of rooms in apartment
+      ccc67              Number of persons in household
+      ccc69              Military service in the territories
+      ccc70              Obedience to Jewish religious tradition
+      ccc71              Works outside household?
+      ccc72              Status at work
+      ccc73              Social class
+      ccc74              Monthly family expenditures
+
+****    PREFERENCE FOR PARTIES
+
+      cccc6              The name of the party(1)
+      cccc8              The name of the party(2)
+      cccc10             The name of the party(3)
+      cccc12             The name of the party(4)
+      cccc14             Most preferred party
+      cccc16             The second most preferred party
+      cccc18             The third most preferred party
+      cccc20             Least preferred party
+      cccc22             The second least-preferred party
+      cccc24             The third least-preferred party
+      cccc26             Date of interview
+      cccc28             Code of locality
+      cccc41             Interview group
+      sephashk           Ethnic group
+
+=========================================================================================
+
+      c6                 General situation of Israel today
+
+              VALUE  LABEL
+                  1  Very good
+                  2  Good
+                  3  So-so
+                  4  Not good
+                  5  Bad
+                  6  Very bad
+
+              Data type: numeric
+              Record/column: 1/1
+
+      c7                 Way the government handles national problems
+
+              VALUE  LABEL
+                  1  Very well
+                  2  Well
+                  3  Not so well
+                  4  Badly
+
+              Data type: numeric
+              Record/column: 1/2
+
+      c8                 Main problem the government has to handle
+
+              VALUE  LABEL
+                 01  Security and terrorism in general
+                 02  Economy
+                 03  Peace process
+                 04  Occupied territories/Palestinian problem
+                 05  “Histadrut” organization
+                 06  Golan Heights
+                 07  Housing
+                 08  Domestic disputes
+                 09  Social affairs (Unemployment, Poverty, Veterans)
+                 10  Preserving the consistency of government policy
+                 11  Settlements
+                 12  Mistaken government policy
+                 13  Car accidents (Public transportation)
+                 14  Discharged soldiers/ Military
+                 15  Immigration (Ethiopia, USSR)
+                 16  Education
+                 17  Iranian threat
+                 18  Domestic security
+                 19  Foreign issues
+                 20  Security and peace
+                 21  Social-Economic issues
+                 22  Jerusalem
+                 23  Israeli Arabs
+                 24  Coalitions and Concessions to Orthodoxy
+                 25  Absentees
+                 26  Health
+                 27  Realizing Zionism,Jewish bond,Love of the land,Assimilation
+                 28  Security of Northern border and Lebanon
+                 29  Religious coercion
+                 30  Corrupted administration
+                 31  Foreign workers
+                 32  Environment
+                 33  Arabs
+                 34  Education against Violence
+                 97  Other
+                 98  More than one problem
+                 99  Don't Know/None
+
+              Data type: numeric
+              Record/columns: 1/3-4
+
+      c10                Candidate most capable of handling this problem
+
+              VALUE  LABEL
+                  1  Nethanyahu
+                  2  Peres
+                  3  None of them
+                  4  Equally capable
+
+              Data type: numeric
+              Record/column: 1/5
+
+      c11                Party most capable of handling this problem
+
+              VALUE  LABEL
+                  1  Likud-Tzomet-Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal(National Religious Party)
+                  5  Agudat Israel & Degel HaTora
+                  6  Moledet (Homeland)
+                  7  HaDerech Hashlishit
+                  8  Shas (Sefaradi Tora Guardians)
+                  9  Immigrants party/Israel BaAliya
+                 10  Hadash+The National Democr.Alliance
+                 11  United Arab List
+                 12  Arab Movement for Renewal
+                 13  Progressive Alliance
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  Do not know
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/6-7
+
+      c13                Israel's present national security
+
+              VALUE  LABEL
+                  1  Very bad
+                  9  Very good
+
+              Data type: numeric
+              Record/column: 1/8
+
+      c14                Israel's national security 5 years ago
+
+              VALUE  LABEL
+                  1  Very bad
+                  9  Very good
+
+              Data type: numeric
+              Record/column: 1/9
+
+      c15                Israel's national security in 5 years
+
+              VALUE  LABEL
+                  1  Very bad
+                  9  Very good
+
+              Data type: numeric
+              Record/column: 1/10
+
+      c16                Chances for advancing peace in 3 years with Arab countries
+
+              VALUE  LABEL
+                  1  Good chances
+                  2  Fair chances
+                  3  Poor chances
+                  4  Very poor chances
+
+              Data type: numeric
+              Record/column: 1/11
+
+      c17                Chances for war with Arabs in 3 years
+
+              VALUE  LABEL
+                  1  Good chances
+                  2  Fair chances
+                  3  poor chances
+                  4  Very poor chances
+
+              Data type: numeric
+              Record/column: 1/12
+
+      c18                Should Israel return territories for peace?
+
+              VALUE  LABEL
+                  1  Strong disagreement
+                  7  Strong approval
+
+              Data type: numeric
+              Record/column: 1/13
+
+      c19                Religious law vs. democracy
+
+              VALUE  LABEL
+                  1  Democracy should be preferred
+                  7  Religious law should be preferred
+
+              Data type: numeric
+              Record/column: 1/14
+
+      c20                Should peace process stop at the risk of war?
+
+              VALUE  LABEL
+                  1  Strong disagreement
+                  7  Strong approval
+
+              Data type: numeric
+              Record/column: 1/15
+
+      c21                % of Israelis willing to concede territories
+
+              Data type: numeric
+              Record/columns: 1/16-17
+
+      c23                Public attitude on territories in 1-2 years
+
+              VALUE  LABEL
+                  1  More will approve of conceding territ.for peace
+                  2  Less will approve of conceding territ.for peace
+
+              Data type: numeric
+              Record/column: 1/18
+
+      c24                Should civil rights be restricted?
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Quite agree
+                  3  Disagree
+                  4  Definitely disagree
+
+              Data type: numeric
+              Record/column: 1/19
+
+      c25                Separation between Israelis and Palestinians in territories
+
+              VALUE  LABEL
+                  1  Support a long-term separation
+                  2  Support a time limited separation to fight terror
+                  3  Not support separation at all.
+
+              Data type: numeric
+              Record/column: 1/20
+
+      c26                Is P.L.O. capable of fighting terror?
+
+              VALUE  LABEL
+                  1  Definitely capable
+                  2  Capable enough
+                  3  Incapable
+                  4  Definitely incapable
+
+              Data type: numeric
+              Record/column: 1/21
+
+      c27                Attitude towards the Oslo Agreements
+
+              VALUE  LABEL
+                  1  Strongly support them
+                  2  Support them
+                  3  Object
+                  4  Strongly object them
+
+              Data type: numeric
+              Record/column: 1/22
+
+      c28                Effect of 2nd Oslo Agree. on national security
+
+              VALUE  LABEL
+                  1  Contributes significantly to national security
+                  2  Contributes to national security
+                  3  Impairs national security
+                  4  Severely impairs national security
+
+              Data type: numeric
+              Record/column: 1/23
+
+      c29                Effect of peace process on personal security
+
+              VALUE  LABEL
+                  1  Now it is much better
+                  2  Now it is better
+                  3  Now it is worse
+                  4  Now it is much worse
+
+              Data type: numeric
+              Record/column: 1/24
+
+      c30                Should negotiation with P.L.O. be stopped? Because of the continuance of terrorism
+
+              VALUE  LABEL
+                  1  Yes, as long as terrorism continues
+                  2  No,only successful negotiations will end terrorism
+
+              Data type: numeric
+              Record/column: 1/25
+
+      c31                Evacuating Jewish settlements in territories
+
+              VALUE  LABEL
+                  1  Not evacuate under any condition
+                  2  Only when they raise security problems
+                  3  Willing to evacuate all territories
+
+              Data type: numeric
+              Record/column: 1/26
+
+      c32                Most Palestinians really want peace- true?
+
+              VALUE  LABEL
+                  1  Very true
+                  2  Quite true
+                  3  Not so true
+                  4  Completely false
+
+              Data type: numeric
+              Record/column: 1/27
+
+      c34                Will a peace contact end the conflict?
+
+              VALUE  LABEL
+                  1  Definitely yes
+                  2  Yes
+                  3  No
+                  4  Definitely no
+
+              Data type: numeric
+              Record/column: 1/29
+
+      c35                Establishment of a Palestinian state
+
+              VALUE  LABEL
+                  1  Israel should certainly agree
+                  2  I think Israel should agree
+                  3  I think Israel should not agree
+                  4  Israel should certainly not agree
+
+              Data type: numeric
+              Record/column: 1/30
+
+      c36                % of Israelis who accept a Palestinian state
+
+              Data type: numeric
+              Record/columns: 1/31-32
+
+      c38                Attitude towards a Palestinian state in 2 years
+
+              VALUE  LABEL
+                  1  More Israelis will accept it in 1-2 years
+                  2  Less Israelis will accept it in 1-2 years
+
+              Data type: numeric
+              Record/column: 1/33
+
+      c39                Should Arabs be encouraged to leave the country?
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Not agree
+                  4  Definitely not agree
+
+              Data type: numeric
+              Record/column: 1/34
+
+      c40                Evaluation of Arab goals
+
+              VALUE  LABEL
+                  1  To return part of territories occupied in 1967
+                  2  To return all the territories occupied in 1967
+                  3  To conquer Israel
+                  4  To conquer Israel,to kill the Jewish population
+
+              Data type: numeric
+              Record/column: 1/35
+
+      c41                To prevent war, Israel should…
+
+              VALUE  LABEL
+                  1  Concentrate on peace talks
+                  2  Increase its military might
+
+              Data type: numeric
+              Record/column: 1/36
+
+      c42                Worry of attacks by Arabs in everyday life
+
+              VALUE  LABEL
+                  1  Very worried
+                  2  Worried
+                  3  Not worried
+                  4  Not worried at all
+
+              Data type: numeric
+              Record/column: 1/37
+
+      c43                Palestinian state be established in 10 years?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/38
+
+      c44                R's preferred solution for the territories
+
+              VALUE  LABEL
+                  0  Palestinian state in all territories including Israel
+                  1  Palestinian state alongside Israel
+                  2  Palestinian-Jordanian confederation
+                  3  Hand most of the territories to Jordan
+                  4  Autonomy
+                  5  Annexation of territories+citizen rights to inhabitants
+                  6  Annexation of territories,no civil rights to inhabitants
+                  7  Annexation and transfer
+
+              Data type: numeric
+              Record/column: 1/39
+
+      c45                Projection of the future solution of territ.
+
+              VALUE  LABEL
+                  0  Palestinian state in all territories including Israel
+                  1  Palestinian state alongside Israel
+                  2  Palestinian-Jordanian confederation
+                  3  Hand most of the territories to Jordan
+                  4  Autonomy
+                  5  Annexation of territories+citizen rights to inhabitants
+                  6  Annexation of territories,no civil rights to inhabitants
+                  7  Annexation and transfer
+                  8  Status quo
+
+              Data type: numeric
+              Record/column: 1/40
+
+      c46                Should Israel concede parts of the Golan H.?
+
+              VALUE  LABEL
+                  1  No
+                  2  Only a small part of the Golan Heights
+                  3  A Considerable part of the Golan Heights
+                  4  All of the Golan Heights
+
+              Data type: numeric
+              Record/column: 1/41
+
+      c47                Will Golan Heights be conceded in 10 years?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/42
+
+      c48                The most important value among the 4 suggested
+
+              VALUE  LABEL
+                  1  Jewish majority in Israel
+                  2  Greater Israel
+                  3  Democracy (equal rights to all)
+                  4  Peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 1/43
+
+      c49                The second value among the 4 suggested
+
+              VALUE  LABEL
+                  1  Jewish majority in Israel
+                  2  Greater Israel
+                  3  Democracy (equal rights to all)
+                  4  Peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 1/44
+
+      c50                The third value among the 4 suggested
+
+              VALUE  LABEL
+                  1  Jewish majority in Israel
+                  2  Greater Israel
+                  3  Democracy (equal rights to all)
+                  4  Peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 1/45
+
+      c51                The fourth value among the 4 suggested
+
+              VALUE  LABEL
+                  1  Jewish majority in Israel
+                  2  Greater Israel
+                  3  Democracy (equal rights to all)
+                  4  Peace (low probability of war)
+
+              Data type: numeric
+              Record/column: 1/46
+
+      c52                National security vs. Rule of law
+
+              VALUE  LABEL
+                  1  National Security
+                  7  Rule of law
+
+              Data type: numeric
+              Record/column: 1/47
+
+      c53                Possibility of a civil war over the territ.
+
+              VALUE  LABEL
+                  1  Very possible
+                  2  Possibly
+                  3  Light possibility
+                  4  Not possible at all
+
+              Data type: numeric
+              Record/column: 1/48
+
+      c58                Sympathy for Labour party
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/53-54
+
+      c59                Sympathy for Likud party
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/55-56
+
+      c60                Sympathy for the Judea, Samaria Gaza council
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/57-58
+
+      c61                Sympathy for Meretz party
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/59-60
+
+      c62                Sympathy for Religious persons
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/61-62
+
+      c63                Sympathy for Arabs
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/63-64
+
+      c64                Sympathy for The Islamic movement
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/65-66
+
+      c65                Sympathy for Yasser Arafat
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/67-68
+
+      c66                Sympathy for Yitzhak Rabin
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/69-70
+
+      c67                Sympathy for Binyamin Netanyahu
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/71-72
+
+      c68                Sympathy for Shimon Peres
+
+              VALUE  LABEL
+                  1  Strong repulsion
+                 10  Strong sympathy
+
+              Data type: numeric
+              Record/columns: 1/73-74
+
+      c69                Left or right self-placement on a 1-7 scale
+
+              VALUE  LABEL
+                  1  Right
+                  7  Left
+
+              Data type: numeric
+              Record/column: 1/75
+
+      c70                Economic approach
+
+              VALUE  LABEL
+                  1  Definitely Capitalist
+                  2  More Capitalist
+                  3  More Socialist
+                  4  Definitely Socialist
+
+              Data type: numeric
+              Record/column: 1/76
+
+      c71                Arabs participation in national decisions
+
+              VALUE  LABEL
+                  1  Definitely only Jews should participate
+                  2  Think only Jews should participate
+                  3  Arabs should also participate
+                  4  Definitely also Arabs
+
+              Data type: numeric
+              Record/column: 1/77
+
+      c72                Major reason for choosing a candidate for PM
+
+              VALUE  LABEL
+                  1  Candidate's qualities
+                  2  Identification with the candidate's party
+                  3  Candidate's positions on issues
+                  4  Candidate being in government or in opposition
+
+              Data type: numeric
+              Record/column: 1/78
+
+      c73                Differences between Labor-Likud on: Jerusalem
+
+              VALUE  LABEL
+                  1  Very big difference between their attitudes
+                  2  Big difference
+                  3  Some difference
+                  4  Small difference
+                  5  Almost no difference between their attitudes
+
+              Data type: numeric
+              Record/column: 1/79
+
+      c74                Differences between Labor-Likud on: Economy
+
+              VALUE  LABEL
+                  1  Very big difference between their attitudes
+                  2  Big difference
+                  3  Some difference
+                  4  Small difference
+                  5  Almost no difference between their attitudes
+
+              Data type: numeric
+              Record/column: 1/80
+
+      c75                Differences between Labor-Likud on: Peace and the territories
+
+              VALUE  LABEL
+                  1  Very big difference between their attitudes
+                  2  Big difference
+                  3  Some difference
+                  4  Small difference
+                  5  Almost no difference between their attitudes
+
+              Data type: numeric
+              Record/column: 1/81
+
+      c76                Differences between Labor-Likud on: Terrorism
+
+              VALUE  LABEL
+                  1  Very big difference between their attitudes
+                  2  Big difference
+                  3  Some difference
+                  4  Small difference
+                  5  Almost no difference between their attitudes
+
+              Data type: numeric
+              Record/column: 1/82
+
+      cc6                Effect on vote for PM: Jerusalem
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/84
+
+      cc7                Effect on vote for PM: Economy
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/85
+
+      cc8                Effect on vote for PM: Peace, Territories
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/86
+
+      cc9                Effect on vote for PM: Terrorism
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/87
+
+      cc10               Effect on vote for PM: Rabin's assassination
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/88
+
+      cc11               Effect on vote for PM: 'Grapes of wrath' operation
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/89
+
+      cc12               Effect on vote for Knesset: Jerusalem
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/90
+
+      cc13               Effect on vote for Knesset: Economy
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/91
+
+      cc14               Effect on vote for Knesset: Peace, Territories
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/92
+
+      cc15               Effect on vote for Knesset: Terrorism
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/93
+
+      cc16               Effect on vote for Knesset: Rabin's assassination
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/94
+
+      cc17               Effect on vote for Knesset: 'Grapes of wrath' operation
+
+              VALUE  LABEL
+                  1  Strong effect
+                  2  Medial effect
+                  3  Light effect
+                  4  No effect
+
+              Data type: numeric
+              Record/column: 1/95
+
+      cc19               Closer to Likud/Labor: Jerusalem
+
+              VALUE  LABEL
+                  1  Closer to Labor's attitude
+                  2  Closer to Likud's attitude
+                  3  Another party
+
+              Data type: numeric
+              Record/column: 1/97
+
+      cc20               Closer to Likud/Labor: Economy
+
+              VALUE  LABEL
+                  1  Closer to Labor's attitude
+                  2  Closer to Likud's attitude
+                  3  Another party
+
+              Data type: numeric
+              Record/column: 1/98
+
+      cc21               Closer to Likud/Labor: Peace, Territories
+
+              VALUE  LABEL
+                  1  Closer to Labor's attitude
+                  2  Closer to Likud's attitude
+                  3  Another party
+
+              Data type: numeric
+              Record/column: 1/99
+
+      cc22               Closer to Likud/Labor: Terrorism
+
+              VALUE  LABEL
+                  1  Closer to Labor's attitude
+                  2  Closer to Likud's attitude
+                  3  Another party
+
+              Data type: numeric
+              Record/column: 1/100
+
+      cc23               Party most capable of handling economic issues
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally capable
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/101
+
+      cc24               Party most capable of handling foreign affairs and security problems
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally capable
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/102
+
+      cc25               Major factor in voting for a party
+
+              VALUE  LABEL
+                  1  Identification with the party
+                  2  Party's candidate for PM
+                  3  Party's position on issues
+                  4  Party being in government/opposition
+
+              Data type: numeric
+              Record/column: 1/103
+
+      cc27               Attitude towards raising taxes
+
+              VALUE  LABEL
+                  1  Agree
+                  2  Disagree
+
+              Data type: numeric
+              Record/column: 1/105
+
+      cc28               Should the government spen more/less on:Education
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/106
+
+      cc29               Should the government spen more/less on:Ecology and Environment
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/107
+
+      cc30               Should the government spen more/less on:Religious institutions
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/108
+
+      cc31               Should the government spen more/less on:Health
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/109
+
+      cc32               Should the government spen more/less on:Security
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/110
+
+      cc33               Should the government spen more/less on:Immigration
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/111
+
+      cc34               Should the government spen more/less on:Support for the unemployed
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/112
+
+      cc35               Should the government spen more/less on:Settlements in the territories
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/113
+
+      cc36               Should the government spen more/less on:Arab population
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/114
+
+      cc37               Should the government spen more/less on:Supplying jobs
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/115
+
+      cc38               Should the government spen more/less on:Transportation/car accidents
+
+              VALUE  LABEL
+                  1  Spend more
+                  2  Spend less
+                  3  Same as now
+
+              Data type: numeric
+              Record/column: 1/116
+
+      cc39               Social-economic equality is insufficient
+
+              VALUE  LABEL
+                  1  Definitely agree
+                  2  Agree
+                  3  Do not agree
+                  4  Definitely do not agree
+
+              Data type: numeric
+              Record/column: 1/117
+
+      cc40               Ethnic discrimination in Israel today
+
+              VALUE  LABEL
+                  1  To very large extent
+                  2  To large extent
+                  3  To some extent
+                  4  Very little
+                  5  None or almost none
+
+              Data type: numeric
+              Record/column: 1/118
+
+      cc41               Personal experience with ethnic discrimination
+
+              VALUE  LABEL
+                  1  To very large extent
+                  2  To large extent
+                  3  To some extent
+                  4  Very little
+                  5  None or almost none
+
+              Data type: numeric
+              Record/column: 1/119
+
+      cc44               National vs. citizens' personal interests
+
+              VALUE  LABEL
+                  1  National interests are more important
+                  2  Equally important
+                  3  Personal interests are more important
+
+              Data type: numeric
+              Record/column: 1/122
+
+      cc45               Frequency of discussing politics with friends/family
+
+              VALUE  LABEL
+                  1  Often
+                  2  Sometimes
+                  3  Little
+                  4  Never
+
+              Data type: numeric
+              Record/column: 1/123
+
+      cc46               Does your family vote like you?
+
+              VALUE  LABEL
+                  1  All vote the same
+                  2  Many vote like me
+                  3  Few vote like me
+                  4  No one votes like me
+                  5  Do not know how my family votes (not read)
+
+              Data type: numeric
+              Record/column: 1/124
+
+      cc48               Civilians ability to influence government is…
+
+              VALUE  LABEL
+                  1  Great
+                  2  Medial
+                  3  Little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/126
+
+      cc49               Should life be conducted by religious law?
+
+              VALUE  LABEL
+                  1  Definitely yes
+                  2  Maybe
+                  3  Do not think so
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 1/127
+
+      cc50               Ensure a Jewish majority
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/128
+
+      cc51               Stand firm in a peace negotiations
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/129
+
+      cc52               Maintain the democratic regime
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/130
+
+      cc53               Lead to true peace with the Arabs
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/131
+
+      cc54               Effectively deal with terrorism
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/132
+
+      cc55               Narrow the ethnic gap
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/133
+
+      cc56               Lead to separation between Israel-Palestinians
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/134
+
+      cc57               Corrupted
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/135
+
+      cc58               Has experienced leaders
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/136
+
+      cc59               Maintain good relations with the U.S.
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/137
+
+      cc60               Narrow social gaps
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/138
+
+      cc61               Current personal situation
+
+              VALUE  LABEL
+                  1  Worst
+                  9  Best
+
+              Data type: numeric
+              Record/column: 1/139
+
+      cc62               Personal situation 5 years ago
+
+              VALUE  LABEL
+                  1  Worst
+                  9  Best
+
+              Data type: numeric
+              Record/column: 1/140
+
+      cc63               Evaluating personal situation in 5 years
+
+              VALUE  LABEL
+                  1  Worst
+                  9  Best
+
+              Data type: numeric
+              Record/column: 1/141
+
+      cc64               Leadership ability
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/142
+
+      cc65               Powerful
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/143
+
+      cc66               Reliable
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/144
+
+      cc67               Decisive
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/145
+
+      cc68               Prefers the good of the country over the good of his own party
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/146
+
+      cc69               Experienced
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/147
+
+      cc70               Initiative and creative
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/148
+
+      cc71               Good negotiator
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/149
+
+      cc72               Resistant to pressures
+
+              VALUE  LABEL
+                  1  Shimon Peres
+                  2  Binyamin Netanyahu
+                  3  Both equally
+                  4  Neither
+
+              Data type: numeric
+              Record/column: 1/150
+
+      cc73               Can Israel achieve Jewish majority,Greater Israel,maintain democratic regime,Peace?
+
+              VALUE  LABEL
+                  1  Can achieve all objectives simultaneously
+                  2  Cannot achieve all objectives simultaneously
+
+              Data type: numeric
+              Record/column: 1/151
+
+      cc74               Frequency of reading a daily newspaper
+
+              VALUE  LABEL
+                  1  Almost never
+                  2  Rarely
+                  3  Once a week
+                  4  2-3 times a week
+                  5  One newspaper almost every day
+                  6  More than one newspaper almost every day
+
+              Data type: numeric
+              Record/column: 1/152
+
+      cc76               Interest in election polls
+
+              VALUE  LABEL
+                  1  Most interested
+                  2  Quite interested
+                  3  Little interest
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/154
+
+      ccc6               Belief in election polls
+
+              VALUE  LABEL
+                  1  Very much
+                  2  To some extent
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/155
+
+      ccc7               Believe that election polls influence voting
+
+              VALUE  LABEL
+                  1  Very much
+                  2  To some extent
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/156
+
+      ccc8               Forbid publication of election polls?
+
+              VALUE  LABEL
+                  1  Certainly yes
+                  2  Yes
+                  3  No
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 1/157
+
+      ccc9               Frequency of watching election ads on TV
+
+              VALUE  LABEL
+                  1  Every day
+                  2  Usually
+                  3  Sometimes
+                  4  Rarely
+                  5  Never watch it
+                  6  Not started yet
+
+              Data type: numeric
+              Record/column: 1/158
+
+      ccc10              Will election ads influence your vote?
+
+              VALUE  LABEL
+                  1  To a large extent
+                  2  To some extent
+                  3  Hardly
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/159
+
+      ccc11              Full retreat from the Golan H. for peace
+
+              VALUE  LABEL
+                  1  For the agreement
+                  2  Against the agreement
+
+              Data type: numeric
+              Record/column: 1/160
+
+      ccc12              % of Israelis agreeing to return the Golan H.
+
+              Data type: numeric
+              Record/columns: 1/161-162
+
+      ccc14              Future attitude on conceding the Golan H.
+
+              VALUE  LABEL
+                  1  More people will be willing to return territories
+                  2  More people will not be against returning territories
+
+              Data type: numeric
+              Record/column: 1/163
+
+      ccc15              National- unity government after the elections
+
+              VALUE  LABEL
+                  1  Strongly support
+                  2  Support
+                  3  Object
+                  4  Strongly object
+                  5  Only under the leadership of the Likud (not read)
+                  6  Only under the leadership of the Labor (not read)
+
+              Data type: numeric
+              Record/column: 1/164
+
+      ccc16              Participated in demonstrations for peace during last 2 years?
+
+              VALUE  LABEL
+                  1  Never
+                  2  Only once or twice
+                  3  Three times or more
+
+              Data type: numeric
+              Record/column: 1/165
+
+      ccc17              Participated in demonstrations after Rabin's assassination in last 2 years?
+
+              VALUE  LABEL
+                  1  Never
+                  2  Only once or twice
+                  3  Three times or more
+
+              Data type: numeric
+              Record/column: 1/166
+
+      ccc19              The direct election of the PM brings about…
+
+              VALUE  LABEL
+                  1  A better system of government
+                  2  A worse system of government
+                  3  No change
+
+              Data type: numeric
+              Record/column: 1/168
+
+      ccc20              Inclusion of Arab parties in the government
+
+              VALUE  LABEL
+                  1  Strongly support
+                  2  Partly support
+                  3  Partly object
+                  4  Strongly object
+
+              Data type: numeric
+              Record/column: 1/169
+
+      ccc21              The primaries bring about…
+
+              VALUE  LABEL
+                  1  A better system of government
+                  2  A worse system of government
+                  3  No change
+
+              Data type: numeric
+              Record/column: 1/170
+
+      ccc22              Voted in primaries?
+
+              VALUE  LABEL
+                  1  No
+                  2  Yes, in the Likud
+                  3  Yes, in Labor
+                  4  Yes, in Meretz
+
+              Data type: numeric
+              Record/column: 1/171
+
+      ccc23              Vote for party, if elections were held today
+
+              VALUE  LABEL
+                  1  Likud-Tzomet-Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal (National Religious Party)
+                  5  Agudat Israel & Degel HaTora (Yahadut HaTora)
+                  6  Moledet (Homeland)
+                  7  HaDerech Hashlishit (The Third Way for National Consent)
+                  8  Shas (Sefaradi Tora Guardians)
+                  9  Immigrants party/ Israel BaAliya (Sharanski/Gur)
+                 10  Hadash + The National Democratic Alliance (Hashem Mahmid)
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious leader tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/172-173
+
+      ccc27              Would vote for Likud, Tzomet or Gesger?
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Tzomet
+                  3  Gesher
+                  4  Another party
+                  5  Don't know
+
+              Data type: numeric
+              Record/column: 1/176
+
+      ccc28              Vote for PM, if elections were held today
+
+              VALUE  LABEL
+                  1  Binyamin Netanyahu
+                  2  Shimon Peres
+                  3  Blank note
+                  4  I will not vote
+                  5  Have not decided yet
+                  6  Refuses to answer
+
+              Data type: numeric
+              Record/column: 1/177
+
+      ccc29              Reasons for not voting/ voting a blank ballot
+
+              VALUE  LABEL
+                  1  Both candidates do not fit
+                  2  Protest
+                  3  Obeyed the order of my rabbi
+                  4  Technical problems
+                  5  Another reason
+
+              Data type: numeric
+              Record/column: 1/178
+
+      ccc30              Reasons for not voting/ voting a blank ballot
+
+              VALUE  LABEL
+                  1  Both candidates do not fit
+                  2  Protest
+                  3  Obeyed the order of my rabbi
+                  4  Technical problems
+                  5  Another reason
+
+              Data type: numeric
+              Record/column: 1/179
+
+      ccc31              Reasons for not voting/ voting a blank ballot
+
+              VALUE  LABEL
+                  1  Both candidates do not fit
+                  2  Protest
+                  3  Obeyed the order of my rabbi
+                  4  Technical problems
+                  5  Another reason
+
+              Data type: numeric
+              Record/column: 1/180
+
+      ccc32              Reasons for not voting/ voting a blank ballot
+
+              VALUE  LABEL
+                  1  Both candidates do not fit
+                  2  Protest
+                  3  Obeyed the order of my rabbi
+                  4  Technical problems
+                  5  Another reason
+
+              Data type: numeric
+              Record/column: 1/181
+
+      ccc33              Vote for party if the old election's method still existed today
+
+              VALUE  LABEL
+                  1  Likud-Tzomet-Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal (National Religious Party)
+                  5  Agudat Israel & Degel HaTora (Yahadut HaTora)
+                  6  Moledet (Homeland)
+                  7  HaDerech Hashlishit
+                  8  Shas (Sefaradi Tora Guardians)
+                  9  Immigrants party/ Israel BaAliya (Sharanski/Gur)
+                 10  Hadash+The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  Do not know
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/182-183
+
+      ccc35              Candidate who will win the PM's elections
+
+              VALUE  LABEL
+                  1  Netanyahu
+                  2  Peres
+                  3  Do not know (not read)
+
+              Data type: numeric
+              Record/column: 1/184
+
+      ccc36              Party that will be biggest in next Knesset
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Do not know (not read)
+
+              Data type: numeric
+              Record/column: 1/185
+
+      ccc37              Vote for party in last elections (1992)
+
+              VALUE  LABEL
+                  1  Likud
+                  2  Labor
+                  3  Meretz
+                  4  Tzomet
+                  5  Moledet
+                  6  Tehiya
+                  7  Mafdal
+                  8  Yahadut HaTora
+                  9  Shas
+                 10  Hadash
+                 11  Arab Democratic Party
+                 12  A party from the left
+                 13  A party from the right
+                 14  A religious party
+                 15  Another party
+                 16  Did not vote, although was eligible
+                 17  Did not vote, was ineligible
+                 18  Refuses to answer
+                 19  Progressive list
+
+              Data type: numeric
+              Record/columns: 1/186-187
+
+      ccc39              Vote for party in 1988
+
+              VALUE  LABEL
+                  1  Labor
+                  2  Likud
+                  3  Mapam / Ratz / Shinui
+                  4  Tehiya / Moledet / Tzomet
+                  5  National Religious party (Mafdal)
+                  6  Meimad (Dovish Religious Party)
+                  7  Agudat Israel/Degel HaTorah
+                  8  Shas
+                  9  Arab Democratic Party
+                 10  Hadash
+                 11  Progressive list for peace
+                 12  A party from the left
+                 13  A party from the right
+                 14  A religious party
+                 15  Another party
+                 16  Did not vote, although was eligible
+                 17  Did not vote, was ineligible
+                 18  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/188-189
+
+      ccc41              Vote in previous Histadrut elections
+
+              VALUE  LABEL
+                  1  Labor (Haim Haberfeld)
+                  2  Ram (Haim Ramon)
+                  3  Likud (Yaakov Shamai)
+                  4  Hadash (Binyamin Gonen)
+                  5  Did not vote, although was eligible
+                  6  Did not voted  / not a Histadrut member
+
+              Data type: numeric
+              Record/column: 1/190
+
+      ccc42              Personal connections with Arabs
+
+              VALUE  LABEL
+                  1  No connections
+                  2  Business connections
+                  3  1-2 friends
+                  4  Many connections, including friends
+
+              Data type: numeric
+              Record/column: 1/191
+
+      ccc44              Interview by TV
+
+              VALUE  LABEL
+                  1  Definitely yes
+                  2  Yes
+                  3  Not sure
+                  4  No
+                  5  Definitely not
+
+              Data type: numeric
+              Record/column: 1/193
+
+      ccc45              Political activity in any of the parties
+
+              VALUE  LABEL
+                  1  None
+                  2  Supporter, but not an active member
+                  3  Party member
+                  4  Active party member
+                  5  Member and has a role in a party
+
+              Data type: numeric
+              Record/column: 1/194
+
+      ccc46              Political tendency
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious
+                  7  None
+
+              Data type: numeric
+              Record/column: 1/195
+
+      ccc47              Self- Identification
+
+              VALUE  LABEL
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Moderate right
+                  5  Right
+                  6  Religious (not read)
+                  7  None (not read)
+
+              Data type: numeric
+              Record/column: 1/196
+
+      ccc48              The second label to self-Identification
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group
+                  4  Secular or religious
+
+              Data type: numeric
+              Record/column: 1/197
+
+      ccc49              The third label to self-Identification
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group
+                  4  Secular or religious
+
+              Data type: numeric
+              Record/column: 1/198
+
+      ccc50              The forth label to self-Identification
+
+              VALUE  LABEL
+                  1  Israeli
+                  2  Jewish
+                  3  Ethnic group
+                  4  Secular or religious
+
+              Data type: numeric
+              Record/column: 1/199
+
+      ccc55              Ethnic self definition
+
+              VALUE  LABEL
+                  1  Ashkenazi
+                  2  Sephardi
+                  3  Neither
+
+              Data type: numeric
+              Record/column: 1/204
+
+      ccc56              Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/205
+
+      ccc57              Age
+
+              Data type: numeric
+              Record/columns: 1/206-207
+
+      ccc59              Continent of birth /of birth of father
+
+              VALUE  LABEL
+                 01  North Africa
+                 02  Asia
+                 03  Eastern Europe
+                 04  West and central Europe
+                 05  America, Australia, South Africa
+                 06  Israel/Israel
+                 07  Israel/North Africa
+                 08  Israel/Asia
+                 09  Israel/Eastern Europe
+                 10  Israel/West or central Europe
+                 11  Israel/America, Australia, South Africa
+
+              Data type: numeric
+              Record/columns: 1/208-209
+
+      ccc61              Year of immigration
+
+              Data type: numeric
+              Record/columns: 1/210-211
+
+      ccc63              Total years of schooling
+
+              Data type: numeric
+              Record/columns: 1/212-213
+
+      ccc65              Number of rooms in apartment
+
+              Data type: numeric
+              Decimals: 1
+              Record/columns: 1/214-215
+
+      ccc67              Number of persons in household
+
+              Data type: numeric
+              Record/columns: 1/216-217
+
+      ccc69              Military service in the territories
+
+              VALUE  LABEL
+                  1  Yes
+                  2  Served but not in territories
+                  3  Not served in the army
+
+              Data type: numeric
+              Record/column: 1/218
+
+      ccc70              Obedience to Jewish religious tradition
+
+              VALUE  LABEL
+                  1  Thoroughly
+                  2  Much
+                  3  A little
+                  4  Do not keep the Jewish tradition at all
+
+              Data type: numeric
+              Record/column: 1/219
+
+      ccc71              Works outside household?
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 1/220
+
+      ccc72              Status at work
+
+              VALUE  LABEL
+                  1  Salaried worker
+                  2  Salaried clerk
+                  3  Salaried manager
+                  4  Self employed (small business)
+                  5  Self employed, owner of a firm
+
+              Data type: numeric
+              Record/column: 1/221
+
+      ccc73              Social class
+
+              VALUE  LABEL
+                  1  High
+                  2  Mid-high
+                  3  Middle
+                  4  Low
+
+              Data type: numeric
+              Record/column: 1/222
+
+      ccc74              Monthly family expenditures
+
+              VALUE  LABEL
+                  1  Much above average
+                  2  More than average
+                  3  Average
+                  4  Below average
+                  5  Much below average
+
+              Data type: numeric
+              Record/column: 1/223
+
+      cccc6              The name of the party(1)
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/225-226
+
+      cccc8              The name of the party(2)
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/227-228
+
+      cccc10             The name of the party(3)
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/229-230
+
+      cccc12             The name of the party(4)
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/231-232
+
+      cccc14             Most preferred party
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious authority tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/233-234
+
+      cccc16             The second most preferred party
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious authority tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/235-236
+
+      cccc18             The third most preferred party
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious authority tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/237-238
+
+      cccc20             Least preferred party
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious authority tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/239-240
+
+      cccc22             The second least-preferred party
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious authority tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/241-242
+
+      cccc24             The third least-preferred party
+
+              VALUE  LABEL
+                  1  Likud, Tzomet, Gesher
+                  2  Labor
+                  3  Meretz
+                  4  Mafdal: National Religious Party
+                  5  Agudat Israel & Degel HaTora: Yahadut HaTora
+                  6  Moledet: Homeland
+                  7  HaDerech HaShlishit
+                  8  Shas
+                  9  Immigrants party/ Israel BaAliya
+                 10  Hadash + The National Democratic Alliance
+                 11  United Arab List (Dahamshe/ Abed elMaleck)
+                 12  Arab Movement for Renewal (Ahmad Tibby)
+                 13  Progressive Alliance (Zaydan Muhamad)
+                 14  A party from the left
+                 15  A party from the right
+                 16  A religious parties
+                 17  Another party
+                 18  Will not vote
+                 19  Not decided yet
+                 20  What the religious authority tells me
+                 21  Refuses to answer
+
+              Data type: numeric
+              Record/columns: 1/243-244
+
+      cccc26             Date of interview
+
+              Data type: numeric
+              Record/columns: 1/245-246
+
+      cccc28             Code of locality
+
+              VALUE  LABEL
+                 10  Tel-Aviv
+                 11  Rosh-Haayin
+                 12  Ramat-Gan
+                 13  Rehovot
+                 14  Rishon Leziyyon
+                 15  Bene-Beraq
+                 16  Bat-Yam
+                 17  Mazkeret-Batya
+                 18  Ramat-Hasharon
+                 19  Ramla
+                 20  Ra'anana
+                 30  Jerusalem
+                 31  Bet-Shemesh
+                 32  Moshav (around Jerusalem)
+                 40  Be'er Sheva
+                 41  Ofaqim
+                 42  Qiryat-Gat
+                 43  Dimona
+                 50  Haifa
+                 51  Qiryat-Bialik
+                 52  Qiryat-Yam
+                 53  Akko
+                 54  Tiberias
+                 55  Or-Aqiva
+                 56  Qiryat-Tiv'on
+                 57  Rekhasim
+
+              Data type: numeric
+              Record/columns: 1/247-248
+
+      cccc41             Interview group
+
+              VALUE  LABEL
+                  1  Jews
+                  2  Arabs
+
+              Data type: numeric
+              Record/column: 1/251
+
+      sephashk           Ethnic group
+
+              VALUE  LABEL
+                  1  Sephardi
+                  2  Ashkenazi
+
+              Data type: numeric
+              Record/column: 1/252
+      

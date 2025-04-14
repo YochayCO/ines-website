@@ -1,0 +1,873 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 1973, phase 5
+
+                                                           CONTENTS
+
+****    January 1974
+
+      v1                 Identity number                                                                                                                                                    
+
+****    POSSIBLE REASONS FOR VOTING FOR THE LIKUD, THE 3 MOST CONVINCING ARGUMENTS AND THE TWO LEAST CONVINCING ARGUMENTS
+
+      h3                 The Alignment failed in social and economic issues
+      h4                 The Likud will not give up territories
+      h5                 Alignment leaders are not trustworthy
+      h6                 The Alignment is responsible for the setbacks of the war
+      h7                 The Likud will know how to take a firm stand at the Geneva conference
+      h8                 The Alignment does not have a clear foreign and security policy
+      h9                 The Likud has better leaders to offer
+      h10                The Likud proposes a National Unity Government
+
+****    POSSIBLE REASONS FOR VOTING FOR THE ALIGNMENT, THE 3 MOST CONVINCING ONES AND THE TWO LEAST CONVINCING ONES
+
+      h12                The Alignment has experience in government
+      h13                The Alignment is the least of all evils
+      h14                The Alignment might succeed in bringing peace
+      h15                Apprehension about the Likud's extremism
+      h16                The Alignment can take care of socio-economic problems
+      h17                The Alignment proposes good leaders
+      h18                Fear of sudden changes in the country
+
+****    POLITICAL LEADERS AND HOW INTERVIEWEE RELATES TO THEM, HOW IMPORTANT THIS FACTOR WAS TO INTERVIEWEE'S VOTE
+
+      h20                Golda Meir
+      h21                Menachem Begin
+      h22                Moshe Dayan
+      h23                Pinchas Sapir
+      h24                Arik Sharon
+      h25                Yigal Allon
+      h26                Interviewee voted now for the same party he voted for in 1969
+      h27                Interviewee changed his mind about which party to vote for because of the Yom Kippur War
+      h28                To what extent interviewee is certain in the future he will continue to support party he supported these elections
+      h29                When interviewee decided whom to vote for
+      h30                To what extent deciding whom to vote for was difficult
+      h31                To what extent it is a duty to participate in the Knesset elections
+      h32                Main reason why interviewee votes
+      h33                Interviewee's position if the government supports a peace agreement that includes giving back most of occupied territories
+      h34                Interviewee's postion if the government is against such an agreement
+      h35                Interviewee would support a peace agreement that involves giving back most of the territories
+      h36                Interviewee would support holding on to most of the territories even if it eliminates the chance for a peace agreement
+      h37                To what extent interviewee believes a peace agreement with the Arabs is possible within the next few years
+      h38                There should be a change in Alignment members forming the cabinet if the coalition partners in next govt. are same as in outgoing govt
+      h39                To what extent the election campaign helped interviewee decide whom to vote for
+      h40                To what extent party advertisements helped interviewee decide whom to vote for
+      h41                To what extent radio advertisements helped interviewee decide whom to vote for
+      h42                To what extent television advertisements helped interviewee decide whom to vote for
+      h43                To what extent talking to other people helped interviewee decide whom to vote for
+      h44                Main reason for watching television advertisements
+      h45                Main reason for not watching television advertisements
+      h46                Interviewee was satisfied with the way the election campaign for the Knesset was conducted
+      h47                In their campaigns, the parties deal with the most important problems of the nation
+      h48                Interviewee believes what the parties say during the election campaign
+      h49                The campaign was necessary before the elections
+      h50                To what extent interviewee read public opinion polls before the elections
+      h51                To what extent those polls helped interviewee decide whom to vote for
+      h52                Party position interviewee identifies with on foreign and security affairs
+      h53                Party interviewee voted for in the 1969 Knesset elections
+      h54                Party interviewee voted for in last elections
+      h55                Interviewee voted for same party in municipal and Knesset elections
+      h56                Following election results, party interviewee would vote for if elections were held again
+      h57                Sex
+      h58                Interviewee was in reserves during or because of Yom Kippur War
+      h59                Years of schooling
+      h60                Age
+      h61                Total gross monthly income for entire household
+      h62                Interviewee observes religious traditions
+      h63                Occupation
+      h64                Place of birth/father's place of birth
+      h65                Place of interview
+      h66                Date of interview
+
+=========================================================================================
+
+      v1                 Identity number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      h3                 The Alignment failed in social and economic issues
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/5
+
+      h4                 The Likud will not give up territories
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/6
+
+      h5                 Alignment leaders are not trustworthy
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/7
+
+      h6                 The Alignment is responsible for the setbacks of the war
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/8
+
+      h7                 The Likud will know how to take a firm stand at the Geneva conference
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/9
+
+      h8                 The Alignment does not have a clear foreign and security policy
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/10
+
+      h9                 The Likud has better leaders to offer
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/11
+
+      h10                The Likud proposes a National Unity Government
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/12
+
+      h12                The Alignment has experience in government
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/13
+
+      h13                The Alignment is the least of all evils
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/14
+
+      h14                The Alignment might succeed in bringing peace
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/15
+
+      h15                Apprehension about the Likud's extremism
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/16
+
+      h16                The Alignment can take care of socio-economic problems
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/17
+
+      h17                The Alignment proposes good leaders
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/18
+
+      h18                Fear of sudden changes in the country
+
+              VALUE  LABEL
+                  1  First
+                  2  Second
+                  3  Third
+                  5  Not mentioned
+                  7  One before last
+                  8  Last
+
+              Data type: numeric
+              Record/column: 1/19
+
+      h20                Golda Meir
+
+              VALUE  LABEL
+                  1  Positively, very important
+                  2  Positively, not very important
+                  3  Negatively, very important
+                  4  Negatively, not very important
+                  5  Neither positively nor negatively
+
+              Data type: numeric
+              Record/column: 1/20
+
+      h21                Menachem Begin
+
+              VALUE  LABEL
+                  1  Positively, very important
+                  2  Positively, not very important
+                  3  Negatively, very important
+                  4  Negatively, not very important
+                  5  Neither positively nor negatively
+
+              Data type: numeric
+              Record/column: 1/21
+
+      h22                Moshe Dayan
+
+              VALUE  LABEL
+                  1  Positively, very important
+                  2  Positively, not very important
+                  3  Negatively, very important
+                  4  Negatively, not very important
+                  5  Neither positively nor negatively
+
+              Data type: numeric
+              Record/column: 1/22
+
+      h23                Pinchas Sapir
+
+              VALUE  LABEL
+                  1  Positively, very important
+                  2  Positively, not very important
+                  3  Negatively, very important
+                  4  Negatively, not very important
+                  5  Neither positively nor negatively
+
+              Data type: numeric
+              Record/column: 1/23
+
+      h24                Arik Sharon
+
+              VALUE  LABEL
+                  1  Positively, very important
+                  2  Positively, not very important
+                  3  Negatively, very important
+                  4  Negatively, not very important
+                  5  Neither positively nor negatively
+
+              Data type: numeric
+              Record/column: 1/24
+
+      h25                Yigal Allon
+
+              VALUE  LABEL
+                  1  Positively, very important
+                  2  Positively, not very important
+                  3  Negatively, very important
+                  4  Negatively, not very important
+                  5  Neither positively nor negatively
+
+              Data type: numeric
+              Record/column: 1/25
+
+      h26                Interviewee voted now for the same party he voted for in 1969
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Did not vote in 1969
+                  4  Did not vote now
+
+              Data type: numeric
+              Record/column: 1/26
+
+      h27                Interviewee changed his mind about which party to vote for because of the Yom Kippur War
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Did not vote
+
+              Data type: numeric
+              Record/column: 1/27
+
+      h28                To what extent interviewee is certain in the future he will continue to support party he supported these elections
+
+              VALUE  LABEL
+                  1  Very certain
+                  2  Certain
+                  3  Not so certain
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/28
+
+      h29                When interviewee decided whom to vote for
+
+              VALUE  LABEL
+                  1  A long time ago
+                  2  At the time of the war
+                  3  Close to election day
+                  4  On election day
+                  5  Did not vote
+
+              Data type: numeric
+              Record/column: 1/29
+
+      h30                To what extent deciding whom to vote for was difficult
+
+              VALUE  LABEL
+                  1  Very difficult
+                  2  Difficult
+                  3  Not so difficult
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/30
+
+      h31                To what extent it is a duty to participate in the Knesset elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/31
+
+      h32                Main reason why interviewee votes
+
+              VALUE  LABEL
+                  1  To identify with political personalities
+                  2  To behave like friends
+                  3  To identify with supported party
+                  4  To influence which party to be in govt.
+                  5  To feel a part of the country/the people
+                  6  To express opinion on political matters
+                  7  Enjoys participating in the happy event
+                  8  To fulfill obligation towards country
+                  9  To protest against the government
+
+              Data type: numeric
+              Record/column: 1/32
+
+      h33                Interviewee's position if the government supports a peace agreement that includes giving back most of occupied territories
+
+              VALUE  LABEL
+                  1  Certainly would support the government
+                  2  Thinks would support the government
+                  3  Thinks would be against government
+                  4  Certainly would be against government
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 1/33
+
+      h34                Interviewee's postion if the government is against such an agreement
+
+              VALUE  LABEL
+                  1  Certainly would support government
+                  2  Thinks would support government
+                  3  Thinks would be against government
+                  4  Certainly would be against government
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 1/34
+
+      h35                Interviewee would support a peace agreement that involves giving back most of the territories
+
+              VALUE  LABEL
+                  1  Certainly would support it
+                  2  Thinks would support it
+                  3  Thinks would be against it
+                  4  Certainly would be against it
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 1/35
+
+      h36                Interviewee would support holding on to most of the territories even if it eliminates the chance for a peace agreement
+
+              VALUE  LABEL
+                  1  Certainly would support this
+                  2  Thinks would support this
+                  3  Thinks would be against this
+                  4  Certainly would be against this
+                  5  No opinion
+
+              Data type: numeric
+              Record/column: 1/36
+
+      h37                To what extent interviewee believes a peace agreement with the Arabs is possible within the next few years
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/37
+
+      h38                There should be a change in Alignment members forming the cabinet if the coalition partners in next govt. are same as in outgoing govt
+
+              VALUE  LABEL
+                  1  Some of them should be substituted
+                  2  Some ministers should have diff. roles
+                  3  New ministers, important minis. remain
+                  4  No significant changes necessary
+
+              Data type: numeric
+              Record/column: 1/38
+
+      h39                To what extent the election campaign helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/39
+
+      h40                To what extent party advertisements helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/40
+
+      h41                To what extent radio advertisements helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/41
+
+      h42                To what extent television advertisements helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/42
+
+      h43                To what extent talking to other people helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/43
+
+      h44                Main reason for watching television advertisements
+
+              VALUE  LABEL
+                  1  To hear arguments useful for discussions
+                  2  To get to know the political leaders
+                  3  To get to know the parties' platforms
+                  4  To help decide whom to vote for
+                  5  Renew identification with favored party
+                  6  To help evaluate chances of diff.parties
+                  7  To be up to date with polit. situation
+                  8  Enjoys political struggle, discussions
+                  9  Only transmission receives on television
+
+              Data type: numeric
+              Record/column: 1/44
+
+      h45                Main reason for not watching television advertisements
+
+              VALUE  LABEL
+                  1  Not interested in politics
+                  2  Prefers entertainment programs
+                  3  Does not believe what parties say
+                  4  Some candidates take public for granted
+                  5  Already decided whom to vote for
+                  6  Often candidates are hard to understand
+                  7  Does not want to open home to propaganda
+                  8  Parties have nothing new to say
+                  9  Not like being deceived by politicians
+
+              Data type: numeric
+              Record/column: 1/45
+
+      h46                Interviewee was satisfied with the way the election campaign for the Knesset was conducted
+
+              VALUE  LABEL
+                  1  Very satisfied
+                  2  Satisfied
+                  3  Not so satisfied
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/46
+
+      h47                In their campaigns, the parties deal with the most important problems of the nation
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/47
+
+      h48                Interviewee believes what the parties say during the election campaign
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/48
+
+      h49                The campaign was necessary before the elections
+
+              VALUE  LABEL
+                  1  Very necessary
+                  2  Necessary
+                  3  Not so necessary
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/49
+
+      h50                To what extent interviewee read public opinion polls before the elections
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/50
+
+      h51                To what extent those polls helped interviewee decide whom to vote for
+
+              VALUE  LABEL
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/51
+
+      h52                Party position interviewee identifies with on foreign and security affairs
+
+              VALUE  LABEL
+                  1  The Alignment's
+                  2  The Likud's
+                  3  The Left's
+
+              Data type: numeric
+              Record/column: 1/52
+
+      h53                Party interviewee voted for in the 1969 Knesset elections
+
+              VALUE  LABEL
+                 01  Free Center
+                 02  Gahal
+                 03  Independent Liberals
+                 04  Alignment
+                 05  Poalei Agudat Yisrael
+                 06  National Religious Party
+                 07  Agudat Yisrael
+                 08  HaOlam HaZeh
+                 09  Reshima Mamlachtit
+                 10  Israeli Communist Party
+                 11  Rakach
+                 12  Other
+                 13  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/53-54
+
+      h54                Party interviewee voted for in last elections
+
+              VALUE  LABEL
+                 01  Likud
+                 02  Independent Liberals
+                 03  Alignment
+                 04  Agudat Yisrael/A. Y. Workers
+                 05  National Religious Party
+                 06  Meri (HaOlam HaZeh)
+                 07  Moked (ICP and Meir Pa'il)
+                 08  Rakach
+                 09  Shulamit Aloni
+                 10  Israeli Democrats
+                 11  Other
+                 12  Did not vote
+
+              Data type: numeric
+              Record/columns: 1/55-56
+
+      h55                Interviewee voted for same party in municipal and Knesset elections
+
+              VALUE  LABEL
+                  1  Yes
+                  2  No
+                  3  Municipal party not run in Knesset elec.
+                  4  Did not vote for the Knesset
+                  5  Did not vote for municipal government
+                  6  Did not vote for either
+
+              Data type: numeric
+              Record/column: 1/57
+
+      h56                Following election results, party interviewee would vote for if elections were held again
+
+              VALUE  LABEL
+                 01  Likud
+                 02  Independent Liberals
+                 03  Alignment
+                 04  Agudat Yisrael/A. Y. Workers
+                 05  National Religious Party
+                 06  Meri
+                 07  Moked
+                 08  Rakach
+                 09  Shulamit Aloni
+                 10  Israeli Democrats
+                 11  Other
+                 12  Independent Liberals-Shulamit Aloni
+
+              Data type: numeric
+              Record/columns: 1/58-59
+
+      h57                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 1/62
+
+      h58                Interviewee was in reserves during or because of Yom Kippur War
+
+              VALUE  LABEL
+                  1  Was not in reserves
+                  2  Was in for less than two weeks
+                  3  From two weeks to a month
+                  4  From one month to one month and a half
+                  5  From one and a half months to 2 months
+                  6  From 2 months to 2 and a half months
+                  7  From 2 and a half months to 3 months
+                  8  More than 3 months
+
+              Data type: numeric
+              Record/column: 1/63
+
+      h59                Years of schooling
+
+              VALUE  LABEL
+                  1  No schooling
+                  2  Up to 4 years
+                  3  5-8
+                  4  9-10
+                  5  11
+                  6  12
+                  7  13+, without University degree
+                  8  Full University education
+
+              Data type: numeric
+              Record/column: 1/64
+
+      h60                Age
+
+              VALUE  LABEL
+                  1  20-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 1/65
+
+      h61                Total gross monthly income for entire household
+
+              VALUE  LABEL
+                  1  0-559 IL/month
+                  2  600-799
+                  3  800-999
+                  4  1000-1249
+                  5  1250-1499
+                  6  1500-1749
+                  7  1750-1999
+                  8  2000-2499
+                  9  2500+
+
+              Data type: numeric
+              Record/column: 1/66
+
+      h62                Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  1  Observes them thoroughly
+                  2  Observes most of them
+                  3  Observes some of them
+                  4  Does not observe them at all
+
+              Data type: numeric
+              Record/column: 1/67
+
+      h63                Occupation
+
+              VALUE  LABEL
+                  1  Free professional w/University degree
+                  2  Free professional w/out Univ. degree
+                  3  Business manager/owner w/11+ workers
+                  4  Business manager/owner w/3-10 workers
+                  5  Business manager/owner w/0-2 workers
+                  6  Skilled worker
+                  7  Unskilled worker
+                  8  Student
+                  9  Housewife
+
+              Data type: numeric
+              Record/column: 1/68
+
+      h64                Place of birth/father's place of birth
+
+              VALUE  LABEL
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia--Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 1/69
+
+      h65                Place of interview
+
+              VALUE  LABEL
+                  1  Jerusalem
+                  2  Tel Aviv area
+                  3  Haifa area
+
+              Data type: numeric
+              Record/column: 1/70
+
+      h66                Date of interview
+
+              VALUE  LABEL
+                  1  Sunday, January 13, 1974
+                  2  Monday, January 14, 1974
+                  3  Tuesday, January 15, 1974
+
+              Data type: numeric
+              Record/column: 1/71
+

@@ -1,0 +1,1575 @@
+
+                                                           CODEBOOK
+
+
+                                                      Election Study 1973, phase 1
+
+                                                           CONTENTS
+
+****    May 1973
+
+      v1                 Respondent number                                                                                        
+      v2                 Interviewee's general situation today in comparison to his situation 4 years ago-improved/gotten worse
+      v3                 The country's situation has improved/gotten worse
+      v4                 To what extent interviewee is interested in politics
+      v5                 Interviewee generally attends lectures on political subjects
+      v6                 In the period before the elections,interviewee participates in meetings organized by the parties
+      v7                 Two main sources of information on political affairs
+      v8                 To what extent interviewee talks about politics with friends
+      v9                 Interviewee votes like friends
+      v10                Spouse votes like interviewee
+      v11                To what extent interviewee discusses politics with close relatives
+      v12                Most of interviewee's relatives vote like him
+      v13                Main reason why interviewee votes
+      v14                The opposition serves the country in the same way the party in government does
+      v15                Elections, making people vote for different parties, hurt the unity of the nation
+      v16                Politicians use the elections to take advantage of the people
+      v17                Youth movement interviewee participated in
+      v18                Party interviewee supports or tends to support is similar to the youth movement he belonged to
+      v19                Interviewee's father is interested in politics
+      v20                Interviewee usually discusses/ed politics with father
+      v22                Interviewee definition of the ideal political party
+      v23                Interviewee definition of the ideal political party
+      v24                Interviewee definition of the ideal political party
+      v25                Interviewee definition of the ideal political party
+      v26                Interviewee definition of the ideal political party
+      v27                The first of the two most important problems the government should be taking care of
+      v28                The second problem
+      v29                Government will soon find a solution for the above mentioned two problems
+      v30                Party stands on the first issue differ
+      v31                Party stands on the second issue differ
+      v32                Interviewee identifies with a specific party's stand on the first problem/this influences way he votes
+      v33                Interviewee identifies with a specific party's stand on the second problem/this influences way he votes
+      v34                When interviewee decided to vote
+      v35                Factor making interviewee decide whom to vote for, for those who wait to decide
+      v36                To what extent election campaign helps decide whom to vote for
+      v37                To what extent radio broadcasts help decide whom to vote for
+      v38                To what extent the press helps decide whom to vote for
+      v39                To what extent television helps decide whom to vote for
+      v40                Interviewee is interested in the subject of social and economic inequality in Israel
+      v41                To what extent interviewee agrees that there is too much social and economic inequality in Israel
+      v42                To what extent the issue of socio-economic inequality will influence the results of the election
+      v43                To what extent the parties differ in their stands on socio-economic inequality
+      v44                Party whose stand on socio-economic inequality interviewee identifies with
+      v45                Party whose stand on socio-economic inequality is very far from interviewee's stand
+      v46                How the issue of socio-economic inequality will influence interviewee's vote in next election
+      v47                Interviewee will withdraw support for party if it changes its stand on this issue
+      v48                Interviewee is usually interested in security problems
+      v49                Israel has to give up occupied territories if wants to maintain Jewish character&come closer to peace
+      v50                To what extent territories issue will influence results of next election
+      v51                To what extent party stands differ on territories issue
+      v52                Party whose stand on territories issue interviewee identifies with
+      v53                Party whose stand on territories issue is very far from interviewee's stand
+      v54                How the territories issue will influence interviewee's vote in next election
+      v55                If party supported changes its stand on territories issue interviewee will vote for different party
+
+****    INTERVIEWEE DEFINITION OF GAHAL - GRADED SCALE 1-7
+
+      v57                Interviewee definition of voters
+      v58                Interviewee definition of voters
+      v59                Interviewee definition of voters
+      v60                Interviewee definition of voters
+      v61                Interviewee definition of voters
+      v62                Interviewee definition of voters
+      v63                Interviewee definition of voters
+      v64                Interviewee definition of voters
+      v65                The Histadrut should be at the same time factory owner and workers' representative
+      v66                To what extent interviewee and friends can influence policy-making
+      v67                To what extent the elections can influence policy-making
+      v68                A few strong leaders can help the country more than all the discussions and laws
+      v69                Political tendency interviewee identifies with
+
+****    INTERVIEWEE DEFINITION OF THE ALIGNMENT, GRADED SCALE 1-7
+
+      v71                Interviewee definition of the Alignment
+      v72                Interviewee definition of the Alignment
+      v73                Interviewee definition of the Alignment
+      v74                Interviewee definition of the Alignment
+      v75                Record type
+      b3                 Interviewee definition of the Alignment
+      b4                 Interviewee definition of the Alignment
+      b5                 Interviewee definition of the Alignment
+      b6                 Interviewee definition of the Alignment
+      b7                 Important for interviewee to vote in elections
+      b8                 To what extent Gahal presents a possible substitute for the Labour Party in government
+      b9                 Gahal winning the election would bring a change for the better or for the worse regarding social and economic inequality
+      b10                Gahal winning the elections would bring a change for the better or for the worse with regard to security policies
+      b11                Interviewee supports, is a member or an official of a party
+      b12                Interviewee intends to vote in coming elections
+      b13                Interviewee's opinion of the National Religious Party
+      b14                Interviewee's opinion of Gahal
+      b15                Interviewee's opinion about the Alignment Labour-Mapam
+      b16                To what extent interviewee is sure about the party he will vote for in the Knesset elections
+      b17                The most important problem the municipality has to deal with
+      b18                Daily newspaper interviewee reads during the week
+      b19                Number of hours a week interviewee watches Israeli television
+      b20                Party interviewee would vote for if elections held today
+      b21                Party interviewee usually votes for if not the one mentioned above
+      b22                Party interviewee's farther usually votes for in Israel
+      b23                Sex
+      b24                Head of household
+      b25                Age
+      b26                Years of schooling
+      b27                Years of schooling of father
+      b28                Occupation
+      b29                Status at work
+      b30                Occupation of head of household
+      b31                Status at work of head of household, if employed
+      b32                Owner of place of work
+      b33                Interviewee works in the industrial sector
+      b34                Gross monthly income of interviewee alone
+      b35                Gross monthly income of interviewee and household
+      b36                Interviewee or head of household is a member of the Histadrut/medical insurance plan if not
+      b37                Interviewee observes religious traditions
+      b38                Place of birth/father's place of birth
+      b39                Year of immigration (Aliyah)
+      b40                Number of rooms in apartment
+      b41                Number of people usually living in apartment
+      b42                Density of living conditions
+      b43                Marital status
+      b44                Record type
+
+=========================================================================================
+
+      v1                 Respondent number
+
+              Data type: numeric
+              Record/columns: 1/1-4
+
+      v2                 Interviewee's general situation today in comparison to his situation 4 years ago-improved/gotten worse
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Improved
+                  2  Stayed the same
+                  3  Gotten worse
+
+              Data type: numeric
+              Record/column: 1/5
+
+      v3                 The country's situation has improved/gotten worse
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Improved
+                  2  Stayed the same
+                  3  Gotten worse
+
+              Data type: numeric
+              Record/column: 1/6
+
+      v4                 To what extent interviewee is interested in politics
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/7
+
+      v5                 Interviewee generally attends lectures on political subjects
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Often
+                  2  Sometimes
+                  3  Never
+
+              Data type: numeric
+              Record/column: 1/8
+
+      v6                 In the period before the elections,interviewee participates in meetings organized by the parties
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Often
+                  2  Rarely
+                  3  Never
+                  4  Has not yet voted
+
+              Data type: numeric
+              Record/column: 1/9
+
+      v7                 Two main sources of information on political affairs
+
+              VALUE  LABEL
+                  0  No answer
+                  1  First radio, then television
+                  2  First television, then radio
+                  3  First newspapers, then radio
+                  4  First newspapers, then television
+                  5  First radio, then newspapers
+                  6  First television, then newspapers
+                  7  Only newspapers
+                  8  Only television
+                  9  Only radio
+
+              Data type: numeric
+              Record/column: 1/10
+
+      v8                 To what extent interviewee talks about politics with friends
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/11
+
+      v9                 Interviewee votes like friends
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Usually like most of his friends
+                  2  Usually not like most of his friends
+                  3  Has not yet voted
+
+              Data type: numeric
+              Record/column: 1/12
+
+      v10                Spouse votes like interviewee
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+                  3  Not married
+                  4  Has not yet voted
+
+              Data type: numeric
+              Record/column: 1/13
+
+      v11                To what extent interviewee discusses politics with close relatives
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/14
+
+      v12                Most of interviewee's relatives vote like him
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+                  3  Has not yet voted
+
+              Data type: numeric
+              Record/column: 1/15
+
+      v13                Main reason why interviewee votes
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To feel like part of the people
+                  2  To show solidarity with supported party
+                  3  To choose who will be in government
+                  4  To criticize the government
+                  5  To be like friends who vote
+                  6  To fulfill duty towards country
+                  7  Does not vote
+
+              Data type: numeric
+              Record/column: 1/16
+
+      v14                The opposition serves the country in the same way the party in government does
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  Maybe yes
+                  3  Maybe not
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/17
+
+      v15                Elections, making people vote for different parties, hurt the unity of the nation
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  Maybe yes
+                  3  Maybe not
+                  4  Definitely not
+
+              Data type: numeric
+              Record/column: 1/18
+
+      v16                Politicians use the elections to take advantage of the people
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely disagrees
+
+              Data type: numeric
+              Record/column: 1/19
+
+      v17                Youth movement interviewee participated in
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Hanoar haoved ve'halomed
+                  2  Hat'nuah ha meuchedet
+                  3  Tsofim
+                  4  Hashomer Hatsair
+                  5  B'nei Akiva
+                  6  Hanoar Hadati Haoved
+                  7  Hanoar Haoved Haleumi
+                  8  Macabi Hatsair
+                  9  Dror-Machnot Olim
+                 10  Beitar
+                 11  Ezra
+                 12  Noar Tsioni
+                 13  Tseirei Agudat Israel
+                 14  Benot Agudat Israel
+                 15  Another movement abroad
+                 16  Another movement
+                 17  Did not participate in any movement
+
+              Data type: numeric
+              Record/columns: 1/20-21
+
+      v18                Party interviewee supports or tends to support is similar to the youth movement he belonged to
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+                  3  Was not a member of a youth movement
+
+              Data type: numeric
+              Record/column: 1/22
+
+      v19                Interviewee's father is interested in politics
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very interested
+                  2  Interested
+                  3  Not so interested
+                  4  Not at all
+                  5  Father passed away
+
+              Data type: numeric
+              Record/column: 1/23
+
+      v20                Interviewee usually discusses/ed politics with father
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very often
+                  2  Sometimes
+                  3  Rarely
+                  4  Not at all
+                  5  Father passed away
+
+              Data type: numeric
+              Record/column: 1/24
+
+      v22                Interviewee definition of the ideal political party
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/25
+
+      v23                Interviewee definition of the ideal political party
+
+              VALUE  LABEL
+                  1  Rightwing
+                  7  Leftwing
+
+              Data type: numeric
+              Record/column: 1/26
+
+      v24                Interviewee definition of the ideal political party
+
+              VALUE  LABEL
+                  1  Conservative
+                  7  Progressive
+
+              Data type: numeric
+              Record/column: 1/27
+
+      v25                Interviewee definition of the ideal political party
+
+              VALUE  LABEL
+                  1  Middle-class
+                  7  Proletariat
+
+              Data type: numeric
+              Record/column: 1/28
+
+      v26                Interviewee definition of the ideal political party
+
+              VALUE  LABEL
+                  1  Inexperienced
+                  7  Experienced
+
+              Data type: numeric
+              Record/column: 1/29
+
+      v27                The first of the two most important problems the government should be taking care of
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security (occupied territories)
+                  2  Peace
+                  3  Economy
+                  4  Social and domestic problems
+                  5  Immigration and absorption
+                  6  Socio-economic inequality
+                  7  Young couples and housing
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/30
+
+      v28                The second problem
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Security
+                  2  Peace
+                  3  Economy
+                  4  Social and domestic problems
+                  5  Immigration and absorption
+                  6  Socio-economic inequality
+                  7  Young couples and housing
+                  8  Education
+                  9  Other
+
+              Data type: numeric
+              Record/column: 1/31
+
+      v29                Government will soon find a solution for the above mentioned two problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  It will solve both of them soon
+                  2  It will solve the first one soon
+                  3  It will solve the second one soon
+                  4  It will not solve either of them soon
+
+              Data type: numeric
+              Record/column: 1/32
+
+      v30                Party stands on the first issue differ
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Differ greatly
+                  2  Differ
+                  3  Differ little
+                  4  Differ very little
+                  5  Do not differ
+
+              Data type: numeric
+              Record/column: 1/33
+
+      v31                Party stands on the second issue differ
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Differ greatly
+                  2  Differ
+                  3  Differ little
+                  4  Differ very little
+                  5  Do not differ
+
+              Data type: numeric
+              Record/column: 1/34
+
+      v32                Interviewee identifies with a specific party's stand on the first problem/this influences way he votes
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Greatly influences way he votes
+                  2  Influences
+                  3  Influences a little
+                  4  Has no influence
+                  5  Does not identify with spec. party stand
+
+              Data type: numeric
+              Record/column: 1/35
+
+      v33                Interviewee identifies with a specific party's stand on the second problem/this influences way he votes
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Greatly influences
+                  2  Influences
+                  3  Influences a little
+                  4  Has no influence
+                  5  Does not identify with spec. party stand
+
+              Data type: numeric
+              Record/column: 1/36
+
+      v34                When interviewee decided to vote
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Decided early
+                  2  Waited to the last minute
+
+              Data type: numeric
+              Record/column: 1/37
+
+      v35                Factor making interviewee decide whom to vote for, for those who wait to decide
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Party platform
+                  2  The candidates
+                  3  Party's behaviour
+                  4  Propaganda (radio, television, etc.)
+                  5  The country's situation (economy, etc.)
+                  7  Unknown
+                  8  No party to vote for/no reason to decide
+                  9  Already decided
+
+              Data type: numeric
+              Record/column: 1/38
+
+      v36                To what extent election campaign helps decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/39
+
+      v37                To what extent radio broadcasts help decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/40
+
+      v38                To what extent the press helps decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/41
+
+      v39                To what extent television helps decide whom to vote for
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/42
+
+      v40                Interviewee is interested in the subject of social and economic inequality in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very interested
+                  2  Interested
+                  3  Not so interested
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/43
+
+      v41                To what extent interviewee agrees that there is too much social and economic inequality in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Absolutely agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely disagrees
+
+              Data type: numeric
+              Record/column: 1/44
+
+      v42                To what extent the issue of socio-economic inequality will influence the results of the election
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/45
+
+      v43                To what extent the parties differ in their stands on socio-economic inequality
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  No differences
+
+              Data type: numeric
+              Record/column: 1/46
+
+      v44                Party whose stand on socio-economic inequality interviewee identifies with
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Free Center
+                 02  Gahal
+                 03  Independent Liberals
+                 04  Alignment Labor-Mapam
+                 05  Poalei Agudat Yisrael
+                 06  National Religious Party
+                 07  Agudat Yisrael
+                 08  Israel Communist Party
+                 09  Rakach
+                 10  HaOlam HaZeh
+                 11  Reshima Mamlachtit
+                 12  Ethnic list
+                 13  Does not identify with any party
+
+              Data type: numeric
+              Record/columns: 1/47-48
+
+      v45                Party whose stand on socio-economic inequality is very far from interviewee's stand
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Free Center
+                 02  Gahal
+                 03  Independent Liberals
+                 04  Alignment Labor-Mapam
+                 05  Poalei Agudat Yisrael
+                 06  National Religious Party
+                 07  Agudat Yisrael
+                 08  HaOlam HaZeh
+                 09  Reshima Mamlachtit
+                 10  Ethnic list
+                 11  No party very far from interviewee stand
+
+              Data type: numeric
+              Record/columns: 1/49-50
+
+      v46                How the issue of socio-economic inequality will influence interviewee's vote in next election
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very much
+                  2  Somewhat
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/51
+
+      v47                Interviewee will withdraw support for party if it changes its stand on this issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  Thinks so
+                  3  Does not think so
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 1/52
+
+      v48                Interviewee is usually interested in security problems
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very interested
+                  2  Interested
+                  3  Not so interested
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/53
+
+      v49                Israel has to give up occupied territories if wants to maintain Jewish character&come closer to peace
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Israel has to give up all territoriess
+                  2  Has to give up part of territories
+                  3  Has to give up small part of territories
+                  4  Should not give anything back
+
+              Data type: numeric
+              Record/column: 1/54
+
+      v50                To what extent territories issue will influence results of next election
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/55
+
+      v51                To what extent party stands differ on territories issue
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/56
+
+      v52                Party whose stand on territories issue interviewee identifies with
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Free Center
+                 02  Gahal
+                 03  Independent Liberals
+                 04  Alignment Labor-Mapam
+                 05  Poalei Agudat Yisrael
+                 06  National Religious Party
+                 07  Agudat Yisrael
+                 08  Israel Communist Party
+                 09  Rakach
+                 10  HaOlam HaZeh
+                 11  Reshima Mamlachtit
+                 12  Ethnic list
+                 13  Does not identify with any party
+
+              Data type: numeric
+              Record/columns: 1/57-58
+
+      v53                Party whose stand on territories issue is very far from interviewee's stand
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Free Center
+                 02  Gahal
+                 03  Independent Liberals
+                 04  Alignment Labor-Mapam
+                 05  Poalei Agudat Yisrael
+                 06  National Religious Party
+                 07  Agudat Yisrael
+                 08  HaOlam HaZeh
+                 09  Reshima Mamlachtit
+                 10  Ethnic list
+                 11  No party stand is very far from his
+
+              Data type: numeric
+              Record/columns: 1/59-60
+
+      v54                How the territories issue will influence interviewee's vote in next election
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very much
+                  2  Somewhat
+                  3  A little
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/61
+
+      v55                If party supported changes its stand on territories issue interviewee will vote for different party
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly yes
+                  2  Thinks so
+                  3  Does not think so
+                  4  Certainly not
+
+              Data type: numeric
+              Record/column: 1/62
+
+      v57                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/63
+
+      v58                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Young
+                  7  Old
+
+              Data type: numeric
+              Record/column: 1/64
+
+      v59                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Rightwing
+                  7  Leftwing
+
+              Data type: numeric
+              Record/column: 1/65
+
+      v60                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Conservative
+                  7  Progressive
+
+              Data type: numeric
+              Record/column: 1/66
+
+      v61                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Sephardic
+                  7  Ahskenazi
+
+              Data type: numeric
+              Record/column: 1/67
+
+      v62                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Middle-class
+                  7  Proletariat
+
+              Data type: numeric
+              Record/column: 1/68
+
+      v63                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Honest
+                  7  Corrupt
+
+              Data type: numeric
+              Record/column: 1/69
+
+      v64                Interviewee definition of voters
+
+              VALUE  LABEL
+                  1  Inexperienced
+                  7  Experienced
+
+              Data type: numeric
+              Record/column: 1/70
+
+      v65                The Histadrut should be at the same time factory owner and workers' representative
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Certainly agrees
+                  2  Agrees
+                  3  Disagrees
+                  4  Absolutely agrees
+
+              Data type: numeric
+              Record/column: 1/71
+
+      v66                To what extent interviewee and friends can influence policy-making
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/72
+
+      v67                To what extent the elections can influence policy-making
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/73
+
+      v68                A few strong leaders can help the country more than all the discussions and laws
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 1/74
+
+      v69                Political tendency interviewee identifies with
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Left
+                  2  Moderate left
+                  3  Center
+                  4  Right
+                  5  Religious
+                  6  None
+
+              Data type: numeric
+              Record/column: 1/75
+
+      v71                Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Strong
+                  7  Weak
+
+              Data type: numeric
+              Record/column: 1/76
+
+      v72                Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Young
+                  7  Old
+
+              Data type: numeric
+              Record/column: 1/77
+
+      v73                Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Rightwing
+                  7  Leftwing
+
+              Data type: numeric
+              Record/column: 1/78
+
+      v74                Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Conservative
+                  7  Progressive
+
+              Data type: numeric
+              Record/column: 1/79
+
+      v75                Record type
+
+              Data type: numeric
+              Record/column: 1/80
+
+      b3                 Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Sepharadic
+                  7  Ashkenazi
+
+              Data type: numeric
+              Record/column: 2/5
+
+      b4                 Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Middle-class
+                  7  Proletariat
+
+              Data type: numeric
+              Record/column: 2/6
+
+      b5                 Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Honest
+                  7  Corrupt
+
+              Data type: numeric
+              Record/column: 2/7
+
+      b6                 Interviewee definition of the Alignment
+
+              VALUE  LABEL
+                  1  Inexperienced
+                  7  Experienced
+
+              Data type: numeric
+              Record/column: 2/8
+
+      b7                 Important for interviewee to vote in elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very important
+                  2  Important
+                  3  Not so important
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/9
+
+      b8                 To what extent Gahal presents a possible substitute for the Labour Party in government
+
+              VALUE  LABEL
+                  0  No answer
+                  1  To a great extent
+                  2  To a certain extent
+                  3  To a small extent
+                  4  Not at all
+
+              Data type: numeric
+              Record/column: 2/10
+
+      b9                 Gahal winning the election would bring a change for the better or for the worse regarding social and economic inequality
+
+              VALUE  LABEL
+                  0  No answer
+                  1  For the better
+                  2  No change
+                  3  For the worse
+
+              Data type: numeric
+              Record/column: 2/11
+
+      b10                Gahal winning the elections would bring a change for the better or for the worse with regard to security policies
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Change for the better
+                  2  No change
+                  3  Change for the worse
+
+              Data type: numeric
+              Record/column: 2/12
+
+      b11                Interviewee supports, is a member or an official of a party
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Member and salaried official
+                  2  Member and unsalaried official
+                  3  Member, holds no office
+                  4  Supporter
+                  5  Does not support any specific party
+
+              Data type: numeric
+              Record/column: 2/13
+
+      b12                Interviewee intends to vote in coming elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+
+              Data type: numeric
+              Record/column: 2/14
+
+      b13                Interviewee's opinion of the National Religious Party
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Its candidates are good
+                  2  Its candidates are bad
+                  3  Its stands are like interviewee's
+                  4  Its stands are very diff. from interview
+                  5  Its members are like interviewee
+                  6  Its members are different from interview
+                  7  It can be trusted
+                  8  It cannot be trusted
+
+              Data type: numeric
+              Record/column: 2/15
+
+      b14                Interviewee's opinion of Gahal
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Its candidates are good
+                  2  Its candidates are bad
+                  3  Its stands are like interviewee's
+                  4  Its stands are very diff. from interview
+                  5  Its people are like interviewee
+                  6  Its people are different from interviewe
+                  7  It can be trusted
+                  8  It cannot be trusted
+
+              Data type: numeric
+              Record/column: 2/16
+
+      b15                Interviewee's opinion about the Alignment Labour-Mapam
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Its candidates are good
+                  2  Its candidates are bad
+                  3  Its stands are like interviewee's
+                  4  Its stands are very diff. from interview
+                  5  Its people are like interviewee
+                  6  Its people are different from interviewe
+                  7  It can be trusted
+                  8  It cannot be trusted
+
+              Data type: numeric
+              Record/column: 2/17
+
+      b16                To what extent interviewee is sure about the party he will vote for in the Knesset elections
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Very sure
+                  2  Sure
+                  3  Not so sure
+                  4  Not at all sure
+
+              Data type: numeric
+              Record/column: 2/18
+
+      b17                The most important problem the municipality has to deal with
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Improvement of services
+                  2  Development and enlargement of city
+                  3  Providing income sources (hotels, indus)
+                  4  Other
+
+              Data type: numeric
+              Record/column: 2/19
+
+      b18                Daily newspaper interviewee reads during the week
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Ma'ariv
+                 02  Yedioth Aharonoth
+                 03  Ha'Aretz
+                 04  Davar
+                 05  Jerusalem Post
+                 06  Other Hebrew newspaper
+                 07  Other foreign language newspaper
+                 08  Ma'ariv and Ha'Aretz
+                 09  Yedioth Aharonoth and Ha'Aretz
+                 10  Two other newspapers
+                 11  Only reads newspapers on Friday
+                 12  Never reads the newspaper
+
+              Data type: numeric
+              Record/columns: 2/20-21
+
+      b19                Number of hours a week interviewee watches Israeli television
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Does not watch Israeli television
+                  2  1-2 hours per week
+                  3  3-5
+                  4  6-10
+                  5  11-15
+                  6  16-20
+                  7  21+
+
+              Data type: numeric
+              Record/column: 2/22
+
+      b20                Party interviewee would vote for if elections held today
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Free Center
+                 02  Gahal
+                 03  Independent Liberals
+                 04  Alignment Labour-Mapam
+                 05  Poalei Agudat Yisael
+                 06  National Religious Party
+                 07  Agudat Yisrael
+                 08  Israeli Communist Party
+                 09  Rakach
+                 10  HaOlam HaZeh
+                 11  Reshima Mamlachtit
+                 12  Reshima Ezrachit
+
+              Data type: numeric
+              Record/columns: 2/23-24
+
+      b21                Party interviewee usually votes for if not the one mentioned above
+
+              VALUE  LABEL
+                  0  No answer
+                 01  Same party as mentioned above
+                 02  Free Center
+                 03  Gahal
+                 04  Independent Liberals
+                 05  Alignment Labour-Mapam
+                 06  Poalei Agudat Yisrael
+                 07  National Religous Party
+                 08  Agudat Yisrael
+                 09  Israeli Communist Party
+                 10  Rakach
+                 11  HaOlam HaZeh
+                 12  Reshima Mamlahtit
+                 13  Reshima Ezrachit
+                 14  First-time voter
+
+              Data type: numeric
+              Record/columns: 2/25-26
+
+      b22                Party interviewee's farther usually votes for in Israel
+
+              VALUE  LABEL
+                  0  No answer
+                 19  Other
+                 20  Never voted in Israel
+
+              Data type: numeric
+              Record/columns: 2/27-28
+
+      b23                Sex
+
+              VALUE  LABEL
+                  1  Male
+                  2  Female
+
+              Data type: numeric
+              Record/column: 2/29
+
+      b24                Head of household
+
+              VALUE  LABEL
+                  1  Interviewee
+                  2  Husband
+                  3  Father
+                  4  Son
+                  5  Other
+
+              Data type: numeric
+              Record/column: 2/30
+
+      b25                Age
+
+              VALUE  LABEL
+                  1  20-24
+                  2  25-29
+                  3  30-34
+                  4  35-39
+                  5  40-44
+                  6  45-49
+                  7  50-54
+                  8  55-64
+                  9  65+
+
+              Data type: numeric
+              Record/column: 2/31
+
+      b26                Years of schooling
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Did not study
+                  2  Studied up to 4 years
+                  3  5-8 years
+                  4  9-10
+                  5  11
+                  6  12
+                  7  Post secondary education, no Univ.degree
+                  8  Completed University
+
+              Data type: numeric
+              Record/column: 2/32
+
+      b27                Years of schooling of father
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Did not study
+                  2  Studied up to 4 years
+                  3  5-8 Years
+                  4  9-10
+                  5  11
+                  6  12
+                  7  Post secondary, no University degree
+                  8  Completed University
+
+              Data type: numeric
+              Record/column: 2/33
+
+      b28                Occupation
+
+              VALUE  LABEL
+                  0  Unemployed
+                  1  Free professional with University degree
+                  2  Free professional without Univ. degree
+                  3  Business owner or manager w/11+ workers
+                  4  Business owner or manager w/3-10 workers
+                  5  Business owner or manager w/0-2 workers
+                  6  Skilled worker
+                  7  Unskilled worker
+                  8  Student
+                  9  Other
+
+              Data type: numeric
+              Record/column: 2/34
+
+      b29                Status at work
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Employee
+                  2  Independent, employer
+                  3  Independent, not employer
+                  4  Member of cooperative
+                  5  Other
+                  6  Unemployed, looking for work
+                  7  Housewife
+                  8  Retired
+                  9  Other
+
+              Data type: numeric
+              Record/column: 2/35
+
+      b30                Occupation of head of household
+
+              VALUE  LABEL
+                  1  Free professional w/university degree
+                  2  Free professional without univ. degree
+                  3  Business owner/manager with 11+ workers
+                  4  Business owner/manager with 3-10 workers
+                  5  Business owner/manager with 0-2 workers
+                  6  Skilled worker
+                  7  Unskilled worker
+                  8  Other
+                  9  Unemployed
+
+              Data type: numeric
+              Record/column: 2/36
+
+      b31                Status at work of head of household, if employed
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Salaried worker
+                  2  Independent, employer
+                  3  Independent, not employer
+                  4  Member of cooperative
+                  5  Other
+                  6  Unemployed, seeking employment
+                  7  Housewife
+                  8  Retired
+                  9  Other reason for unemployment
+
+              Data type: numeric
+              Record/column: 2/37
+
+      b32                Owner of place of work
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Interviewee, head of household
+                  2  Private owners
+                  3  Histadrut
+                  4  Public sector
+                  5  Other
+                  6  Does not work
+
+              Data type: numeric
+              Record/column: 2/38
+
+      b33                Interviewee works in the industrial sector
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  No
+                  6  Does not work
+
+              Data type: numeric
+              Record/column: 2/39
+
+      b34                Gross monthly income of interviewee alone
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0-199 IL/month
+                  2  200-399
+                  3  400-599
+                  4  600-799
+                  5  800-999
+                  6  1000-1249
+                  7  1250-1499
+                  8  1500-1749
+                  9  1750+
+
+              Data type: numeric
+              Record/column: 2/40
+
+      b35                Gross monthly income of interviewee and household
+
+              VALUE  LABEL
+                  0  No answer
+                  1  0-199 IL/month
+                  2  200-399
+                  3  400-599
+                  4  600-799
+                  5  800-999
+                  6  1000-1249
+                  7  1250-1499
+                  8  1500-1749
+                  9  1750+
+
+              Data type: numeric
+              Record/column: 2/41
+
+      b36                Interviewee or head of household is a member of the Histadrut/medical insurance plan if not
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Yes
+                  2  National Workers Kupat Holim
+                  3  Kupat Holim Maccabbee
+                  4  Kupat Holim Merkazit (General Zionists)
+                  5  Kupat Holim Amamit
+                  6  Other
+                  7  Receives medical treatment from welfare
+                  8  Receives medical treatment privately
+                  9  Receives medical treatment in other way
+
+              Data type: numeric
+              Record/column: 2/42
+
+      b37                Interviewee observes religious traditions
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Observes them thoroughly
+                  2  To a great extent
+                  3  To a small extent
+                  4  Does not observe them at all
+
+              Data type: numeric
+              Record/column: 2/43
+
+      b38                Place of birth/father's place of birth
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Israel/Israel
+                  2  Israel/Asia-Africa
+                  3  Israel/Europe-America
+                  4  Asia-Africa/Asia-Africa
+                  5  Europe-America/Europe-America
+                  6  Any other combination
+
+              Data type: numeric
+              Record/column: 2/44
+
+      b39                Year of immigration (Aliyah)
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Born in Israel
+                  2  Before 1930
+                  3  1931-1940
+                  4  1941-1947
+                  5  1948-1954
+                  6  1955-1959
+                  7  1960-1965
+                  8  1966+
+
+              Data type: numeric
+              Record/column: 2/45
+
+      b40                Number of rooms in apartment
+
+              VALUE  LABEL
+                  0  Does not live in an apartment
+                  1  One room
+                  9  9+
+
+              Data type: numeric
+              Record/column: 2/46
+
+      b41                Number of people usually living in apartment
+
+              VALUE  LABEL
+                  0  Does not live in an apartment
+                  1  One person
+                  9  9+
+
+              Data type: numeric
+              Record/column: 2/47
+
+      b42                Density of living conditions
+
+              VALUE  LABEL
+                  0  Does not live in an apartment
+                  1  Up to 1.00
+                  2  1.00-1.49
+                  3  1.50-1.99
+                  4  2.00-2.49
+                  5  2.50-2.99
+                  6  3.00-3.49
+                  7  3.50-3.99
+                  8  4.00+
+
+              Data type: numeric
+              Record/column: 2/48
+
+      b43                Marital status
+
+              VALUE  LABEL
+                  0  No answer
+                  1  Single
+                  2  Widowed/divorced, without children
+                  3  Married without children
+                  4  Widowed/divorced, with 1-2 children
+                  5  Widowed/divorced, with 3 children
+                  6  Widowed/divorced, with 4 children
+                  7  Married with 1-2 children
+                  8  Married with 3 children
+                  9  Married with 4+ children
+
+              Data type: numeric
+              Record/column: 2/49
+
+      b44                Record type
+
+              Data type: numeric
+              Record/column: 2/80
+
