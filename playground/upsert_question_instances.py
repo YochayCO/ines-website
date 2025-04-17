@@ -24,7 +24,6 @@ question_index_file = os.path.join(scriptpath, "question_index.xlsx")
 
 stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
 statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
-surveys_data_folder = os.path.join(scriptpath, "..", "..", "public/surveys_data")
 
 supabase: Client = create_client(url, key)
 questions: list[dict[str, str]] = []
@@ -201,7 +200,6 @@ def find_all_duplicates(question_instances: list[dict[str, str]]) -> list[tuple[
 
 def create_question_instances():
     os.makedirs(statas_folder, exist_ok=True)
-    os.makedirs(surveys_data_folder, exist_ok=True)
 
     surveys_response = (
         supabase.table("surveys")
