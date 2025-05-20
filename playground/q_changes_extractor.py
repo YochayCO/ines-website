@@ -16,8 +16,10 @@ load_dotenv()
 scriptpath = os.path.dirname(os.path.abspath(__file__))
 
 # Fetch variables
-supabase_url: str = os.environ.get("SUPABASE_URL")
-supabase_key: str = os.environ.get("SUPABASE_KEY")
+supabase_url: str = os.environ.get("SUPABASE_URL") or ""
+supabase_key: str = os.environ.get("SUPABASE_KEY") or ""
+if not supabase_url or not supabase_key:
+    raise ValueError("SUPABASE_URL and SUPABASE_KEY must be set in the environment variables.")
 supabase: Client = create_client(supabase_url, supabase_key)
 
 class Survey(BaseModel):
@@ -41,7 +43,7 @@ class QuestionChange(BaseModel):
     wxl_question: Question
     main_change_type: str | None = None
     ratio: float | None = None
-    changes: list[dict[str, None | str | int | dict[str, str]]]
+    changes: list[dict[str, None | str | int | dict[int, str]]]
     pre_qi: QuestionInstance
     post_qi: QuestionInstance
 
@@ -62,25 +64,27 @@ CHANGE_PRIORITY = [
 
 def fetch_questions():
     global questions
-    questions = (
+    db_questions = (
         supabase
             .table("wxl_questions")
             .select("id, heb_title, category, q_instances(id, qid_s, wxl_survey(serial_num, wxl_survey_id), dta_description, dta_answers)")
             .execute()
             .data
     )
+
+    questions = [Question(**q) for q in db_questions]
     return questions
 
-def split_ordinal_and_other(answers: dict[str, str]) -> tuple[dict[str, str], dict[str, str]]:
+def split_ordinal_and_other(answers: dict[int, str]) -> tuple[dict[int, str], dict[int, str]]:
     # Convert string keys to integers
     int_keys = sorted(int(k) for k in answers.keys())
     first_ans_key = int_keys[0]
-    ordinal = {}
+    ordinal: dict[int, str] = {}
 
-    for i, (ans_key, ans_val) in enumerate(answers.items()):
-        str_i = str(i + first_ans_key)
-        if str_i == ans_key:
-            ordinal[str_i] = ans_val
+    for i, (curr_ans_key, ans_val) in enumerate(answers.items()):
+        curr_ordinal_key = first_ans_key + i
+        if curr_ordinal_key == curr_ans_key:
+            ordinal[curr_ans_key] = ans_val
         else:
             break  # ordinal block ends when there's a gap
     
@@ -93,35 +97,35 @@ def split_ordinal_and_other(answers: dict[str, str]) -> tuple[dict[str, str], di
 def identify_changes():
     for question in questions:
         # Sort question instances by serial number
-        question["q_instances"].sort(key=lambda qi: qi["wxl_survey"]["serial_num"])
+        question.q_instances.sort(key=lambda qi: qi.wxl_survey.serial_num)
 
-        for i in range(1, len(question["q_instances"])):
-            qi_prev = question["q_instances"][i - 1]
-            qi = question["q_instances"][i]
+        for i in range(1, len(question.q_instances)):
+            qi_prev = question.q_instances[i - 1]
+            qi = question.q_instances[i]
             changes = []
-            answers = qi["dta_answers"]
-            answers_prev = qi_prev["dta_answers"]
+            answers = qi.dta_answers
+            answers_prev = qi_prev.dta_answers
             change_ratio = None
 
             # Check for description changes
-            if qi["dta_description"] != qi_prev["dta_description"]:
+            if qi.dta_description != qi_prev.dta_description:
                 
                 # Check if change is minor
-                change_ratio = round(ratio(qi["dta_description"], qi_prev["dta_description"]), 2)
+                change_ratio = round(ratio(qi.dta_description or "", qi_prev.dta_description or ""), 2)
                 
                 if change_ratio > 0.99:
                     changes.append({ 
                         "type": "no_change_in_description", 
-                        "old": qi_prev["dta_description"], 
-                        "new": qi["dta_description"],
+                        "old": qi_prev.dta_description, 
+                        "new": qi.dta_description,
                     })
                     summarize_qi_changes(question, qi_prev, qi, changes)
                     continue
 
                 changes.append({ 
                     "type": "description", 
-                    "old": qi_prev["dta_description"], 
-                    "new": qi["dta_description"],
+                    "old": qi_prev.dta_description, 
+                    "new": qi.dta_description,
                 })
             
             if answers == None and answers_prev == None:
@@ -181,8 +185,12 @@ def identify_changes():
             ordinal_answer_labels_prev = list(ordinal_answers_prev.values())
             
             # Check if scale is backwards
-            if ordinal_answer_labels[0] == ordinal_answer_labels_prev[-1] and \
-                ordinal_answer_labels[-1] == ordinal_answer_labels_prev[0]:
+            if (
+                len(ordinal_answer_labels) > 0 and
+                len(ordinal_answer_labels_prev) > 0 and
+                ordinal_answer_labels[0] == ordinal_answer_labels_prev[-1] and
+                ordinal_answer_labels[-1] == ordinal_answer_labels_prev[0]
+            ):
                 changes.append({ 
                     "type": "scale_backwards", 
                     "old": ordinal_answer_labels_prev[0], 
@@ -218,14 +226,14 @@ def summarize_qi_changes(question, qi_prev, qi, changes, change_ratio = None):
     main_change_type = get_main_change_type(changes)
                     
             # Save the detected changes
-    qi_change = QuestionChange(
-        wxl_question=question,
-        pre_qi=qi_prev,
-        post_qi=qi,
-        changes=changes,
-        main_change_type=main_change_type,
-        ratio=change_ratio,
-    )
+    qi_change = QuestionChange(**{
+        "wxl_question": question,
+        "pre_qi": qi_prev,
+        "post_qi": qi,
+        "changes": changes,
+        "main_change_type": main_change_type,
+        "ratio": change_ratio,
+    })
             
     qi_changes.append(qi_change)
 
@@ -236,7 +244,7 @@ def get_main_change_type(changes: list[dict[str, None | str | dict[str, str]]]) 
     if len(changes) == 0:
         return None
 
-    change_types: list[str] = [c["type"] for c in changes]  # unique types
+    change_types: list[str] = [str(c.get("type")) for c in changes if isinstance(c.get("type"), str)]
     for priority in CHANGE_PRIORITY:
         if priority in change_types:
             return priority
@@ -278,6 +286,21 @@ if __name__ == "__main__":
     # save_qis_to_db(supabase, dict_qi_changes)
 
     final_qi_changes = []
+
+    def split_removed_added(diff_text: str) -> tuple[str, str]:
+        if not diff_text:
+            return "", ""
+        removed = ""
+        added = ""
+        parts = diff_text.split("Added:")
+        if len(parts) == 2:
+            removed = parts[0].replace("Removed:\n", "").strip()
+            added = parts[1].strip()
+        else:
+            # fallback: if "Added:" not found, treat all as removed
+            removed = diff_text.replace("Removed:\n", "").strip()
+        return removed, added
+
     for qi_change in dict_qi_changes:
         final_qi_change = {}
         # Switch the changes array to "first_change" and "second_change" properties
@@ -295,6 +318,7 @@ if __name__ == "__main__":
                 "wxl_survey_id": qi_change["pre_qi"]["wxl_survey"]["wxl_survey_id"],
             },
             "dta_description": qi_change["pre_qi"]["dta_description"],
+            "answers": qi_change["pre_qi"]["dta_answers"],
         }
         final_qi_change["post_qi"] = {
             "qid_s": qi_change["post_qi"]["qid_s"],
@@ -302,12 +326,28 @@ if __name__ == "__main__":
                 "wxl_survey_id": qi_change["post_qi"]["wxl_survey"]["wxl_survey_id"],
             },
             "dta_description": qi_change["post_qi"]["dta_description"],
+            "answers": qi_change["post_qi"]["dta_answers"],
         }
         final_qi_change["description_diff"] = get_diff(
             final_qi_change["pre_qi"]["dta_description"], 
             final_qi_change["post_qi"]["dta_description"]
         )
-        
+        description_removed, description_added = split_removed_added(final_qi_change["description_diff"])
+        final_qi_change["description_removed"] = description_removed
+        final_qi_change["description_added"] = description_added
+
+        final_qi_change["answers_diff"] = get_diff(
+            json.dumps(final_qi_change["pre_qi"]["answers"]) if len(final_qi_change["pre_qi"]["answers"] or []) > 0 else "",
+            json.dumps(final_qi_change["post_qi"]["answers"] ) if len(final_qi_change["post_qi"]["answers"] or []) > 0 else "",
+        )
+
+        answers_removed, answers_added = split_removed_added(final_qi_change["answers_diff"])
+        final_qi_change["answers_removed"] = answers_removed
+        final_qi_change["answers_added"] = answers_added
+
+        final_qi_change["pre_qi"]["answers"] = json.dumps(final_qi_change["pre_qi"]["answers"]) if len(final_qi_change["pre_qi"]["answers"] or []) > 0 else ""
+        final_qi_change["post_qi"]["answers"] = json.dumps(final_qi_change["post_qi"]["answers"]) if len(final_qi_change["post_qi"]["answers"] or []) > 0 else ""
+
         sorted_changes = sorted(
             qi_change["changes"], 
             key=lambda c: CHANGE_PRIORITY.index(c["type"])
@@ -316,12 +356,21 @@ if __name__ == "__main__":
         final_qi_change["first_change_type"] = sorted_changes[0]["type"] if len(sorted_changes) > 0 else ""
         final_qi_change["first_change_old"] = json.dumps(sorted_changes[0]["old"]) if len(sorted_changes) > 0 else ""
         final_qi_change["first_change_new"] = json.dumps(sorted_changes[0]["new"]) if len(sorted_changes) > 0 else ""
-        final_qi_change["ans_diff"] = get_diff(
+        final_qi_change["first_change_diff"] = get_diff(
             final_qi_change["first_change_old"], 
             final_qi_change["first_change_new"]
         )
         
+        first_removed, first_added = split_removed_added(final_qi_change["first_change_diff"])
+        final_qi_change["first_change_removed"] = first_removed
+        final_qi_change["first_change_added"] = first_added
+
         final_qi_change["second_change_type"] = sorted_changes[1]["type"] if len(sorted_changes) > 1 else ""
+
+        # Remove diff properties
+        final_qi_change.pop("description_diff", None)
+        final_qi_change.pop("answers_diff", None)
+        final_qi_change.pop("first_change_diff", None)
 
         final_qi_changes.append(final_qi_change)
 
@@ -343,11 +392,21 @@ if __name__ == "__main__":
         
         "ratio",
 
-        "description_diff",
+        "description_removed",
+        "description_added",
+        
         "pre_qi.dta_description", 
         "post_qi.dta_description",
 
-        "ans_diff",
+        "answers_removed",
+        "answers_added",
+        
+        "pre_qi.answers",
+        "post_qi.answers",
+
+        "first_change_removed",
+        "first_change_added",
+        
         "first_change_old",
         "first_change_new",
     ]
@@ -367,14 +426,30 @@ if __name__ == "__main__":
             "ratio": "מידת שינוי",
             "pre_qi.dta_description": "תיאור קודם",
             "post_qi.dta_description": "תיאור חדש",
+            "pre_qi.answers": "תשובות קודמות",
+            "post_qi.answers": "תשובות חדשות",
             "first_change_old": "לפני",
             "first_change_new": "אחרי",
         }
     )
-    
+    df = df.sort_values(by=["קטגוריה", "שאלה", "סקר_קודם"])
+
+    df_by_change_type = df.groupby('main_change_type')
+    df_by_change_type = filter(lambda item: item[0] != "", df_by_change_type)
+
     with pd.ExcelWriter(os.path.join(scriptpath, "qi_changes3.xlsx")) as writer:
-        for change_type, group in df.groupby('main_change_type'):
-            if change_type == "":
-                change_type = "no_change"
-            # Write each group to a sheet named after the change_type
-            group.to_excel(writer, sheet_name=change_type, index=False)
+        # Combine all groups into a single DataFrame with a separating row between each group
+        combined_df = pd.DataFrame()
+        for change_type, group in df_by_change_type:
+            # Add a column to indicate the change type (optional)
+            group_with_type = group.copy()
+            group_with_type.insert(0, "סוג שינוי", change_type)
+            combined_df = pd.concat([combined_df, group_with_type], ignore_index=True)
+            # Add a separating row (all empty except for the change type)
+            sep_row = {col: "" for col in combined_df.columns}
+            sep_row["סוג שינוי"] = ""  # or f"--- {change_type} ---"
+            combined_df = pd.concat([combined_df, pd.DataFrame([sep_row])], ignore_index=True)
+        # Remove the last separator row if present
+        if not combined_df.empty:
+            combined_df = combined_df.iloc[:-1]
+        combined_df.to_excel(writer, sheet_name="all_changes", index=False)

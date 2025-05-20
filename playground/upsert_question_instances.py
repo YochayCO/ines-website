@@ -16,8 +16,10 @@ DUP_QUESTION_SEPARATOR = "@@@"
 load_dotenv()
 
 # Fetch variables
-url: str = os.environ.get("SUPABASE_URL")
-key: str = os.environ.get("SUPABASE_KEY")
+supabase_url: str = os.environ.get("SUPABASE_URL") or ""
+supabase_key: str = os.environ.get("SUPABASE_KEY") or ""
+if not supabase_url or not supabase_key:
+    raise ValueError("SUPABASE_URL and SUPABASE_KEY must be set in the environment variables.")
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
 question_index_file = os.path.join(scriptpath, "question_index.xlsx")
@@ -25,7 +27,7 @@ question_index_file = os.path.join(scriptpath, "question_index.xlsx")
 stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
 statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
 
-supabase: Client = create_client(url, key)
+supabase: Client = create_client(supabase_url, supabase_key)
 questions: list[dict[str, str]] = []
 question_instances: list[dict[str, str]] = []
 surveys: list[dict[str, str]] = []
