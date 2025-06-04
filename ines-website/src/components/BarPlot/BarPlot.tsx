@@ -2,6 +2,7 @@ import { ComputedDatum, ResponsiveBar } from '@nivo/bar'
 import { BarGraphDatum } from '../../types/graph';
 import { RegularXTick } from '../AxisTick/AxisTick';
 import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
+import { getLabel } from '../../utils/graph';
 
 import './BarPlot.css'
 
@@ -9,11 +10,15 @@ interface BarPlotProps {
     data: BarGraphDatum[];
     xTitle: string;
     yTitle: string;
-    handleBarClick: (bar: ComputedDatum<BarGraphDatum>) => void;
+    handleBarClick: (barKey: string) => void;
     formattedLabel: (bar: ComputedDatum<BarGraphDatum>) => string;
 }
 
 export default function BarPlot({ data, xTitle, yTitle, handleBarClick, formattedLabel }: BarPlotProps) {
+    const handleLabelClick = (text: string) => {
+        handleBarClick(getLabel(text))
+    }
+    
     return (
         <div className='barplot-container'>
             <ResponsiveBar
@@ -24,7 +29,7 @@ export default function BarPlot({ data, xTitle, yTitle, handleBarClick, formatte
                 label={formattedLabel}
                 labelPosition='end'
                 labelOffset={10}
-                onClick={handleBarClick}
+                onClick={(computedBar) => handleBarClick(computedBar.indexValue as string)}
                 margin={{ top: 120, right: 160, bottom: 120, left: 90 }}
                 padding={0.12}
                 enableGridX
@@ -38,7 +43,7 @@ export default function BarPlot({ data, xTitle, yTitle, handleBarClick, formatte
                     tickSize: 5,
                     tickPadding: 5,
                     tickRotation: 20,
-                    renderTick: (tick) => <RegularXTick tick={tick} data={data} />,
+                    renderTick: (tick) => <RegularXTick tick={tick} data={data} onClick={handleLabelClick} />,
                 }}
                 axisLeft={{
                     tickSize: 5,

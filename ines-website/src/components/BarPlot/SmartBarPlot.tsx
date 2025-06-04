@@ -6,8 +6,8 @@ import SmartChart from '../SmartChart/SmartChart';
 
 export default function SmartBarPlot({ survey, x }: SmartBarPlotProps) {
     const { xAxis, graphData, graphMeta, graphCommons } = useBarGraph({ survey, x })
-    const handleBarClick = (bar: ComputedDatum<BarGraphDatum>) => {
-        xAxis.handleAnswerToggle(bar.indexValue as string)
+    const handleBarClick = (barKey: string) => {
+        xAxis.handleAnswerToggle(barKey)
     }
 
     const formattedLabel = (bar: ComputedDatum<BarGraphDatum>): string => {

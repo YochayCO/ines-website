@@ -1,5 +1,6 @@
 import { AxisTickProps } from '@nivo/axes'
 import { DatumValue } from '@nivo/core';
+import cx from 'classnames';
 import { getXLabel, getYLabel } from '../../utils/graph';
 import { BubbleGraphSerie, BarGraphDatum } from '../../types/graph';
 import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
@@ -41,7 +42,11 @@ export function CustomYTick ({ tick }: { tick: CustomTickProps; }) {
 }
 
 export function RegularXTick (
-    { tick, data }: { tick: AxisTickProps<DatumValue>; data: BubbleGraphSerie[] | BarGraphDatum[]; }
+    { tick, data, onClick }: { 
+        tick: AxisTickProps<DatumValue>; 
+        data: BubbleGraphSerie[] | BarGraphDatum[]; 
+        onClick?: (label: string) => void;
+    }
 ) {
     const xLabel = getXLabel(data, tick.tickIndex) || ''
     
@@ -51,6 +56,7 @@ export function RegularXTick (
         rotate={tick.rotate}
         text={xLabel}
         dimension='x'
+        onClick={onClick}
     />
 }
 
@@ -68,13 +74,15 @@ export function RegularYTick (
 }
 
 
-export function ToggleBox ({ translateX, translateY, dimension, disabled, onClick }: {
-        translateX: number;
-        translateY: number;
-        dimension: 'x' | 'y';
-        disabled: boolean;
-        onClick: () => void;
-    }) {
+interface ToggleBoxProps {
+    translateX: number;
+    translateY: number;
+    dimension: 'x' | 'y';
+    disabled: boolean;
+    onClick: () => void;
+}
+
+export function ToggleBox ({ translateX, translateY, dimension, disabled, onClick }: ToggleBoxProps) {
         const lineProps = dimension === 'x' 
             ? { y1: 22,  y2: 12 }
             : { x1: 22,  x2: 12 }
@@ -94,13 +102,16 @@ export function ToggleBox ({ translateX, translateY, dimension, disabled, onClic
     )
 }
 
-function LabelTick ({ translateX, translateY, rotate, text, dimension }: {
+interface LabelTickProps {
     translateX: number;
     translateY: number;
     rotate?: number;
     text: string;
     dimension: 'x' | 'y';
-}) {
+    onClick?: (label: string) => void;
+};
+
+function LabelTick ({ translateX, translateY, rotate, text, dimension, onClick }: LabelTickProps) {
     const lineProps = dimension === 'x' 
         ? { y1: -22,  y2: -12 }
         : { x1: -6, x2: -2, y1: -4, y2:-4 }
@@ -109,11 +120,12 @@ function LabelTick ({ translateX, translateY, rotate, text, dimension }: {
         <g transform={`translate(${translateX},${translateY})`}>
             <line stroke="#000" strokeWidth={1.5} {...lineProps}/>
             <ClippedSvgText
-                className='tick-text'
+                className={cx('tick-text', { 'clickable': !!onClick })}
                 maxLength={30}
                 text={text}
                 elementType='text'
                 transform={`rotate(${rotate})`}
+                onClick={() => onClick?.(text)}
             />
         </g>
     )

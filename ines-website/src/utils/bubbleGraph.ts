@@ -13,6 +13,9 @@ export interface SmartBubblePlotProps {
 }
 interface AnswersData { yAnswers: string[]; yNormalAnswers: string[]; xAnswers: string[]; xNormalAnswers: string[] }
 
+/**
+ * Main function to generate bubble graph data and meta information from survey and configuration.
+ */
 export function getBubbleGraphData(
   surveyProps: SmartBubblePlotProps,
   options: BubbleGraphConfig
@@ -45,6 +48,9 @@ export function getBubbleGraphData(
   return { data: graphData, meta: { numOfEffectiveResponses } }
 }
 
+/**
+ * Calculates the effective number of responses in the bubble graph data.
+ */
 export function getBubbleGraphEffectiveN(graphData: BubbleGraphSerie[]): number {
   let effectiveN = 0
 
@@ -114,7 +120,7 @@ export function enrichBubbleGraphData(
     origId: 'Totals',
     data: displayedXAnswers.map((origX, xIndex) => {
       const currXTotalWeight = xWeights[xIndex]
-      const isDisabled = isResponseDisabled(options, origX, "Totals")
+      const isDisabled = isAnsComboDisabled(options, origX, "Totals")
       // Total datum weight is proportional to the maximumm regular datum weight
       const datumWeight = isDisabled ? 0 : currXTotalWeight * maxWeight / maxTotalWeight
       // The actual percentage is calculated normally and stored in yBySerie
@@ -139,6 +145,9 @@ export function enrichBubbleGraphData(
   return finalData
 }
 
+/**
+ * Calculates the maximum weight among the bubble datum.
+ */
 function getMaxDatumWeight(mainGraphData: BubbleGraphSerie[]) {
   const weights = mainGraphData.map(serie => serie.data.map((d) => d.y)).flat().filter((y) => y !== null && y !== undefined)
   const maxWeight = Math.max(...weights)
@@ -155,10 +164,10 @@ export function cleanBubbleGraphData(
 ): InitialBubbleGraphSerie[] {
   // Fill empty cells; Sort data
   initialGraphData.forEach(serie => {
-    const existingXValues = serie.data.map((d: InitialBubbleGraphDatum) => d.origX)
-    const newXs = difference(answersData.xAnswers, existingXValues)
-    const newDatums: InitialBubbleGraphDatum[] = newXs.map(origX => {
-      const isDatumDisabled = isResponseDisabled(options, origX, serie.origId)
+    const serieExistingXAnswers = serie.data.map((d: InitialBubbleGraphDatum) => d.origX)
+    const serieMissingXAnswers = difference(answersData.xAnswers, serieExistingXAnswers)
+    const serieMissingDatums: InitialBubbleGraphDatum[] = serieMissingXAnswers.map(origX => {
+      const isDatumDisabled = isAnsComboDisabled(options, origX, serie.origId)
 
       return ({
         x: getLabel(origX),
@@ -170,8 +179,8 @@ export function cleanBubbleGraphData(
       })
   })
 
-    const data: InitialBubbleGraphDatum[] = concat(serie.data, newDatums)
-    serie.data = data.sort((a, b) => sortByRate(a.origX, b.origX))
+    const serieData: InitialBubbleGraphDatum[] = concat(serie.data, serieMissingDatums)
+    serie.data = serieData.sort((a, b) => sortByRate(a.origX, b.origX))
   })
 
   initialGraphData.sort((a, b) => sortByRate(a.origId, b.origId))
@@ -190,7 +199,9 @@ export function cleanBubbleGraphData(
   return initialGraphData
 }
 
-// Input - survey and question items, options (for the weight name)
+/**
+ * Builds the initial bubble graph data from survey responses, aggregating weights and responses.
+ */
 export function buildInitialGraphData(
   { survey, x: xQuestionItem, y: yQuestionItem }: SmartBubblePlotProps,
   options: BubbleGraphConfig
@@ -208,51 +219,48 @@ export function buildInitialGraphData(
       weightName: options.weightName, 
       surveyWeights: survey.meta.weights, 
     })
-    const binaryDisplayIndicator = (weight === 0) ? 0 : 1
-    const isDisabled = isResponseDisabled(options, xAns, yAns)
+    const disabled = isAnsComboDisabled(options, xAns, yAns)
 
     // If series does not exist - create it and go to next.
-    const currSerie = series.find((ser) => ser.id === serieId)
+    let currSerie = series.find((ser) => ser.id === serieId)
     if (!currSerie) {
-      const datumData = [{ 
-        x: xValue,
-        y: weight, 
-        numOfResponses: binaryDisplayIndicator, 
-        disabled: isDisabled, 
-        origX: xAns, 
-        origId: yAns
-      }]
-      const serie = [{ id: serieId, origId: yAns, data: datumData }]
-      return series.concat(serie)
+      const newSerie = { id: serieId, origId: yAns, data: [] };
+
+      series.push(newSerie)
+      currSerie = newSerie
     }
 
     // If x does not exist for series - create it and go to next.
-    const currDatum = currSerie.data.find(({ x }) => x === xValue) as InitialBubbleGraphDatum | undefined
-    if (currDatum === undefined) {
-      const datumData = [{ 
+    let currDatum = currSerie.data.find(({ x }) => x === xValue) as InitialBubbleGraphDatum | undefined
+    if (!currDatum) {
+      const datumData = { 
         x: xValue,
         y: weight,
-        numOfResponses: binaryDisplayIndicator,
-        disabled: isDisabled,
+        numOfResponses: 0,
+        disabled: disabled,
         origX: xAns,
         origId: yAns
-      }]
-      currSerie.data = currSerie.data.concat(datumData) as InitialBubbleGraphDatum[]
-      return series
+      }
+      currSerie.data.push(datumData)
+      currDatum = datumData
     }
 
-    // If x-serie pair existed - increment the existing weight in y
     currDatum.y += weight
-    currDatum.numOfResponses += binaryDisplayIndicator
+    if (weight !== 0) {
+      currDatum.numOfResponses++;
+    }
     
     return series
   }, [])
 }
 
-function isResponseDisabled(options: BubbleGraphConfig, xAns: string, yAns: string) {
+function isAnsComboDisabled(options: BubbleGraphConfig, xAns: string, yAns: string) {
   return options.disabledXAnswers.includes(xAns) || options.disabledYAnswers.includes(yAns);
 }
 
+/**
+ * Extracts all unique Y answers from the initial bubble graph data.
+ */
 export function getBubbleGraphYAnswers(data: InitialBubbleGraphSerie[]): string[] {
   const answersSet: Set<string> = data.reduce((set: Set<string>, serie: InitialBubbleGraphSerie) => {
     set.add(serie.origId)
@@ -260,6 +268,10 @@ export function getBubbleGraphYAnswers(data: InitialBubbleGraphSerie[]): string[
   }, new Set<string>())
   return Array.from(answersSet).sort(sortByRate)
 }
+
+/**
+ * Extracts all unique X answers from the initial bubble graph data.
+ */
 export function getBubbleGraphXAnswers(data: InitialBubbleGraphSerie[]): string[] {
   const answersSet: Set<string> = data.reduce((set: Set<string>, serie: InitialBubbleGraphSerie) => {
     serie.data.forEach((d: InitialBubbleGraphDatum) => set.add(d.origX))

@@ -44,12 +44,17 @@ export interface SmartBarPlotProps {
 }
 
 export interface BarGraphDatum extends BarDatum {
-    group: string; 
-    origGroup: string; 
-    effectiveN: number; 
+    group: string;
+    disabledIndicator: number;
+    origGroup: string;
+    effectiveN: number;
 }
 
-export type BarGraphConfig = { isSpecialDisplayed: boolean; weightName: WeightName; }
+export type BarGraphConfig = {
+  isSpecialDisplayed: boolean;
+  disabledXAnswers: string[];
+  weightName: WeightName;
+};
 
 export function isBubbleGraphData(data: BubbleGraphSerie[] | BarGraphDatum[]): data is BubbleGraphSerie[] {
     return 'origId' in data[0]
