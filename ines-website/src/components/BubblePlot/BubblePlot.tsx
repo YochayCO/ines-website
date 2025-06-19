@@ -6,6 +6,7 @@ import { QuestionAxis } from '../../hooks/useQuestionAxis';
 import { BubbleGraphDatum, BubbleGraphSerie } from '../../types/graph';
 import { CustomXTick, CustomYTick, RegularXTick, RegularYTick } from '../AxisTick/AxisTick';
 import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
+import SwapAxesButton from '../SwapAxesButton/SwapAxesButton';
 
 import './BubblePlot.css'
 
@@ -36,6 +37,9 @@ export default function BubblePlot({
 }: BubblePlotProps) {
     return (
         <div className='bubbleplot-container'>
+            <div className='swap-axes-button-container'>
+                <SwapAxesButton />
+            </div>
             <ResponsiveHeatMap
                 data={graphData}
                 sizeVariation={{ sizes: [0.45, 0.9]}}
@@ -114,6 +118,6 @@ export default function BubblePlot({
                     ticks: [],
                 }]}
             />
-            </div>
+        </div>
     );
 }

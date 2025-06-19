@@ -1,35 +1,23 @@
-import { useEffect, useState } from 'react'
-import IconButton from '@mui/material/IconButton';
-import SwipeVerticalIcon from '@mui/icons-material/SwipeVertical'
+import { useEffect } from 'react'
 
+import { useAxes } from '../../hooks/useAxes';
 import { Survey } from '../../types/survey';
 import SelectContainer from './SelectContainer';
 import SmartBarPlot from '../BarPlot/SmartBarPlot';
 import SmartBubblePlot from '../BubblePlot/SmartBubblePlot';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'
+import SwapAxesButton from '../SwapAxesButton/SwapAxesButton';
 
 import './InnerPlotter.css'
 
 export default function InnerPlotter({ survey }: { survey: Survey }) {
-  // x & y are the ids of the selected questions
-  const [x, setX] = useState('')
-  const [y, setY] = useState('')
+  const { x, y, setX, setY, selectX } = useAxes();
 
+  // Reset x and y when survey changes
   useEffect(() => {
     setX('')
     setY('')
-  }, [survey])
-
-  const selectX = (newX: string) => {
-    setX(newX)
-    if (newX === '') setY('')
-  }
-
-  const swapXY = () => {
-    const [newX, newY] = [y, x]
-    setX(newX)
-    setY(newY)
-  }
+  }, [survey, setX, setY])
 
   const allQiOptions = survey.meta.questionItems
 
@@ -70,10 +58,8 @@ export default function InnerPlotter({ survey }: { survey: Survey }) {
             </SelectContainer>
             {!!y && (
               <div className='swap-button-container'>
-                <IconButton className='swap-button' onClick={swapXY} size='small' title='Swap X and Y axes'>
-                  <SwipeVerticalIcon />
-                </IconButton>
-              </div>
+                <SwapAxesButton />
+              </div>            
             )}
           </>
         )}

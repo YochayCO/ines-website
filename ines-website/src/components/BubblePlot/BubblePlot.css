@@ -23,3 +23,11 @@
     fill: #1515ad;
     height: 1px;
 }
+
+.swap-axes-button-container {
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    z-index: 1;
+}

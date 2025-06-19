@@ -13,9 +13,3 @@
     height: 100%;
     width: 72px;
 }
-
-.swap-button {
-    -webkit-box-shadow: 1px 1px 2px 1px rgba(128,128,128,1);
-    -moz-box-shadow: 1px 1px 2px 1px rgba(128,128,128,1);
-    box-shadow: 1px 1px 2px 1px rgba(128,128,128,1);
-}

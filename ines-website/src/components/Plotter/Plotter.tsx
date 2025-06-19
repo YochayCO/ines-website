@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 
+import AxesProvider from '../../context/AxesContext';
 import SurveyOptions from '../../assets/surveyOptions.json'
 import { Survey } from '../../types/survey';
 import { fetchSurvey } from '../../utils/survey'
@@ -30,7 +31,7 @@ function Plotter() {
   const surveyItems = SurveyOptions.map(({ id, title }) => ({ value: id, label: title }))
   
   return (
-    <>
+    <AxesProvider>
       <SelectContainer>
         <CustomSelect 
           inputLabel='Select survey'
@@ -40,7 +41,7 @@ function Plotter() {
         />
       </SelectContainer>
       {!!survey && <InnerPlotter survey={survey} />}
-    </>
+    </AxesProvider>
   )
 }
 
