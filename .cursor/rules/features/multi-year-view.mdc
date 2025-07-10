@@ -1,0 +1,50 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Multi-Year View Flow Feature Rule
+
+## Overview
+The **Multi-Year View Flow** feature enables users to visualize the evolution of selected survey questions across multiple years. It supports both categorical and numeric questions, providing interactive controls for year range selection and flexible grouping of results.
+
+## Functionality
+1. **Question Selection**
+   - For the MVP, 5 specific questions will be available for selection.
+2. **Year Range Selection**
+   - After a question is selected, a slider appears, allowing users to select a range of years where the question is available.
+   - The slider edges can be moved left or right, snapping to available years as the user drags past halfway points.
+   - Only the surveys at the slider's edges and the selected range's edges are labeled.
+3. **Graph for Categorical Questions**
+   - Displays grouped histograms with Y-axis in percentages.
+   - By default, groups are by survey, each showing a histogram of responses.
+   - A toggle allows swapping the grouping: groups by answer, showing the percentage of respondents per answer across surveys.
+4. **Graph for Numeric Questions**
+   - Displays a line graph, with each dot representing the average response for a survey.
+   - Ignores "other" values.
+   - Y-axis labels are the possible numeric answers (serial).
+
+## Appearance
+- **Slider**: Material-UI styled, responsive, with labeled edges as described.
+- **Graphs**: Clear, modern, accessible, with axis labels and tooltips.
+- **Toggle**: Material-UI toggle button for changing grouping in categorical questions.
+
+## General Implementation
+- **Frontend Framework**: React (Material-UI for UI components)
+- **State Management**: React hooks/context for selected question, year range, and grouping mode.
+- **Data Fetching**: Fetches relevant data for the selected question and year range.
+- **Charting Library**: Uses a charting library for rendering histograms and line graphs.
+- **Conditional Rendering**: Renders appropriate graph type based on question type.
+- **Accessibility**: Follows accessibility best practices for controls and charts.
+
+## Example User Flow
+1. User selects a question from the 5 available.
+2. Year range slider appears; user selects a range.
+3. For categorical questions: grouped histogram appears, with toggle for grouping mode.
+4. For numeric questions: line graph appears, showing averages per survey.
+
+## Best Practices
+- Keep UI intuitive and responsive.
+- Ensure visualizations are clear and accurate.
+- Handle edge cases (e.g., missing data, no available years) gracefully.
+- Maintain accessibility and usability standards.

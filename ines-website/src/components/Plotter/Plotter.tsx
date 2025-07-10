@@ -1,47 +1,28 @@
-import { useEffect, useState } from 'react'
-
-import AxesProvider from '../../context/AxesContext';
-import SurveyOptions from '../../assets/surveyOptions.json'
-import { Survey } from '../../types/survey';
-import { fetchSurvey } from '../../utils/survey'
-import CustomSelect from '../CustomSelect/CustomSelect'
-import InnerPlotter from './InnerPlotter';
-import SelectContainer from './SelectContainer';
+import { useState } from 'react'
+import { ToggleButton, ToggleButtonGroup, Box } from '@mui/material';
+import SingleSurveyPlotter from './SingleSurveyPlotter';
+import MultiSurveyPlotter from './MultiSurveyPlotter';
 
 import './Plotter.css'
 
 function Plotter() {
-  const [surveyId, setSurveyId] = useState<string>('')
-  const [survey, setSurvey] = useState<Survey | null>(null)
-  
-  async function updateSurvey (surveyId: string) {
-    if (!surveyId) {
-      setSurvey(null)
-      return
-    }
+  const [view, setView] = useState<'single' | 'multi'>('single');
 
-    const survey = await fetchSurvey(surveyId)
-    setSurvey(survey)
-  }
-
-  useEffect(() => {
-    updateSurvey(surveyId)
-  }, [surveyId])
-
-  const surveyItems = SurveyOptions.map(({ id, title }) => ({ value: id, label: title }))
-  
   return (
-    <AxesProvider>
-      <SelectContainer>
-        <CustomSelect 
-          inputLabel='Select survey'
-          value={surveyId}
-          onChange={setSurveyId}
-          options={surveyItems}
-        />
-      </SelectContainer>
-      {!!survey && <InnerPlotter survey={survey} />}
-    </AxesProvider>
+    <Box>
+      <Box sx={{ mb: 2, display: 'flex', justifyContent: 'center' }}>
+        <ToggleButtonGroup
+          value={view}
+          exclusive
+          onChange={(_e, val) => val && setView(val)}
+          aria-label="plotter view toggle"
+        >
+          <ToggleButton value="single">Single year graph</ToggleButton>
+          <ToggleButton value="multi">Multi-year graph</ToggleButton>
+        </ToggleButtonGroup>
+      </Box>
+      {view === 'single' ? <SingleSurveyPlotter /> : <MultiSurveyPlotter />}
+    </Box>
   )
 }
 
