@@ -1,0 +1,345 @@
+---
+description: UI component and styling guidelines (Mui)
+globs:
+alwaysApply: false
+---
+# UI Components and Styling Guidelines
+
+## Overview
+
+This project uses a combination of Material-UI (MUI) components and custom CSS styling to create a consistent and accessible user interface for the INES survey data visualization platform.
+
+## Technology Stack
+
+- **UI Library**: Material-UI (MUI) v6 with Emotion
+- **Icons**: Material-UI Icons
+- **Charts**: Nivo (bar, boxplot, heatmap)
+- **Styling**: CSS modules with custom classes
+- **Utilities**: classnames for conditional styling
+
+## Component Architecture
+
+### 1. Component Organization
+
+- **PascalCase** naming for all React components
+- Feature-based component grouping (e.g., `SmartChart/`, `QuestionSelect/`)
+- Each component folder contains:
+  - Main component file (`ComponentName.tsx`)
+  - Associated CSS file (`ComponentName.css`)
+  - Related sub-components
+
+### 2. Component Structure Pattern
+
+```typescript
+// Standard component structure
+import { ReactNode } from 'react';
+import { MUIComponent } from '@mui/material';
+import './ComponentName.css';
+
+interface ComponentNameProps {
+    // Props with clear types
+    children?: ReactNode;
+    // ... other props
+}
+
+const ComponentName = ({ children, ...props }: ComponentNameProps) => {
+    // Component logic
+    
+    return (
+        <div className="component-container">
+            {/* Component JSX */}
+        </div>
+    );
+};
+
+export default ComponentName;
+```
+
+## Material-UI Usage Guidelines
+
+### 1. Core MUI Components
+
+**Layout & Structure:**
+- `Box` - For layout containers with MUI styling props
+- `Container` - For responsive content containers
+- `Grid` - For responsive grid layouts
+
+**Form Components:**
+- `TextField` - For text inputs
+- `Autocomplete` - For searchable dropdowns
+- `Switch` - For toggle controls
+- `ToggleButtonGroup` / `ToggleButton` - For grouped options
+- `FormControlLabel` - For labeled form controls
+
+**Feedback & Navigation:**
+- `IconButton` - For icon-based actions
+- `Badge` - For notification indicators
+- `Popover` - For floating menus
+- `Button` - For primary actions
+
+### 2. MUI Styling Patterns
+
+**Inline Styling with sx prop:**
+```typescript
+<Box sx={{ 
+    width: 280, 
+    p: 2, 
+    display: 'flex', 
+    flexDirection: 'column', 
+    gap: 2 
+}}>
+```
+
+**Component Styling:**
+```typescript
+<IconButton
+    color='primary'
+    onClick={handleClick}
+    title="Action description"
+>
+    <TuneIcon />
+</IconButton>
+```
+
+## Custom CSS Guidelines
+
+### 1. CSS File Organization
+
+- One CSS file per component folder
+- Use descriptive class names with kebab-case
+- Group related styles together
+
+### 2. CSS Naming Conventions
+
+```css
+/* Component container */
+.component-name {
+    /* Base styles */
+}
+
+/* Sub-elements */
+.component-name__element {
+    /* Element styles */
+}
+
+/* Modifiers */
+.component-name--modifier {
+    /* Variant styles */
+}
+```
+
+### 3. Color Palette
+
+**Primary Colors:**
+- Primary blue: MUI default (`color="primary"`)
+- Background: `antiquewhite` for headers
+- Border: `#969696` for containers
+
+**Semantic Colors:**
+- Demography questions: `rgba(250, 235, 215, 1)` (antiquewhite)
+- Warning backgrounds: `#fadcd7` (light red)
+- Text secondary: `rgba(0, 0, 0, 0.6)`
+
+### 4. Spacing & Layout
+
+**Margins & Padding:**
+- Container margins: `30px`
+- Header padding: `12px`
+- Component gaps: `16px`
+- Small spacing: `6px`, `8px`
+
+**Border Radius:**
+- Large containers: `16px`
+- Small elements: `20px`
+- Buttons: Default MUI radius
+
+## Component Patterns
+
+### 1. SmartChart Pattern
+
+The main chart container with header, content, and footer:
+
+```typescript
+<div className='graph-container'>
+    <GraphHeader {...headerProps} />
+    <div id="graph" ref={graphRef}>
+        <ScreenshotButton />
+        {chartContent}
+        {warningMessage}
+    </div>
+    <GraphFooter />
+</div>
+```
+
+### 2. Filter Menu Pattern
+
+Popover-based filter menus with toggle controls:
+
+```typescript
+<Popover
+    open={isOpen}
+    anchorEl={anchorEl}
+    onClose={handleClose}
+    anchorOrigin={{ vertical: 'bottom', horizontal: 'left' }}
+    transformOrigin={{ vertical: 'top', horizontal: 'left' }}
+>
+    <Box sx={{ width: 280, p: 2, display: 'flex', flexDirection: 'column', gap: 2 }}>
+        {/* Filter controls */}
+    </Box>
+</Popover>
+```
+
+### 3. Select Component Pattern
+
+Custom select with autocomplete and tooltips:
+
+```typescript
+<Autocomplete
+    options={options}
+    renderInput={(params) => <TextField {...params} label={label} />}
+    renderOption={({ key, ...optionProps }, option) => (
+        <Box 
+            {...optionProps}
+            key={key} 
+            component='li'
+            title={option.tooltipText}
+            className={cx(optionProps.className, option.className)}
+        >
+            {option.label}
+        </Box>
+    )}
+    value={selectedOption}
+    onChange={handleChange}
+/>
+```
+
+## Accessibility Guidelines
+
+### 1. ARIA Labels & Roles
+
+- Use `aria-label` for icon buttons
+- Add `role="presentation"` for decorative elements
+- Include `title` attributes for tooltips
+
+### 2. Keyboard Navigation
+
+- Ensure all interactive elements are keyboard accessible
+- Use proper focus management in modals and popovers
+- Maintain logical tab order
+
+### 3. Screen Reader Support
+
+- Provide descriptive labels for form controls
+- Use semantic HTML elements
+- Include alt text for images
+
+## Responsive Design
+
+### 1. Mobile Considerations
+
+- Hide complex interfaces on mobile (`@media (max-width: 700px)`)
+- Show mobile warning messages
+- Adjust logo sizes for small screens
+
+### 2. Flexible Layouts
+
+- Use flexbox for responsive layouts
+- Implement `flex-wrap` for wrapping elements
+- Set appropriate `max-width` constraints
+
+## Performance Guidelines
+
+### 1. Component Optimization
+
+- Use `useMemo` for expensive computations
+- Implement proper dependency arrays in hooks
+- Avoid unnecessary re-renders
+
+### 2. Asset Optimization
+
+- Optimize images for web delivery
+- Use appropriate image formats
+- Implement lazy loading where beneficial
+
+## Best Practices
+
+### 1. Component Design
+
+- Keep components focused and single-purpose
+- Use TypeScript interfaces for prop definitions
+- Implement proper error boundaries
+- Handle loading and empty states
+
+### 2. Styling Approach
+
+- Prefer MUI components over custom CSS when possible
+- Use CSS for layout and positioning
+- Maintain consistent spacing and typography
+- Follow the established color palette
+
+### 3. Code Organization
+
+- Group related components together
+- Use descriptive file and folder names
+- Keep CSS files close to their components
+- Document complex styling decisions
+
+## Common Patterns
+
+### 1. Conditional Styling
+
+```typescript
+import cx from 'classnames';
+
+const className = cx(
+    'base-class',
+    {
+        'conditional-class': condition,
+        'another-class': anotherCondition
+    }
+);
+```
+
+### 2. Responsive Design
+
+```css
+.base-class {
+    /* Default styles */
+}
+
+@media (max-width: 700px) {
+    .base-class {
+        /* Mobile styles */
+    }
+}
+```
+
+### 3. Component Composition
+
+```typescript
+// Parent component
+<SmartChart>
+    <BarPlot data={data} />
+</SmartChart>
+
+// Child component
+const SmartChart = ({ children }: { children: ReactNode }) => {
+    return (
+        <div className="graph-container">
+            {children}
+        </div>
+    );
+};
+```
+
+## Migration Guidelines
+
+When adding new components:
+
+1. **Start with MUI components and existing components from the project** when possible
+2. **Follow existing naming conventions**
+3. **Use established color and spacing patterns**
+4. **Implement proper TypeScript interfaces**
+5. **Add appropriate accessibility attributes**
+6. **Test on different desktop screen sizes**
+7. **Document any deviations from patterns**

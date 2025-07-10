@@ -1,0 +1,94 @@
+---
+description: Guidelines for creating custom React hooks
+globs:
+alwaysApply: false
+---
+# Custom React Hooks Guidelines
+
+## Overview
+
+This project uses custom React hooks to encapsulate reusable logic for state management, data transformation, and UI behavior. Hooks are designed to be composable, type-safe, and easy to test.
+
+## File Organization
+
+- All custom hooks are placed in the `src/hooks/` directory.
+- Each hook is defined in its own file, named with the `use` prefix and in camelCase (e.g., `useBarGraph.ts`).
+- Related hooks may be grouped by feature or domain.
+
+## Naming Conventions
+
+- Always start hook names with `use` (e.g., `useGraphCommons`, `useScreenshotHandler`).
+- Use descriptive names that reflect the hook's purpose.
+- Export the hook as the default export.
+
+## Structure and Typing
+
+- Use TypeScript for all hooks.
+- Define and export interfaces for hook return values and arguments.
+- Prefer returning objects with named properties for clarity and extensibility.
+- Use React's built-in hooks (`useState`, `useEffect`, `useMemo`, etc.) as building blocks.
+
+## Patterns
+
+### 1. Stateful Logic
+
+Encapsulate state and its setters:
+
+```typescript
+function useGraphCommons(): GraphCommons {
+    const [isSpecialDisplayed, setSpecialVisible] = useState(true);
+    const [weightName, setWeightName] = useState<WeightName>('all');
+    return { isSpecialDisplayed, setSpecialVisible, weightName, setWeightName };
+}
+```
+
+### 2. DOM/Ref Management
+
+Expose refs and imperative handlers:
+
+```typescript
+function useScreenshotHandler() {
+    const exportButtonRef = createRef<HTMLButtonElement>();
+    const graphRef = createRef<HTMLDivElement>();
+    const exportGraph = async () => { /* ... */ };
+    return { exportGraph, exportButtonRef, graphRef };
+}
+```
+
+### 3. Data Transformation
+
+Use `useMemo` for expensive computations and `useEffect` for side effects:
+
+```typescript
+function useBarGraph({ survey, x }: SmartBarPlotProps): BarGraphHook {
+    const graphCommons = useGraphCommons();
+    const xAnswers = useMemo(() => getBarGraphAnswers({ survey, x }), [survey, x]);
+    // ...
+    return { xAxis, graphData, graphMeta, graphCommons };
+}
+```
+
+## Best Practices
+
+- Keep hooks focused and single-purpose.
+- Compose hooks together for complex logic.
+- Avoid side effects in the hook body; use `useEffect` for side effects.
+- Use dependency arrays correctly in `useEffect` and `useMemo`.
+- Document hook arguments and return values with TypeScript interfaces.
+- Prefer returning objects over arrays for extensibility.
+- Do not call hooks conditionally or inside loops.
+
+## Testing
+
+- Hooks should be easy to test in isolation.
+- Avoid direct DOM manipulation; use refs and React patterns.
+
+## Migration Guidelines
+
+When adding new hooks:
+
+1. **Start with existing hooks as reference** for structure and typing.
+2. **Follow the naming and file organization conventions**.
+3. **Use TypeScript interfaces for arguments and return values**.
+4. **Document the hook's purpose and usage**.
+5. **Test the hook in isolation and in context**.

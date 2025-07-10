@@ -1,0 +1,106 @@
+---
+description: Project structure and file organization guidelines
+globs: 
+alwaysApply: false
+---
+# Project Structure
+
+## Main Structure
+
+- We use NodeJS, Typescript, React and Vite
+- Main app is in `ines-website`, compiled from `src` to `dist`
+- The app is static, mostly frontend development
+
+```tree
+.
+├── ines-website
+│   ├── app-image-tars/         # Tar files for app images
+│   ├── public/                 # Static assets (images, logos, question_items, surveys_data, surveys_meta)
+│   ├── src/                    # Main Vite application source
+│   │   ├── assets/             # Asset files (images, etc.)
+│   │   ├── components/         # React components
+│   │   │   ├── SmartChart/     # SmartChart and related components (GraphHeader, GraphFiltersMenu, etc.)
+│   │   │   ├── ...             # Other component folders
+│   │   ├── context/            # React context providers
+│   │   ├── hooks/              # Custom React hooks
+│   │   ├── scripts/            # Utility scripts
+│   │   ├── types/              # TypeScript type definitions
+│   │   ├── utils/              # Utility functions and helpers
+│   │   ├── App.css
+│   │   ├── App.tsx
+│   │   ├── fonts.css
+│   │   ├── index.css
+│   │   ├── main.tsx
+│   │   ├── vite-env.d.ts
+│   │   └── ... (other config files)
+│   ├── build.sh                # Build script
+│   ├── compose.yaml            # Docker Compose config
+│   ├── Dockerfile              # Dockerfile
+│   ├── eslint.config.js        # ESLint config
+│   ├── index.html              # Main HTML file
+│   ├── nginx.conf              # Nginx config
+│   ├── package.json            # NPM package config
+│   ├── README.Docker.md        # Docker usage docs
+│   ├── README.md               # Project docs
+│   ├── tsconfig.app.json       # TypeScript config (app)
+│   ├── tsconfig.app.tsbuildinfo
+│   ├── tsconfig.json           # TypeScript config (base)
+│   ├── tsconfig.node.json      # TypeScript config (node)
+│   ├── tsconfig.node.tsbuildinfo
+│   ├── vite.config.ts          # Vite config
+├── include/
+│   └── python3.12/             # Python includes (if any)
+├── playground/
+│   ├── duplicate_questions.csv
+│   ├── missing_questions.csv
+│   ├── q_changes_extractor.py
+│   ├── qi_changes3_prev.xlsx
+│   ├── qi_changes3.xlsx
+│   ├── question_index.xlsx
+│   ├── question_items.json
+│   ├── README.md
+│   ├── upsert_question_instances.py
+│   ├── upsert_wxl_questions.py
+│   └── ... (other playground files)
+├── codebooks/
+│   ├── 1969_1.txt
+│   ├── 1969_2.txt
+│   ├── ... (other codebook files)
+├── codebooks_scripts/
+│   └── ... (other scripts and data)
+├── tests/
+│   └── __pycache__/
+```
+
+## File Naming and Organization
+
+- Use PascalCase for React components (e.g. `components/SmartChart/GraphHeader.tsx`)
+- If a component can be used in many places, place it in the `components` folder
+- Use kebab case for route directories if you add any (not currently present)
+- Utility functions go in `src/utils/`
+- TypeScript types that belong to a category (like "graph" or "survey") and don't relate to a specific file go in `src/types/`
+- Custom hooks go in `src/hooks/`
+- Static assets go in `public/` when they need to be fetched, or to `src/assets/` if they can be simply imported
+
+## Static data types
+
+- surveys_meta: metadata about each survey in format: ```{
+    "id": "id",
+    "weights": {
+        "weightName": "weight_key" // May be 0 or more weights in this dictionary
+    },
+    "sectorFieldName": "sector_field_id", // optional
+    "dataLink": "https://socsci4.tau.ac.il/mu2/ines/data/our-data/#carousel_ff67" // link for human users to the origin data that is available in the website
+}```
+- surveys_data: csv files with the surveys data
+- question_items: arrays of question instances in the format: ```[
+    {
+        "id": "1. שאלה בעברית", // question id
+        "questionHebrewDescription": "שאלה בעברית", // question hebrew description
+        "questionSurveyId": "a1", // qis id: the question instance id, as written in the survey's stata file
+        "type": "demography", // question type is "demography" or "category"
+        "disabled": "true",
+        "englishDescription": "respondent number" // english description of the question
+    },
+    ...
+]```

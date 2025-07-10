@@ -1,0 +1,49 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Graph Plotter Feature Rule
+
+## Overview
+The **Graph Plotter** is the core feature of the application, enabling users to visualize survey data interactively. It allows users to select a survey and one or two questions, and then generates a corresponding graphical representation of the data.
+
+## Functionality
+1. **Survey and Question Selection**
+   - Users first select a survey from a dropdown menu.
+   - Users then select one or two questions from additional dropdowns:
+     - Selecting one question generates a bar plot.
+     - Selecting two questions generates a tabulation (matrix) plot.
+
+2. **Graph Generation**
+   - **Bar Plot**: When a single question is selected, the app displays a bar chart showing the distribution of responses for that question. Each bar represents a possible answer, with the height indicating the share of respondents.
+   - **Tabulation/Matrix Plot**: When two questions are selected, the app displays a matrix (bubble or heatmap style) where each cell represents the intersection of responses to both questions. The size or color of the cell indicates the share of respondents for that combination.
+
+3. **Response Count**
+   - The number of responses included in the visualization is displayed in the top right corner of the graph area.
+
+## Appearance
+- **Dropdowns**: Clean, Material-UI styled dropdowns for survey and question selection.
+- **Bar Plot**: Vertical bars, each labeled with the response and percentage. X-axis shows response categories, Y-axis shows share of respondents.
+- **Tabulation Plot**: Matrix of circles or colored cells, with axes labeled by the selected questions. Each cell shows the percentage of respondents for that combination.
+- **General UI**: Responsive, with clear axis labels, tooltips, and a modern, accessible design.
+
+## General Implementation
+- **Frontend Framework**: React (with Material-UI for UI components)
+- **State Management**: Uses React hooks and context to manage selected survey/questions and fetched data.
+- **Data Fetching**: On selection, fetches relevant survey data and computes distributions for visualization.
+- **Charting Library**: Uses a charting library (e.g., Chart.js, Recharts, or similar) for rendering bar and matrix plots.
+- **Conditional Rendering**: Renders either a bar plot or a matrix plot based on the number of questions selected.
+- **Accessibility**: Ensures charts and controls are accessible (labels, ARIA attributes, keyboard navigation).
+
+## Example User Flow
+1. User selects "2020 Survey" from the survey dropdown.
+2. User selects a question for the X axis (e.g., party attitude question).
+3. User optionally selects a second question for the Y axis (e.g., political orientation).
+4. The graph area updates to show either a bar plot (one question) or a matrix plot (two questions), with the number of responses displayed.
+
+## Best Practices
+- Keep the UI intuitive and responsive.
+- Ensure data visualizations are clear and accurately represent the data.
+- Handle edge cases (e.g., missing data, no responses) gracefully.
+- Maintain accessibility and usability standards throughout the feature.
