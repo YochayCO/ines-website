@@ -1,19 +1,19 @@
 ---
-description:
+description: Explains the feature in progress, the multi-survey graph plotter
 globs:
 alwaysApply: false
 ---
-# Multi-Year View Flow Feature Rule
+# Multi-Survey View Flow Feature Rule
 
 ## Overview
-The **Multi-Year View Flow** feature enables users to visualize the evolution of selected survey questions across multiple years. It supports both categorical and numeric questions, providing interactive controls for year range selection and flexible grouping of results.
+The **Multi-Survey View Flow** feature enables users to visualize the evolution of selected survey questions across multiple surveys. It supports both categorical and numeric questions, providing interactive controls for survey range selection and flexible grouping of results.
 
 ## Functionality
 1. **Question Selection**
    - For the MVP, 5 specific questions will be available for selection.
-2. **Year Range Selection**
-   - After a question is selected, a slider appears, allowing users to select a range of years where the question is available.
-   - The slider edges can be moved left or right, snapping to available years as the user drags past halfway points.
+2. **Survey Range Selection**
+   - After a question is selected, a slider appears, allowing users to select a range of surveys where the question is available.
+   - The slider edges can be moved left or right, snapping to available surveys as the user drags past halfway points.
    - Only the surveys at the slider's edges and the selected range's edges are labeled.
 3. **Graph for Categorical Questions**
    - Displays grouped histograms with Y-axis in percentages.

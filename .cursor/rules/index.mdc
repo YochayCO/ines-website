@@ -30,6 +30,7 @@ Guidelines for building user interfaces and handling frontend logic.
 
 Rules specific to major application features.
 
-| Rule File                          | Description                                                 |
-| :--------------------------------- | :---------------------------------------------------------- |
-| @features/graph-plotter.mdc        | Explains the main feature, the graph plotter                |
+| Rule File                          | Description                                                  |
+| :--------------------------------- | :----------------------------------------------------------- |
+| @features/graph-plotter.mdc        | Describes the main feature, the graph plotter                |
+| @features/multi-survey-view.mdc    | Describes the the multi-survey plotter (feature in progress) |
