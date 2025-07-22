@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { ToggleButton, ToggleButtonGroup, Box } from '@mui/material';
-import SingleSurveyPlotter from './SingleSurveyPlotter';
-import MultiSurveyPlotter from './MultiSurveyPlotter';
+import SingleSurveyPlotter from '../SingleSurveyPlotter/SingleSurveyPlotter';
+import MultiSurveyPlotter from '../MultiSurveyPlotter/MultiSurveyPlotter';
 
 import './Plotter.css'
 
@@ -10,7 +10,7 @@ function Plotter() {
 
   return (
     <Box>
-      <Box sx={{ mb: 2, display: 'flex', justifyContent: 'center' }}>
+      <Box className="plotter_toggle-group_container">
         <ToggleButtonGroup
           value={view}
           exclusive

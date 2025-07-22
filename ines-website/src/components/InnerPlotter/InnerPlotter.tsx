@@ -2,7 +2,7 @@ import { useEffect } from 'react'
 
 import { useAxes } from '../../hooks/useAxes';
 import { Survey } from '../../types/survey';
-import SelectContainer from './SelectContainer';
+import SelectContainer from '../SelectContainer/SelectContainer';
 import SmartBarPlot from '../BarPlot/SmartBarPlot';
 import SmartBubblePlot from '../BubblePlot/SmartBubblePlot';
 import QuestionSelect from '../QuestionSelect/QuestionSelect'

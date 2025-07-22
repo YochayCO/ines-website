@@ -3,6 +3,7 @@ import { DatumValue } from '@nivo/core';
 import cx from 'classnames';
 import { getXLabel, getYLabel } from '../../utils/graph';
 import { BubbleGraphSerie, BarGraphDatum } from '../../types/graph';
+import { Answer } from '../../types/questions';
 import ClippedSvgText from '../ClippedSvgText/ClippedSvgText';
 
 import './AxisTick.css'
@@ -49,13 +50,13 @@ export function RegularXTick (
     }
 ) {
     const xLabel = getXLabel(data, tick.tickIndex) || ''
-    
+    const lineProps = { y1: -22, y2: -12 };
     return <LabelTick
         translateX={tick.x}
         translateY={tick.y + 22}
         rotate={tick.rotate}
         text={xLabel}
-        dimension='x'
+        lineProps={lineProps}
         onClick={onClick}
     />
 }
@@ -64,12 +65,29 @@ export function RegularYTick (
     { tick, data }: { tick: AxisTickProps<DatumValue>; data: BubbleGraphSerie[]; }
 ) {
     const yLabel = getYLabel(data, tick.tickIndex) || ''
+    const lineProps = { x1: -6, x2: -2, y1: -4, y2: -4 };
     return <LabelTick
         translateX={tick.x + 8}
         translateY={tick.y + 2}
         rotate={tick.rotate}
         text={yLabel}
-        dimension='y'
+        lineProps={lineProps}
+    />
+}
+
+export function LineGraphYTick (
+    { tick, answers }: { tick: AxisTickProps<DatumValue>; answers: Answer[]; }
+) {
+    const answer = answers.find(ans => ans.value === tick.value)
+    if (!answer) return null
+    const lineProps = { x1: 4, x2: 8, y1: -4, y2: -4 };
+    return <LabelTick
+        translateX={tick.x - 8}
+        translateY={tick.y + 4}
+        rotate={tick.rotate}
+        text={`${answer.label ? `${answer.label} - ` : ''} ${answer.value}`}
+        lineProps={lineProps}
+        textAnchor='end'
     />
 }
 
@@ -107,15 +125,12 @@ interface LabelTickProps {
     translateY: number;
     rotate?: number;
     text: string;
-    dimension: 'x' | 'y';
+    lineProps: React.SVGProps<SVGLineElement>;
+    textAnchor?: 'start' | 'middle' | 'end' | 'inherit';
     onClick?: (label: string) => void;
 };
 
-function LabelTick ({ translateX, translateY, rotate, text, dimension, onClick }: LabelTickProps) {
-    const lineProps = dimension === 'x' 
-        ? { y1: -22,  y2: -12 }
-        : { x1: -6, x2: -2, y1: -4, y2:-4 }
-
+function LabelTick ({ translateX, translateY, rotate, text, lineProps, textAnchor = 'inherit', onClick }: LabelTickProps) {
     return (
         <g transform={`translate(${translateX},${translateY})`}>
             <line stroke="#000" strokeWidth={1.5} {...lineProps}/>
@@ -126,6 +141,7 @@ function LabelTick ({ translateX, translateY, rotate, text, dimension, onClick }
                 elementType='text'
                 transform={`rotate(${rotate})`}
                 onClick={() => onClick?.(text)}
+                textAnchor={textAnchor}
             />
         </g>
     )

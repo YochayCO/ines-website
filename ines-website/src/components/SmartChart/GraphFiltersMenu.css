@@ -1,0 +1,7 @@
+.graph-filters-menu__container {
+  width: 280px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+} 

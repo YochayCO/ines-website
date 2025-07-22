@@ -1,6 +1,7 @@
 import { Box, FormGroup, FormControlLabel, Switch, ToggleButtonGroup, ToggleButton } from "@mui/material";
 import { GraphCommons } from "../../hooks/useGraphCommons";
 import { SurveyMeta, WeightName } from "../../types/survey";
+import './GraphFiltersMenu.css';
 
 export interface GraphFiltersMenuProps {
     graphCommons: GraphCommons;
@@ -16,7 +17,7 @@ export default function GraphFiltersMenu({
     handleWeightNameChange,
 }: GraphFiltersMenuProps) {
     return (
-        <Box sx={{ width: 280, p: 2, display: 'flex', flexDirection: 'column', gap: 2 }} role="presentation">
+        <Box className="graph-filters-menu__container" role="presentation">
             <FormGroup className='toggle-button'>
                 <FormControlLabel
                     label={`Include "Don't know" answers`}

@@ -5,8 +5,8 @@ import SurveyOptions from '../../assets/surveyOptions.json'
 import { Survey } from '../../types/survey';
 import { fetchSurvey } from '../../utils/survey'
 import CustomSelect from '../CustomSelect/CustomSelect'
-import InnerPlotter from './InnerPlotter';
-import SelectContainer from './SelectContainer';
+import InnerPlotter from '../InnerPlotter/InnerPlotter';
+import SelectContainer from '../SelectContainer/SelectContainer';
 
 function SingleSurveyPlotter() {
   const [surveyId, setSurveyId] = useState<string>('')

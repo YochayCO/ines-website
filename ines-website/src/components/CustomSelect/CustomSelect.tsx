@@ -16,10 +16,11 @@ interface CustomSelectProps {
     onChange: (newValue: string) => void;
     options: CustomOption[];
     className?: string;
+    disableClearable?: boolean;
 }
 
 // A Select component for selecting a single question from a bunch of questions
-function CustomSelect({ className, inputLabel, value, onChange, options, ...other }: CustomSelectProps) {
+function CustomSelect({ className, inputLabel, value, onChange, options, disableClearable = false, ...other }: CustomSelectProps) {
   const selectedOption = useMemo(() => options.find((option) => option.value === value) || null, [options, value])
   
   const handleChange = (_event: React.SyntheticEvent, option: CustomOption | null) => onChange(option?.value || '')
@@ -29,6 +30,7 @@ function CustomSelect({ className, inputLabel, value, onChange, options, ...othe
       <Autocomplete
         className={className}
         options={options}
+        disableClearable={disableClearable}
         renderInput={(params) => <TextField {...params} label={inputLabel} />}
         renderOption={({ key, ...optionProps }, option) => (
           <Box 
