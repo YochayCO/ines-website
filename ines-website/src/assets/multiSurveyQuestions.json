@@ -1,0 +1,15 @@
+[{ 
+  "id": "category:::v20",
+  "hebTitle": "גישה סוציאליסטית",
+  "category": "category", 
+  "engTitle": "Socialist attitude", 
+  "type": "numeric", 
+  "answers": [
+    { "value": 1, "label": "Lowest" },
+    { "value": 2 },
+    { "value": 3 },
+    { "value": 4 },
+    { "value": 5, "label": "Highest" },
+    { "value": 99, "label": "Other", "isOther": true }
+  ]
+}]
