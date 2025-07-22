@@ -23,8 +23,10 @@ Guidelines for building user interfaces and handling frontend logic.
 
 | Rule File                          | Description                                                 |
 | :--------------------------------- | :---------------------------------------------------------- |
-| @ui-components.mdc                 | UI component and styling guidelines (Mui)      |
+| @ui-components.mdc                 | UI component and styling guidelines                  |
 | @hooks.mdc                         | Guidelines for creating custom React hooks                  |
+
+**Always check `@ui-components.mdc` rule before working on ui components**
 
 ## Features
 
