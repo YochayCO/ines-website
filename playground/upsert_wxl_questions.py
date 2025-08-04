@@ -12,22 +12,25 @@ DUP_QUESTION_SEPARATOR = "@@@"
 load_dotenv()
 
 # Fetch variables
-url: str = os.environ.get("SUPABASE_URL")
-key: str = os.environ.get("SUPABASE_KEY")
+url: str = os.environ.get("SUPABASE_URL") or ""
+key: str = os.environ.get("SUPABASE_KEY") or ""
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
-question_index_file = os.path.join(scriptpath, "./question_index.xlsx")
+question_index_file = os.path.join(scriptpath, "./question_index_new.xlsx")
 
 supabase: Client = create_client(url, key)
 questions: list[dict[str, str]] = []
 
-def parse_questions(question_index_file, wxl_data):
+def parse_questions(question_index_file: str, wxl_data: pd.ExcelFile):
     """
     For each sheet in the excel - go over all rows (questions),
     and append a question entity to the questions list.
     """
+    # New format has an additional non-category sheets. The must be ignored.
+    category_sheets = [sheet for sheet in wxl_data.sheet_names if sheet not in ["סופי סופי", "איחוד שאלות", "הערות כלליות"]]
+
     # Iterate through each sheet in the Excel file
-    for heb_category in wxl_data.sheet_names:
+    for heb_category in category_sheets:
         # Load the current sheet
         category_data = pd.read_excel(question_index_file, sheet_name=heb_category)
 
@@ -61,10 +64,13 @@ def prefix_duplicates(questions: list[dict[str, str]], duplicates: list[tuple[st
     Prefixes duplicate questions with the previous non-duplicate question.
     """
     for i in range(len(questions) - 1, -1, -1):
+        # dup_question is initialized for reference
+        dup_question = questions[i]
+        (curr_category, curr_heb_title) = (dup_question["category"], dup_question["heb_title"])
+        
+        # Initialize current index and question
         curr_i = i
-        question = questions[curr_i]
-        (category, heb_title) = (question["category"], question["heb_title"])
-        (curr_category, curr_heb_title) = (category, heb_title)
+        curr_question = questions[i]
         
         while (curr_category, curr_heb_title) in duplicates:
             # Get the current question index
@@ -75,8 +81,8 @@ def prefix_duplicates(questions: list[dict[str, str]], duplicates: list[tuple[st
         
         if curr_i != i:
             # Prefix the duplicate question with the previous question's heb_title
-            question["heb_title"] = f"{curr_question['heb_title']} {DUP_QUESTION_SEPARATOR} {question['heb_title']}"
-            question["id"] = f"{curr_question['id']} {DUP_QUESTION_SEPARATOR} {question['heb_title']}"
+            dup_question["heb_title"] = f"{curr_question['heb_title']} {DUP_QUESTION_SEPARATOR} {dup_question['heb_title']}"
+            dup_question["id"] = f"{curr_question['id']} {DUP_QUESTION_SEPARATOR} {dup_question['heb_title']}"
             
     return questions
 
