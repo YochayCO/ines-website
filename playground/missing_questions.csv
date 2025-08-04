@@ -127,7 +127,7 @@ v189_2,2009,what is your religion?,"{1: '1. jewish', 2: '2. muslim', 3: '3. chri
 v181_2,2009,how many years did you study (including elementary school)?,
 v194_2,2009,22. language of the interview,"{1: '1. hebrew', 2: '2. arabic', 3: '3. russian'}"
 date,2009,23. date of post-election interview,
-w_arabs,2009,,
+w_arabs,2009,None,
 v45C,2013,"45c. hatenuah, led by tzippi livni",
 v135,2013,135.  where you born in one of the ussr countries and immigrated to israel after,
 v152,2013,152.  language of the interview:,
@@ -141,7 +141,7 @@ a_educ,2013,educ.  how many years have you studied in school (including elementa
 a_v5B,2013,5b. the elections indicate a lack of faith in netanyahu.,
 a_v20,2013,20.  language of the interview:,
 a_v22,2013,22. area code,
-midgam,2015,,"{1: '1', 2: '2', 3: '3'}"
+midgam,2015,None,"{1: '1', 2: '2', 3: '3'}"
 v119,2015,119.  If immigrated from the Former Soviet Union from 1989 and onwards,{1: '1. Immigrant from USSR'}
 v147,2015,147.  Language of Interview:,"{1: 'Hebrew', 2: 'Arabic', 3: 'Russian'}"
 after_version,2015,version,"{1: 'Version A', 2: 'Version B'}"
@@ -205,9 +205,9 @@ v126,Apr-19,126. The Knesset,"{1: '1. No trust at all', 2: '2. Little trust', 3:
 v127,Apr-19,127. The Supreme Court,"{1: '1. No trust at all', 2: '2. Little trust', 3: '3. High trust', 4: '4. Very high trust', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer', 100: '888', 101: '999'}"
 v128,Apr-19,128. Politicians,"{1: '1. No trust at all', 2: '2. Little trust', 3: '3. High trust', 4: '4. Very high trust', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer', 100: '888', 101: '999'}"
 v148,Apr-19,148. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
-MIDGAM,Apr-19,,"{1: 'midgam  1', 2: 'midgam  2', 3: 'midgam  3', 4: 'midgam  4'}"
-interview_wave2,Apr-19,,"{0: 'no', 1: 'yes'}"
-resp_id_after,Apr-19,,
+MIDGAM,Apr-19,None,"{1: 'midgam  1', 2: 'midgam  2', 3: 'midgam  3', 4: 'midgam  4'}"
+interview_wave2,Apr-19,None,"{0: 'no', 1: 'yes'}"
+resp_id_after,Apr-19,None,
 v6J_after,Apr-19,6J. The elections indicate that the people are loyal to Eretz Israel and support,"{1: '1. Completely Disagree', 2: '2. Disagree', 3: '3. Not sure', 4: '4. Agree', 5: '5. Completely Agree', 8: '8. doesn’t know', 9: '9. No answer/refuses to answer', 10: '888', 11: '999'}"
 V8A_after_code1,Apr-19,8A. What is Right as you understand it?,
 V8A_after_code2,Apr-19,8A. What is Right as you understand it?,
@@ -224,13 +224,13 @@ v14A_code,Apr-19,"14A. Who, in your opinion, is the most influential figure in t
 v14B_code,Apr-19,"14B. Who, in your opinion, is the most influential figure in the history of the","{1001: '‘אהוד ברק’', 1002: '‘אחמד טיבי’', 1003: '‘איברהים נימר חוסיין’', 1004: '‘איוב קרא’', 1005: '‘איימן עודה’', 1006: '‘אין אף אחד’', 1007: '‘אין תשובה’', 1008: '‘אמיל תומא’', 1009: '‘אריאל שרון’', 1010: '‘ביבי נתניהו ‘', 1011: '‘ביל קלינטון’', 1012: '‘בירס’', 1013: '‘גבר מועדי’', 1014: '‘גמאל עבד אלנאצר’', 1015: '‘דוד בן גוריון’', 1016: '‘חאג אמין אל חוסייני’', 1017: '‘יאסר ערפאת’', 1018: '‘יצחק הרצוג’', 1019: '‘יצחק רבין’', 1020: '‘לא זוכר’', 1021: '‘לא יודע’', 1022: '‘מאיר כהנא’', 1023: '‘מחמוד דרוויש’', 1024: '‘מנחם בגין’', 1025: '‘מסרב’', 1026: '‘רובי רבלין’', 1027: '‘סיף אלדין זועבי’', 1028: '‘צלאח א- דין’', 1029: '‘עבדאללה נימר דרוויש’', 1030: '‘עזמי בשארה’', 1031: '‘ציפי ליבני’', 1032: '‘ראאד סלאח’', 1033: '‘שולמית אלוני’', 1034: '‘שמעון פרס’', 1035: '‘תאופיק זיאד’', 1036: '‘תופיק טובי’'}"
 v17_after,Apr-19,17. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
 v18_after,Apr-19,18. Sector,"{1: '1. Jewish', 2: '2. Arab', 3: '888', 4: '999'}"
-w1_arabs_relig,Apr-19,,
-w2_jews_age,Apr-19,,
-w3_jews_educ,Apr-19,,
-traditional,Apr-19,,"{1: '1. דתי מאוד, חרדי', 2: '2. דתי', 3: '3. מסורתי דתי', 4: '4. מסורתי לא כל כך דתי', 5: '5. לא דתי, חילוני'}"
-w4_jews_traditional,Apr-19,,
+w1_arabs_relig,Apr-19,None,
+w2_jews_age,Apr-19,None,
+w3_jews_educ,Apr-19,None,
+traditional,Apr-19,None,"{1: '1. דתי מאוד, חרדי', 2: '2. דתי', 3: '3. מסורתי דתי', 4: '4. מסורתי לא כל כך דתי', 5: '5. לא דתי, חילוני'}"
+w4_jews_traditional,Apr-19,None,
 c_resp_id_before,Apr-19,ID,
-c_date_before,Apr-19,,
+c_date_before,Apr-19,None,
 girsa_c,Apr-19,1. Version,"{1: '1. Version A (Green+Blue)', 2: '2. Version B (Green+Red)'}"
 c301,Apr-19,C301. That the Knesset decided to dissolve itself and hold new elections,"{1: '1. Definitely Improper', 2: '2. Improper', 3: '3. So-So', 4: '4. Proper', 5: '5. Definitely Proper', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
 c302,Apr-19,C302. That Netanyahu did not return the mandate to the president at the end of t,"{1: '1. Definitely Improper', 2: '2. Improper', 3: '3. So-So', 4: '4. Proper', 5: '5. Definitely Proper', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
@@ -292,11 +292,11 @@ c101,Apr-19,C101. Read content from a politician or political party that appeare
 c99,Apr-19,C99. Responded to content that a politician or political party posted,"{1: '1. Never', 2: '2. Once a week', 3: '3. Two or three times a week', 4: '4. Nearly every day', 5: '5. Several times a day', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
 c100,Apr-19,C100. Shared content from a politician or political party,"{1: '1. Never', 2: '2. Once a week', 3: '3. Two or three times a week', 4: '4. Nearly every day', 5: '5. Several times a day', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
 c310,Apr-19,"C310. Thank you for your time. We would very much like to talk to you again, aft","{1: '1. Yes', 2: '2. No', 3: ""3. Don't Know"", 4: '888', 5: '999'}"
-c146,Apr-19,,
+c146,Apr-19,None,
 c148,Apr-19,C148. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
 c149,Apr-19,C149. Sector,"{1: '1. Jewish', 2: '2. Arab', 3: '888', 4: '999'}"
-d_resp_id_after,Apr-19,,
-d_date_after,Apr-19,,
+d_resp_id_after,Apr-19,None,
+d_date_after,Apr-19,None,
 D1,Apr-19,D1. Did you vote in the last Knesset election?,"{1: '1. Yes', 2: '2. No', 3: '3. Blank ballot'}"
 D2,Apr-19,D2. Which list did you vote for in the last Knesset election?,"{1: '1. Likud (Binyamin Netanyahu)', 2: '2. Kahol-Lavan (Benny Gantz and Yair Lapid)', 3: '3. HaAvoda-Gesher (Amir Peretz, Orli Levi-Abukasis)', 5: '5. Yamina/HaYamin HaMeuchad (HaBayit HaYehudi + HaIchud HaLeumi , HaYamin HaHada', 6: '6. Hamachane Hademocrati (Democratic Union) (Meretz: Nitzan Horowitz, Stav Shafi', 7: '7. Yahadut HaTorah (United Torah Judaism) (Agudat Israel Degel HaTorah)', 8: '8. Shas', 9: '9. Yisrael Beitenu (Avigdor Lieberman)', 11: '11. HaReshima HaMeshutefet  (Joint List) (Hadash-Ta’al-Ra’am-Balad)', 12: '12. Tzedek', 16: '16. Bible Bloc (HaGush HaTanachi)', 18: '18. Otzma Calcalit', 19: '19. Otzma Yehudit', 21: '21. Right-wing Party', 22: '22. Center Party', 30: 'Other (specify)', 94: ""94. Didn't vote"", 96: '96. Blank Ballot', 97: '97. Undecided/debating', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
 D4,Apr-19,"D4. On election day, to what extent was it important to you personally that the","{1: '1. Not at all important', 2: '2. lightly important', 3: '3. Somewhat important', 4: '4. Quite important', 5: '5. Very important', 8: '8. Don’t know/no answer', 9: '9. Refuses to answer'}"
@@ -304,13 +304,13 @@ D7,Apr-19,"D7. And when you think about the elections that just took place, what
 D9,Apr-19,D9. And now given the election results - which coalition would you prefer?,"{1: '1. A coalition led by Likud with the ultra-Orthodox parties, religious parties,', 2: '2. A coalition led by Kahol-Lavan with the left-wing parties and other parties', 3: '3. A national unity government of Likud and Kahol-Lavan with Gantz and Netanyahu', 4: '4. A national unity government of Likud and Kahol-Lavan with Gantz and a Likud M', 5: '5. Do not read: A different coalition. Which:', 6: '6. Do not read: None of the above', 8: '8. Do not read: Don’t know', 9: '9. Do not read: No answer / refuses to answer'}"
 D17,Apr-19,D17. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
 D18,Apr-19,D18. Sector,"{1: '1. Jewish', 2: '2. Arab', 3: '888', 4: '999'}"
-educ_w,Apr-19,,"{1: 'To high school - without matriculation diploma', 2: 'Complete high school with matriculation diploma', 3: 'Post high school', 4: 'Academic degree'}"
-weights_panel_1,Apr-19,,
-weights_panel_2,Apr-19,,
-weights_panel_3,Apr-19,,
-weights_panel_4,Apr-19,,
-resp_id,Sep-19,,
-date,Sep-19,,
+educ_w,Apr-19,None,"{1: 'To high school - without matriculation diploma', 2: 'Complete high school with matriculation diploma', 3: 'Post high school', 4: 'Academic degree'}"
+weights_panel_1,Apr-19,None,
+weights_panel_2,Apr-19,None,
+weights_panel_3,Apr-19,None,
+weights_panel_4,Apr-19,None,
+resp_id,Sep-19,None,
+date,Sep-19,None,
 version,Sep-19,1. Version,"{1: '1. Version A (Green+Blue)', 2: '2. Version B (Green+Red)', 3: '888', 4: '999'}"
 age,Sep-19,2. How old are you?,
 agegroup,Sep-19,For those who did not answer: 3. What age group do you belong to?,"{1: '1. 18-22', 2: '2. 23-29', 3: '3. 30-39', 4: '4. 40-49', 5: '5. 50-59', 6: '6. 60-69', 7: '7. 70-79', 8: '8. 80 and over', 99: '99. Refuses to answer', 100: '888', 101: '999'}"
@@ -480,10 +480,10 @@ v143_code,Sep-19,143.  What is your religion?,"{1: '1. Jewish', 2: '2. Muslim', 
 v144,Sep-19,144.  In terms of religion how do you define yourself?,"{1: '1. Very religious, Haredi', 2: '2. Religious', 3: '3. Traditional religious', 4: '4. Traditional, not so religious', 5: '5. Non-religious, secular', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer', 100: '888', 101: '999'}"
 v148,Sep-19,148. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
 v149,Sep-19,149. Sector,"{1: '1. Jewish', 2: '2. Arab', 3: '888', 4: '999'}"
-MIDGAM,Sep-19,,"{1: 'midgam  1', 2: 'midgam  2', 3: 'midgam  3', 4: 'midgam  4'}"
-interview_wave2,Sep-19,,"{0: 'no', 1: 'yes'}"
-resp_id_after,Sep-19,,
-date_after,Sep-19,,
+MIDGAM,Sep-19,None,"{1: 'midgam  1', 2: 'midgam  2', 3: 'midgam  3', 4: 'midgam  4'}"
+interview_wave2,Sep-19,None,"{0: 'no', 1: 'yes'}"
+resp_id_after,Sep-19,None,
+date_after,Sep-19,None,
 v1_after,Sep-19,1. Did you vote in the last elections?,"{1: '1. Yes', 2: '2. No', 3: '3. White ballot', 4: '888', 5: '999'}"
 v2_after,Sep-19,2. What party did you vote for in the last elections?,"{1: '1. Likud (Benjamin Netanyahu)', 2: '2. Blue and White “Kahol Lavan”  (Benny Gantz and Yair Lapid)', 3: '3. Labor “HaAvoda” (Avi Gabbay)', 4: '4. The New Right “HaYamin HaHadash” (Bennet and Shaked)', 5: '5. Union of Right Wing Parties (HaBayit HaYehudi, HaIchud HaLeumi, Otzma Yehudit', 6: '6. Meretz', 7: '7. Yahaduth HaTorah (Agudath Israel + Degel HaTorah)', 8: '8. Shas', 9: '9. Yisrael Beitenu (Avigdor Liberman)', 10: '10. Kulanu (Moshe Kahlon)', 11: '11. Hadash-Ta’al', 12: '12. Ra’am-Balad', 13: '13. Yachad (Eli Yishai)', 14: '14. Zehut (Moshe Feiglin)', 15: '15. Gesher (Orli Levi-Abukasis)', 16: 'Achi Israeli (Adina Bar Shalom)', 17: '17. Magen (Gal Hirsch)', 18: '18. Beyachad (Yom Tov Sima)', 30: '30. Other (specify)', 94: '94. Didn’t vote', 96: '96. Blank ballot', 98: '98. Doesn’t know', 99: '99. Refuses to answer', 100: '888', 101: '999'}"
 v3_after,Sep-19,3. When did you make your final decision [to vote for the party he/she voted for,"{1: '1. On the elections day itself', 2: '2. 2-3 days before the elections', 3: '3. About a week before the elections', 4: '4. About a month before the elections', 5: '5. A few months before the elections', 6: '6. I knew all along who I would vote for', 8: '8. Don’t read aloud: don’t know', 9: '9. Don’t read aloud: No answer/Refuses', 10: '888', 11: '999'}"
@@ -518,11 +518,11 @@ v14A_code,Sep-19,"14A. Who, in your opinion, is the most influential figure in t
 v14B_code,Sep-19,"14B. Who, in your opinion, is the most influential figure in the history of the","{1001: '‘אהוד ברק’', 1002: '‘אחמד טיבי’', 1003: '‘איברהים נימר חוסיין’', 1004: '‘איוב קרא’', 1005: '‘איימן עודה’', 1006: '‘אין אף אחד’', 1007: '‘אין תשובה’', 1008: '‘אמיל תומא’', 1009: '‘אריאל שרון’', 1010: '‘ביבי נתניהו ‘', 1011: '‘ביל קלינטון’', 1012: '‘בירס’', 1013: '‘גבר מועדי’', 1014: '‘גמאל עבד אלנאצר’', 1015: '‘דוד בן גוריון’', 1016: '‘חאג אמין אל חוסייני’', 1017: '‘יאסר ערפאת’', 1018: '‘יצחק הרצוג’', 1019: '‘יצחק רבין’', 1020: '‘לא זוכר’', 1021: '‘לא יודע’', 1022: '‘מאיר כהנא’', 1023: '‘מחמוד דרוויש’', 1024: '‘מנחם בגין’', 1025: '‘מסרב’', 1026: '‘רובי רבלין’', 1027: '‘סיף אלדין זועבי’', 1028: '‘צלאח א- דין’', 1029: '‘עבדאללה נימר דרוויש’', 1030: '‘עזמי בשארה’', 1031: '‘ציפי ליבני’', 1032: '‘ראאד סלאח’', 1033: '‘שולמית אלוני’', 1034: '‘שמעון פרס’', 1035: '‘תאופיק זיאד’', 1036: '‘תופיק טובי’'}"
 v17_after,Sep-19,17. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
 v18_after,Sep-19,18. Sector,"{1: '1. Jewish', 2: '2. Arab', 3: '888', 4: '999'}"
-w1_arabs_relig,Sep-19,,
-w2_jews_age,Sep-19,,
-w3_jews_educ,Sep-19,,
-traditional,Sep-19,,"{1: '1. דתי מאוד, חרדי', 2: '2. דתי', 3: '3. מסורתי דתי', 4: '4. מסורתי לא כל כך דתי', 5: '5. לא דתי, חילוני'}"
-w4_jews_traditional,Sep-19,,
+w1_arabs_relig,Sep-19,None,
+w2_jews_age,Sep-19,None,
+w3_jews_educ,Sep-19,None,
+traditional,Sep-19,None,"{1: '1. דתי מאוד, חרדי', 2: '2. דתי', 3: '3. מסורתי דתי', 4: '4. מסורתי לא כל כך דתי', 5: '5. לא דתי, חילוני'}"
+w4_jews_traditional,Sep-19,None,
 c_resp_id_before,Sep-19,ID,
 c8_Code1,Sep-19,"C8. In your opinion, what is the most important problem that the government has",
 c8_Code2,Sep-19,"C8. In your opinion, what is the most important problem that the government has",
@@ -552,16 +552,16 @@ c101,Sep-19,C101. Read content from a politician or political party that appeare
 c99,Sep-19,C99. Responded to content that a politician or political party posted,"{1: '1. Never', 2: '2. Once a week', 3: '3. Two or three times a week', 4: '4. Nearly every day', 5: '5. Several times a day', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
 c100,Sep-19,C100. Shared content from a politician or political party,"{1: '1. Never', 2: '2. Once a week', 3: '3. Two or three times a week', 4: '4. Nearly every day', 5: '5. Several times a day', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer'}"
 c310,Sep-19,"C310. Thank you for your time. We would very much like to talk to you again, aft","{1: '1. Yes', 2: '2. No', 3: ""3. Don't Know"", 4: '888', 5: '999'}"
-c146,Sep-19,,
+c146,Sep-19,None,
 c148,Sep-19,C148. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
-d_resp_id_after,Sep-19,,
+d_resp_id_after,Sep-19,None,
 D17,Sep-19,D17. Interview language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '888', 4: '999'}"
 D18,Sep-19,D18. Sector,"{1: '1. Jewish', 2: '2. Arab', 3: '888', 4: '999'}"
-educ_w,Sep-19,,"{1: 'To high school - without matriculation diploma', 2: 'Complete high school with matriculation diploma', 3: 'Post high school', 4: 'Academic degree'}"
-weights_panel_1,Sep-19,,
-weights_panel_2,Sep-19,,
-weights_panel_3,Sep-19,,
-weights_panel_4,Sep-19,,
+educ_w,Sep-19,None,"{1: 'To high school - without matriculation diploma', 2: 'Complete high school with matriculation diploma', 3: 'Post high school', 4: 'Academic degree'}"
+weights_panel_1,Sep-19,None,
+weights_panel_2,Sep-19,None,
+weights_panel_3,Sep-19,None,
+weights_panel_4,Sep-19,None,
 agree,2020,(Agree) Will you agree to participate in the study?,"{1: '1. Yes', 2: '888', 3: '999'}"
 v147,2020,147. Thank you for your time. It will be very important to us to return to you a,"{1: '1. Yes', 2: '2. No', 3: '3. Don’t know', 4: '888', 5: '999'}"
 Language,2020,Language,"{1: '1. Hebrew', 2: '2. Arabic', 3: '3. Russian', 4: '888', 5: '999'}"
@@ -585,27 +585,30 @@ agree,2021,Do you agree to participate in the study?,"{1: '1. Yes, I agree to pa
 citizen,2021,Are you an Israeli citizen?,"{1: '1. Yes', 2: '2. No', 3: '3. 888', 4: '4. 999'}"
 v52R,2021,Ahmad Tibi,"{0: '0. 0 rejection/ hatred', 1: '1. 1', 2: '2. 2', 3: '3. 3', 4: '4. 4', 5: '5. 5', 6: '6. 6', 7: '7. 7', 8: '8. 8', 9: '9. 9', 10: '10. 10 support/ sympathy', 98: '98. Don’t know/no answer', 99: '99. Refuses to answer', 100: '100. 888', 101: '101. 999'}"
 v147,2021,Thank you for your time. It will be very important to us to return to you after,"{1: '1. Yes', 2: '2. No', 3: '3. Don’t know', 99: '99. Refuses to answer', 100: '100. 888', 101: '101. 999'}"
-lang,2021,,"{1: '1. hebrew', 2: '2. arabic'}"
-data_collection_mode,2021,,
+lang,2021,None,"{1: '1. hebrew', 2: '2. arabic'}"
+data_collection_mode,2021,None,
 resp_id_after,2021,Respons Code,
 Agree_after,2021,(Agree) Do you agree to participate in the study?,"{1: '1. Yes', 2: '2. 888', 3: '3. 999'}"
-weights_panel_1,2021,,
-weights_panel_2,2021,,
-weights_telephone_panel_1,2021,,
-weights_telephone_panel_2,2021,,
-weights_internet_panel_1,2021,,
-weights_internet_panel_2,2021,,
-educ_jews_w,2021,,
-educ_arabs_w,2021,,
-religiosity_jews_w,2021,,
-age_arabs_w,2021,,
+weights_panel_1,2021,None,
+weights_panel_2,2021,None,
+weights_telephone_panel_1,2021,None,
+weights_telephone_panel_2,2021,None,
+weights_internet_panel_1,2021,None,
+weights_internet_panel_2,2021,None,
+educ_jews_w,2021,None,
+educ_arabs_w,2021,None,
+religiosity_jews_w,2021,None,
+age_arabs_w,2021,None,
 date_telephone,2022,Start Date,
 agree_1,2022,Do you agree to participate in the study? ‎,"{1: '\u200e1.\u200e Yes, I agree to participate in the study', 2: '888', 3: '999'}"
 citizen‎,2022,Are you an Israeli citizen?‎,
-data_collection,2022,,"{1: '1. Internet', 2: '2.Telephone'}"
-Version‎,2022,,"{1: '\u200e1.\u200e Version A (Green+Red)\u200e', 2: '\u200e2.\u200e Version B (Green+Blue)\u200e'}"
+v106,2022,"In your opinion, after the election, will the government be based on‎:","{1: '\u200e1.\u200e A coalition of the Likud with right-wing and Haredi parties', 2: '\u200e2.\u200e A coalition of Yesh Atid with center-left parties', 3: '\u200e3.\u200e A unity government of parties from the right, the center, and the left', 4: '\u200e4.\u200e No coalition will be formed, and the Knesset will dissolve', 5: '\u200e5.\u200e Other\u200e (specify)\u200e', 6: '888', 7: '999'}"
+v107,2022,And which of the following governments would you prefer?‎,"{1: '\u200e1.\u200e A coalition of the right-wing parties', 2: '\u200e2.\u200e A coalition of center-left parties', 3: '\u200e3.\u200e A unity government of parties from the right, the center, and the left', 4: '\u200e4.\u200e Other\u200e (specify)\u200e', 5: '888', 6: '999'}"
+data_collection,2022,None,"{1: '1. Internet', 2: '2.Telephone'}"
+Version‎,2022,None,"{1: '\u200e1.\u200e Version A (Green+Red)\u200e', 2: '\u200e2.\u200e Version B (Green+Blue)\u200e'}"
 language‎,2022,Interview language‎,"{1: '\u200e1. Hebrew \u200e', 2: '\u200e2. Arabic \u200e'}"
 agree_2,2022,Do you agree to participate in the study?‎,"{1: '1. \u200eYes, I agree to participate in the study', 2: '888', 3: '999'}"
+F9,2022,"And now given the election results, which coalition would you prefer most?‎","{1: '\u200e1.\u200e A coalition of the Likud with right-wing and Haredi parties', 2: '\u200e2.\u200e A coalition of the Likud with Haredi parties and National Unity (HaMa', 3: '\u200e3.\u200e A unity government of the Likud with Yesh Atid and National Unity (HaMa', 4: '\u200e4.\u200e A different coalition. Which\u200e?', 5: '\u200e5.\u200e None of the above', 6: '\u200e6.\u200e I don’t care which government it is, as long as there will be one', 8: '8. Don’t know/no answer', 9: '9. Don’t know/no answer', 10: '888', 11: '999'}"
 w_panel1,2022,"Sample weight (sex, age, educ, religosity) - wave 1 - full sample",
 w_panel2,2022,"Sample weight (sex, age, educ, religosity) - wave 2 - full sample",
 w_jews_panel1,2022,"Sample weight (sex, age, educ, religosity) - wave 1 - Jews",

@@ -22,16 +22,16 @@ if not supabase_url or not supabase_key:
     raise ValueError("SUPABASE_URL and SUPABASE_KEY must be set in the environment variables.")
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
-question_index_file = os.path.join(scriptpath, "question_index.xlsx")
+question_index_file = os.path.join(scriptpath, "question_index_new.xlsx")
 
 stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
 statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
 
 supabase: Client = create_client(supabase_url, supabase_key)
 questions: list[dict[str, str]] = []
-question_instances: list[dict[str, str]] = []
+question_instances: list[dict[str, str | None]] = []
 surveys: list[dict[str, str]] = []
-missing_from_wxl: list[dict[str, str]] = []
+missing_from_wxl: list[dict[str, str | None]] = []
 
 def download_file(url: str, output_folder: str) -> str:
     """
@@ -81,9 +81,12 @@ def parse_question_instances(surveys: list[dict[str, str]]):
     
     q_index = 0
     survey_wxl_ids = [survey["wxl_survey_id"] for survey in surveys]
+    
+    # New format has an additional non-category sheets. The must be ignored.
+    category_sheets = [sheet for sheet in wxl_data.sheet_names if sheet not in ["סופי סופי", "איחוד שאלות", "הערות כלליות"]]
 
     # Iterate through each sheet in the Excel file
-    for heb_category in wxl_data.sheet_names:
+    for heb_category in category_sheets:
         # Load the current sheet
         category_data = pd.read_excel(question_index_file, sheet_name=heb_category)
         columns = category_data.columns
@@ -116,7 +119,7 @@ def parse_question_instances(surveys: list[dict[str, str]]):
                 }
                 question_instances.append(q_instance)
 
-def enrich_q_instance_from_dta(survey: dict[str, str]):
+def enrich_q_instance_from_dta(survey: dict[str, str | None]):
     """
     Extracts english descriptions from a Stata file.
     Appends them to their question items.
@@ -137,23 +140,28 @@ def enrich_q_instance_from_dta(survey: dict[str, str]):
     # This df is not good, but the meta file is better parsed with pyreadstat
     _df, meta = pyreadstat.read_dta(dta_file, apply_value_formats=True)
 
-    for qid_s in meta.column_names:
-        question_instance = next((q_instance for q_instance in question_instances if q_instance["qid_s"] == qid_s and q_instance["wxl_survey"] == wxl_survey_id), None)
+    for qid_s_unknown in meta.column_names:
+        qid_s = "" if qid_s_unknown is None else str(qid_s_unknown).strip()
+        question_instance = next((
+            q_instance for q_instance in question_instances 
+            if q_instance["qid_s"] == qid_s and q_instance["wxl_survey"] == wxl_survey_id
+        ), None)
         
         if (question_instance == None):
             print(f"Question {qid_s} of survey {wxl_survey_id} not found in wxl data.")
-            missing_from_wxl.append({
+            question_instance = dict({
                 "qid_s": qid_s,
                 "wxl_survey": wxl_survey_id,
-                "dta_description": meta.column_names_to_labels[qid_s] if qid_s in meta.column_names_to_labels else None,
-                "dta_answers": meta.value_labels[qid_s] if qid_s in meta.value_labels else None,
             })
-            continue
+            missing_from_wxl.append(question_instance)
 
-        question_instance["dta_description"] = meta.column_names_to_labels[qid_s] if qid_s in meta.column_names_to_labels else None
-        question_instance["dta_answers"] = meta.value_labels[qid_s] if qid_s in meta.value_labels else None
+        dta_description = str(meta.column_names_to_labels[qid_s]).strip() if qid_s in meta.column_names_to_labels else None
+        dta_answers = str(meta.value_labels[qid_s]).strip() if qid_s in meta.value_labels else None
 
-def save_question_instances(unique_question_instances: list[dict[str, str]]):
+        question_instance["dta_description"] = dta_description
+        question_instance["dta_answers"] = dta_answers
+
+def save_question_instances(unique_question_instances: list[dict[str, str | None]]):
     """
     Saves the question instances to the database.
     """
@@ -167,7 +175,7 @@ def save_question_instances(unique_question_instances: list[dict[str, str]]):
 
     print(f"Attempted to upsert {len(unique_question_instances)} question instances into the database.")
 
-def find_duplicates_within_category(question_instances: list[dict[str, str]]) -> list[tuple[str, str, str]]:
+def find_duplicates_within_category(question_instances: list[dict[str, str | None]]) -> list[tuple[str, str, str]]:
     """
     Finds duplicate question instances based on the survey, question id, and category.
     """
@@ -184,7 +192,7 @@ def find_duplicates_within_category(question_instances: list[dict[str, str]]) ->
     return duplicates
 
 
-def find_all_duplicates(question_instances: list[dict[str, str]]) -> list[tuple[str, str]]:
+def find_all_duplicates(question_instances: list[dict[str, str | None]]) -> list[tuple[str, str | None]]:
     """
     Finds duplicate question instances based on the survey and question id.
     """
