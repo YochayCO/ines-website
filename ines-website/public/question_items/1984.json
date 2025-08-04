@@ -227,77 +227,77 @@
         "englishDescription": "the religious (orthodox)"
     },
     {
-        "id": "38. מה יחסך לאשכנזים?",
+        "id": "39. מה יחסך לאשכנזים?",
         "questionHebrewDescription": "מה יחסך לאשכנזים?",
         "questionSurveyId": "a33",
         "type": "category",
         "englishDescription": "ashkenazim"
     },
     {
-        "id": "39. מה יחסך לספרדים?",
+        "id": "40. מה יחסך לספרדים?",
         "questionHebrewDescription": "מה יחסך לספרדים?",
         "questionSurveyId": "a36",
         "type": "category",
         "englishDescription": "sephardim"
     },
     {
-        "id": "42. מה יחסך לתנועת גוש אמונים?",
+        "id": "43. מה יחסך לתנועת גוש אמונים?",
         "questionHebrewDescription": "מה יחסך לתנועת גוש אמונים?",
         "questionSurveyId": "a39",
         "type": "category",
         "englishDescription": "gush emunim"
     },
     {
-        "id": "43. מה יחסך לתנועת שלום עכשיו?",
+        "id": "44. מה יחסך לתנועת שלום עכשיו?",
         "questionHebrewDescription": "מה יחסך לתנועת שלום עכשיו?",
         "questionSurveyId": "a40",
         "type": "category",
         "englishDescription": "peace now"
     },
     {
-        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
+        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionSurveyId": "a31",
         "type": "category",
         "englishDescription": "ariel sharon"
     },
     {
-        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
+        "id": "47. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
         "questionSurveyId": "a29",
         "type": "category",
         "englishDescription": "yitzhak shamir"
     },
     {
-        "id": "47. ועל אותו סולם, מה יחסך לאישים הבאים? מנחם בגין",
+        "id": "48. ועל אותו סולם, מה יחסך לאישים הבאים? מנחם בגין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מנחם בגין",
         "questionSurveyId": "a38",
         "type": "category",
         "englishDescription": "menachem begin"
     },
     {
-        "id": "51. ועל אותו סולם, מה יחסך לאישים הבאים? דוד לוי",
+        "id": "52. ועל אותו סולם, מה יחסך לאישים הבאים? דוד לוי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? דוד לוי",
         "questionSurveyId": "a34",
         "type": "category",
         "englishDescription": "david levy"
     },
     {
-        "id": "52. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק נבון",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק נבון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק נבון",
         "questionSurveyId": "a35",
         "type": "category",
         "englishDescription": "yitzhak navon"
     },
     {
-        "id": "57. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
+        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionSurveyId": "a37",
         "type": "category",
         "englishDescription": "yitzhak rabin"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "a28",
         "type": "category",
@@ -871,56 +871,56 @@
         "englishDescription": "territorial concession should be made in judea and samaria"
     },
     {
-        "id": "28. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
+        "id": "30. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionSurveyId": "v29",
         "type": "category",
         "englishDescription": "democracy is the best form of government"
     },
     {
-        "id": "33. כל עוד לא מושגים פתרונות ביו\"ש ועזה, האם אתה בעד תוספת זכויות אזרח לתושבי השטחים יותר ממה שיש להם היום, או דווקא בעד הפחתת הזכויות, או שיש להשאיר המצב כמו שהוא?",
+        "id": "35. כל עוד לא מושגים פתרונות ביו\"ש ועזה, האם אתה בעד תוספת זכויות אזרח לתושבי השטחים יותר ממה שיש להם היום, או דווקא בעד הפחתת הזכויות, או שיש להשאיר המצב כמו שהוא?",
         "questionHebrewDescription": "כל עוד לא מושגים פתרונות ביו\"ש ועזה, האם אתה בעד תוספת זכויות אזרח לתושבי השטחים יותר ממה שיש להם היום, או דווקא בעד הפחתת הזכויות, או שיש להשאיר המצב כמו שהוא?",
         "questionSurveyId": "v11",
         "type": "category",
         "englishDescription": "increase/decrease civil rights for territories' inhabitants as long as a settlem"
     },
     {
-        "id": "53. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: ליהודים שמבצעים פעולות לא חוקיות נגד ערבים יש לתת עונשים קלים יותר מאשר לערבים שמבצעים פעולות דומות נגד יהודים",
+        "id": "55. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: ליהודים שמבצעים פעולות לא חוקיות נגד ערבים יש לתת עונשים קלים יותר מאשר לערבים שמבצעים פעולות דומות נגד יהודים",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: ליהודים שמבצעים פעולות לא חוקיות נגד ערבים יש לתת עונשים קלים יותר מאשר לערבים שמבצעים פעולות דומות נגד יהודים",
         "questionSurveyId": "v31",
         "type": "category",
         "englishDescription": "lighter punishments should be given to jews that break the law when acting again"
     },
     {
-        "id": "54. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
+        "id": "56. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionSurveyId": "v32",
         "type": "category",
         "englishDescription": "a few strong leaders could do the country more good than all the laws and debate"
     },
     {
-        "id": "57. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: אני מאמין בחופש ביטוי לכל האנשים ללא קשר לעמדותיהם",
+        "id": "59. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: אני מאמין בחופש ביטוי לכל האנשים ללא קשר לעמדותיהם",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: אני מאמין בחופש ביטוי לכל האנשים ללא קשר לעמדותיהם",
         "questionSurveyId": "v33",
         "type": "category",
         "englishDescription": "the belief in freedom of expression for all people, regardless of their opinions"
     },
     {
-        "id": "58. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש מצבים בהם נראה כי עדיף שאנשים יקחו בעצמם את החוק לידיהם",
+        "id": "60. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש מצבים בהם נראה כי עדיף שאנשים יקחו בעצמם את החוק לידיהם",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש מצבים בהם נראה כי עדיף שאנשים יקחו בעצמם את החוק לידיהם",
         "questionSurveyId": "v34",
         "type": "category",
         "englishDescription": "there are situations in which it seems better for people to take the law into th"
     },
     {
-        "id": "59. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: הכי טוב היה להרוס את כל המוסדות ולהתחיל מחדש",
+        "id": "61. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: הכי טוב היה להרוס את כל המוסדות ולהתחיל מחדש",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: הכי טוב היה להרוס את כל המוסדות ולהתחיל מחדש",
         "questionSurveyId": "v35",
         "type": "category",
         "englishDescription": "it would be best to tear down all the institutions and begin anew"
     },
     {
-        "id": "61. יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
+        "id": "63. יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
         "questionHebrewDescription": "יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
         "questionSurveyId": "v41",
         "type": "category",

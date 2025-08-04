@@ -424,63 +424,63 @@
         "englishDescription": "On a scale where 0 is complete rejection/hatred, 10 is complete support, and 5 i"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v52A",
         "type": "category",
         "englishDescription": "Benjamin Netanyahu"
     },
     {
-        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionSurveyId": "v52B",
         "type": "category",
         "englishDescription": "Benny Gantz"
     },
     {
-        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "56. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionSurveyId": "v52C",
         "type": "category",
         "englishDescription": "Yair Lapid"
     },
     {
-        "id": "65. ועל אותו סולם, מה יחסך לאישים הבאים? מרב מיכאלי",
+        "id": "66. ועל אותו סולם, מה יחסך לאישים הבאים? מרב מיכאלי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מרב מיכאלי",
         "questionSurveyId": "v52D",
         "type": "category",
         "englishDescription": "Merav Michaeli"
     },
     {
-        "id": "66. ועל אותו סולם, מה יחסך לאישים הבאים? גדעון סער",
+        "id": "67. ועל אותו סולם, מה יחסך לאישים הבאים? גדעון סער",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? גדעון סער",
         "questionSurveyId": "v52Z",
         "type": "category",
         "englishDescription": "Gideon Sa’ar"
     },
     {
-        "id": "67. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "id": "68. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
         "questionSurveyId": "v52E",
         "type": "category",
         "englishDescription": "Naftali Bennett"
     },
     {
-        "id": "75. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "id": "76. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
         "questionSurveyId": "v52G",
         "type": "category",
         "englishDescription": "Nitzan Horowitz"
     },
     {
-        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionSurveyId": "v52K",
         "type": "category",
         "englishDescription": "Ayman Odeh"
     },
     {
-        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
+        "id": "83. ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
         "questionSurveyId": "v52S",
         "type": "category",
@@ -725,28 +725,28 @@
         "englishDescription": "How democratically is Israel being governed today?"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "F10",
         "type": "category",
         "englishDescription": "To what extent are you satisfied or dissatisfied with the democracy in Israel?"
     },
     {
-        "id": "79. לעומת דמוקרטיות אחרות, האם להערכתך המערכת הפוליטית בישראל יציבה או לא יציבה?",
+        "id": "81. לעומת דמוקרטיות אחרות, האם להערכתך המערכת הפוליטית בישראל יציבה או לא יציבה?",
         "questionHebrewDescription": "לעומת דמוקרטיות אחרות, האם להערכתך המערכת הפוליטית בישראל יציבה או לא יציבה?",
         "questionSurveyId": "v616",
         "type": "category",
         "englishDescription": "Compared to other democracies, in your opinion, is the political system in Israe"
     },
     {
-        "id": "87. האם להערכתך ממשלות בישראל שורדות בשלטון זמן קצר, משך זמן דומה, או זמן ארוך יותר לעומת דמוקרטיות אחרות?",
+        "id": "89. האם להערכתך ממשלות בישראל שורדות בשלטון זמן קצר, משך זמן דומה, או זמן ארוך יותר לעומת דמוקרטיות אחרות?",
         "questionHebrewDescription": "האם להערכתך ממשלות בישראל שורדות בשלטון זמן קצר, משך זמן דומה, או זמן ארוך יותר לעומת דמוקרטיות אחרות?",
         "questionSurveyId": "v617",
         "type": "category",
         "englishDescription": "And in your opinion, do governments in Israel survive a shorter, similar, or a l"
     },
     {
-        "id": "88. לעומת דמקרטיות אחרות, האם להערכתך, ממשלות בישראל מצליחות או לא מצליחות להעביר את המדיניות שהן רוצות?",
+        "id": "90. לעומת דמקרטיות אחרות, האם להערכתך, ממשלות בישראל מצליחות או לא מצליחות להעביר את המדיניות שהן רוצות?",
         "questionHebrewDescription": "לעומת דמקרטיות אחרות, האם להערכתך, ממשלות בישראל מצליחות או לא מצליחות להעביר את המדיניות שהן רוצות?",
         "questionSurveyId": "v618",
         "type": "category",
@@ -851,14 +851,14 @@
         "englishDescription": "Participating in Knesset elections harms the struggle for Palestinian national r"
     },
     {
-        "id": "7. המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
+        "id": "8. המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
         "questionHebrewDescription": "המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
         "questionSurveyId": "v502",
         "type": "category",
         "englishDescription": "The Arab parties (HaReshima HaMeshutefet and Ra’am) should be active in order to"
     },
     {
-        "id": "15. הפיצול ברשימה המשותפת מזיק לאינטרסים של האוכלוסייה הערבית",
+        "id": "16. הפיצול ברשימה המשותפת מזיק לאינטרסים של האוכלוסייה הערבית",
         "questionHebrewDescription": "הפיצול ברשימה המשותפת מזיק לאינטרסים של האוכלוסייה הערבית",
         "questionSurveyId": "v605",
         "type": "category",

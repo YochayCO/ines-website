@@ -277,42 +277,42 @@
         "englishDescription": "extent of support for orthodox people"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "a51",
         "type": "category",
         "englishDescription": "extent of support for binyamin netanyahu"
     },
     {
-        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
+        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionSurveyId": "a46",
         "type": "category",
         "englishDescription": "extent of support for ariel sharon"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "a52",
         "type": "category",
         "englishDescription": "extent of support for shimon peres"
     },
     {
-        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
+        "id": "60. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
         "questionSurveyId": "a59",
         "type": "category",
         "englishDescription": "affect economy on pm voting"
     },
     {
-        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
+        "id": "78. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionSurveyId": "a53",
         "type": "category",
         "englishDescription": "extent of support for arye deri"
     },
     {
-        "id": "91. ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
+        "id": "92. ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
         "questionSurveyId": "a49",
         "type": "category",
@@ -809,14 +809,14 @@
         "englishDescription": "respondent's military service in territories"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "a39",
         "type": "category",
         "englishDescription": "level of satisfaction with israeli democracy"
     },
     {
-        "id": "30. האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
+        "id": "32. האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
         "questionHebrewDescription": "האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
         "questionSurveyId": "a56",
         "type": "category",

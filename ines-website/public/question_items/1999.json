@@ -361,56 +361,56 @@
         "englishDescription": "extend of support: ultra orthodoxies"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v50",
         "type": "category",
         "englishDescription": "extend of support: binyamin netanyahu"
     },
     {
-        "id": "49. ועל אותו סולם, מה יחסך לאישים הבאים? בני בגין",
+        "id": "50. ועל אותו סולם, מה יחסך לאישים הבאים? בני בגין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני בגין",
         "questionSurveyId": "v42",
         "type": "category",
         "englishDescription": "extend of support: beni begin"
     },
     {
-        "id": "50. ועל אותו סולם, מה יחסך לאישים הבאים? איציק מרדכי",
+        "id": "51. ועל אותו סולם, מה יחסך לאישים הבאים? איציק מרדכי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איציק מרדכי",
         "questionSurveyId": "v46",
         "type": "category",
         "englishDescription": "extend of support: itzhak mordechai"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "v51",
         "type": "category",
         "englishDescription": "extend of support: shimon peres"
     },
     {
-        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
+        "id": "60. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
         "questionSurveyId": "v48",
         "type": "category",
         "englishDescription": "extend of support: ehud barak"
     },
     {
-        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
+        "id": "78. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionSurveyId": "v52",
         "type": "category",
         "englishDescription": "extend of support: arie dery"
     },
     {
-        "id": "90. ועל אותו סולם, מה יחסך לאישים הבאים? עזמי בשארה",
+        "id": "91. ועל אותו סולם, מה יחסך לאישים הבאים? עזמי בשארה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עזמי בשארה",
         "questionSurveyId": "v49",
         "type": "category",
         "englishDescription": "extend of support: azmi bashara"
     },
     {
-        "id": "91. ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
+        "id": "92. ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
         "questionSurveyId": "v47",
         "type": "category",
@@ -1355,21 +1355,21 @@
         "englishDescription": "extend of trust in police"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "v34",
         "type": "category",
         "englishDescription": "satisfaction with israeli democracy"
     },
     {
-        "id": "30. האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
+        "id": "32. האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
         "questionHebrewDescription": "האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
         "questionSurveyId": "v57",
         "type": "category",
         "englishDescription": "participation of arabs in critical decisions"
     },
     {
-        "id": "31. מה לגבי אופי הדיון הציבורי בימים אלה? באיזו מידה אתה מרוצה או לא מרוצה ממנו",
+        "id": "33. מה לגבי אופי הדיון הציבורי בימים אלה? באיזו מידה אתה מרוצה או לא מרוצה ממנו",
         "questionHebrewDescription": "מה לגבי אופי הדיון הציבורי בימים אלה? באיזו מידה אתה מרוצה או לא מרוצה ממנו",
         "questionSurveyId": "v35",
         "type": "category",

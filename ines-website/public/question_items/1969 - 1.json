@@ -962,28 +962,28 @@
         "englishDescription": "opinion regarding returning the territories"
     },
     {
-        "id": "54. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
+        "id": "56. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionSurveyId": "c43",
         "type": "category",
         "englishDescription": "agreement with opinion-few strong leaders more useful than debates"
     },
     {
-        "id": "61. יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
+        "id": "63. יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
         "questionHebrewDescription": "יש הטוענים שקולותיהם של הבוחרים אינם משנים מעשית את המדיניות של המדינה, האם לדעתך?",
         "questionSurveyId": "c41",
         "type": "category",
         "englishDescription": "agreement with opinion-elections do not actually affect policy"
     },
     {
-        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "id": "71. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionSurveyId": "b17",
         "type": "category",
         "englishDescription": "opinion regarding changing the party in power even it's doing good job"
     },
     {
-        "id": "85. יש אנשים שלדעתם יש לבחור חברי כנסת בבחירות אישיות. ואילו אחרים סבורים שיש לבחרם לפי רשימות מפלגתיות. מה דעתך?",
+        "id": "87. יש אנשים שלדעתם יש לבחור חברי כנסת בבחירות אישיות. ואילו אחרים סבורים שיש לבחרם לפי רשימות מפלגתיות. מה דעתך?",
         "questionHebrewDescription": "יש אנשים שלדעתם יש לבחור חברי כנסת בבחירות אישיות. ואילו אחרים סבורים שיש לבחרם לפי רשימות מפלגתיות. מה דעתך?",
         "questionSurveyId": "b4",
         "type": "category",

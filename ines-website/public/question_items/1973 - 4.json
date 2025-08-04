@@ -376,35 +376,35 @@
         "englishDescription": "the way the government is handling affairs now will lead israel to surrender"
     },
     {
-        "id": "63. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
+        "id": "65. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
         "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
         "questionSurveyId": "g9",
         "type": "category",
         "englishDescription": "to what extent present election campaign helps to better understand how democrac"
     },
     {
-        "id": "65. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
+        "id": "67. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
         "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
         "questionSurveyId": "g10",
         "type": "category",
         "englishDescription": "to what extent present election campaign helps give your children a political ed"
     },
     {
-        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "id": "71. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionSurveyId": "g50",
         "type": "category",
         "englishDescription": "the party in government should be replaced even if it is doing a good job"
     },
     {
-        "id": "80. יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
+        "id": "82. יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
         "questionHebrewDescription": "יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
         "questionSurveyId": "g35",
         "type": "category",
         "englishDescription": "interviewee wants to influence government policy"
     },
     {
-        "id": "81. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "id": "83. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
         "questionHebrewDescription": "באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
         "questionSurveyId": "g34",
         "type": "category",

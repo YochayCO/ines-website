@@ -710,35 +710,35 @@
         "englishDescription": "israel has to give up occupied territories if wants to maintain jewish character"
     },
     {
-        "id": "54. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
+        "id": "56. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionSurveyId": "v68",
         "type": "category",
         "englishDescription": "a few strong leaders can help the country more than all the discussions and laws"
     },
     {
-        "id": "70. יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
+        "id": "72. יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
         "questionHebrewDescription": "יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
         "questionSurveyId": "v16",
         "type": "category",
         "englishDescription": "politicians use the elections to take advantage of the people"
     },
     {
-        "id": "71. האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
+        "id": "73. האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
         "questionHebrewDescription": "האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
         "questionSurveyId": "v14",
         "type": "category",
         "englishDescription": "the opposition serves the country in the same way the party in government does"
     },
     {
-        "id": "75. הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. האם לדעתך דבר זה פוגע בליכוד של העם?",
+        "id": "77. הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. האם לדעתך דבר זה פוגע בליכוד של העם?",
         "questionHebrewDescription": "הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. האם לדעתך דבר זה פוגע בליכוד של העם?",
         "questionSurveyId": "v15",
         "type": "category",
         "englishDescription": "elections, making people vote for different parties, hurt the unity of the natio"
     },
     {
-        "id": "81. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "id": "83. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
         "questionHebrewDescription": "באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
         "questionSurveyId": "v67",
         "type": "category",

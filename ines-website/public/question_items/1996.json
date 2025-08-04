@@ -346,42 +346,42 @@
         "englishDescription": "sympathy for religious persons"
     },
     {
-        "id": "40. מה יחסך למועצת יש\"ע?",
+        "id": "41. מה יחסך למועצת יש\"ע?",
         "questionHebrewDescription": "מה יחסך למועצת יש\"ע?",
         "questionSurveyId": "c60",
         "type": "category",
         "englishDescription": "sympathy for the judea, samaria gaza council"
     },
     {
-        "id": "41. מה יחסך לתנועה האסלאמית?",
+        "id": "42. מה יחסך לתנועה האסלאמית?",
         "questionHebrewDescription": "מה יחסך לתנועה האסלאמית?",
         "questionSurveyId": "c64",
         "type": "category",
         "englishDescription": "sympathy for the islamic movement"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "c67",
         "type": "category",
         "englishDescription": "sympathy for binyamin netanyahu"
     },
     {
-        "id": "57. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
+        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionSurveyId": "c66",
         "type": "category",
         "englishDescription": "sympathy for yitzhak rabin"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "c68",
         "type": "category",
         "englishDescription": "sympathy for shimon peres"
     },
     {
-        "id": "91. ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
+        "id": "92. ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ערפאת",
         "questionSurveyId": "c65",
         "type": "category",
@@ -1235,14 +1235,14 @@
         "englishDescription": "military service in the territories"
     },
     {
-        "id": "30. האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
+        "id": "32. האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
         "questionHebrewDescription": "האם אתה חושב שבהחלטות גורליות למדינה כמו החזרת שטחים צריכים להשתתף רק יהודים או גם ערבים אזרחי ישראל?",
         "questionSurveyId": "c71",
         "type": "category",
         "englishDescription": "arabs participation in national decisions"
     },
     {
-        "id": "32. האם אתה מסכים או מתנגד להגבלת זכויות האזרח במדינת ישראל כדי שכוחות הבטחון יוכלו למנוע פעילות מסוכנת מבית?",
+        "id": "34. האם אתה מסכים או מתנגד להגבלת זכויות האזרח במדינת ישראל כדי שכוחות הבטחון יוכלו למנוע פעילות מסוכנת מבית?",
         "questionHebrewDescription": "האם אתה מסכים או מתנגד להגבלת זכויות האזרח במדינת ישראל כדי שכוחות הבטחון יוכלו למנוע פעילות מסוכנת מבית?",
         "questionSurveyId": "c24",
         "type": "category",

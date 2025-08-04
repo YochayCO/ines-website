@@ -422,21 +422,21 @@
         "englishDescription": "67. what is your attitude towards each of the following parties? rate your answe"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v71",
         "type": "category",
         "englishDescription": "71. what is your attitude towards each of the following personalities?  rate you"
     },
     {
-        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
+        "id": "60. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אהוד ברק",
         "questionSurveyId": "v70",
         "type": "category",
         "englishDescription": "70. what is your attitude towards each of the following personalities?  rate you"
     },
     {
-        "id": "62. ועל אותו סולם, מה יחסך לאישים הבאים? ציפי לבני",
+        "id": "63. ועל אותו סולם, מה יחסך לאישים הבאים? ציפי לבני",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ציפי לבני",
         "questionSurveyId": "v69",
         "type": "category",
@@ -1311,35 +1311,35 @@
         "englishDescription": "47. to what extent do you agree or not agree with the following statement:  the"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "v60",
         "type": "category",
         "englishDescription": "60. in general, to what extent are you satisfied or dissatisfied with the way is"
     },
     {
-        "id": "26. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
+        "id": "28. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
         "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
         "questionSurveyId": "v28",
         "type": "category",
         "englishDescription": "28. to what extent does each of the following constitute a threat in your eyes?"
     },
     {
-        "id": "28. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
+        "id": "30. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionSurveyId": "v42",
         "type": "category",
         "englishDescription": "42. to what extent do you agree or not agree with the following statement:  even"
     },
     {
-        "id": "29. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
+        "id": "31. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
         "questionSurveyId": "v53",
         "type": "category",
         "englishDescription": "53. to what extent do you agree or not agree with the following statement:  the"
     },
     {
-        "id": "35. ועדת הבחירות המרכזית החליטה לפסול את הרשימות הערביות בל\"ד ורע\"ם-תע\"ל מהתמודדות בבחירות הקרובות. האם האתה תומך או מתנגד להחלטה זו?",
+        "id": "37. ועדת הבחירות המרכזית החליטה לפסול את הרשימות הערביות בל\"ד ורע\"ם-תע\"ל מהתמודדות בבחירות הקרובות. האם האתה תומך או מתנגד להחלטה זו?",
         "questionHebrewDescription": "ועדת הבחירות המרכזית החליטה לפסול את הרשימות הערביות בל\"ד ורע\"ם-תע\"ל מהתמודדות בבחירות הקרובות. האם האתה תומך או מתנגד להחלטה זו?",
         "questionSurveyId": "v68a",
         "type": "category",
@@ -1493,28 +1493,28 @@
         "englishDescription": "21. in your opinion, is the party “israel beiteinu” first and foremost a party r"
     },
     {
-        "id": "11. איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את הזהות שלך?",
+        "id": "12. איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את הזהות שלך?",
         "questionHebrewDescription": "איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את הזהות שלך?",
         "questionSurveyId": "v168",
         "type": "category",
         "englishDescription": "168. which of the following terms best defines your identity?"
     },
     {
-        "id": "12. והשני?",
+        "id": "13. והשני?",
         "questionHebrewDescription": "והשני?",
         "questionSurveyId": "v169",
         "type": "category",
         "englishDescription": "169. and the second?"
     },
     {
-        "id": "13. והשלישי?",
+        "id": "14. והשלישי?",
         "questionHebrewDescription": "והשלישי?",
         "questionSurveyId": "v170",
         "type": "category",
         "englishDescription": "170. the third?"
     },
     {
-        "id": "14. והרביעי?",
+        "id": "15. והרביעי?",
         "questionHebrewDescription": "והרביעי?",
         "questionSurveyId": "v171",
         "type": "category",

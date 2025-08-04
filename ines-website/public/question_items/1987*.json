@@ -1556,28 +1556,28 @@
         "englishDescription": "have you participated in any war (in combat)"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "a78",
         "type": "category",
         "englishDescription": "are you satisfied with the way the the israeli democracy functions"
     },
     {
-        "id": "34. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
+        "id": "36. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
         "questionHebrewDescription": "אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
         "questionSurveyId": "v17",
         "type": "category",
         "englishDescription": "rights to be given to palestinians if territories are annexed"
     },
     {
-        "id": "36. האם באופן עקרוני אתה בעד או נגד עונש מוות למחבלים?",
+        "id": "38. האם באופן עקרוני אתה בעד או נגד עונש מוות למחבלים?",
         "questionHebrewDescription": "האם באופן עקרוני אתה בעד או נגד עונש מוות למחבלים?",
         "questionSurveyId": "v27",
         "type": "category",
         "englishDescription": "in principle, is respondent for or against death penalty for terrorists"
     },
     {
-        "id": "37. האם לדעתך יש כיום פיקוח מספיק על שרותי הבטחון (שב\"כ ומוסד)?",
+        "id": "39. האם לדעתך יש כיום פיקוח מספיק על שרותי הבטחון (שב\"כ ומוסד)?",
         "questionHebrewDescription": "האם לדעתך יש כיום פיקוח מספיק על שרותי הבטחון (שב\"כ ומוסד)?",
         "questionSurveyId": "v119",
         "type": "category",

@@ -249,35 +249,35 @@
         "englishDescription": "51. Leftists (“Smolanim”)?"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v52A",
         "type": "category",
         "englishDescription": "52A. Benjamin Netanyahu"
     },
     {
-        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionSurveyId": "v52B",
         "type": "category",
         "englishDescription": "52B. Benny Gantz"
     },
     {
-        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionSurveyId": "v52I",
         "type": "category",
         "englishDescription": "52I. Avigdor Lieberman"
     },
     {
-        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionSurveyId": "v52K",
         "type": "category",
         "englishDescription": "52K. Ayman Odeh"
     },
     {
-        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
         "questionSurveyId": "v52R",
         "type": "category",
@@ -501,14 +501,14 @@
         "englishDescription": "115. How democratically is Israel being governed today?"
     },
     {
-        "id": "22. אנשים שונים מייחסים משמעות שונה למונח \"דמוקרטיה\". במילה אחת או שתיים מהו לדעתך המאפיין החשוב והמהותי ביותר של המשטר הדמוקרטי?",
+        "id": "24. אנשים שונים מייחסים משמעות שונה למונח \"דמוקרטיה\". במילה אחת או שתיים מהו לדעתך המאפיין החשוב והמהותי ביותר של המשטר הדמוקרטי?",
         "questionHebrewDescription": "אנשים שונים מייחסים משמעות שונה למונח \"דמוקרטיה\". במילה אחת או שתיים מהו לדעתך המאפיין החשוב והמהותי ביותר של המשטר הדמוקרטי?",
         "questionSurveyId": "v512_code",
         "type": "category",
         "englishDescription": "512. Different people assign different meaning to the term “democracy”. In one o"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "E10_after",
         "type": "category",
@@ -606,7 +606,7 @@
         "englishDescription": "30. Participating in Knesset elections harms the struggle for Palestinian nation"
     },
     {
-        "id": "7. המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
+        "id": "8. המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
         "questionHebrewDescription": "המפלגות הערביות (המשותפת ורע\"ם)  צריכות לפעול להיכנס לקואליציה",
         "questionSurveyId": "v502",
         "type": "category",

@@ -79,49 +79,49 @@
         "englishDescription": "C49_J HaReshima HaMeshutefet"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "c52_a",
         "type": "category",
         "englishDescription": "C52_A Binyamin Netanyahu"
     },
     {
-        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionSurveyId": "c52_b",
         "type": "category",
         "englishDescription": "C52_B Benny Gantz"
     },
     {
-        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionSurveyId": "c52_i",
         "type": "category",
         "englishDescription": "C52_I Avigdor Liberman"
     },
     {
-        "id": "64. ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
+        "id": "65. ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
         "questionSurveyId": "c52_d",
         "type": "category",
         "englishDescription": "C52_D Amir Peretz"
     },
     {
-        "id": "68. ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
+        "id": "69. ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איילת שקד",
         "questionSurveyId": "c52_e",
         "type": "category",
         "englishDescription": "C52_E Ayelet Shaked"
     },
     {
-        "id": "75. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
+        "id": "76. ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ניצן הורוביץ",
         "questionSurveyId": "c52_g",
         "type": "category",
         "englishDescription": "C52_G Nitzan Horowitz"
     },
     {
-        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionSurveyId": "c52_k",
         "type": "category",

@@ -367,21 +367,21 @@
         "englishDescription": "in that period, to what extent the government showed readiness to compromise"
     },
     {
-        "id": "67. באיזו מידה מזיקה פוליטיזציה של צה\"ל לדמוקרטיה במדינה?",
+        "id": "69. באיזו מידה מזיקה פוליטיזציה של צה\"ל לדמוקרטיה במדינה?",
         "questionHebrewDescription": "באיזו מידה מזיקה פוליטיזציה של צה\"ל לדמוקרטיה במדינה?",
         "questionSurveyId": "f10",
         "type": "category",
         "englishDescription": "to what extent politicization of the army is harmful to democracy"
     },
     {
-        "id": "68. האם לדעתך צריך להצביע לאופוזיציה, גם אם לא מסכימים עם כל דעותיה, כי חשוב שתהיה במדינה אופוזיציה חזקה?",
+        "id": "70. האם לדעתך צריך להצביע לאופוזיציה, גם אם לא מסכימים עם כל דעותיה, כי חשוב שתהיה במדינה אופוזיציה חזקה?",
         "questionHebrewDescription": "האם לדעתך צריך להצביע לאופוזיציה, גם אם לא מסכימים עם כל דעותיה, כי חשוב שתהיה במדינה אופוזיציה חזקה?",
         "questionSurveyId": "f44",
         "type": "category",
         "englishDescription": "people should vote for the oppositon, even if they do not agree with it, since i"
     },
     {
-        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "id": "71. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionSurveyId": "f45",
         "type": "category",

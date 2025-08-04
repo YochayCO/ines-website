@@ -388,116 +388,109 @@
         "englishDescription": "51. lefists (“Smolanim”)?"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v52A",
         "type": "category",
         "englishDescription": "52A. Benjamin Netanyahu?"
     },
     {
-        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionSurveyId": "v52B",
         "type": "category",
         "englishDescription": "52B. Benny Gantz"
     },
     {
-        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionSurveyId": "v52I",
         "type": "category",
         "englishDescription": "52I. Avigdor Lieberman"
     },
     {
-        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "56. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionSurveyId": "v52C",
         "type": "category",
         "englishDescription": "52C. Yair Lapid"
     },
     {
-        "id": "63. ועל אותו סולם, מה יחסך לאישים הבאים? אבי גבאי",
+        "id": "64. ועל אותו סולם, מה יחסך לאישים הבאים? אבי גבאי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אבי גבאי",
         "questionSurveyId": "v52D",
         "type": "category",
         "englishDescription": "52D. Avi Gabbay"
     },
     {
-        "id": "67. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "id": "68. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
         "questionSurveyId": "v52E",
         "type": "category",
         "englishDescription": "52E. Naftali Bennett"
     },
     {
-        "id": "70. ועל אותו סולם, מה יחסך לאישים הבאים? בצלאל סמוטריץ'",
+        "id": "71. ועל אותו סולם, מה יחסך לאישים הבאים? בצלאל סמוטריץ'",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בצלאל סמוטריץ'",
         "questionSurveyId": "v52F",
         "type": "category",
         "englishDescription": "52F. Bezalel Smotrich"
     },
     {
-        "id": "74. ועל אותו סולם, מה יחסך לאישים הבאים? תמר זנדברג",
+        "id": "75. ועל אותו סולם, מה יחסך לאישים הבאים? תמר זנדברג",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? תמר זנדברג",
         "questionSurveyId": "v52G",
         "type": "category",
         "englishDescription": "52G. Tamar Zandberg"
     },
     {
-        "id": "76. ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
+        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
         "questionSurveyId": "v52H",
         "type": "category",
         "englishDescription": "52H. Moshe Kahlon"
     },
     {
-        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
+        "id": "78. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionSurveyId": "v52J",
         "type": "category",
         "englishDescription": "52J. Aryeh Deri"
     },
     {
-        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionSurveyId": "v52K",
         "type": "category",
         "englishDescription": "52K. Ayman Odeh"
     },
     {
-        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
         "questionSurveyId": "v52R",
         "type": "category",
         "englishDescription": "52R. Ahmad Tibi"
     },
     {
-        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
+        "id": "83. ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מנסור עבאס",
         "questionSurveyId": "v52S",
         "type": "category",
         "englishDescription": "52S. Mansour Abbas"
     },
     {
-        "id": "83. ועל אותו סולם, מה יחסך לאישים הבאים? מטאנס שחאדה",
+        "id": "84. ועל אותו סולם, מה יחסך לאישים הבאים? מטאנס שחאדה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מטאנס שחאדה",
         "questionSurveyId": "v52T",
         "type": "category",
         "englishDescription": "52T. Mtanes Shehadeh"
     },
     {
-        "id": "84. ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
+        "id": "85. ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
         "questionSurveyId": "v52U",
         "type": "category",
         "englishDescription": "52U. Aida Touma-Suleiman"
-    },
-    {
-        "id": "92. לאיזו מפלגה אתה מרגיש הכי קרוב?",
-        "questionHebrewDescription": "לאיזו מפלגה אתה מרגיש הכי קרוב?",
-        "questionSurveyId": "v75",
-        "type": "category",
-        "englishDescription": "75. To which party do you feel closest?"
     },
     {
         "id": "93. עד כמה חשובה לך הזהות שלך כתומך ב(המפלגה שציין המרואיין)?",
@@ -885,14 +878,14 @@
         "englishDescription": "115. How democratically is Israel being governed today?"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "v10_after",
         "type": "category",
         "englishDescription": "10. To what extent are you satisfied or dissatisfied with the state of democracy"
     },
     {
-        "id": "25. באיזו מידה חשוב לך לחיות במדינה שמתנהלת באופן דמוקרטי?",
+        "id": "27. באיזו מידה חשוב לך לחיות במדינה שמתנהלת באופן דמוקרטי?",
         "questionHebrewDescription": "באיזו מידה חשוב לך לחיות במדינה שמתנהלת באופן דמוקרטי?",
         "questionSurveyId": "v114",
         "type": "category",
@@ -946,6 +939,13 @@
         "questionSurveyId": "v24",
         "type": "category",
         "englishDescription": "24. Politicians do not take into account the opinion of the average citizen"
+    },
+    {
+        "id": "15. לאיזו מפלגה אתה מרגיש הכי קרוב?",
+        "questionHebrewDescription": "לאיזו מפלגה אתה מרגיש הכי קרוב?",
+        "questionSurveyId": "v75",
+        "type": "category",
+        "englishDescription": "75. To which party do you feel closest?"
     },
     {
         "id": "2. יש לאפשר למנהיג פוליטי, שמבצע את תפקידו בצורה מוצלחת, להמשיך בתפקידו, גם אם הורשע בעבירה של שחיתות ציבורית",

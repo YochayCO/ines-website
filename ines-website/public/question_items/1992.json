@@ -291,35 +291,35 @@
         "englishDescription": "religious people"
     },
     {
-        "id": "42. מה יחסך לתנועת גוש אמונים?",
+        "id": "43. מה יחסך לתנועת גוש אמונים?",
         "questionHebrewDescription": "מה יחסך לתנועת גוש אמונים?",
         "questionSurveyId": "a108",
         "type": "category",
         "englishDescription": "gush emunim movement"
     },
     {
-        "id": "43. מה יחסך לתנועת שלום עכשיו?",
+        "id": "44. מה יחסך לתנועת שלום עכשיו?",
         "questionHebrewDescription": "מה יחסך לתנועת שלום עכשיו?",
         "questionSurveyId": "a109",
         "type": "category",
         "englishDescription": "peace now movement"
     },
     {
-        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
+        "id": "47. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
         "questionSurveyId": "a103",
         "type": "category",
         "englishDescription": "yitzhak shamir"
     },
     {
-        "id": "57. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
+        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionSurveyId": "a104",
         "type": "category",
         "englishDescription": "yitzhak rabin"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "a105",
         "type": "category",
@@ -1236,21 +1236,21 @@
         "englishDescription": "past service in territories since december 1987"
     },
     {
-        "id": "26. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
+        "id": "28. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
         "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
         "questionSurveyId": "i21",
         "type": "category",
         "englishDescription": "non democratic regime in israel"
     },
     {
-        "id": "27. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: משטר לא דמוקרטי בישראל",
+        "id": "29. מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: משטר לא דמוקרטי בישראל",
         "questionHebrewDescription": "מהם הסיכויים שיתקיים כל אחד מהמצבים הבאים בעתיד הנראה לעין: משטר לא דמוקרטי בישראל",
         "questionSurveyId": "i30",
         "type": "category",
         "englishDescription": "non democratic regime in israel"
     },
     {
-        "id": "34. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
+        "id": "36. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
         "questionHebrewDescription": "אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
         "questionSurveyId": "a16",
         "type": "category",

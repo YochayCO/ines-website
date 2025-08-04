@@ -416,70 +416,70 @@
         "englishDescription": "support: shas"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "a70",
         "type": "category",
         "englishDescription": "support: netanyahu"
     },
     {
-        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
+        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionSurveyId": "a73",
         "type": "category",
         "englishDescription": "support: sharon"
     },
     {
-        "id": "48. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד אולמרט",
+        "id": "49. ועל אותו סולם, מה יחסך לאישים הבאים? אהוד אולמרט",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אהוד אולמרט",
         "questionSurveyId": "a68",
         "type": "category",
         "englishDescription": "support: olmert"
     },
     {
-        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionSurveyId": "a74",
         "type": "category",
         "englishDescription": "support: liberman"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "a71",
         "type": "category",
         "englishDescription": "support: peres"
     },
     {
-        "id": "64. ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
+        "id": "65. ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עמיר פרץ",
         "questionSurveyId": "a69",
         "type": "category",
         "englishDescription": "support: peretz"
     },
     {
-        "id": "69. ועל אותו סולם, מה יחסך לאישים הבאים? בני אלון",
+        "id": "70. ועל אותו סולם, מה יחסך לאישים הבאים? בני אלון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני אלון",
         "questionSurveyId": "a76",
         "type": "category",
         "englishDescription": "support: eylon"
     },
     {
-        "id": "72. ועל אותו סולם, מה יחסך לאישים הבאים? יוסי ביילין",
+        "id": "73. ועל אותו סולם, מה יחסך לאישים הבאים? יוסי ביילין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יוסי ביילין",
         "questionSurveyId": "a75",
         "type": "category",
         "englishDescription": "support: beilin"
     },
     {
-        "id": "78. ועל אותו סולם, מה יחסך לאישים הבאים? אלי ישי",
+        "id": "79. ועל אותו סולם, מה יחסך לאישים הבאים? אלי ישי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אלי ישי",
         "questionSurveyId": "a72",
         "type": "category",
         "englishDescription": "support: yishai"
     },
     {
-        "id": "79. ועל אותו סולם, מה יחסך לאישים הבאים? נתן שרנסקי",
+        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? נתן שרנסקי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? נתן שרנסקי",
         "questionSurveyId": "a77",
         "type": "category",
@@ -1438,21 +1438,21 @@
         "englishDescription": "chances of olmert's disengagement"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "a58",
         "type": "category",
         "englishDescription": "satisfaction with the way israeli democracy functions"
     },
     {
-        "id": "26. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
+        "id": "28. באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
         "questionHebrewDescription": "באיזו מידה כל אחד מהמצבים הבאים מהווה סכנה בעיניך? דרך את תשובתך על סולם בין 1-7 כאשר 1 משמעו 'בכלל לא מסוכן ו-7 'מאוד מסוכן': משטר לא דמוקרטי בישראל",
         "questionSurveyId": "a31",
         "type": "category",
         "englishDescription": "threat of no democracy in israel"
     },
     {
-        "id": "28. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
+        "id": "30. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionSurveyId": "a46",
         "type": "category",
@@ -1564,28 +1564,28 @@
         "englishDescription": "russian party participation in elections (only for immigrants from the former us"
     },
     {
-        "id": "11. איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את הזהות שלך?",
+        "id": "12. איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את הזהות שלך?",
         "questionHebrewDescription": "איזה מבין המונחים הבאים מגדיר בצורה הטובה ביותר את הזהות שלך?",
         "questionSurveyId": "c47",
         "type": "category",
         "englishDescription": "self-identity for arabs (first)"
     },
     {
-        "id": "12. והשני?",
+        "id": "13. והשני?",
         "questionHebrewDescription": "והשני?",
         "questionSurveyId": "c48",
         "type": "category",
         "englishDescription": "self-identity for arabs (second)"
     },
     {
-        "id": "13. והשלישי?",
+        "id": "14. והשלישי?",
         "questionHebrewDescription": "והשלישי?",
         "questionSurveyId": "c49",
         "type": "category",
         "englishDescription": "self-identity for arabs (third)"
     },
     {
-        "id": "14. והרביעי?",
+        "id": "15. והרביעי?",
         "questionHebrewDescription": "והרביעי?",
         "questionSurveyId": "c50",
         "type": "category",

@@ -446,112 +446,112 @@
         "englishDescription": "51N. What is your attitude toward each of the following political parties: Balad"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v56A",
         "type": "category",
         "englishDescription": "56A. And what is your attitude toward each of the following people: Benjamin Net"
     },
     {
-        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
+        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אביגדור ליברמן",
         "questionSurveyId": "v56H",
         "type": "category",
         "englishDescription": "56H. And what is your attitude toward each of the following people: Avigdor Lieb"
     },
     {
-        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "56. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionSurveyId": "v56F",
         "type": "category",
         "englishDescription": "56F. And what is your attitude toward each of the following people: Yair Lapid"
     },
     {
-        "id": "61. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק הרצוג",
+        "id": "62. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק הרצוג",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק הרצוג",
         "questionSurveyId": "v56B",
         "type": "category",
         "englishDescription": "56B. And what is your attitude toward each of the following people: Yitzhak Herz"
     },
     {
-        "id": "62. ועל אותו סולם, מה יחסך לאישים הבאים? ציפי לבני",
+        "id": "63. ועל אותו סולם, מה יחסך לאישים הבאים? ציפי לבני",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ציפי לבני",
         "questionSurveyId": "v56Z",
         "type": "category",
         "englishDescription": "56Z. And what is your attitude toward each of the following people: Tzippi Livni"
     },
     {
-        "id": "67. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
+        "id": "68. ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? נפתלי בנט",
         "questionSurveyId": "v56C",
         "type": "category",
         "englishDescription": "56C. And what is your attitude toward each of the following people: Naphtali Ben"
     },
     {
-        "id": "73. ועל אותו סולם, מה יחסך לאישים הבאים? זהבה גלאון",
+        "id": "74. ועל אותו סולם, מה יחסך לאישים הבאים? זהבה גלאון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? זהבה גלאון",
         "questionSurveyId": "v56G",
         "type": "category",
         "englishDescription": "56G. And what is your attitude toward each of the following people: Zahava Galon"
     },
     {
-        "id": "76. ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
+        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? משה כחלון",
         "questionSurveyId": "v56D",
         "type": "category",
         "englishDescription": "56D. And what is your attitude toward each of the following people: Moshe Kachlo"
     },
     {
-        "id": "77. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
+        "id": "78. ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריה דרעי",
         "questionSurveyId": "v56E",
         "type": "category",
         "englishDescription": "56E. And what is your attitude toward each of the following people: Aryeh Deri"
     },
     {
-        "id": "78. ועל אותו סולם, מה יחסך לאישים הבאים? אלי ישי",
+        "id": "79. ועל אותו סולם, מה יחסך לאישים הבאים? אלי ישי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אלי ישי",
         "questionSurveyId": "v56I",
         "type": "category",
         "englishDescription": "56I. And what is your attitude toward each of the following people: Eli Yishai"
     },
     {
-        "id": "80. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
+        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? איימן עודה",
         "questionSurveyId": "v56J",
         "type": "category",
         "englishDescription": "56J. And what is your attitude toward each of the following people: Ayman Odeh"
     },
     {
-        "id": "81. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
+        "id": "82. ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אחמד טיבי",
         "questionSurveyId": "v56L",
         "type": "category",
         "englishDescription": "56L. And what is your attitude toward each of the following people: Ahmad Tibi"
     },
     {
-        "id": "84. ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
+        "id": "85. ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? עאידה תומא-סולימן",
         "questionSurveyId": "v56P",
         "type": "category",
         "englishDescription": "56P. And what is your attitude toward each of the following people: Aida Touma-S"
     },
     {
-        "id": "85. ועל אותו סולם, מה יחסך לאישים הבאים? מסעוד גנאים",
+        "id": "86. ועל אותו סולם, מה יחסך לאישים הבאים? מסעוד גנאים",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מסעוד גנאים",
         "questionSurveyId": "v56M",
         "type": "category",
         "englishDescription": "56M. And what is your attitude toward each of the following people: Masud Ghnaim"
     },
     {
-        "id": "86. ועל אותו סולם, מה יחסך לאישים הבאים? ג'מאל זחאלקה",
+        "id": "87. ועל אותו סולם, מה יחסך לאישים הבאים? ג'מאל זחאלקה",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? ג'מאל זחאלקה",
         "questionSurveyId": "v56N",
         "type": "category",
         "englishDescription": "56N. And what is your attitude toward each of the following people: Jamal Zachal"
     },
     {
-        "id": "87. ועל אותו סולם, מה יחסך לאישים הבאים? חנין זועבי",
+        "id": "88. ועל אותו סולם, מה יחסך לאישים הבאים? חנין זועבי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? חנין זועבי",
         "questionSurveyId": "v56O",
         "type": "category",
@@ -1265,21 +1265,21 @@
         "englishDescription": "46.To what extent do you agree or disagree with each of the following statements"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "after_v15",
         "type": "category",
         "englishDescription": "15. In general, to what extent are you satisfied or dissatisfied with democracy"
     },
     {
-        "id": "82. מחקר בינלאומי שנערך לאחרונה מראה שמשך הזמן הממוצע בין בחירות במדינות מערב אירופה עומד על שלוש וחצי שנים וממשלות במדינות אלה מכהנות בממוצע שנתיים. כלומר ישראל לא יוצאת דופן. האם לדעתך על ישראל לשנות או לא לשנות את שיטת הממשל?",
+        "id": "84. מחקר בינלאומי שנערך לאחרונה מראה שמשך הזמן הממוצע בין בחירות במדינות מערב אירופה עומד על שלוש וחצי שנים וממשלות במדינות אלה מכהנות בממוצע שנתיים. כלומר ישראל לא יוצאת דופן. האם לדעתך על ישראל לשנות או לא לשנות את שיטת הממשל?",
         "questionHebrewDescription": "מחקר בינלאומי שנערך לאחרונה מראה שמשך הזמן הממוצע בין בחירות במדינות מערב אירופה עומד על שלוש וחצי שנים וממשלות במדינות אלה מכהנות בממוצע שנתיים. כלומר ישראל לא יוצאת דופן. האם לדעתך על ישראל לשנות או לא לשנות את שיטת הממשל?",
         "questionSurveyId": "after_v14a",
         "type": "category",
         "englishDescription": "14A. A recent international study has shown that the average period between elec"
     },
     {
-        "id": "83. מחקר בינלאומי שנערך לאחרונה מראה שבעשורים האחרונים יש בישראל חוסר יציבות פוליטית, אנחנו הולכים לבחירות לעיתים תכופות וממשלות מתחלפות בתדירות גבוהה. האם לדעתך על ישראל לשנות או לא לשנות את שיטת הממשל?",
+        "id": "85. מחקר בינלאומי שנערך לאחרונה מראה שבעשורים האחרונים יש בישראל חוסר יציבות פוליטית, אנחנו הולכים לבחירות לעיתים תכופות וממשלות מתחלפות בתדירות גבוהה. האם לדעתך על ישראל לשנות או לא לשנות את שיטת הממשל?",
         "questionHebrewDescription": "מחקר בינלאומי שנערך לאחרונה מראה שבעשורים האחרונים יש בישראל חוסר יציבות פוליטית, אנחנו הולכים לבחירות לעיתים תכופות וממשלות מתחלפות בתדירות גבוהה. האם לדעתך על ישראל לשנות או לא לשנות את שיטת הממשל?",
         "questionSurveyId": "after_v14b",
         "type": "category",

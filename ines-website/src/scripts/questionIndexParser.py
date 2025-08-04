@@ -6,10 +6,10 @@ import requests
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
 survey_options_filename = os.path.join(scriptpath, "../../src/assets/surveyOptions.json")
-question_index_file = os.path.join(scriptpath, "./question_index.xlsx")
+question_index_file = os.path.join(scriptpath, "./question_index_new.xlsx")
 question_items_folder = os.path.join(scriptpath, "../../public/question_items")
 
-stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
+stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4"
 statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
 surveys_data_folder = os.path.join(scriptpath, "..", "..", "public/surveys_data")
 
@@ -47,7 +47,7 @@ def download_file(url: str, output_folder: str) -> str:
     print(f"Downloaded to {output_path}")
     return output_path
 
-def create_question_items(question_index_file, excel_data, survey_options):
+def create_question_items(question_index_file, survey_options):
     """
     Create a question_items file for each survey (ids are unique).
     For each sheet in the excel - go over all rows (questions),
@@ -56,22 +56,24 @@ def create_question_items(question_index_file, excel_data, survey_options):
 
     Return the question items by survey
     """
+    wxl_data = pd.ExcelFile(question_index_file)
     survey_ids = [entry["id"] for entry in survey_options if "id" in entry]
+    category_sheets = [sheet for sheet in wxl_data.sheet_names if sheet not in ["סופי סופי", "איחוד שאלות", "הערות כלליות"]]
 
     # Initialize the questionItems dictionary
     question_items_by_survey = {survey_id: [] for survey_id in survey_ids}
 
     # Iterate through each sheet in the Excel file
-    for sheet_name in excel_data.sheet_names:
+    for sheet_name in category_sheets:
         # Load the current sheet
-        sheet_data = pd.read_excel(question_index_file, sheet_name=sheet_name)
-        columns = sheet_data.columns
+        category_data = pd.read_excel(question_index_file, sheet_name=sheet_name)
+        columns = category_data.columns
 
         # Determine the type based on the sheet name
         question_type = "demography" if sheet_name == "דמוגרפיה" else "category"
 
         # Iterate through each row in the sheet
-        for row_index, row in sheet_data.iterrows():
+        for row_index, row in category_data.iterrows():
             question_description = row.iloc[0]  # First column contains the question descriptions
 
             # Process only relevant survey columns
@@ -88,7 +90,7 @@ def create_question_items(question_index_file, excel_data, survey_options):
 
                 # Create the questionItem object
                 question_item = {
-                    "id": f"{row_index + 1}. {question_description}",  # id can also aid in sorting questions
+                    "id": f"{int(str(row_index)) + 1}. {question_description}",  # id can also aid in sorting questions
                     "questionHebrewDescription": question_description,
                     "questionSurveyId": str(question_survey_id),  # Convert to string
                     "type": question_type,
@@ -140,14 +142,12 @@ if __name__ == "__main__":
     os.makedirs(question_items_folder, exist_ok=True)
     os.makedirs(statas_folder, exist_ok=True)
     os.makedirs(surveys_data_folder, exist_ok=True)
-
-    excel_data = pd.ExcelFile(question_index_file)
     
     # Load survey options json
     with open(survey_options_filename, "r") as file:
         survey_options = json.load(file)
     
-    question_items_by_survey = create_question_items(question_index_file, excel_data, survey_options)
+    question_items_by_survey = create_question_items(question_index_file, survey_options)
 
     # Iterate over all files in the folder
     for survey_option in survey_options:

@@ -475,21 +475,21 @@
         "englishDescription": "On a scale where 0 is complete rejection/hatred, 10 is complete support, and 5 i"
     },
     {
-        "id": "44. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
+        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בנימין נתניהו",
         "questionSurveyId": "v52a",
         "type": "category",
         "englishDescription": "Benjamin Netanyahu"
     },
     {
-        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
+        "id": "54. ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? בני גנץ",
         "questionSurveyId": "v52b",
         "type": "category",
         "englishDescription": "Benny Gantz"
     },
     {
-        "id": "55. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
+        "id": "56. ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יאיר לפיד",
         "questionSurveyId": "v52c",
         "type": "category",
@@ -641,27 +641,6 @@
         "questionSurveyId": "v609",
         "type": "category",
         "englishDescription": "To what extent the consideration of whether the party will or will not sit under"
-    },
-    {
-        "id": "53. לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
-        "questionHebrewDescription": "לדעתך, האם אחרי הבחירות הממשלה תתבסס על:",
-        "questionSurveyId": "v106",
-        "type": "category",
-        "englishDescription": "In your opinion, after the election, will the government be based on‎:"
-    },
-    {
-        "id": "54. ואיזו ממשלה מבין הבאות אתה מעדיף?",
-        "questionHebrewDescription": "ואיזו ממשלה מבין הבאות אתה מעדיף?",
-        "questionSurveyId": "v107",
-        "type": "category",
-        "englishDescription": "And which of the following governments would you prefer?‎"
-    },
-    {
-        "id": "56. ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
-        "questionHebrewDescription": "ועתה, לאחר תוצאות הבחירות - איזו קואליציה אתה הכי מעדיף?",
-        "questionSurveyId": "F9",
-        "type": "category",
-        "englishDescription": "And now given the election results, which coalition would you prefer most?‎"
     },
     {
         "id": "1. בסה\"כ לדעתך, על מה היו הבחירות האחרונות בעיקר?",
@@ -888,28 +867,28 @@
         "englishDescription": "Politicians"
     },
     {
-        "id": "23. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
+        "id": "25. באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionHebrewDescription": "באיזו מידה אתה מרוצה או לא מרוצה מהדמוקרטיה בישראל?",
         "questionSurveyId": "F10",
         "type": "category",
         "englishDescription": "To what extent are you satisfied or dissatisfied with the democracy in Israel?‎"
     },
     {
-        "id": "29. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
+        "id": "31. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לבית המשפט העליון צריכה להיות הסמכות לבטל חוק שחוקקה הכנסת",
         "questionSurveyId": "v703",
         "type": "category",
         "englishDescription": "To what extent do you agree or disagree that the Supreme Court should have the a"
     },
     {
-        "id": "89. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל עדיף שמומחים, ולא נציגים נבחרים, יקבלו החלטות על הבסיס הבנתם מה טוב למדינה",
+        "id": "91. באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל עדיף שמומחים, ולא נציגים נבחרים, יקבלו החלטות על הבסיס הבנתם מה טוב למדינה",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים, עם המשפטים הבאים: כדי לטפל בבעיות המיוחדות של ישראל עדיף שמומחים, ולא נציגים נבחרים, יקבלו החלטות על הבסיס הבנתם מה טוב למדינה",
         "questionSurveyId": "v619",
         "type": "category",
         "englishDescription": "To deal with Israel's problems, it is best having experts, not elected represent"
     },
     {
-        "id": "90. עם איזו משתי הטענות הבאות לגבי מהות הדמוקרטיה את/ה מסכים/ה יותר: הטענה האומרת שכל משטר הפועל על פי עקרון הכרעת הרוב הוא משטר דמוקרטי, או עם הטענה שאומרת שכדי שמשטר יהיה דמוקרטי באמת הוא צריך לשמור גם על עוד עקרונות, כמו למשל זכויות אדם וחופש ביטוי?",
+        "id": "92. עם איזו משתי הטענות הבאות לגבי מהות הדמוקרטיה את/ה מסכים/ה יותר: הטענה האומרת שכל משטר הפועל על פי עקרון הכרעת הרוב הוא משטר דמוקרטי, או עם הטענה שאומרת שכדי שמשטר יהיה דמוקרטי באמת הוא צריך לשמור גם על עוד עקרונות, כמו למשל זכויות אדם וחופש ביטוי?",
         "questionHebrewDescription": "עם איזו משתי הטענות הבאות לגבי מהות הדמוקרטיה את/ה מסכים/ה יותר: הטענה האומרת שכל משטר הפועל על פי עקרון הכרעת הרוב הוא משטר דמוקרטי, או עם הטענה שאומרת שכדי שמשטר יהיה דמוקרטי באמת הוא צריך לשמור גם על עוד עקרונות, כמו למשל זכויות אדם וחופש ביטוי?",
         "questionSurveyId": "v708",
         "type": "category",

@@ -269,84 +269,84 @@
         "englishDescription": "religious persons"
     },
     {
-        "id": "38. מה יחסך לאשכנזים?",
+        "id": "39. מה יחסך לאשכנזים?",
         "questionHebrewDescription": "מה יחסך לאשכנזים?",
         "questionSurveyId": "b117",
         "type": "category",
         "englishDescription": "ashkenazi jews"
     },
     {
-        "id": "39. מה יחסך לספרדים?",
+        "id": "40. מה יחסך לספרדים?",
         "questionHebrewDescription": "מה יחסך לספרדים?",
         "questionSurveyId": "b120",
         "type": "category",
         "englishDescription": "sephardic jews"
     },
     {
-        "id": "42. מה יחסך לתנועת גוש אמונים?",
+        "id": "43. מה יחסך לתנועת גוש אמונים?",
         "questionHebrewDescription": "מה יחסך לתנועת גוש אמונים?",
         "questionSurveyId": "b123",
         "type": "category",
         "englishDescription": "gush emunim"
     },
     {
-        "id": "43. מה יחסך לתנועת שלום עכשיו?",
+        "id": "44. מה יחסך לתנועת שלום עכשיו?",
         "questionHebrewDescription": "מה יחסך לתנועת שלום עכשיו?",
         "questionSurveyId": "b124",
         "type": "category",
         "englishDescription": "shalom ahshav"
     },
     {
-        "id": "45. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
+        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? אריאל שרון",
         "questionSurveyId": "b115",
         "type": "category",
         "englishDescription": "ariel sharon"
     },
     {
-        "id": "46. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
+        "id": "47. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק שמיר",
         "questionSurveyId": "b113",
         "type": "category",
         "englishDescription": "yitzhak shamir"
     },
     {
-        "id": "47. ועל אותו סולם, מה יחסך לאישים הבאים? מנחם בגין",
+        "id": "48. ועל אותו סולם, מה יחסך לאישים הבאים? מנחם בגין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? מנחם בגין",
         "questionSurveyId": "b122",
         "type": "category",
         "englishDescription": "menahem begin"
     },
     {
-        "id": "51. ועל אותו סולם, מה יחסך לאישים הבאים? דוד לוי",
+        "id": "52. ועל אותו סולם, מה יחסך לאישים הבאים? דוד לוי",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? דוד לוי",
         "questionSurveyId": "b118",
         "type": "category",
         "englishDescription": "david levi"
     },
     {
-        "id": "52. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק נבון",
+        "id": "53. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק נבון",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק נבון",
         "questionSurveyId": "b119",
         "type": "category",
         "englishDescription": "yitzhak navon"
     },
     {
-        "id": "57. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
+        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? יצחק רבין",
         "questionSurveyId": "b121",
         "type": "category",
         "englishDescription": "yitzhak rabin"
     },
     {
-        "id": "58. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
+        "id": "59. ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? שמעון פרס",
         "questionSurveyId": "b112",
         "type": "category",
         "englishDescription": "shim'on peres"
     },
     {
-        "id": "71. ועל אותו סולם, מה יחסך לאישים הבאים? הרב כהנא",
+        "id": "72. ועל אותו סולם, מה יחסך לאישים הבאים? הרב כהנא",
         "questionHebrewDescription": "ועל אותו סולם, מה יחסך לאישים הבאים? הרב כהנא",
         "questionSurveyId": "b125",
         "type": "category",
@@ -1067,161 +1067,161 @@
         "englishDescription": "service in territories since uprising (dec. 1987)"
     },
     {
-        "id": "28. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
+        "id": "30. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: דמוקרטיה היא צורת השלטון הטובה ביותר",
         "questionSurveyId": "c3",
         "type": "category",
         "englishDescription": "democracy is best form of rule"
     },
     {
-        "id": "34. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
+        "id": "36. אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
         "questionHebrewDescription": "אם יו\"ש ועזה יסופחו למדינת ישראל, אילו זכויות יש לתת לתושבים אלו?",
         "questionSurveyId": "b16",
         "type": "category",
         "englishDescription": "rights to be given to palestinians if territories are annexed"
     },
     {
-        "id": "38. באיזו מידה אתה מסכים או לא מסכים לכל אחד מהדברים הבאים בהקשר לקבוצה שאתה מתנגד לה ביותר: יש לאסור על חבר הקבוצה להיות ראש ממשלה",
+        "id": "40. באיזו מידה אתה מסכים או לא מסכים לכל אחד מהדברים הבאים בהקשר לקבוצה שאתה מתנגד לה ביותר: יש לאסור על חבר הקבוצה להיות ראש ממשלה",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים לכל אחד מהדברים הבאים בהקשר לקבוצה שאתה מתנגד לה ביותר: יש לאסור על חבר הקבוצה להיות ראש ממשלה",
         "questionSurveyId": "b76",
         "type": "category",
         "englishDescription": "should member of that group be banned from being prime minister"
     },
     {
-        "id": "39. יש להוציא את הקבוצה מחוץ לחוק",
+        "id": "41. יש להוציא את הקבוצה מחוץ לחוק",
         "questionHebrewDescription": "יש להוציא את הקבוצה מחוץ לחוק",
         "questionSurveyId": "b77",
         "type": "category",
         "englishDescription": "that group should be declared outlaw"
     },
     {
-        "id": "40. יש להרשות לחברי הקבוצה להופיע בטלוויזיה",
+        "id": "42. יש להרשות לחברי הקבוצה להופיע בטלוויזיה",
         "questionHebrewDescription": "יש להרשות לחברי הקבוצה להופיע בטלוויזיה",
         "questionSurveyId": "b78",
         "type": "category",
         "englishDescription": "members of that group should be allowed to appear on tv"
     },
     {
-        "id": "41. יש לצוטט לשיחות טלפון של חברי הקבוצה",
+        "id": "43. יש לצוטט לשיחות טלפון של חברי הקבוצה",
         "questionHebrewDescription": "יש לצוטט לשיחות טלפון של חברי הקבוצה",
         "questionSurveyId": "b79",
         "type": "category",
         "englishDescription": "the group members' phones should be tapped"
     },
     {
-        "id": "42. יש להרשות לקבוצה לקיים הפגנות",
+        "id": "44. יש להרשות לקבוצה לקיים הפגנות",
         "questionHebrewDescription": "יש להרשות לקבוצה לקיים הפגנות",
         "questionSurveyId": "b80",
         "type": "category",
         "englishDescription": "members of that group should be allowed to demonstrate"
     },
     {
-        "id": "43. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: הרשימה המתקדמת לשלום",
+        "id": "45. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: הרשימה המתקדמת לשלום",
         "questionHebrewDescription": "לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: הרשימה המתקדמת לשלום",
         "questionSurveyId": "b82",
         "type": "category",
         "englishDescription": "progressive list for peace (ha-reshima ha-mitkademet le-shalom)"
     },
     {
-        "id": "44. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: כ\"ך (כהנא)",
+        "id": "46. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: כ\"ך (כהנא)",
         "questionHebrewDescription": "לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: כ\"ך (כהנא)",
         "questionSurveyId": "b83",
         "type": "category",
         "englishDescription": "kah (rabbi kahana's movement)"
     },
     {
-        "id": "45. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: רק\"ח",
+        "id": "47. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: רק\"ח",
         "questionHebrewDescription": "לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: רק\"ח",
         "questionSurveyId": "b84",
         "type": "category",
         "englishDescription": "rakah (hadash)"
     },
     {
-        "id": "46. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: גוש אמונים",
+        "id": "48. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: גוש אמונים",
         "questionHebrewDescription": "לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: גוש אמונים",
         "questionSurveyId": "b85",
         "type": "category",
         "englishDescription": "gush emunim"
     },
     {
-        "id": "47. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: שלום עכשיו",
+        "id": "49. לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: שלום עכשיו",
         "questionHebrewDescription": "לגבי כל אחת מהקבוצות הבאות אתה מתבקש לציין באיזו מידה אתה בעד או נגד הוצאתה מחוץ לחוק: שלום עכשיו",
         "questionSurveyId": "b86",
         "type": "category",
         "englishDescription": "shalom ahshav"
     },
     {
-        "id": "48. להלן מספר משפטים שנאמרו ע\"י אנשים ביחס לערבים אזרחי ישראל. לגבי כל אחד מהם אתה מתבקש לציין באיזו מידה אתה מסכים או לא מסכים עימו: יש לאסור על ערבי להיות ראש ממשלה",
+        "id": "50. להלן מספר משפטים שנאמרו ע\"י אנשים ביחס לערבים אזרחי ישראל. לגבי כל אחד מהם אתה מתבקש לציין באיזו מידה אתה מסכים או לא מסכים עימו: יש לאסור על ערבי להיות ראש ממשלה",
         "questionHebrewDescription": "להלן מספר משפטים שנאמרו ע\"י אנשים ביחס לערבים אזרחי ישראל. לגבי כל אחד מהם אתה מתבקש לציין באיזו מידה אתה מסכים או לא מסכים עימו: יש לאסור על ערבי להיות ראש ממשלה",
         "questionSurveyId": "b88",
         "type": "category",
         "englishDescription": "arab should be banned from being prime minister"
     },
     {
-        "id": "49. יש להרשות לערבים לנאום באסיפות ציבוריות ולהופיע בטלוויזיה",
+        "id": "51. יש להרשות לערבים לנאום באסיפות ציבוריות ולהופיע בטלוויזיה",
         "questionHebrewDescription": "יש להרשות לערבים לנאום באסיפות ציבוריות ולהופיע בטלוויזיה",
         "questionSurveyId": "b89",
         "type": "category",
         "englishDescription": "arabs should be allowed to deliver speeches in public and to appear on tv"
     },
     {
-        "id": "50. יש לצוטט לשיחות טלפון של ערבים",
+        "id": "52. יש לצוטט לשיחות טלפון של ערבים",
         "questionHebrewDescription": "יש לצוטט לשיחות טלפון של ערבים",
         "questionSurveyId": "b90",
         "type": "category",
         "englishDescription": "arabs' phones should be tapped"
     },
     {
-        "id": "51. יש להרשות לערבים לקיים הפגנות",
+        "id": "53. יש להרשות לערבים לקיים הפגנות",
         "questionHebrewDescription": "יש להרשות לערבים לקיים הפגנות",
         "questionSurveyId": "b91",
         "type": "category",
         "englishDescription": "arabs should be allowed to demonstrate"
     },
     {
-        "id": "52. יש לעודד הגירת ערבים מן הארץ",
+        "id": "54. יש לעודד הגירת ערבים מן הארץ",
         "questionHebrewDescription": "יש לעודד הגירת ערבים מן הארץ",
         "questionSurveyId": "b92",
         "type": "category",
         "englishDescription": "arabs should be encouraged to emigrate"
     },
     {
-        "id": "53. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: ליהודים שמבצעים פעולות לא חוקיות נגד ערבים יש לתת עונשים קלים יותר מאשר לערבים שמבצעים פעולות דומות נגד יהודים",
+        "id": "55. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: ליהודים שמבצעים פעולות לא חוקיות נגד ערבים יש לתת עונשים קלים יותר מאשר לערבים שמבצעים פעולות דומות נגד יהודים",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: ליהודים שמבצעים פעולות לא חוקיות נגד ערבים יש לתת עונשים קלים יותר מאשר לערבים שמבצעים פעולות דומות נגד יהודים",
         "questionSurveyId": "c5",
         "type": "category",
         "englishDescription": "jews undertaking illegal actions against arabs should get lighter punishment the"
     },
     {
-        "id": "54. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
+        "id": "56. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: מספר מנהיגים חזקים יכולים להועיל למדינה יותר מכל הדיונים והחוקים",
         "questionSurveyId": "c6",
         "type": "category",
         "englishDescription": "several strong leaders can do more good than any discussions and laws"
     },
     {
-        "id": "55. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לכל אדם צריכות להיות אותן זכויות בפני החוק ללא קשר עם עמדותיו הפוליטיות ",
+        "id": "57. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לכל אדם צריכות להיות אותן זכויות בפני החוק ללא קשר עם עמדותיו הפוליטיות ",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: לכל אדם צריכות להיות אותן זכויות בפני החוק ללא קשר עם עמדותיו הפוליטיות ",
         "questionSurveyId": "c7",
         "type": "category",
         "englishDescription": "every man should have equal rights notwithstanding his political views"
     },
     {
-        "id": "56. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש לאפשר לקבוצות או אנשים שבמיעוט לפעול כדי להשיג את תמיכת הרוב לעמדותיהם ",
+        "id": "58. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש לאפשר לקבוצות או אנשים שבמיעוט לפעול כדי להשיג את תמיכת הרוב לעמדותיהם ",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש לאפשר לקבוצות או אנשים שבמיעוט לפעול כדי להשיג את תמיכת הרוב לעמדותיהם ",
         "questionSurveyId": "c8",
         "type": "category",
         "englishDescription": "minority groups should be allowed to act in order to achieve support of majority"
     },
     {
-        "id": "57. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: אני מאמין בחופש ביטוי לכל האנשים ללא קשר לעמדותיהם",
+        "id": "59. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: אני מאמין בחופש ביטוי לכל האנשים ללא קשר לעמדותיהם",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: אני מאמין בחופש ביטוי לכל האנשים ללא קשר לעמדותיהם",
         "questionSurveyId": "c9",
         "type": "category",
         "englishDescription": "belief in freedom of speech for everyone notwithstanding his views"
     },
     {
-        "id": "58. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש מצבים בהם נראה כי עדיף שאנשים יקחו בעצמם את החוק לידיהם",
+        "id": "60. באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש מצבים בהם נראה כי עדיף שאנשים יקחו בעצמם את החוק לידיהם",
         "questionHebrewDescription": "באיזו מידה אתה מסכים או לא מסכים עם המשפטים הבאים: יש מצבים בהם נראה כי עדיף שאנשים יקחו בעצמם את החוק לידיהם",
         "questionSurveyId": "c10",
         "type": "category",

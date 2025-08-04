@@ -780,98 +780,98 @@
         "englishDescription": "do you think that to maintain jewish character and to achieve peace we should gi"
     },
     {
-        "id": "63. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
+        "id": "65. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
         "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך להבין טוב יותר איך פועלת הדמוקרטיה?",
         "questionSurveyId": "d16",
         "type": "category",
         "englishDescription": "to what extent does this campaign help you understand better how democracy works"
     },
     {
-        "id": "64. באיזו מידה חשוב לך להבין יותר טוב איך פועלת הדמוקרטיה?",
+        "id": "66. באיזו מידה חשוב לך להבין יותר טוב איך פועלת הדמוקרטיה?",
         "questionHebrewDescription": "באיזו מידה חשוב לך להבין יותר טוב איך פועלת הדמוקרטיה?",
         "questionSurveyId": "c42",
         "type": "category",
         "englishDescription": "to what extent is it important to you to better understand how democracy works"
     },
     {
-        "id": "65. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
+        "id": "67. באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
         "questionHebrewDescription": "באיזו מידה מערכת הבחירות הנוכחית עוזרת לך לחנך את ילדיך חינוך פוליטי?",
         "questionSurveyId": "d17",
         "type": "category",
         "englishDescription": "to what extent does this campaign help you give your children a political educat"
     },
     {
-        "id": "66. באיו מידה חשוב לך לחנך את ילדיך חינוך פוליטי?",
+        "id": "68. באיו מידה חשוב לך לחנך את ילדיך חינוך פוליטי?",
         "questionHebrewDescription": "באיו מידה חשוב לך לחנך את ילדיך חינוך פוליטי?",
         "questionSurveyId": "c43",
         "type": "category",
         "englishDescription": "to what extent is it important to you to give your children a political educatio"
     },
     {
-        "id": "69. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
+        "id": "71. יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionHebrewDescription": "יש הטוענים שצריך להחליף את המפלגה שבשלטון אפילו אם היא עושה עבודה טובה. מה דעתך?",
         "questionSurveyId": "c32",
         "type": "category",
         "englishDescription": "do you think the party in government has to be substisuted even if it is doing w"
     },
     {
-        "id": "70. יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
+        "id": "72. יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
         "questionHebrewDescription": "יש האומרים שדרך הבחירות הפוליטיקאים מנצלים את האזרחים למטרותיהם. האם אתה מסכים עם דעה זו?",
         "questionSurveyId": "c28",
         "type": "category",
         "englishDescription": "do you think politicians take advantage of the public through elections for thei"
     },
     {
-        "id": "71. האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
+        "id": "73. האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
         "questionHebrewDescription": "האם אתה חושב שהאופוזיציה משרתת את המדינה כמו המפלגות בשלטון?",
         "questionSurveyId": "c29",
         "type": "category",
         "englishDescription": "do you think the opposition serves the country as much as parties in government"
     },
     {
-        "id": "72. האם היית אומר שיום הבחירות הוא יום חג למדינה ולעם?",
+        "id": "74. האם היית אומר שיום הבחירות הוא יום חג למדינה ולעם?",
         "questionHebrewDescription": "האם היית אומר שיום הבחירות הוא יום חג למדינה ולעם?",
         "questionSurveyId": "c33",
         "type": "category",
         "englishDescription": "would you say that election day is a holiday for the country and for the people"
     },
     {
-        "id": "73. האם חשוב שכל אחד ישתתף בבחירות?",
+        "id": "75. האם חשוב שכל אחד ישתתף בבחירות?",
         "questionHebrewDescription": "האם חשוב שכל אחד ישתתף בבחירות?",
         "questionSurveyId": "c34",
         "type": "category",
         "englishDescription": "is it important that everybody participates in the elections for the knesset"
     },
     {
-        "id": "74. הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. יש טוענים שהדבר פוגע בליכוד העם ועל כן מוטב שתהיה מפלגה אחת ויש הטוענים שהדבר אינו פוגע בליכוד העם ועל כן מוטב שתהיינה מספר מפלגות. מה דעתך?",
+        "id": "76. הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. יש טוענים שהדבר פוגע בליכוד העם ועל כן מוטב שתהיה מפלגה אחת ויש הטוענים שהדבר אינו פוגע בליכוד העם ועל כן מוטב שתהיינה מספר מפלגות. מה דעתך?",
         "questionHebrewDescription": "הבחירות גורמות לכך שאנשים מצביעים עבור מפלגות שונות. יש טוענים שהדבר פוגע בליכוד העם ועל כן מוטב שתהיה מפלגה אחת ויש הטוענים שהדבר אינו פוגע בליכוד העם ועל כן מוטב שתהיינה מספר מפלגות. מה דעתך?",
         "questionSurveyId": "d20",
         "type": "category",
         "englishDescription": "do you think voting for different parties prevents unity so there should be only"
     },
     {
-        "id": "76. באיזו מידה השתתפות בבחירות מאפשרת לך למלא את חובתך למדינה?",
+        "id": "78. באיזו מידה השתתפות בבחירות מאפשרת לך למלא את חובתך למדינה?",
         "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך למלא את חובתך למדינה?",
         "questionSurveyId": "d29",
         "type": "category",
         "englishDescription": "to what extent does participation in the elections allows you to fulfill obligat"
     },
     {
-        "id": "77. באיזו מידה השתתפות בבחירות מאפשרת לך להביע מחאה נגד השלטון?",
+        "id": "79. באיזו מידה השתתפות בבחירות מאפשרת לך להביע מחאה נגד השלטון?",
         "questionHebrewDescription": "באיזו מידה השתתפות בבחירות מאפשרת לך להביע מחאה נגד השלטון?",
         "questionSurveyId": "d30",
         "type": "category",
         "englishDescription": "to what extent does participation in the elections give you the opportunity to p"
     },
     {
-        "id": "80. יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
+        "id": "82. יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
         "questionHebrewDescription": "יש אנשים שרוצים להשפיע על מדיניות הממשלה ויש כאלה שאינם רוצים להשפיע. באיזו מידה אתה מעוניין להשפיע על המדיניות?",
         "questionSurveyId": "c30",
         "type": "category",
         "englishDescription": "some people want to influence government policy and some don't. how about you?"
     },
     {
-        "id": "81. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
+        "id": "83. באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
         "questionHebrewDescription": "באיזו מידה לדעתך יש או אין לבחירות השפעה על המדיניות הננקטת ע\"י הממשלה?",
         "questionSurveyId": "d7",
         "type": "category",
