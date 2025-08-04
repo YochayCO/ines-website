@@ -1,8 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Button, Dialog, DialogActions, DialogContent, DialogContentText, DialogTitle, IconButton } from '@mui/material'
 import InfoIcon from '@mui/icons-material/InfoOutlined'
-import specialToggleExampleImg from '../../assets/images/special-toggle-example.png'
-import sectorSelectExampleImg from '../../assets/images/sector-select-example.png'
+import filtersExampleImg from '../../assets/images/filters-example.png'
 import responsesExampleImg from '../../assets/images/responses-example.png'
 import columnToggleExampleImg from '../../assets/images/column-toggle-example.png'
 import autocompleteExampleImg from '../../assets/images/autocomplete-example.png'
@@ -11,10 +10,16 @@ import './InfoExpander.css'
 import useIsFirstSession from '../../hooks/useIsFirstSession'
 
 const autocompleteDescription = `You can search a specific survey / question by typing in the select box - it will auto-complete.`
-const specialToggleDescription = <span>Use the <code>“include "Don’t know" answers”</code> toggle to include or exclude these responses from the reported percentages.</span>
-const sectorDescription =<span>Clicking on the relevant <code>“Sector“</code> selector subsets the results based on respondents’ ethnic identity.
-    Available only in recent surveys (since 2009).</span>
-const responsesDescription = `The number of responses used for the plot is reported in the top right corner.`
+const filtersDescriptionAbove = <span>
+    You can click the button on the top-left to open the <b>filters menu</b>.
+    </span>
+const filtersDescriptionBelow = <span>
+    Use the <b>“include "Don’t know" answers”</b> toggle to include or exclude these responses from the reported percentages.
+    <br/><br/>
+    Clicking on the relevant <b>“Sector“</b> selector subsets the results based on respondents’ ethnic identity.
+    Available only in recent surveys (since 2009).
+</span>
+const responsesDescription = <span>The <b>number of responses</b> used for the plot (after filters were applied) is reported in the top right corner.</span>
 const columnToggleDescription = `In joint distribution plots, clicking the boxes above columns excludes that variable level from the analysis.`
 const technicalDataText = `The plotted data uses the survey weights included in each INES survey, when available.
     Please check the INES website for per-survey documentation and detailed information about survey representativeness and weighting procedures.`
@@ -70,14 +75,11 @@ export default function InfoExpander ({ children }: InfoExpanderProps) {
                         <br/><br/>
                         <i>Please use the interface only from your desktop browser, for readability.</i>
                         <br/><br/>
-                        <h3>More features</h3>
+                        <h3>Data Filters</h3>
                         <div className='image-and-description'>
-                            <div className='description'>{specialToggleDescription}</div>
-                            <img src={specialToggleExampleImg} className='special-toggle-image image' />
-                        </div>
-                        <div className='image-and-description'>
-                            <div className='description'>{sectorDescription}</div>
-                            <img src={sectorSelectExampleImg} className='sector-select-image image' />
+                            <div className='description'>{filtersDescriptionAbove}</div>
+                            <img src={filtersExampleImg} className='filters-image image' />
+                            <div className='description'>{filtersDescriptionBelow}</div>
                         </div>
                         <div className='image-and-description'>
                             <div className='description'>{responsesDescription}</div>

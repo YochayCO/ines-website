@@ -16,7 +16,7 @@
     height: 68px;
 }
 
-.image.autocomplete-image {
+.image.autocomplete-image, .image.filters-image {
     height: 180px;
     align-self: center;
     border: 2px solid #d7e7f7;
