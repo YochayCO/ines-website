@@ -7,6 +7,7 @@ import { QuestionInstance } from '../../types/questions';
  * @param surveyIds Array of survey IDs to fetch
  * @returns Promise resolving to array of Survey objects (or null if not found)
  */
-export async function fetchQuestionInstances(questionId: string): Promise<QuestionInstance[]> {
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+export async function fetchQuestionInstances(_questionId: string): Promise<QuestionInstance[]> {
   return mockQuestionInstances;
 }
