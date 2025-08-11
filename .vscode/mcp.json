@@ -1,0 +1,20 @@
+{
+	"servers": {
+		"memory-engineering": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"memory-engineering-mcp"
+			]
+		},
+		"mui-mcp-server": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"@mui/mcp@latest"
+			]
+		}
+	},
+	"inputs": []
+}

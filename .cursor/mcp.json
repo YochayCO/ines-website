@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "memory-engineering-mcp": {
+      "command": "npx",
+      "args": ["memory-engineering-mcp"],
+      "env": {
+        "MONGODB_URI": "mongodb+srv://yochayco:kWwWycFLw4HRPZo5@cluster0.jpkahwv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "VOYAGE_API_KEY": "pa-p7U9phpwNC6ToNTREGyhZmw_EUmfX5I9kQZG5-9W5Gz"
+      }
+    }
+  }
+}
