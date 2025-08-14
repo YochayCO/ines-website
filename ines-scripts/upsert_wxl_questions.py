@@ -16,7 +16,7 @@ url: str = os.environ.get("SUPABASE_URL") or ""
 key: str = os.environ.get("SUPABASE_KEY") or ""
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
-question_index_file = os.path.join(scriptpath, "./question_index_new.xlsx")
+question_index_file = os.path.join(scriptpath, "raw_data", "question_index_new.xlsx")
 
 supabase: Client = create_client(url, key)
 questions: list[dict[str, str]] = []

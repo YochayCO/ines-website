@@ -273,7 +273,7 @@ def get_diff(old_text, new_text):
         elif change.startswith('+'):
             added.append(change[2:].strip())
 
-    return f"Removed:\n{"\n".join(removed)}\n\nAdded:\n{"\n".join(added)}"
+    return "Removed:\n" + "\n".join(removed) + "\n\nAdded:\n" + "\n".join(added)
 
 if __name__ == "__main__":
     questions = fetch_questions()
@@ -437,7 +437,8 @@ if __name__ == "__main__":
     df_by_change_type = df.groupby('main_change_type')
     df_by_change_type = filter(lambda item: item[0] != "", df_by_change_type)
 
-    with pd.ExcelWriter(os.path.join(scriptpath, "qi_changes3.xlsx")) as writer:
+    os.makedirs(os.path.join(scriptpath, "out_data"), exist_ok=True)
+    with pd.ExcelWriter(os.path.join(scriptpath, "out_data", "qi_changes3.xlsx")) as writer:
         # Combine all groups into a single DataFrame with a separating row between each group
         combined_df = pd.DataFrame()
         for change_type, group in df_by_change_type:

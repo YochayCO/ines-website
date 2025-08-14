@@ -22,10 +22,11 @@ if not supabase_url or not supabase_key:
     raise ValueError("SUPABASE_URL and SUPABASE_KEY must be set in the environment variables.")
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
-question_index_file = os.path.join(scriptpath, "question_index_new.xlsx")
+rootpath = os.path.abspath(os.path.join(scriptpath, ".."))
+question_index_file = os.path.join(scriptpath, "raw_data", "question_index_new.xlsx")
 
-stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/2023/06/"
-statas_folder = os.path.join(scriptpath, "..", "..", "src/assets/statas")
+stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/"
+statas_folder = os.path.join(rootpath, "playground", "statas")
 
 supabase: Client = create_client(supabase_url, supabase_key)
 questions: list[dict[str, str]] = []
@@ -235,14 +236,14 @@ def create_question_instances():
 
 def handle_mismatches():
     missing_df = pd.DataFrame(missing_from_wxl)
-    missing_df.to_csv(os.path.join(scriptpath, "missing_questions.csv"), index=False)
+    missing_df.to_csv(os.path.join(scriptpath, "out_data", "missing_questions.csv"), index=False)
 
     all_dups = find_all_duplicates(question_instances)
     hard_dups = find_duplicates_within_category(question_instances)
     
     # Save all duplicate question instances to a csv file
     dups_df = pd.DataFrame(all_dups, columns=["wxl_survey", "qid_s"])
-    dups_df.to_csv(os.path.join(scriptpath, "duplicate_questions.csv"), index=False)
+    dups_df.to_csv(os.path.join(scriptpath, "out_data", "duplicate_questions.csv"), index=False)
 
     # filter away the hard duplicates from the question instances
     non_dups_qis = [qi for qi in question_instances if (qi["wxl_survey"], qi["qid_s"], qi["category"]) not in hard_dups]
@@ -256,4 +257,4 @@ if __name__ == "__main__":
     non_dups_qis = handle_mismatches()
 
     # Save question instances to the database
-    save_question_instances(non_dups_qis)
+    # save_question_instances(non_dups_qis)

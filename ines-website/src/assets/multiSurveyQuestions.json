@@ -1,8 +1,8 @@
 [{ 
-  "id": "category:::v20",
-  "hebTitle": "גישה סוציאליסטית",
-  "category": "category", 
-  "engTitle": "Socialist attitude", 
+  "id": "כלכלה-חברה:::prefernces_economy_approach_capvssoc",
+  "hebTitle": "בקשר למבנה החיים הכלכליים בארץ, האם אתה תומך יותר בגישה הסוציאליסטית או בגישה הקפיטליסטית?",
+  "category": "כלכלה-חברה", 
+  "engTitle": "Economic attitude: Capitalism vs Socialism", 
   "type": "numeric", 
   "answers": [
     { "value": 1, "label": "Lowest" },

@@ -2,3 +2,7 @@ node_modules/
 .env
 .memory-engineering/
 *.log
+
+# playground files
+playground/statas
+__pycache__
