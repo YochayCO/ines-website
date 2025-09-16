@@ -1,5 +1,10 @@
 {
     "id": "2025",
     "sectorFieldName": "sector",
+    "weights": {
+        "all": "w_sample",
+        "jews": "w_jews",
+        "arabs": "w_arabs"
+    },
     "dataLink": "https://socsci4.tau.ac.il/mu2/ines/data/our-data/#carousel_9cf0"
 }

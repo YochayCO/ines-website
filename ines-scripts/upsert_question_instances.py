@@ -26,7 +26,7 @@ rootpath = os.path.abspath(os.path.join(scriptpath, ".."))
 question_index_file = os.path.join(scriptpath, "raw_data", "question_index_new.xlsx")
 
 stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4/"
-statas_folder = os.path.join(rootpath, "playground", "statas")
+statas_folder = os.path.join(scriptpath, "raw_data", "statas")
 
 supabase: Client = create_client(supabase_url, supabase_key)
 questions: list[dict[str, str]] = []

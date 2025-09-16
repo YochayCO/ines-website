@@ -5,14 +5,14 @@ import pyreadstat
 import requests
 
 scriptpath = os.path.dirname(os.path.abspath(__file__))
-rootpath = os.path.join(scriptpath, "..", "..")
-survey_options_filename = os.path.join(rootpath, "ines-website/src/assets/surveyOptions.json")
+website_path = os.path.join(scriptpath, "..", "ines-website")
+survey_options_filename = os.path.join(website_path, "src/assets/surveyOptions.json")
 question_index_file = os.path.join(scriptpath, "raw_data", "question_index_new.xlsx")
-question_items_folder = os.path.join(rootpath, "ines-website/public/question_items")
+question_items_folder = os.path.join(website_path, "public/question_items")
 
 stata_files_url_base = "https://socsci4.tau.ac.il/mu2/ines/wp-content/uploads/sites/4"
-statas_folder = os.path.join(rootpath, "playground/statas")
-surveys_data_folder = os.path.join(rootpath, "ines-website/public/surveys_data")
+statas_folder = os.path.join(scriptpath, "raw_data/statas")
+surveys_data_folder = os.path.join(website_path, "public/surveys_data")
 
 disabled_question_descriptions = [
     "ID", "תאריך", "תאריך פוסט בחירות", "מקום הראיון", 
