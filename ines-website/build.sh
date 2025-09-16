@@ -25,14 +25,14 @@ echo "Image saved to $TAR_FILE"
 
 git tag $VERSION
 
+# Move tar file to app-image-tars directory
+mv $TAR_FILE ./app-image-tars
+
 # Transfer the image to the server
 echo "Transferring $TAR_FILE to the server..."
-scp $TAR_FILE ${SERVER}:${REMOTE_PATH}/
+scp ./app-image-tars/$TAR_FILE ${SERVER}:${REMOTE_PATH}/
 
 echo "Done. Go to the server and run the deploy.sh script."
 
 # # Deploy the image on the server
 # ssh ${SERVER} "bash -s" < ./deploy.sh $VERSION
-
-# Clean up local tar file
-mv $TAR_FILE ./app-image-tars
